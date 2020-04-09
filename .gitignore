@@ -1,0 +1,17 @@
+.DS_Store
+.ReAuth.cfg
+.mixin.out
+__pycache__/
+*.log
+fonts/
+knownkeys.txt
+logs/
+mountains.txt
+options.txt
+saves/
+server/
+servers.dat
+usercache.json
+usernamecache.json
+
+!defaultoptions/options.txt

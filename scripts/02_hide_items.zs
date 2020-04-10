@@ -236,7 +236,9 @@ var keepMetaZero = [
     <minecraft:concrete>,
     <minecraft:concrete_powder>,
     <minecraft:planks>,
+    <minecraft:stained_glass>,
     <minecraft:stained_glass_pane>,
+    <minecraft:wool>,
     <projectred-illumination:cage_lamp>,
     <projectred-illumination:fallout_lamp>,
     <projectred-illumination:feedback_light_button>,
@@ -334,5 +336,26 @@ for pattern in hideRegexPatterns {
     var matchingItems = itemUtils.getItemsByRegexRegistryName(pattern);
     for item in matchingItems {
         JEI.hide(item);
+    }
+}
+
+# Keep only the first of those which match the pattern
+var keepFirstOfPatterns = [
+    "harvestcraft:candledeco.*",
+    "malisisdoors:curtain_.*",
+    "mcwroofs:.*_striped_awning",
+    "minecraft:.*shulker_box",
+    "minecraft:.*_glazed_terracotta",
+    "rsgauges:sensitiveglass_.*",
+] as string[];
+
+for pattern in keepFirstOfPatterns {
+    var matchingItems = itemUtils.getItemsByRegexRegistryName(pattern);
+    var isFirstItem = true;
+    for item in matchingItems {
+        if !isFirstItem {
+            JEI.hide(item);
+        }
+        isFirstItem = false;
     }
 }

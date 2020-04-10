@@ -27,6 +27,9 @@ recipes.addShapeless(
 recipes.remove(<harvestcraft:freshwateritem>);
 recipes.addShapeless(<harvestcraft:freshwateritem> * 4, [<minecraft:water_bucket>]);
 
+# Grinder -- remove as redundant with Thermal Expansion Pulverizer
+JEI.removeAndHide(<harvestcraft:grinder>);
+
 # Ground Trap -- remove as too OP
 JEI.removeAndHide(<harvestcraft:groundtrap>);
 

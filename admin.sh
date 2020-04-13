@@ -16,7 +16,7 @@ generate-structures=true
 generator-settings=
 hardcore=false
 level-name=ad-astra
-level-seed=ad-astr-1
+level-seed=ad-astra-1
 level-type=RTG
 max-build-height=256
 max-players=8
@@ -33,7 +33,7 @@ spawn-monsters=true
 spawn-npcs=true
 spawn-protection=0
 view-distance=12
-white-list=false
+white-list=true
 END
 
 read -d  USAGE <<-END

@@ -1,1 +1,235 @@
-[]
+[{
+    "remove": [
+        "minecraft:creeper",
+        "minecraft:horse",
+        "minecraft:giant",
+        "minecraft:skeleton",
+        "minecraft:skeleton_horse",
+        "minecraft:zombie",
+        "minecraft:zombie_horse",
+        "minecraft:zombie_villager"
+    ]
+}, {
+    "mobs": [{
+        "mob": "horse_colors:horse_felinoid",
+        "groupcountmin": 4,
+        "groupcountmax": 12
+    }]
+}, {
+    "mobs": [{
+        "mob": "minecraft:blaze",
+        "groupcountmin": 1,
+        "groupcountmax": 3
+    }]
+}, {
+    "mobs": [{
+        "mob": "minecraft:cave_spider",
+        "groupcountmin": 1,
+        "groupcountmax": 1
+    }]
+}, {
+    "mobs": [{
+        "mob": "minecraft:chicken",
+        "groupcountmin": 1,
+        "groupcountmax": 4
+    }]
+}, {
+    "mobs": [{
+        "mob": "minecraft:cow",
+        "groupcountmin": 4,
+        "groupcountmax": 12
+    }]
+}, {
+    "mobs": [{
+        "mob": "minecraft:donkey",
+        "groupcountmin": 1,
+        "groupcountmax": 2
+    }]
+}, {
+    "dimension": 0,
+    "mobs": [{
+        "mob": "minecraft:ender_dragon",
+        "groupcountmin": 1,
+        "groupcountmax": 1
+    }]
+}, {
+    "mobs": [{
+        "mob": "minecraft:enderman",
+        "groupcountmin": 2,
+        "groupcountmax": 4
+    }]
+}, {
+    "mobs": [{
+        "mob": "minecraft:ghast",
+        "groupcountmin": 1,
+        "groupcountmax": 1
+    }]
+}, {
+    "mobs": [{
+        "mob": "minecraft:llama",
+        "groupcountmin": 2,
+        "groupcountmax": 4
+    }]
+}, {
+    "mobs": [{
+        "mob": "minecraft:magma_cube",
+        "groupcountmin": 1,
+        "groupcountmax": 4
+    }]
+}, {
+    "mobs": [{
+        "mob": "minecraft:mooshroom",
+        "groupcountmin": 4,
+        "groupcountmax": 12
+    }]
+}, {
+    "mobs": [{
+        "mob": "minecraft:mule",
+        "groupcountmin": 2,
+        "groupcountmax": 4
+    }]
+}, {
+    "mobs": [{
+        "mob": "minecraft:ocelot",
+        "groupcountmin": 1,
+        "groupcountmax": 2
+    }]
+}, {
+    "mobs": [{
+        "mob": "minecraft:parrot",
+        "groupcountmin": 1,
+        "groupcountmax": 3
+    }]
+}, {
+    "mobs": [{
+        "mob": "minecraft:pig",
+        "groupcountmin": 2,
+        "groupcountmax": 6
+    }]
+}, {
+    "mobs": [{
+        "mob": "minecraft:polar_bear",
+        "groupcountmin": 1,
+        "groupcountmax": 2
+    }]
+}, {
+    "mobs": [{
+        "mob": "minecraft:rabbit",
+        "groupcountmin": 1,
+        "groupcountmax": 6
+    }]
+}, {
+    "mobs": [{
+        "mob": "minecraft:sheep",
+        "groupcountmin": 4,
+        "groupcountmax": 12
+    }]
+}, {
+    "mobs": [{
+        "mob": "minecraft:slime",
+        "groupcountmin": 1,
+        "groupcountmax": 3
+    }]
+}, {
+    "mobs": [{
+        "mob": "minecraft:snowman",
+        "groupcountmin": 1,
+        "groupcountmax": 1
+    }]
+}, {
+    "mobs": [{
+        "mob": "minecraft:spider",
+        "groupcountmin": 1,
+        "groupcountmax": 1
+    }]
+}, {
+    "mobs": [{
+        "mob": "minecraft:squid",
+        "groupcountmin": 3,
+        "groupcountmax": 7
+    }]
+}, {
+    "mobs": [{
+        "mob": "minecraft:villager_golem",
+        "groupcountmin": 1,
+        "groupcountmax": 1
+    }]
+}, {
+    "mobs": [{
+        "mob": "minecraft:witch",
+        "groupcountmin": 1,
+        "groupcountmax": 1
+    }]
+}, {
+    "mobs": [{
+        "mob": "minecraft:wither_skeleton",
+        "groupcountmin": 1,
+        "groupcountmax": 3
+    }]
+}, {
+    "mobs": [{
+        "mob": "minecraft:wolf",
+        "groupcountmin": 1,
+        "groupcountmax": 4
+    }]
+}, {
+    "mobs": [{
+        "mob": "minecraft:zombie_pigman",
+        "groupcountmin": 3,
+        "groupcountmax": 6
+    }]
+}, {
+    "mobs": [{
+        "mob": "mowziesmobs:baby_foliaath",
+        "groupcountmin": 1,
+        "groupcountmax": 1
+    }]
+}, {
+    "mobs": [{
+        "mob": "mowziesmobs:foliaath",
+        "groupcountmin": 1,
+        "groupcountmax": 1
+    }]
+}, {
+    "mobs": [{
+        "mob": "mowziesmobs:frostmaw",
+        "groupcountmin": 1,
+        "groupcountmax": 1
+    }]
+}, {
+    "mobs": [{
+        "mob": "mowziesmobs:grottol",
+        "groupcountmin": 1,
+        "groupcountmax": 3
+    }]
+}, {
+    "mobs": [{
+        "mob": "mowziesmobs:lantern",
+        "groupcountmin": 1,
+        "groupcountmax": 3
+    }]
+}, {
+    "mobs": [{
+        "mob": "mowziesmobs:naga",
+        "groupcountmin": 2,
+        "groupcountmax": 4
+    }]
+}, {
+    "mobs": [{
+        "mob": "thermalfoundation:basalz",
+        "groupcountmin": 1,
+        "groupcountmax": 3
+    }]
+}, {
+    "mobs": [{
+        "mob": "thermalfoundation:blitz",
+        "groupcountmin": 1,
+        "groupcountmax": 3
+    }]
+}, {
+    "mobs": [{
+        "mob": "thermalfoundation:blizz",
+        "groupcountmin": 1,
+        "groupcountmax": 3
+    }]
+}]

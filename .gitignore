@@ -1,16 +1,24 @@
+*.dylib
+*.log
+*.swp
 .DS_Store
 .ReAuth.cfg
 .mixin.out
 __pycache__/
-*.log
+crash-reports/
 fonts/
+installers
 knownkeys.txt
+llibrary/
 logs/
 mountains.txt
 options.txt
+photo-frame-cache/
 saves/
+screenshots/
 server/
 servers.dat
+tv-cache/
 usercache.json
 usernamecache.json
 

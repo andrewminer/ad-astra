@@ -1,72 +1,693 @@
-[
-    { "passive": true, "result": "default" },
-    { "dimension": -1, "result": "default" },
-    { "dimension": 1, "result": "default" },
-    { "dimension": 7, "result": "default" },
-    { "biome": 70, "result": "default" },
-
-    { "mob": "creeper", "maxlight": 7, "mintime": 13000, "weather": "thunder", "random": 0.5, "result": "allow" },
-    { "mob": "enderman", "weather": "rain", "weather": "thunder", "result": "deny" },
-    { "mob": "enderman", "dim": 0, "isnotcolliding": true, "maxlight": 10, "random": 0.05, "result": "allow" },
-    {
-        "mob": "spider",
-
-        "biometype": "FOREST",
-        "dimension": 0,
-        "isnotcolliding": true,
-        "maxlight": 4,
-        "mintime": 12000,
-        "random": 0.1,
-
-        "result": "allow"
+[{
+    "spawner": true,
+    "result": "default"
+}, {
+    "mob": "horse_colors:horse_felinoid",
+    "biome": ["Plains", "Savanna"],
+    "maxcount": {
+        "amount": 24,
+        "perplayer": true
     },
-    {
-        "mob": "slime",
-
-        "biometype": "SWAMP",
-        "block": "ore:grass",
-        "isnotcolliding": true,
-        "seesky": true,
-        "random": 0.1,
-
-        "result": "allow"
+    "mintime": 0,
+    "maxtime": 12000,
+    "result": "allow"
+}, {
+    "mob": "horse_colors:horse_felinoid",
+    "result": "deny"
+}, {
+    "mob": "minecraft:blaze",
+    "biome": ["Desert", "DesertHills"],
+    "maxcount": {
+        "amount": 16,
+        "perplayer": true
     },
-    {
-        "mob": "slime",
-
-        "biometype": "SWAMP",
-        "block": "ore:grass",
-        "isnotcolliding": true,
-        "weather": "rain",
-        "weather": "thunder",
-        "seesky": true,
-        "random": 0.3,
-
-        "result": "allow"
+    "seesky": false,
+    "maxlight": 0,
+    "result": "allow"
+}, {
+    "mob": "minecraft:blaze",
+    "biome": ["Desert", "DesertHills"],
+    "maxcount": {
+        "amount": 8,
+        "perplayer": true
     },
-    { "mob": "witch", "isnotcolliding": true, "structure": "temple", "result": "allow" },
-    { "mob": "witch", "result": "deny" },
-    {
-        "mob": "zombie_villager",
-        "armorhelmet": "minecraft:leather_helmet",
-
-        "biome": "Wasteland",
-        "isnotcolliding": true,
-        "minlight": 0,
-        "maxlight": 15,
-
-        "result": "allow"
+    "seesky": true,
+    "weather": "thunder",
+    "result": "allow"
+}, {
+    "mob": "minecraft:blaze",
+    "biome": "Hell",
+    "maxcount": {
+        "amount": 8,
+        "perplayer": true
     },
-    {
-        "hostile": true,
-
-        "block": "ore:stone",
-        "dimension": 0,
-        "isnotcolliding": true,
-        "maxlight": 0,
-        "seesky": false,
-
-        "result": "allow"
+    "structure": "Fortress",
+    "result": "allow"
+}, {
+    "mob": "minecraft:blaze",
+    "biome": ["Hell"],
+    "maxcount": {
+        "amount": 4,
+        "perplayer": true
     },
-    { "result": "deny" }
-]
+    "maxheight": 40,
+    "result": "allow"
+}, {
+    "mob": "minecraft:blaze",
+    "result": "deny"
+}, {
+    "mob": "minecraft:cave_spider",
+    "maxcount": {
+        "amount": 3,
+        "perplayer": true
+    },
+    "block": "minecraft:stone",
+    "seesky": false,
+    "maxlight": 0,
+    "result": "allow"
+}, {
+    "mob": "minecraft:cave_spider",
+    "result": "deny"
+}, {
+    "mob": "minecraft:chicken",
+    "biome": ["Forest", "ForestHills", "Birch Forest", "Birch Forest Hills"],
+    "maxcount": {
+        "amount": 36,
+        "perplayer": true
+    },
+    "mintime": 0,
+    "maxtime": 12000,
+    "result": "allow"
+}, {
+    "mob": "minecraft:chicken",
+    "result": "deny"
+}, {
+    "mob": "minecraft:cow",
+    "biome": ["Plains", "Savanna"],
+    "maxcount": {
+        "amount": 24,
+        "perplayer": true
+    },
+    "mintime": 0,
+    "maxtime": 12000,
+    "result": "allow"
+}, {
+    "mob": "minecraft:cow",
+    "result": "deny"
+}, {
+    "mob": "minecraft:creeper",
+    "biome": ["Jungle", "JungleHills"],
+    "maxcount": {
+        "amount": 2,
+        "perplayer": true
+    },
+    "seesky": false,
+    "structure": "Temple",
+    "result": "allow"
+}, {
+    "mob": "minecraft:creeper",
+    "result": "deny"
+}, {
+    "mob": "minecraft:donkey",
+    "maxcount": {
+        "amount": 2,
+        "perplayer": true
+    },
+    "structure": "Village",
+    "result": "allow"
+}, {
+    "mob": "minecraft:donkey",
+    "result": "deny"
+}, {
+    "mob": "minecraft:ender_dragon",
+    "biome": "The End",
+    "maxcount": {
+        "amount": 1
+    },
+    "random": 0.01,
+    "result": "allow"
+}, {
+    "mob": "minecraft:ender_dragon",
+    "result": "deny"
+}, {
+    "mob": "minecraft:enderman",
+    "dimension": -1,
+    "result": "deny"
+}, {
+    "mob": "minecraft:enderman",
+    "maxcount": {
+        "amount": 4,
+        "perplayer": true
+    },
+    "maxlight": 4,
+    "mintime": 16000,
+    "maxtime": 20000,
+    "result": "allow"
+}, {
+    "mob": "minecraft:enderman",
+    "dimension": 1,
+    "maxcount": {
+        "amount": 80,
+        "perplayer": true
+    },
+    "result": "allow"
+}, {
+    "mob": "minecraft:enderman",
+    "result": "deny"
+}, {
+    "mob": "minecraft:ghast",
+    "biome": "Hell",
+    "maxcount": {
+        "amount": 2,
+        "perplayer": true
+    },
+    "result": "allow"
+}, {
+    "mob": "minecraft:ghast",
+    "result": "deny"
+}, {
+    "mob": "minecraft:llama",
+    "biome": ["Extreme Hills", "Extreme Hills+", "Ocean Spires", "Stone Beach"],
+    "maxcount": {
+        "amount": 12,
+        "perplayer": true
+    },
+    "maxheight": 110,
+    "mintime": 0,
+    "maxtime": 12000,
+    "result": "allow"
+}, {
+    "mob": "minecraft:llama",
+    "result": "deny"
+}, {
+    "mob": "minecraft:magma_cube",
+    "structure": "Fortress",
+    "result": "deny"
+}, {
+    "mob": "minecraft:magma_cube",
+    "dimension": 0,
+    "maxcount": {
+        "amount": 3,
+        "perplayer": true
+    },
+    "block": "minecraft:lava",
+    "maxheight": 24,
+    "result": "allow"
+}, {
+    "mob": "minecraft:magma_cube",
+    "biome": "Hell",
+    "maxcount": {
+        "amount": 8,
+        "perplayer": true
+    },
+    "maxheight": 48,
+    "result": "allow"
+}, {
+    "mob": "minecraft:magma_cube",
+    "result": "deny"
+}, {
+    "mob": "minecraft:mooshroom",
+    "biome": ["MushroomIsland", "MushroomIslandShore", "Roofed Forest"],
+    "maxcount": {
+        "amount": 12,
+        "perplayer": true
+    },
+    "mintime": 0,
+    "maxtime": 12000,
+    "result": "allow"
+}, {
+    "mob": "minecraft:mooshroom",
+    "result": "deny"
+}, {
+    "mob": "minecraft:mule",
+    "biome": ["Extreme Hills+"],
+    "maxcount": {
+        "amount": 8,
+        "perplayer": true
+    },
+    "mintime": 0,
+    "maxtime": 12000,
+    "result": "default"
+}, {
+    "mob": "minecraft:mule",
+    "result": "deny"
+}, {
+    "mob": "minecraft:ocelot",
+    "biome": ["Jungle", "JungleHills"],
+    "maxcount": {
+        "amount": 2,
+        "perplayer": true
+    },
+    "mintime": 0,
+    "maxtime": 1000,
+    "result": "default"
+}, {
+    "mob": "minecraft:ocelot",
+    "biome": ["Jungle", "JungleHills"],
+    "maxcount": {
+        "amount": 2,
+        "perplayer": true
+    },
+    "mintime": 11000,
+    "maxtime": 13000,
+    "result": "default"
+}, {
+    "mob": "minecraft:ocelot",
+    "biome": ["Jungle", "JungleHills"],
+    "maxcount": {
+        "amount": 2,
+        "perplayer": true
+    },
+    "maxtime": 23000,
+    "result": "default"
+}, {
+    "mob": "minecraft:ocelot",
+    "result": "deny"
+}, {
+    "mob": "minecraft:parrot",
+    "biome": ["Jungle", "JungleEdge", "JungleHills"],
+    "maxcount": {
+        "amount": 24,
+        "perplayer": true
+    },
+    "mintime": 0,
+    "maxtime": 12000,
+    "result": "allow"
+}, {
+    "mob": "minecraft:parrot",
+    "result": "deny"
+}, {
+    "mob": "minecraft:pig",
+    "biome": ["DeepSwamp", "Marsh", "Swampland"],
+    "maxcount": {
+        "amount": 24,
+        "perplayer": true
+    },
+    "mintime": 1000,
+    "maxtime": 13000,
+    "result": "allow"
+}, {
+    "mob": "minecraft:pig",
+    "result": "deny"
+}, {
+    "mob": "minecraft:polar_bear",
+    "biome": ["CrystalChasms", "Ice Plains", "Ice Plains Spikes"],
+    "maxcount": {
+        "amount": 2,
+        "perplayer": true
+    },
+    "result": "allow"
+}, {
+    "mob": "minecraft:polar_bear",
+    "result": "deny"
+}, {
+    "mob": "minecraft:rabbit",
+    "biome": ["Beach", "Desert", "Forest", "Birch Forest", "Plains", "River", "Savanna", "Savanna Plateau"],
+    "maxcount": {
+        "amount": 36,
+        "perplayer": true
+    },
+    "maxtime": 1000,
+    "result": "allow"
+}, {
+    "mob": "minecraft:rabbit",
+    "biome": ["Beach", "Desert", "Forest", "Birch Forest", "Plains", "River", "Savanna", "Savanna Plateau"],
+    "maxcount": {
+        "amount": 36,
+        "perchunk": true
+    },
+    "mintime": 11000,
+    "maxtime": 13000,
+    "result": "allow"
+}, {
+    "mob": "minecraft:rabbit",
+    "biome": ["Beach", "Desert", "Forest", "Birch Forest", "Plains", "River", "Savanna", "Savanna Plateau"],
+    "maxcount": {
+        "amount": 36,
+        "perchunk": true
+    },
+    "mintime": 23000,
+    "result": "allow"
+}, {
+    "mob": "minecraft:rabbit",
+    "result": "deny"
+}, {
+    "mob": "minecraft:sheep",
+    "biome": ["Cold Taiga", "Cold Taiga Hills", "Mega Taiga", "Mega Taiga Hills", "Taiga", "TaigaHills"],
+    "maxcount": {
+        "amount": 24,
+        "perplayer": true
+    },
+    "mintime": 0,
+    "maxtime": 12000,
+    "result": "allow"
+}, {
+    "mob": "minecraft:sheep",
+    "result": "deny"
+}, {
+    "mob": "minecraft:slime",
+    "biome": ["DeepSwamp", "Marsh", "Swampland"],
+    "maxcount": {
+        "amount": 15,
+        "perplayer": true
+    },
+    "weather": "rain",
+    "result": "allow"
+}, {
+    "mob": "minecraft:slime",
+    "biome": ["DeepSwamp", "Marsh", "Swampland"],
+    "maxcount": {
+        "amount": 6,
+        "perplayer": true
+    },
+    "mintime": 11000,
+    "result": "allow"
+}, {
+    "mob": "minecraft:slime",
+    "biome": ["DeepSwamp", "Marsh", "Swampland"],
+    "maxcount": {
+        "amount": 6,
+        "perplayer": true
+    },
+    "maxtime": 1000,
+    "result": "allow"
+}, {
+    "mob": "minecraft:slime",
+    "result": "deny"
+}, {
+    "mob": "minecraft:snowman",
+    "biome": ["Cold Taiga", "Cold Taiga Hills", "CrystalChasms", "Ice Plains", "Ice Plains Spikes"],
+    "maxcount": {
+        "amount": 1,
+        "perplayer": true
+    },
+    "structure": "Village",
+    "result": "allow"
+}, {
+    "mob": "minecraft:snowman",
+    "result": "deny"
+}, {
+    "mob": "minecraft:spider",
+    "biome": ["Roofed Forest"],
+    "maxcount": {
+        "amount": 2,
+        "perplayer": true
+    },
+    "maxlight": 0,
+    "mintime": 13000,
+    "maxtime": 23000,
+    "seesky": false,
+    "result": "allow"
+}, {
+    "mob": "minecraft:spider",
+    "result": "deny"
+}, {
+    "mob": "minecraft:squid",
+    "biome": ["Deep Ocean", "Ocean"],
+    "maxcount": {
+        "amount": 10,
+        "perplayer": true
+    },
+    "result": "allow"
+}, {
+    "mob": "minecraft:squid",
+    "result": "deny"
+}, {
+    "mob": "minecraft:villager_golem",
+    "maxcount": {
+        "amount": 1,
+        "perplayer": true
+    },
+    "structure": "Village",
+    "random": 0.1,
+    "result": "allow"
+}, {
+    "mob": "minecraft:villager_golem",
+    "biome": ["Extreme Hills", "Extreme Hills+"],
+    "maxcount": {
+        "amount": 2,
+        "perplayer": true
+    },
+    "block": "minecraft:stone",
+    "isnotcolliding": true,
+    "seesky": false,
+    "result": "allow"
+}, {
+    "mob": "minecraft:villager_golem",
+    "result": "deny"
+}, {
+    "mob": "minecraft:witch",
+    "biome": ["Swampland"],
+    "maxcount": {
+        "amount": 1,
+        "perplayer": true
+    },
+    "structure": "Temple",
+    "result": "allow"
+}, {
+    "mob": "minecraft:witch",
+    "result": "deny"
+}, {
+    "mob": "minecraft:wither_skeleton",
+    "maxcount": {
+        "amount": 12,
+        "perplayer": true
+    },
+    "structure": "Fortress",
+    "result": "allow"
+}, {
+    "mob": "minecraft:wither_skeleton",
+    "result": "deny"
+}, {
+    "mob": "minecraft:wolf",
+    "biome": ["Cold Taiga", "Cold Taiga Hills", "Mega Taiga", "Mega Taiga Hills", "Taiga", "TaigaHills"],
+    "maxcount": {
+        "amount": 4,
+        "perplayer": true
+    },
+    "mintime": 11000,
+    "result": "allow"
+}, {
+    "mob": "minecraft:wolf",
+    "biome": ["Cold Taiga", "Cold Taiga Hills", "Mega Taiga", "Mega Taiga Hills", "Taiga", "TaigaHills"],
+    "maxcount": {
+        "amount": 4,
+        "perplayer": true
+    },
+    "maxtime": 1000,
+    "result": "allow"
+}, {
+    "mob": "minecraft:wolf",
+    "result": "deny"
+}, {
+    "mob": "minecraft:zombie_pigman",
+    "structure": "Fortress",
+    "result": "deny"
+}, {
+    "mob": "minecraft:zombie_pigman",
+    "biome": "Hell",
+    "maxcount": {
+        "amount": 64,
+        "perplayer": true
+    },
+    "result": "allow"
+}, {
+    "mob": "minecraft:zombie_pigman",
+    "result": "deny"
+}, {
+    "mob": "mowziesmobs:baby_foliaath",
+    "biome": ["Jungle", "JungleHills"],
+    "maxcount": {
+        "amount": 4,
+        "perplayer": true
+    },
+    "result": "allow"
+}, {
+    "mob": "mowziesmobs:baby_foliaath",
+    "result": "deny"
+}, {
+    "mob": "mowziesmobs:foliaath",
+    "biome": ["Jungle", "JungleHills"],
+    "maxcount": {
+        "amount": 2,
+        "perplayer": true
+    },
+    "result": "allow"
+}, {
+    "mob": "mowziesmobs:foliaath",
+    "result": "deny"
+}, {
+    "mob": "mowziesmobs:frostmaw",
+    "biome": ["Ice Plains Spikes"],
+    "maxcount": {
+        "amount": 1,
+        "perplayer": true
+    },
+    "seesky": true,
+    "mintime": 12000,
+    "result": "allow"
+}, {
+    "mob": "mowziesmobs:frostmaw",
+    "biome": ["CrystalChasms", "Ice Plains", "Ice Plains Spikes", "Ice Mountains"],
+    "maxcount": {
+        "amount": 1,
+        "perplayer": true
+    },
+    "seesky": false,
+    "result": "allow"
+}, {
+    "mob": "mowziesmobs:frostmaw",
+    "biome": ["CrystalChasms", "Ice Plains", "Ice Plains Spikes", "Ice Mountains"],
+    "maxcount": {
+        "amount": 1,
+        "perplayer": true
+    },
+    "mintime": 12000,
+    "seesky": true,
+    "weather": "rain",
+    "result": "allow"
+}, {
+    "mob": "mowziesmobs:frostmaw",
+    "result": "deny"
+}, {
+    "mob": "mowziesmobs:grottol",
+    "biome": ["DeepSwamp", "Marsh", "Swampland"],
+    "maxcount": {
+        "amount": 16,
+        "perplayer": true
+    },
+    "maxheight": 16,
+    "result": "allow"
+}, {
+    "mob": "mowziesmobs:grottol",
+    "result": "deny"
+}, {
+    "mob": "mowziesmobs:lantern",
+    "biome": ["Roofed Forest"],
+    "maxcount": {
+        "amount": 24,
+        "perplayer": true
+    },
+    "mintime": 14000,
+    "maxtime": 22000,
+    "seesky": false,
+    "result": "allow"
+}, {
+    "mob": "mowziesmobs:lantern",
+    "result": "deny"
+}, {
+    "mob": "mowziesmobs:naga",
+    "biome": ["Extreme Hills", "Extreme Hills+"],
+    "maxcount": {
+        "amount": 4,
+        "perplayer": true
+    },
+    "minheight": 110,
+    "result": "allow"
+}, {
+    "mob": "mowziesmobs:naga",
+    "result": "deny"
+}, {
+    "mob": "thermalfoundation:basalz",
+    "biome": ["Extreme Hills", "Extreme Hills+"],
+    "maxcount": {
+        "amount": 8,
+        "perplayer": true
+    },
+    "seesky": false,
+    "maxlight": 0,
+    "result": "allow"
+}, {
+    "mob": "thermalfoundation:basalz",
+    "biome": ["Extreme Hills", "Extreme Hills+"],
+    "maxcount": {
+        "amount": 8,
+        "perplayer": true
+    },
+    "seesky": true,
+    "weather": "thunder",
+    "result": "allow"
+}, {
+    "mob": "thermalfoundation:basalz",
+    "biome": ["Moon", "MoonDark"],
+    "maxcount": {
+        "amount": 12,
+        "perplayer": true
+    },
+    "seesky": false,
+    "maxlight": 0,
+    "result": "allow"
+}, {
+    "mob": "thermalfoundation:basalz",
+    "result": "deny"
+}, {
+    "mob": "thermalfoundation:blitz",
+    "biome": ["Plains", "Savanna", "Savanna Plateau"],
+    "maxcount": {
+        "amount": 8,
+        "perplayer": true
+    },
+    "seesky": false,
+    "maxlight": 0,
+    "result": "allow"
+}, {
+    "mob": "thermalfoundation:blitz",
+    "biome": ["Plains", "Savanna", "Savanna Plateau"],
+    "maxcount": {
+        "amount": 8,
+        "perplayer": true
+    },
+    "seesky": true,
+    "weather": "thunder",
+    "result": "allow"
+}, {
+    "mob": "thermalfoundation:blitz",
+    "result": "deny"
+}, {
+    "mob": "thermalfoundation:blizz",
+    "biome": ["Ice Plains Spikes"],
+    "maxcount": {
+        "amount": 16,
+        "perplayer": true
+    },
+    "seesky": true,
+    "mintime": 12000,
+    "result": "allow"
+}, {
+    "mob": "thermalfoundation:blizz",
+    "biome": ["Crystal Chasms", "Ice Mountains", "Ice Plains", "Ice Plains Spikes"],
+    "maxcount": {
+        "amount": 8,
+        "perplayer": true
+    },
+    "seesky": false,
+    "maxlight": 0,
+    "result": "allow"
+}, {
+    "mob": "thermalfoundation:blizz",
+    "biome": ["Crystal Chasms", "Ice Mountains", "Ice Plains", "Ice Plains Spikes"],
+    "maxcount": {
+        "amount": 8,
+        "perplayer": true
+    },
+    "seesky": true,
+    "weather": "thunder",
+    "result": "allow"
+}, {
+    "mob": "thermalfoundation:blizz",
+    "result": "deny"
+}, {
+    "mob": [
+        "minecraft:giant",
+        "minecraft:husk",
+        "minecraft:skeleton",
+        "minecraft:skeleton_horse",
+        "minecraft:stray",
+        "minecraft:zombie",
+        "minecraft:zombie_horse",
+        "minecraft:zombie_villager"
+    ],
+    "result": "deny"
+}, {
+    "result": "default"
+}]

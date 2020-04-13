@@ -12,6 +12,13 @@ for i in ids {
     JEI.removeAndHide(<davincisvessels:balloon>.definition.makeStack(i));
 }
 
+# Fist Full of Hay
+JEI.removeAndHide(<fistful_of_hay:logo>);
+
+# Mowzie's Mobs
+JEI.removeAndHide(<mowziesmobs:mob_remover>);
+JEI.removeAndHide(<mowziesmobs:test_structure>);
+
 # Refined Storage -- Silicon -- remove in preference for Advanced Rocketry's Silicon
 JEI.removeAndHide(<refinedstorage:silicon>);
 

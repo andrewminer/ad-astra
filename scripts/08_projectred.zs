@@ -1,3 +1,4 @@
+import mods.thermalexpansion.InductionSmelter;
 import mods.jei.JEI;
 
 
@@ -31,3 +32,12 @@ recipes.addShaped(<projectred-core:resource_item:311>, [
     [<ore:dustGlowstone>, <advancedrocketry:wafer>, <ore:dustGlowstone>],
     [<ore:dustGlowstone>, <ore:dustGlowstone>, <ore:dustGlowstone>],
 ]);
+
+# Circuit Plate -- replace with more integrated recipe
+recipes.remove(<projectred-core:resource_item:0>);
+InductionSmelter.addRecipe(
+    <projectred-core:resource_item:0> * 8,
+    <minecraft:stone:0>,
+    <railcraft:ingot:8>,
+    4000
+);

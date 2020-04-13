@@ -1,3 +1,7 @@
+import mods.jei.JEI;
+
+########################################################################################################################
+
 # Biome Analyzer -- add missing recipe
 recipes.addShaped(<infoaccessories:info_accessory:6>, [
     [null, <ore:ingotCopper>, null],
@@ -39,3 +43,9 @@ recipes.addShaped(<infoaccessories:info_accessory:0>, [
     [<ore:ingotTin>, <ore:dustRedstone>, <ore:ingotTin>],
     [null, <ore:ingotTin>, null]
 ]);
+
+# Remote incomplete / WIP items
+JEI.removeAndHide(<infoaccessories:info_accessory:3>);
+JEI.removeAndHide(<infoaccessories:info_accessory:7>);
+JEI.removeAndHide(<infoaccessories:info_accessory:8>);
+JEI.removeAndHide(<infoaccessories:info_accessory:9>);

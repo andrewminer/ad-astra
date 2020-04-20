@@ -345,7 +345,6 @@ var hideWoodVariantNames = [
     ["mcwwindows:", "_planks_window2_2tall"],
     ["mcwwindows:", "_window"],
     ["mcwwindows:", "_window2"],
-    ["minecraft:", "_boat"],
     ["minecraft:", "_door"],
     ["minecraft:", "_fence"],
 ] as string[][];

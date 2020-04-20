@@ -2,7 +2,7 @@
     "enabled": true,
     "priority": 100,
     "populate": {
-        "worldlogic-bedrock-76a6702bd965c257093902cdf5468863": {
+        "worldlogic-bedrock-ef25080f023fb6439c341dbea72f7da1": {
             "chunk-chance": 1,
             "cluster-count": 1,
             "biome": {
@@ -47,7 +47,7 @@
             "min-height": 0,
             "max-height": 5
         },
-        "ore_fluid-surface-76a6702bd965c257093902cdf5468863": {
+        "ore_fluid-surface-ef25080f023fb6439c341dbea72f7da1": {
             "chunk-chance": 5,
             "cluster-count": 1,
             "biome": {
@@ -93,7 +93,7 @@
             "spread": 16,
             "smoothness": 2
         },
-        "fluid_crude_oil-stone-lake-below_ground-76a6702bd965c257093902cdf5468863": {
+        "fluid_crude_oil-stone-lake-below_ground-ef25080f023fb6439c341dbea72f7da1": {
             "chunk-chance": 4,
             "cluster-count": 4,
             "biome": {
@@ -129,7 +129,7 @@
             "min-height": 0,
             "max-height": 64
         },
-        "stone_andesite-any-c2dd8b27f14bd99fb8500c09e0fc5d40": {
+        "stone_andesite-any-5ef93be4a7ef7054d6330a7567fbc7f5": {
             "chunk-chance": 1,
             "cluster-count": 96,
             "biome": {
@@ -170,7 +170,7 @@
             "min-height": 0,
             "max-height": 256
         },
-        "ore_metal_etc-deep_up_step0-any-c2dd8b27f14bd99fb8500c09e0fc5d40": {
+        "ore_metal_etc-deep_up_step0-any-5ef93be4a7ef7054d6330a7567fbc7f5": {
             "chunk-chance": 1,
             "cluster-count": 5,
             "biome": {
@@ -226,7 +226,7 @@
             "min-height": 8,
             "max-height": 16
         },
-        "ore_metal_etc-deep_up_step1-any-c2dd8b27f14bd99fb8500c09e0fc5d40": {
+        "ore_metal_etc-deep_up_step1-any-5ef93be4a7ef7054d6330a7567fbc7f5": {
             "chunk-chance": 1,
             "cluster-count": 6,
             "biome": {
@@ -282,7 +282,7 @@
             "min-height": 11,
             "max-height": 19
         },
-        "ore_metal_etc-deep_up_step2-any-c2dd8b27f14bd99fb8500c09e0fc5d40": {
+        "ore_metal_etc-deep_up_step2-any-5ef93be4a7ef7054d6330a7567fbc7f5": {
             "chunk-chance": 1,
             "cluster-count": 6,
             "biome": {
@@ -338,7 +338,7 @@
             "min-height": 14,
             "max-height": 22
         },
-        "ore_metal_etc-deep_up_step3-any-c2dd8b27f14bd99fb8500c09e0fc5d40": {
+        "ore_metal_etc-deep_up_step3-any-5ef93be4a7ef7054d6330a7567fbc7f5": {
             "chunk-chance": 1,
             "cluster-count": 6,
             "biome": {
@@ -394,7 +394,7 @@
             "min-height": 18,
             "max-height": 26
         },
-        "ore_metal_etc-deep_up_step4-any-c2dd8b27f14bd99fb8500c09e0fc5d40": {
+        "ore_metal_etc-deep_up_step4-any-5ef93be4a7ef7054d6330a7567fbc7f5": {
             "chunk-chance": 1,
             "cluster-count": 6,
             "biome": {
@@ -450,7 +450,7 @@
             "min-height": 21,
             "max-height": 29
         },
-        "ore_metal_etc-deep_up_step5-any-c2dd8b27f14bd99fb8500c09e0fc5d40": {
+        "ore_metal_etc-deep_up_step5-any-5ef93be4a7ef7054d6330a7567fbc7f5": {
             "chunk-chance": 1,
             "cluster-count": 8,
             "biome": {
@@ -506,7 +506,7 @@
             "min-height": 24,
             "max-height": 32
         },
-        "ore_metal_etc-deep_up_step6-any-c2dd8b27f14bd99fb8500c09e0fc5d40": {
+        "ore_metal_etc-deep_up_step6-any-5ef93be4a7ef7054d6330a7567fbc7f5": {
             "chunk-chance": 1,
             "cluster-count": 7,
             "biome": {
@@ -562,7 +562,7 @@
             "min-height": 27,
             "max-height": 35
         },
-        "ore_metal_etc-deep_up_step7-any-c2dd8b27f14bd99fb8500c09e0fc5d40": {
+        "ore_metal_etc-deep_up_step7-any-5ef93be4a7ef7054d6330a7567fbc7f5": {
             "chunk-chance": 1,
             "cluster-count": 9,
             "biome": {
@@ -618,7 +618,7 @@
             "min-height": 30,
             "max-height": 38
         },
-        "ore_metal_etc-deep_up_step8-any-c2dd8b27f14bd99fb8500c09e0fc5d40": {
+        "ore_metal_etc-deep_up_step8-any-5ef93be4a7ef7054d6330a7567fbc7f5": {
             "chunk-chance": 1,
             "cluster-count": 12,
             "biome": {
@@ -674,7 +674,7 @@
             "min-height": 34,
             "max-height": 42
         },
-        "ore_metal_etc-deep_up_step9-any-c2dd8b27f14bd99fb8500c09e0fc5d40": {
+        "ore_metal_etc-deep_up_step9-any-5ef93be4a7ef7054d6330a7567fbc7f5": {
             "chunk-chance": 1,
             "cluster-count": 12,
             "biome": {
@@ -730,7 +730,7 @@
             "min-height": 37,
             "max-height": 45
         },
-        "ore_metal_etc-deep_up_step10-any-c2dd8b27f14bd99fb8500c09e0fc5d40": {
+        "ore_metal_etc-deep_up_step10-any-5ef93be4a7ef7054d6330a7567fbc7f5": {
             "chunk-chance": 1,
             "cluster-count": 20,
             "biome": {
@@ -786,7 +786,7 @@
             "min-height": 40,
             "max-height": 48
         },
-        "ore_metal_poor_etc-surface_down_step0-any-c2dd8b27f14bd99fb8500c09e0fc5d40": {
+        "ore_metal_poor_etc-surface_down_step0-any-5ef93be4a7ef7054d6330a7567fbc7f5": {
             "chunk-chance": 1,
             "cluster-count": 10,
             "biome": {
@@ -841,7 +841,7 @@
             "min-height": 72,
             "max-height": 80
         },
-        "ore_metal_poor_etc-surface_down_step1-any-c2dd8b27f14bd99fb8500c09e0fc5d40": {
+        "ore_metal_poor_etc-surface_down_step1-any-5ef93be4a7ef7054d6330a7567fbc7f5": {
             "chunk-chance": 1,
             "cluster-count": 10,
             "biome": {
@@ -896,7 +896,7 @@
             "min-height": 69,
             "max-height": 77
         },
-        "ore_metal_poor_etc-surface_down_step2-any-c2dd8b27f14bd99fb8500c09e0fc5d40": {
+        "ore_metal_poor_etc-surface_down_step2-any-5ef93be4a7ef7054d6330a7567fbc7f5": {
             "chunk-chance": 1,
             "cluster-count": 8,
             "biome": {
@@ -951,7 +951,7 @@
             "min-height": 66,
             "max-height": 74
         },
-        "ore_metal_poor_etc-surface_down_step3-any-c2dd8b27f14bd99fb8500c09e0fc5d40": {
+        "ore_metal_poor_etc-surface_down_step3-any-5ef93be4a7ef7054d6330a7567fbc7f5": {
             "chunk-chance": 1,
             "cluster-count": 8,
             "biome": {
@@ -1006,7 +1006,7 @@
             "min-height": 62,
             "max-height": 70
         },
-        "ore_metal_poor_etc-surface_down_step4-any-c2dd8b27f14bd99fb8500c09e0fc5d40": {
+        "ore_metal_poor_etc-surface_down_step4-any-5ef93be4a7ef7054d6330a7567fbc7f5": {
             "chunk-chance": 1,
             "cluster-count": 7,
             "biome": {
@@ -1061,7 +1061,7 @@
             "min-height": 59,
             "max-height": 67
         },
-        "ore_metal_poor_etc-surface_down_step5-any-c2dd8b27f14bd99fb8500c09e0fc5d40": {
+        "ore_metal_poor_etc-surface_down_step5-any-5ef93be4a7ef7054d6330a7567fbc7f5": {
             "chunk-chance": 1,
             "cluster-count": 6,
             "biome": {
@@ -1116,7 +1116,7 @@
             "min-height": 56,
             "max-height": 64
         },
-        "ore_metal_poor_etc-surface_down_step6-any-c2dd8b27f14bd99fb8500c09e0fc5d40": {
+        "ore_metal_poor_etc-surface_down_step6-any-5ef93be4a7ef7054d6330a7567fbc7f5": {
             "chunk-chance": 1,
             "cluster-count": 12,
             "biome": {
@@ -1171,7 +1171,7 @@
             "min-height": 53,
             "max-height": 61
         },
-        "ore_metal_poor_etc-surface_down_step7-any-c2dd8b27f14bd99fb8500c09e0fc5d40": {
+        "ore_metal_poor_etc-surface_down_step7-any-5ef93be4a7ef7054d6330a7567fbc7f5": {
             "chunk-chance": 1,
             "cluster-count": 10,
             "biome": {
@@ -1226,7 +1226,7 @@
             "min-height": 50,
             "max-height": 58
         },
-        "ore_metal_poor_etc-surface_down_step8-any-c2dd8b27f14bd99fb8500c09e0fc5d40": {
+        "ore_metal_poor_etc-surface_down_step8-any-5ef93be4a7ef7054d6330a7567fbc7f5": {
             "chunk-chance": 1,
             "cluster-count": 8,
             "biome": {
@@ -1281,7 +1281,7 @@
             "min-height": 46,
             "max-height": 54
         },
-        "ore_metal_poor_etc-surface_down_step9-any-c2dd8b27f14bd99fb8500c09e0fc5d40": {
+        "ore_metal_poor_etc-surface_down_step9-any-5ef93be4a7ef7054d6330a7567fbc7f5": {
             "chunk-chance": 1,
             "cluster-count": 6,
             "biome": {
@@ -1336,7 +1336,7 @@
             "min-height": 43,
             "max-height": 51
         },
-        "ore_metal_poor_etc-surface_down_step10-any-c2dd8b27f14bd99fb8500c09e0fc5d40": {
+        "ore_metal_poor_etc-surface_down_step10-any-5ef93be4a7ef7054d6330a7567fbc7f5": {
             "chunk-chance": 1,
             "cluster-count": 5,
             "biome": {
@@ -1391,7 +1391,7 @@
             "min-height": 40,
             "max-height": 48
         },
-        "ore_metal_poor_etc-surface_up_step0-any-c2dd8b27f14bd99fb8500c09e0fc5d40": {
+        "ore_metal_poor_etc-surface_up_step0-any-5ef93be4a7ef7054d6330a7567fbc7f5": {
             "chunk-chance": 1,
             "cluster-count": 10,
             "biome": {
@@ -1446,7 +1446,7 @@
             "min-height": 72,
             "max-height": 80
         },
-        "ore_metal_poor_etc-surface_up_step1-any-c2dd8b27f14bd99fb8500c09e0fc5d40": {
+        "ore_metal_poor_etc-surface_up_step1-any-5ef93be4a7ef7054d6330a7567fbc7f5": {
             "chunk-chance": 1,
             "cluster-count": 11,
             "biome": {
@@ -1501,7 +1501,7 @@
             "min-height": 77,
             "max-height": 85
         },
-        "ore_metal_poor_etc-surface_up_step2-any-c2dd8b27f14bd99fb8500c09e0fc5d40": {
+        "ore_metal_poor_etc-surface_up_step2-any-5ef93be4a7ef7054d6330a7567fbc7f5": {
             "chunk-chance": 1,
             "cluster-count": 12,
             "biome": {
@@ -1556,7 +1556,7 @@
             "min-height": 82,
             "max-height": 90
         },
-        "ore_metal_poor_etc-surface_up_step3-any-c2dd8b27f14bd99fb8500c09e0fc5d40": {
+        "ore_metal_poor_etc-surface_up_step3-any-5ef93be4a7ef7054d6330a7567fbc7f5": {
             "chunk-chance": 1,
             "cluster-count": 12,
             "biome": {
@@ -1611,7 +1611,7 @@
             "min-height": 86,
             "max-height": 94
         },
-        "ore_metal_poor_etc-surface_up_step4-any-c2dd8b27f14bd99fb8500c09e0fc5d40": {
+        "ore_metal_poor_etc-surface_up_step4-any-5ef93be4a7ef7054d6330a7567fbc7f5": {
             "chunk-chance": 1,
             "cluster-count": 12,
             "biome": {
@@ -1666,7 +1666,7 @@
             "min-height": 91,
             "max-height": 99
         },
-        "ore_metal_poor_etc-surface_up_step5-any-c2dd8b27f14bd99fb8500c09e0fc5d40": {
+        "ore_metal_poor_etc-surface_up_step5-any-5ef93be4a7ef7054d6330a7567fbc7f5": {
             "chunk-chance": 1,
             "cluster-count": 13,
             "biome": {
@@ -1721,7 +1721,7 @@
             "min-height": 96,
             "max-height": 104
         },
-        "ore_metal_poor_etc-surface_up_step6-any-c2dd8b27f14bd99fb8500c09e0fc5d40": {
+        "ore_metal_poor_etc-surface_up_step6-any-5ef93be4a7ef7054d6330a7567fbc7f5": {
             "chunk-chance": 1,
             "cluster-count": 26,
             "biome": {
@@ -1776,7 +1776,7 @@
             "min-height": 101,
             "max-height": 109
         },
-        "ore_metal_poor_etc-surface_up_step7-any-c2dd8b27f14bd99fb8500c09e0fc5d40": {
+        "ore_metal_poor_etc-surface_up_step7-any-5ef93be4a7ef7054d6330a7567fbc7f5": {
             "chunk-chance": 1,
             "cluster-count": 28,
             "biome": {
@@ -1831,7 +1831,7 @@
             "min-height": 106,
             "max-height": 114
         },
-        "ore_metal_poor_etc-surface_up_step8-any-c2dd8b27f14bd99fb8500c09e0fc5d40": {
+        "ore_metal_poor_etc-surface_up_step8-any-5ef93be4a7ef7054d6330a7567fbc7f5": {
             "chunk-chance": 1,
             "cluster-count": 28,
             "biome": {
@@ -1886,7 +1886,7 @@
             "min-height": 110,
             "max-height": 118
         },
-        "ore_metal_poor_etc-surface_up_step9-any-c2dd8b27f14bd99fb8500c09e0fc5d40": {
+        "ore_metal_poor_etc-surface_up_step9-any-5ef93be4a7ef7054d6330a7567fbc7f5": {
             "chunk-chance": 1,
             "cluster-count": 30,
             "biome": {
@@ -1941,7 +1941,7 @@
             "min-height": 115,
             "max-height": 123
         },
-        "ore_metal_poor_etc-surface_up_step10-any-c2dd8b27f14bd99fb8500c09e0fc5d40": {
+        "ore_metal_poor_etc-surface_up_step10-any-5ef93be4a7ef7054d6330a7567fbc7f5": {
             "chunk-chance": 1,
             "cluster-count": 30,
             "biome": {
@@ -1996,7 +1996,7 @@
             "min-height": 120,
             "max-height": 128
         },
-        "limestone2-shallow-ee3f5d1c7d43a13b0abdd2aa5881dc3b": {
+        "limestone2-shallow-9f60e35d7d51a3bdc3cce95e84ce9f06": {
             "chunk-chance": 5,
             "cluster-count": 2,
             "biome": {
@@ -2036,7 +2036,7 @@
             "min-height": 40,
             "max-height": 64
         },
-        "ore_metal_etc-deep_up_step0-any-ee3f5d1c7d43a13b0abdd2aa5881dc3b": {
+        "ore_metal_etc-deep_up_step0-any-9f60e35d7d51a3bdc3cce95e84ce9f06": {
             "chunk-chance": 1,
             "cluster-count": 5,
             "biome": {
@@ -2091,7 +2091,7 @@
             "min-height": 8,
             "max-height": 16
         },
-        "ore_metal_etc-deep_up_step1-any-ee3f5d1c7d43a13b0abdd2aa5881dc3b": {
+        "ore_metal_etc-deep_up_step1-any-9f60e35d7d51a3bdc3cce95e84ce9f06": {
             "chunk-chance": 1,
             "cluster-count": 6,
             "biome": {
@@ -2146,7 +2146,7 @@
             "min-height": 11,
             "max-height": 19
         },
-        "ore_metal_etc-deep_up_step2-any-ee3f5d1c7d43a13b0abdd2aa5881dc3b": {
+        "ore_metal_etc-deep_up_step2-any-9f60e35d7d51a3bdc3cce95e84ce9f06": {
             "chunk-chance": 1,
             "cluster-count": 6,
             "biome": {
@@ -2201,7 +2201,7 @@
             "min-height": 14,
             "max-height": 22
         },
-        "ore_metal_etc-deep_up_step3-any-ee3f5d1c7d43a13b0abdd2aa5881dc3b": {
+        "ore_metal_etc-deep_up_step3-any-9f60e35d7d51a3bdc3cce95e84ce9f06": {
             "chunk-chance": 1,
             "cluster-count": 6,
             "biome": {
@@ -2256,7 +2256,7 @@
             "min-height": 18,
             "max-height": 26
         },
-        "ore_metal_etc-deep_up_step4-any-ee3f5d1c7d43a13b0abdd2aa5881dc3b": {
+        "ore_metal_etc-deep_up_step4-any-9f60e35d7d51a3bdc3cce95e84ce9f06": {
             "chunk-chance": 1,
             "cluster-count": 6,
             "biome": {
@@ -2311,7 +2311,7 @@
             "min-height": 21,
             "max-height": 29
         },
-        "ore_metal_etc-deep_up_step5-any-ee3f5d1c7d43a13b0abdd2aa5881dc3b": {
+        "ore_metal_etc-deep_up_step5-any-9f60e35d7d51a3bdc3cce95e84ce9f06": {
             "chunk-chance": 1,
             "cluster-count": 8,
             "biome": {
@@ -2366,7 +2366,7 @@
             "min-height": 24,
             "max-height": 32
         },
-        "ore_metal_etc-deep_up_step6-any-ee3f5d1c7d43a13b0abdd2aa5881dc3b": {
+        "ore_metal_etc-deep_up_step6-any-9f60e35d7d51a3bdc3cce95e84ce9f06": {
             "chunk-chance": 1,
             "cluster-count": 7,
             "biome": {
@@ -2421,7 +2421,7 @@
             "min-height": 27,
             "max-height": 35
         },
-        "ore_metal_etc-deep_up_step7-any-ee3f5d1c7d43a13b0abdd2aa5881dc3b": {
+        "ore_metal_etc-deep_up_step7-any-9f60e35d7d51a3bdc3cce95e84ce9f06": {
             "chunk-chance": 1,
             "cluster-count": 9,
             "biome": {
@@ -2476,7 +2476,7 @@
             "min-height": 30,
             "max-height": 38
         },
-        "ore_metal_etc-deep_up_step8-any-ee3f5d1c7d43a13b0abdd2aa5881dc3b": {
+        "ore_metal_etc-deep_up_step8-any-9f60e35d7d51a3bdc3cce95e84ce9f06": {
             "chunk-chance": 1,
             "cluster-count": 12,
             "biome": {
@@ -2531,7 +2531,7 @@
             "min-height": 34,
             "max-height": 42
         },
-        "ore_metal_etc-deep_up_step9-any-ee3f5d1c7d43a13b0abdd2aa5881dc3b": {
+        "ore_metal_etc-deep_up_step9-any-9f60e35d7d51a3bdc3cce95e84ce9f06": {
             "chunk-chance": 1,
             "cluster-count": 12,
             "biome": {
@@ -2586,7 +2586,7 @@
             "min-height": 37,
             "max-height": 45
         },
-        "ore_metal_etc-deep_up_step10-any-ee3f5d1c7d43a13b0abdd2aa5881dc3b": {
+        "ore_metal_etc-deep_up_step10-any-9f60e35d7d51a3bdc3cce95e84ce9f06": {
             "chunk-chance": 1,
             "cluster-count": 20,
             "biome": {
@@ -2641,7 +2641,7 @@
             "min-height": 40,
             "max-height": 48
         },
-        "ore_metal_poor_etc-surface_down_step0-any-ee3f5d1c7d43a13b0abdd2aa5881dc3b": {
+        "ore_metal_poor_etc-surface_down_step0-any-9f60e35d7d51a3bdc3cce95e84ce9f06": {
             "chunk-chance": 1,
             "cluster-count": 10,
             "biome": {
@@ -2696,7 +2696,7 @@
             "min-height": 72,
             "max-height": 80
         },
-        "ore_metal_poor_etc-surface_down_step1-any-ee3f5d1c7d43a13b0abdd2aa5881dc3b": {
+        "ore_metal_poor_etc-surface_down_step1-any-9f60e35d7d51a3bdc3cce95e84ce9f06": {
             "chunk-chance": 1,
             "cluster-count": 10,
             "biome": {
@@ -2751,7 +2751,7 @@
             "min-height": 69,
             "max-height": 77
         },
-        "ore_metal_poor_etc-surface_down_step2-any-ee3f5d1c7d43a13b0abdd2aa5881dc3b": {
+        "ore_metal_poor_etc-surface_down_step2-any-9f60e35d7d51a3bdc3cce95e84ce9f06": {
             "chunk-chance": 1,
             "cluster-count": 8,
             "biome": {
@@ -2806,7 +2806,7 @@
             "min-height": 66,
             "max-height": 74
         },
-        "ore_metal_poor_etc-surface_down_step3-any-ee3f5d1c7d43a13b0abdd2aa5881dc3b": {
+        "ore_metal_poor_etc-surface_down_step3-any-9f60e35d7d51a3bdc3cce95e84ce9f06": {
             "chunk-chance": 1,
             "cluster-count": 8,
             "biome": {
@@ -2861,7 +2861,7 @@
             "min-height": 62,
             "max-height": 70
         },
-        "ore_metal_poor_etc-surface_down_step4-any-ee3f5d1c7d43a13b0abdd2aa5881dc3b": {
+        "ore_metal_poor_etc-surface_down_step4-any-9f60e35d7d51a3bdc3cce95e84ce9f06": {
             "chunk-chance": 1,
             "cluster-count": 7,
             "biome": {
@@ -2916,7 +2916,7 @@
             "min-height": 59,
             "max-height": 67
         },
-        "ore_metal_poor_etc-surface_down_step5-any-ee3f5d1c7d43a13b0abdd2aa5881dc3b": {
+        "ore_metal_poor_etc-surface_down_step5-any-9f60e35d7d51a3bdc3cce95e84ce9f06": {
             "chunk-chance": 1,
             "cluster-count": 6,
             "biome": {
@@ -2971,7 +2971,7 @@
             "min-height": 56,
             "max-height": 64
         },
-        "ore_metal_poor_etc-surface_down_step6-any-ee3f5d1c7d43a13b0abdd2aa5881dc3b": {
+        "ore_metal_poor_etc-surface_down_step6-any-9f60e35d7d51a3bdc3cce95e84ce9f06": {
             "chunk-chance": 1,
             "cluster-count": 12,
             "biome": {
@@ -3026,7 +3026,7 @@
             "min-height": 53,
             "max-height": 61
         },
-        "ore_metal_poor_etc-surface_down_step7-any-ee3f5d1c7d43a13b0abdd2aa5881dc3b": {
+        "ore_metal_poor_etc-surface_down_step7-any-9f60e35d7d51a3bdc3cce95e84ce9f06": {
             "chunk-chance": 1,
             "cluster-count": 10,
             "biome": {
@@ -3081,7 +3081,7 @@
             "min-height": 50,
             "max-height": 58
         },
-        "ore_metal_poor_etc-surface_down_step8-any-ee3f5d1c7d43a13b0abdd2aa5881dc3b": {
+        "ore_metal_poor_etc-surface_down_step8-any-9f60e35d7d51a3bdc3cce95e84ce9f06": {
             "chunk-chance": 1,
             "cluster-count": 8,
             "biome": {
@@ -3136,7 +3136,7 @@
             "min-height": 46,
             "max-height": 54
         },
-        "ore_metal_poor_etc-surface_down_step9-any-ee3f5d1c7d43a13b0abdd2aa5881dc3b": {
+        "ore_metal_poor_etc-surface_down_step9-any-9f60e35d7d51a3bdc3cce95e84ce9f06": {
             "chunk-chance": 1,
             "cluster-count": 6,
             "biome": {
@@ -3191,7 +3191,7 @@
             "min-height": 43,
             "max-height": 51
         },
-        "ore_metal_poor_etc-surface_down_step10-any-ee3f5d1c7d43a13b0abdd2aa5881dc3b": {
+        "ore_metal_poor_etc-surface_down_step10-any-9f60e35d7d51a3bdc3cce95e84ce9f06": {
             "chunk-chance": 1,
             "cluster-count": 5,
             "biome": {
@@ -3246,7 +3246,7 @@
             "min-height": 40,
             "max-height": 48
         },
-        "ore_metal_poor_etc-surface_up_step0-any-ee3f5d1c7d43a13b0abdd2aa5881dc3b": {
+        "ore_metal_poor_etc-surface_up_step0-any-9f60e35d7d51a3bdc3cce95e84ce9f06": {
             "chunk-chance": 1,
             "cluster-count": 10,
             "biome": {
@@ -3301,7 +3301,7 @@
             "min-height": 72,
             "max-height": 80
         },
-        "ore_metal_poor_etc-surface_up_step1-any-ee3f5d1c7d43a13b0abdd2aa5881dc3b": {
+        "ore_metal_poor_etc-surface_up_step1-any-9f60e35d7d51a3bdc3cce95e84ce9f06": {
             "chunk-chance": 1,
             "cluster-count": 11,
             "biome": {
@@ -3356,7 +3356,7 @@
             "min-height": 77,
             "max-height": 85
         },
-        "ore_metal_poor_etc-surface_up_step2-any-ee3f5d1c7d43a13b0abdd2aa5881dc3b": {
+        "ore_metal_poor_etc-surface_up_step2-any-9f60e35d7d51a3bdc3cce95e84ce9f06": {
             "chunk-chance": 1,
             "cluster-count": 12,
             "biome": {
@@ -3411,7 +3411,7 @@
             "min-height": 82,
             "max-height": 90
         },
-        "ore_metal_poor_etc-surface_up_step3-any-ee3f5d1c7d43a13b0abdd2aa5881dc3b": {
+        "ore_metal_poor_etc-surface_up_step3-any-9f60e35d7d51a3bdc3cce95e84ce9f06": {
             "chunk-chance": 1,
             "cluster-count": 12,
             "biome": {
@@ -3466,7 +3466,7 @@
             "min-height": 86,
             "max-height": 94
         },
-        "ore_metal_poor_etc-surface_up_step4-any-ee3f5d1c7d43a13b0abdd2aa5881dc3b": {
+        "ore_metal_poor_etc-surface_up_step4-any-9f60e35d7d51a3bdc3cce95e84ce9f06": {
             "chunk-chance": 1,
             "cluster-count": 12,
             "biome": {
@@ -3521,7 +3521,7 @@
             "min-height": 91,
             "max-height": 99
         },
-        "ore_metal_poor_etc-surface_up_step5-any-ee3f5d1c7d43a13b0abdd2aa5881dc3b": {
+        "ore_metal_poor_etc-surface_up_step5-any-9f60e35d7d51a3bdc3cce95e84ce9f06": {
             "chunk-chance": 1,
             "cluster-count": 13,
             "biome": {
@@ -3576,7 +3576,7 @@
             "min-height": 96,
             "max-height": 104
         },
-        "ore_metal_poor_etc-surface_up_step6-any-ee3f5d1c7d43a13b0abdd2aa5881dc3b": {
+        "ore_metal_poor_etc-surface_up_step6-any-9f60e35d7d51a3bdc3cce95e84ce9f06": {
             "chunk-chance": 1,
             "cluster-count": 26,
             "biome": {
@@ -3631,7 +3631,7 @@
             "min-height": 101,
             "max-height": 109
         },
-        "ore_metal_poor_etc-surface_up_step7-any-ee3f5d1c7d43a13b0abdd2aa5881dc3b": {
+        "ore_metal_poor_etc-surface_up_step7-any-9f60e35d7d51a3bdc3cce95e84ce9f06": {
             "chunk-chance": 1,
             "cluster-count": 28,
             "biome": {
@@ -3686,7 +3686,7 @@
             "min-height": 106,
             "max-height": 114
         },
-        "ore_metal_poor_etc-surface_up_step8-any-ee3f5d1c7d43a13b0abdd2aa5881dc3b": {
+        "ore_metal_poor_etc-surface_up_step8-any-9f60e35d7d51a3bdc3cce95e84ce9f06": {
             "chunk-chance": 1,
             "cluster-count": 28,
             "biome": {
@@ -3741,7 +3741,7 @@
             "min-height": 110,
             "max-height": 118
         },
-        "ore_metal_poor_etc-surface_up_step9-any-ee3f5d1c7d43a13b0abdd2aa5881dc3b": {
+        "ore_metal_poor_etc-surface_up_step9-any-9f60e35d7d51a3bdc3cce95e84ce9f06": {
             "chunk-chance": 1,
             "cluster-count": 30,
             "biome": {
@@ -3796,7 +3796,7 @@
             "min-height": 115,
             "max-height": 123
         },
-        "ore_metal_poor_etc-surface_up_step10-any-ee3f5d1c7d43a13b0abdd2aa5881dc3b": {
+        "ore_metal_poor_etc-surface_up_step10-any-9f60e35d7d51a3bdc3cce95e84ce9f06": {
             "chunk-chance": 1,
             "cluster-count": 30,
             "biome": {
@@ -3851,7 +3851,7 @@
             "min-height": 120,
             "max-height": 128
         },
-        "lava-emerald_ore-lake-lava-ba08034a4cd8191d9b3445a4e6976f4d": {
+        "lava-emerald_ore-lake-lava-aaa48ce1351440cba5485bcadd9b74ab": {
             "chunk-chance": 3,
             "cluster-count": 1,
             "biome": {
@@ -3899,7 +3899,7 @@
             "min-height": 0,
             "max-height": 16
         },
-        "ore_metal_etc-deep_up_step0-any-ba08034a4cd8191d9b3445a4e6976f4d": {
+        "ore_metal_etc-deep_up_step0-any-aaa48ce1351440cba5485bcadd9b74ab": {
             "chunk-chance": 1,
             "cluster-count": 5,
             "biome": {
@@ -3954,7 +3954,7 @@
             "min-height": 8,
             "max-height": 16
         },
-        "ore_metal_etc-deep_up_step1-any-ba08034a4cd8191d9b3445a4e6976f4d": {
+        "ore_metal_etc-deep_up_step1-any-aaa48ce1351440cba5485bcadd9b74ab": {
             "chunk-chance": 1,
             "cluster-count": 6,
             "biome": {
@@ -4009,7 +4009,7 @@
             "min-height": 11,
             "max-height": 19
         },
-        "ore_metal_etc-deep_up_step2-any-ba08034a4cd8191d9b3445a4e6976f4d": {
+        "ore_metal_etc-deep_up_step2-any-aaa48ce1351440cba5485bcadd9b74ab": {
             "chunk-chance": 1,
             "cluster-count": 6,
             "biome": {
@@ -4064,7 +4064,7 @@
             "min-height": 14,
             "max-height": 22
         },
-        "ore_metal_etc-deep_up_step3-any-ba08034a4cd8191d9b3445a4e6976f4d": {
+        "ore_metal_etc-deep_up_step3-any-aaa48ce1351440cba5485bcadd9b74ab": {
             "chunk-chance": 1,
             "cluster-count": 6,
             "biome": {
@@ -4119,7 +4119,7 @@
             "min-height": 18,
             "max-height": 26
         },
-        "ore_metal_etc-deep_up_step4-any-ba08034a4cd8191d9b3445a4e6976f4d": {
+        "ore_metal_etc-deep_up_step4-any-aaa48ce1351440cba5485bcadd9b74ab": {
             "chunk-chance": 1,
             "cluster-count": 6,
             "biome": {
@@ -4174,7 +4174,7 @@
             "min-height": 21,
             "max-height": 29
         },
-        "ore_metal_etc-deep_up_step5-any-ba08034a4cd8191d9b3445a4e6976f4d": {
+        "ore_metal_etc-deep_up_step5-any-aaa48ce1351440cba5485bcadd9b74ab": {
             "chunk-chance": 1,
             "cluster-count": 8,
             "biome": {
@@ -4229,7 +4229,7 @@
             "min-height": 24,
             "max-height": 32
         },
-        "ore_metal_etc-deep_up_step6-any-ba08034a4cd8191d9b3445a4e6976f4d": {
+        "ore_metal_etc-deep_up_step6-any-aaa48ce1351440cba5485bcadd9b74ab": {
             "chunk-chance": 1,
             "cluster-count": 7,
             "biome": {
@@ -4284,7 +4284,7 @@
             "min-height": 27,
             "max-height": 35
         },
-        "ore_metal_etc-deep_up_step7-any-ba08034a4cd8191d9b3445a4e6976f4d": {
+        "ore_metal_etc-deep_up_step7-any-aaa48ce1351440cba5485bcadd9b74ab": {
             "chunk-chance": 1,
             "cluster-count": 9,
             "biome": {
@@ -4339,7 +4339,7 @@
             "min-height": 30,
             "max-height": 38
         },
-        "ore_metal_etc-deep_up_step8-any-ba08034a4cd8191d9b3445a4e6976f4d": {
+        "ore_metal_etc-deep_up_step8-any-aaa48ce1351440cba5485bcadd9b74ab": {
             "chunk-chance": 1,
             "cluster-count": 12,
             "biome": {
@@ -4394,7 +4394,7 @@
             "min-height": 34,
             "max-height": 42
         },
-        "ore_metal_etc-deep_up_step9-any-ba08034a4cd8191d9b3445a4e6976f4d": {
+        "ore_metal_etc-deep_up_step9-any-aaa48ce1351440cba5485bcadd9b74ab": {
             "chunk-chance": 1,
             "cluster-count": 12,
             "biome": {
@@ -4449,7 +4449,7 @@
             "min-height": 37,
             "max-height": 45
         },
-        "ore_metal_etc-deep_up_step10-any-ba08034a4cd8191d9b3445a4e6976f4d": {
+        "ore_metal_etc-deep_up_step10-any-aaa48ce1351440cba5485bcadd9b74ab": {
             "chunk-chance": 1,
             "cluster-count": 20,
             "biome": {
@@ -4504,7 +4504,7 @@
             "min-height": 40,
             "max-height": 48
         },
-        "ore_metal_poor_etc-surface_down_step0-any-ba08034a4cd8191d9b3445a4e6976f4d": {
+        "ore_metal_poor_etc-surface_down_step0-any-aaa48ce1351440cba5485bcadd9b74ab": {
             "chunk-chance": 1,
             "cluster-count": 10,
             "biome": {
@@ -4555,7 +4555,7 @@
             "min-height": 72,
             "max-height": 80
         },
-        "ore_metal_poor_etc-surface_down_step1-any-ba08034a4cd8191d9b3445a4e6976f4d": {
+        "ore_metal_poor_etc-surface_down_step1-any-aaa48ce1351440cba5485bcadd9b74ab": {
             "chunk-chance": 1,
             "cluster-count": 10,
             "biome": {
@@ -4606,7 +4606,7 @@
             "min-height": 69,
             "max-height": 77
         },
-        "ore_metal_poor_etc-surface_down_step2-any-ba08034a4cd8191d9b3445a4e6976f4d": {
+        "ore_metal_poor_etc-surface_down_step2-any-aaa48ce1351440cba5485bcadd9b74ab": {
             "chunk-chance": 1,
             "cluster-count": 8,
             "biome": {
@@ -4657,7 +4657,7 @@
             "min-height": 66,
             "max-height": 74
         },
-        "ore_metal_poor_etc-surface_down_step3-any-ba08034a4cd8191d9b3445a4e6976f4d": {
+        "ore_metal_poor_etc-surface_down_step3-any-aaa48ce1351440cba5485bcadd9b74ab": {
             "chunk-chance": 1,
             "cluster-count": 8,
             "biome": {
@@ -4708,7 +4708,7 @@
             "min-height": 62,
             "max-height": 70
         },
-        "ore_metal_poor_etc-surface_down_step4-any-ba08034a4cd8191d9b3445a4e6976f4d": {
+        "ore_metal_poor_etc-surface_down_step4-any-aaa48ce1351440cba5485bcadd9b74ab": {
             "chunk-chance": 1,
             "cluster-count": 7,
             "biome": {
@@ -4759,7 +4759,7 @@
             "min-height": 59,
             "max-height": 67
         },
-        "ore_metal_poor_etc-surface_down_step5-any-ba08034a4cd8191d9b3445a4e6976f4d": {
+        "ore_metal_poor_etc-surface_down_step5-any-aaa48ce1351440cba5485bcadd9b74ab": {
             "chunk-chance": 1,
             "cluster-count": 6,
             "biome": {
@@ -4810,7 +4810,7 @@
             "min-height": 56,
             "max-height": 64
         },
-        "ore_metal_poor_etc-surface_down_step6-any-ba08034a4cd8191d9b3445a4e6976f4d": {
+        "ore_metal_poor_etc-surface_down_step6-any-aaa48ce1351440cba5485bcadd9b74ab": {
             "chunk-chance": 1,
             "cluster-count": 12,
             "biome": {
@@ -4861,7 +4861,7 @@
             "min-height": 53,
             "max-height": 61
         },
-        "ore_metal_poor_etc-surface_down_step7-any-ba08034a4cd8191d9b3445a4e6976f4d": {
+        "ore_metal_poor_etc-surface_down_step7-any-aaa48ce1351440cba5485bcadd9b74ab": {
             "chunk-chance": 1,
             "cluster-count": 10,
             "biome": {
@@ -4912,7 +4912,7 @@
             "min-height": 50,
             "max-height": 58
         },
-        "ore_metal_poor_etc-surface_down_step8-any-ba08034a4cd8191d9b3445a4e6976f4d": {
+        "ore_metal_poor_etc-surface_down_step8-any-aaa48ce1351440cba5485bcadd9b74ab": {
             "chunk-chance": 1,
             "cluster-count": 8,
             "biome": {
@@ -4963,7 +4963,7 @@
             "min-height": 46,
             "max-height": 54
         },
-        "ore_metal_poor_etc-surface_down_step9-any-ba08034a4cd8191d9b3445a4e6976f4d": {
+        "ore_metal_poor_etc-surface_down_step9-any-aaa48ce1351440cba5485bcadd9b74ab": {
             "chunk-chance": 1,
             "cluster-count": 6,
             "biome": {
@@ -5014,7 +5014,7 @@
             "min-height": 43,
             "max-height": 51
         },
-        "ore_metal_poor_etc-surface_down_step10-any-ba08034a4cd8191d9b3445a4e6976f4d": {
+        "ore_metal_poor_etc-surface_down_step10-any-aaa48ce1351440cba5485bcadd9b74ab": {
             "chunk-chance": 1,
             "cluster-count": 5,
             "biome": {
@@ -5065,7 +5065,7 @@
             "min-height": 40,
             "max-height": 48
         },
-        "ore_metal_poor_etc-surface_up_step0-any-ba08034a4cd8191d9b3445a4e6976f4d": {
+        "ore_metal_poor_etc-surface_up_step0-any-aaa48ce1351440cba5485bcadd9b74ab": {
             "chunk-chance": 1,
             "cluster-count": 10,
             "biome": {
@@ -5116,7 +5116,7 @@
             "min-height": 72,
             "max-height": 80
         },
-        "ore_metal_poor_etc-surface_up_step1-any-ba08034a4cd8191d9b3445a4e6976f4d": {
+        "ore_metal_poor_etc-surface_up_step1-any-aaa48ce1351440cba5485bcadd9b74ab": {
             "chunk-chance": 1,
             "cluster-count": 11,
             "biome": {
@@ -5167,7 +5167,7 @@
             "min-height": 77,
             "max-height": 85
         },
-        "ore_metal_poor_etc-surface_up_step2-any-ba08034a4cd8191d9b3445a4e6976f4d": {
+        "ore_metal_poor_etc-surface_up_step2-any-aaa48ce1351440cba5485bcadd9b74ab": {
             "chunk-chance": 1,
             "cluster-count": 12,
             "biome": {
@@ -5218,7 +5218,7 @@
             "min-height": 82,
             "max-height": 90
         },
-        "ore_metal_poor_etc-surface_up_step3-any-ba08034a4cd8191d9b3445a4e6976f4d": {
+        "ore_metal_poor_etc-surface_up_step3-any-aaa48ce1351440cba5485bcadd9b74ab": {
             "chunk-chance": 1,
             "cluster-count": 12,
             "biome": {
@@ -5269,7 +5269,7 @@
             "min-height": 86,
             "max-height": 94
         },
-        "ore_metal_poor_etc-surface_up_step4-any-ba08034a4cd8191d9b3445a4e6976f4d": {
+        "ore_metal_poor_etc-surface_up_step4-any-aaa48ce1351440cba5485bcadd9b74ab": {
             "chunk-chance": 1,
             "cluster-count": 12,
             "biome": {
@@ -5320,7 +5320,7 @@
             "min-height": 91,
             "max-height": 99
         },
-        "ore_metal_poor_etc-surface_up_step5-any-ba08034a4cd8191d9b3445a4e6976f4d": {
+        "ore_metal_poor_etc-surface_up_step5-any-aaa48ce1351440cba5485bcadd9b74ab": {
             "chunk-chance": 1,
             "cluster-count": 13,
             "biome": {
@@ -5371,7 +5371,7 @@
             "min-height": 96,
             "max-height": 104
         },
-        "ore_metal_poor_etc-surface_up_step6-any-ba08034a4cd8191d9b3445a4e6976f4d": {
+        "ore_metal_poor_etc-surface_up_step6-any-aaa48ce1351440cba5485bcadd9b74ab": {
             "chunk-chance": 1,
             "cluster-count": 26,
             "biome": {
@@ -5422,7 +5422,7 @@
             "min-height": 101,
             "max-height": 109
         },
-        "ore_metal_poor_etc-surface_up_step7-any-ba08034a4cd8191d9b3445a4e6976f4d": {
+        "ore_metal_poor_etc-surface_up_step7-any-aaa48ce1351440cba5485bcadd9b74ab": {
             "chunk-chance": 1,
             "cluster-count": 28,
             "biome": {
@@ -5473,7 +5473,7 @@
             "min-height": 106,
             "max-height": 114
         },
-        "ore_metal_poor_etc-surface_up_step8-any-ba08034a4cd8191d9b3445a4e6976f4d": {
+        "ore_metal_poor_etc-surface_up_step8-any-aaa48ce1351440cba5485bcadd9b74ab": {
             "chunk-chance": 1,
             "cluster-count": 28,
             "biome": {
@@ -5524,7 +5524,7 @@
             "min-height": 110,
             "max-height": 118
         },
-        "ore_metal_poor_etc-surface_up_step9-any-ba08034a4cd8191d9b3445a4e6976f4d": {
+        "ore_metal_poor_etc-surface_up_step9-any-aaa48ce1351440cba5485bcadd9b74ab": {
             "chunk-chance": 1,
             "cluster-count": 30,
             "biome": {
@@ -5575,7 +5575,7 @@
             "min-height": 115,
             "max-height": 123
         },
-        "ore_metal_poor_etc-surface_up_step10-any-ba08034a4cd8191d9b3445a4e6976f4d": {
+        "ore_metal_poor_etc-surface_up_step10-any-aaa48ce1351440cba5485bcadd9b74ab": {
             "chunk-chance": 1,
             "cluster-count": 30,
             "biome": {
@@ -5626,7 +5626,7 @@
             "min-height": 120,
             "max-height": 128
         },
-        "ore_fluid-surface-91fbd4f0703c16649f89586f6bf8e960": {
+        "ore_fluid-surface-cf5a595945a9ea0e071668593931e375": {
             "chunk-chance": 3,
             "cluster-count": 1,
             "biome": {
@@ -5680,7 +5680,7 @@
             "spread": 16,
             "smoothness": 2
         },
-        "fluid_crude_oil-stone-lake-below_ground-91fbd4f0703c16649f89586f6bf8e960": {
+        "fluid_crude_oil-stone-lake-below_ground-cf5a595945a9ea0e071668593931e375": {
             "chunk-chance": 10,
             "cluster-count": 4,
             "biome": {
@@ -5719,7 +5719,7 @@
             "min-height": 0,
             "max-height": 64
         },
-        "stone_etc-deep_up_step0-any-91fbd4f0703c16649f89586f6bf8e960": {
+        "stone_etc-deep_up_step0-any-cf5a595945a9ea0e071668593931e375": {
             "chunk-chance": 1,
             "cluster-count": 5,
             "biome": {
@@ -5779,7 +5779,7 @@
             "min-height": 8,
             "max-height": 16
         },
-        "stone_etc-deep_up_step1-any-91fbd4f0703c16649f89586f6bf8e960": {
+        "stone_etc-deep_up_step1-any-cf5a595945a9ea0e071668593931e375": {
             "chunk-chance": 1,
             "cluster-count": 6,
             "biome": {
@@ -5839,7 +5839,7 @@
             "min-height": 11,
             "max-height": 19
         },
-        "stone_etc-deep_up_step2-any-91fbd4f0703c16649f89586f6bf8e960": {
+        "stone_etc-deep_up_step2-any-cf5a595945a9ea0e071668593931e375": {
             "chunk-chance": 1,
             "cluster-count": 6,
             "biome": {
@@ -5899,7 +5899,7 @@
             "min-height": 14,
             "max-height": 22
         },
-        "stone_etc-deep_up_step3-any-91fbd4f0703c16649f89586f6bf8e960": {
+        "stone_etc-deep_up_step3-any-cf5a595945a9ea0e071668593931e375": {
             "chunk-chance": 1,
             "cluster-count": 6,
             "biome": {
@@ -5959,7 +5959,7 @@
             "min-height": 18,
             "max-height": 26
         },
-        "stone_etc-deep_up_step4-any-91fbd4f0703c16649f89586f6bf8e960": {
+        "stone_etc-deep_up_step4-any-cf5a595945a9ea0e071668593931e375": {
             "chunk-chance": 1,
             "cluster-count": 6,
             "biome": {
@@ -6019,7 +6019,7 @@
             "min-height": 21,
             "max-height": 29
         },
-        "stone_etc-deep_up_step5-any-91fbd4f0703c16649f89586f6bf8e960": {
+        "stone_etc-deep_up_step5-any-cf5a595945a9ea0e071668593931e375": {
             "chunk-chance": 1,
             "cluster-count": 8,
             "biome": {
@@ -6079,7 +6079,7 @@
             "min-height": 24,
             "max-height": 32
         },
-        "stone_etc-deep_up_step6-any-91fbd4f0703c16649f89586f6bf8e960": {
+        "stone_etc-deep_up_step6-any-cf5a595945a9ea0e071668593931e375": {
             "chunk-chance": 1,
             "cluster-count": 7,
             "biome": {
@@ -6139,7 +6139,7 @@
             "min-height": 27,
             "max-height": 35
         },
-        "stone_etc-deep_up_step7-any-91fbd4f0703c16649f89586f6bf8e960": {
+        "stone_etc-deep_up_step7-any-cf5a595945a9ea0e071668593931e375": {
             "chunk-chance": 1,
             "cluster-count": 9,
             "biome": {
@@ -6199,7 +6199,7 @@
             "min-height": 30,
             "max-height": 38
         },
-        "stone_etc-deep_up_step8-any-91fbd4f0703c16649f89586f6bf8e960": {
+        "stone_etc-deep_up_step8-any-cf5a595945a9ea0e071668593931e375": {
             "chunk-chance": 1,
             "cluster-count": 12,
             "biome": {
@@ -6259,7 +6259,7 @@
             "min-height": 34,
             "max-height": 42
         },
-        "stone_etc-deep_up_step9-any-91fbd4f0703c16649f89586f6bf8e960": {
+        "stone_etc-deep_up_step9-any-cf5a595945a9ea0e071668593931e375": {
             "chunk-chance": 1,
             "cluster-count": 12,
             "biome": {
@@ -6319,7 +6319,7 @@
             "min-height": 37,
             "max-height": 45
         },
-        "stone_etc-deep_up_step10-any-91fbd4f0703c16649f89586f6bf8e960": {
+        "stone_etc-deep_up_step10-any-cf5a595945a9ea0e071668593931e375": {
             "chunk-chance": 1,
             "cluster-count": 20,
             "biome": {
@@ -6379,7 +6379,7 @@
             "min-height": 40,
             "max-height": 48
         },
-        "stone_etc-surface_down_step0-any-91fbd4f0703c16649f89586f6bf8e960": {
+        "stone_etc-surface_down_step0-any-cf5a595945a9ea0e071668593931e375": {
             "chunk-chance": 1,
             "cluster-count": 10,
             "biome": {
@@ -6430,7 +6430,7 @@
             "min-height": 72,
             "max-height": 80
         },
-        "stone_etc-surface_down_step1-any-91fbd4f0703c16649f89586f6bf8e960": {
+        "stone_etc-surface_down_step1-any-cf5a595945a9ea0e071668593931e375": {
             "chunk-chance": 1,
             "cluster-count": 10,
             "biome": {
@@ -6481,7 +6481,7 @@
             "min-height": 69,
             "max-height": 77
         },
-        "stone_etc-surface_down_step2-any-91fbd4f0703c16649f89586f6bf8e960": {
+        "stone_etc-surface_down_step2-any-cf5a595945a9ea0e071668593931e375": {
             "chunk-chance": 1,
             "cluster-count": 8,
             "biome": {
@@ -6532,7 +6532,7 @@
             "min-height": 66,
             "max-height": 74
         },
-        "stone_etc-surface_down_step3-any-91fbd4f0703c16649f89586f6bf8e960": {
+        "stone_etc-surface_down_step3-any-cf5a595945a9ea0e071668593931e375": {
             "chunk-chance": 1,
             "cluster-count": 8,
             "biome": {
@@ -6583,7 +6583,7 @@
             "min-height": 62,
             "max-height": 70
         },
-        "stone_etc-surface_down_step4-any-91fbd4f0703c16649f89586f6bf8e960": {
+        "stone_etc-surface_down_step4-any-cf5a595945a9ea0e071668593931e375": {
             "chunk-chance": 1,
             "cluster-count": 7,
             "biome": {
@@ -6634,7 +6634,7 @@
             "min-height": 59,
             "max-height": 67
         },
-        "stone_etc-surface_down_step5-any-91fbd4f0703c16649f89586f6bf8e960": {
+        "stone_etc-surface_down_step5-any-cf5a595945a9ea0e071668593931e375": {
             "chunk-chance": 1,
             "cluster-count": 6,
             "biome": {
@@ -6685,7 +6685,7 @@
             "min-height": 56,
             "max-height": 64
         },
-        "stone_etc-surface_down_step6-any-91fbd4f0703c16649f89586f6bf8e960": {
+        "stone_etc-surface_down_step6-any-cf5a595945a9ea0e071668593931e375": {
             "chunk-chance": 1,
             "cluster-count": 12,
             "biome": {
@@ -6736,7 +6736,7 @@
             "min-height": 53,
             "max-height": 61
         },
-        "stone_etc-surface_down_step7-any-91fbd4f0703c16649f89586f6bf8e960": {
+        "stone_etc-surface_down_step7-any-cf5a595945a9ea0e071668593931e375": {
             "chunk-chance": 1,
             "cluster-count": 10,
             "biome": {
@@ -6787,7 +6787,7 @@
             "min-height": 50,
             "max-height": 58
         },
-        "stone_etc-surface_down_step8-any-91fbd4f0703c16649f89586f6bf8e960": {
+        "stone_etc-surface_down_step8-any-cf5a595945a9ea0e071668593931e375": {
             "chunk-chance": 1,
             "cluster-count": 8,
             "biome": {
@@ -6838,7 +6838,7 @@
             "min-height": 46,
             "max-height": 54
         },
-        "stone_etc-surface_down_step9-any-91fbd4f0703c16649f89586f6bf8e960": {
+        "stone_etc-surface_down_step9-any-cf5a595945a9ea0e071668593931e375": {
             "chunk-chance": 1,
             "cluster-count": 6,
             "biome": {
@@ -6889,7 +6889,7 @@
             "min-height": 43,
             "max-height": 51
         },
-        "stone_etc-surface_down_step10-any-91fbd4f0703c16649f89586f6bf8e960": {
+        "stone_etc-surface_down_step10-any-cf5a595945a9ea0e071668593931e375": {
             "chunk-chance": 1,
             "cluster-count": 5,
             "biome": {
@@ -6940,7 +6940,7 @@
             "min-height": 40,
             "max-height": 48
         },
-        "stone_etc-surface_up_step0-any-91fbd4f0703c16649f89586f6bf8e960": {
+        "stone_etc-surface_up_step0-any-cf5a595945a9ea0e071668593931e375": {
             "chunk-chance": 1,
             "cluster-count": 10,
             "biome": {
@@ -6991,7 +6991,7 @@
             "min-height": 72,
             "max-height": 80
         },
-        "stone_etc-surface_up_step1-any-91fbd4f0703c16649f89586f6bf8e960": {
+        "stone_etc-surface_up_step1-any-cf5a595945a9ea0e071668593931e375": {
             "chunk-chance": 1,
             "cluster-count": 11,
             "biome": {
@@ -7042,7 +7042,7 @@
             "min-height": 77,
             "max-height": 85
         },
-        "stone_etc-surface_up_step2-any-91fbd4f0703c16649f89586f6bf8e960": {
+        "stone_etc-surface_up_step2-any-cf5a595945a9ea0e071668593931e375": {
             "chunk-chance": 1,
             "cluster-count": 12,
             "biome": {
@@ -7093,7 +7093,7 @@
             "min-height": 82,
             "max-height": 90
         },
-        "stone_etc-surface_up_step3-any-91fbd4f0703c16649f89586f6bf8e960": {
+        "stone_etc-surface_up_step3-any-cf5a595945a9ea0e071668593931e375": {
             "chunk-chance": 1,
             "cluster-count": 12,
             "biome": {
@@ -7144,7 +7144,7 @@
             "min-height": 86,
             "max-height": 94
         },
-        "stone_etc-surface_up_step4-any-91fbd4f0703c16649f89586f6bf8e960": {
+        "stone_etc-surface_up_step4-any-cf5a595945a9ea0e071668593931e375": {
             "chunk-chance": 1,
             "cluster-count": 12,
             "biome": {
@@ -7195,7 +7195,7 @@
             "min-height": 91,
             "max-height": 99
         },
-        "stone_etc-surface_up_step5-any-91fbd4f0703c16649f89586f6bf8e960": {
+        "stone_etc-surface_up_step5-any-cf5a595945a9ea0e071668593931e375": {
             "chunk-chance": 1,
             "cluster-count": 13,
             "biome": {
@@ -7246,7 +7246,7 @@
             "min-height": 96,
             "max-height": 104
         },
-        "stone_etc-surface_up_step6-any-91fbd4f0703c16649f89586f6bf8e960": {
+        "stone_etc-surface_up_step6-any-cf5a595945a9ea0e071668593931e375": {
             "chunk-chance": 1,
             "cluster-count": 26,
             "biome": {
@@ -7297,7 +7297,7 @@
             "min-height": 101,
             "max-height": 109
         },
-        "stone_etc-surface_up_step7-any-91fbd4f0703c16649f89586f6bf8e960": {
+        "stone_etc-surface_up_step7-any-cf5a595945a9ea0e071668593931e375": {
             "chunk-chance": 1,
             "cluster-count": 28,
             "biome": {
@@ -7348,7 +7348,7 @@
             "min-height": 106,
             "max-height": 114
         },
-        "stone_etc-surface_up_step8-any-91fbd4f0703c16649f89586f6bf8e960": {
+        "stone_etc-surface_up_step8-any-cf5a595945a9ea0e071668593931e375": {
             "chunk-chance": 1,
             "cluster-count": 28,
             "biome": {
@@ -7399,7 +7399,7 @@
             "min-height": 110,
             "max-height": 118
         },
-        "stone_etc-surface_up_step9-any-91fbd4f0703c16649f89586f6bf8e960": {
+        "stone_etc-surface_up_step9-any-cf5a595945a9ea0e071668593931e375": {
             "chunk-chance": 1,
             "cluster-count": 30,
             "biome": {
@@ -7450,7 +7450,7 @@
             "min-height": 115,
             "max-height": 123
         },
-        "stone_etc-surface_up_step10-any-91fbd4f0703c16649f89586f6bf8e960": {
+        "stone_etc-surface_up_step10-any-cf5a595945a9ea0e071668593931e375": {
             "chunk-chance": 1,
             "cluster-count": 30,
             "biome": {
@@ -7501,7 +7501,7 @@
             "min-height": 120,
             "max-height": 128
         },
-        "ice-lunar_hills-a4c0ecffc6b30ff6fa7c91c4c64fe4a4": {
+        "ice-lunar_hills-0d2d1972e355ba166b570cf1d63eca94": {
             "chunk-chance": 20,
             "cluster-count": 1,
             "biome": {
@@ -7536,7 +7536,7 @@
             "min-height": 68,
             "max-height": 100
         },
-        "ore0-lunar_deeps-a4c0ecffc6b30ff6fa7c91c4c64fe4a4": {
+        "ore0-lunar_deeps-0d2d1972e355ba166b570cf1d63eca94": {
             "chunk-chance": 1,
             "cluster-count": 10,
             "biome": {
@@ -7568,7 +7568,7 @@
             "min-height": 16,
             "max-height": 24
         },
-        "ore0_etc-any-a4c0ecffc6b30ff6fa7c91c4c64fe4a4": {
+        "ore0_etc-any-0d2d1972e355ba166b570cf1d63eca94": {
             "chunk-chance": 1,
             "cluster-count": 224,
             "biome": {
@@ -7794,7 +7794,7 @@
             "min-height": 0,
             "max-height": 256
         },
-        "marble2-above_ground-cf00dec48cc98c0dd61fc542e0acf879": {
+        "marble2-above_ground-7657b8c70cbbbf76c3d44affe72563e5": {
             "chunk-chance": 5,
             "cluster-count": 5,
             "biome": {
@@ -7834,7 +7834,53 @@
             "min-height": 65,
             "max-height": 138
         },
-        "iron_ore_etc-deep_up_step0-any-cf00dec48cc98c0dd61fc542e0acf879": {
+        "iron_gravel_ore-above_ground-7657b8c70cbbbf76c3d44affe72563e5": {
+            "chunk-chance": 1,
+            "cluster-count": 5,
+            "biome": {
+                "restriction": "whitelist",
+                "value": [
+                    {
+                        "type": "id",
+                        "entry": [
+                            "minecraft:extreme_hills",
+                            "minecraft:extreme_hills_with_trees",
+                            "minecraft:mutated_extreme_hills",
+                            "minecraft:smaller_extreme_hills"
+                        ]
+                    }
+                ]
+            },
+            "generator": {
+                "block": [
+                    {
+                        "name": "minecraft:gravel",
+                        "weight": 80000
+                    },
+                    {
+                        "name": "gravelores:iron_gravel_ore",
+                        "weight": 20000
+                    }
+                ],
+                "material": "minecraft:gravel",
+                "height": 1,
+                "radius": 4,
+                "shape": "CIRCLE",
+                "slim": false,
+                "type": "plate"
+            },
+            "dimension": {
+                "restriction": "blacklist",
+                "value": [
+                    -1,
+                    1
+                ]
+            },
+            "distribution": "uniform",
+            "min-height": 65,
+            "max-height": 138
+        },
+        "iron_ore_etc-deep_up_step0-any-7657b8c70cbbbf76c3d44affe72563e5": {
             "chunk-chance": 1,
             "cluster-count": 5,
             "biome": {
@@ -7887,7 +7933,7 @@
             "min-height": 8,
             "max-height": 16
         },
-        "iron_ore_etc-deep_up_step1-any-cf00dec48cc98c0dd61fc542e0acf879": {
+        "iron_ore_etc-deep_up_step1-any-7657b8c70cbbbf76c3d44affe72563e5": {
             "chunk-chance": 1,
             "cluster-count": 6,
             "biome": {
@@ -7940,7 +7986,7 @@
             "min-height": 11,
             "max-height": 19
         },
-        "iron_ore_etc-deep_up_step2-any-cf00dec48cc98c0dd61fc542e0acf879": {
+        "iron_ore_etc-deep_up_step2-any-7657b8c70cbbbf76c3d44affe72563e5": {
             "chunk-chance": 1,
             "cluster-count": 6,
             "biome": {
@@ -7993,7 +8039,7 @@
             "min-height": 14,
             "max-height": 22
         },
-        "iron_ore_etc-deep_up_step3-any-cf00dec48cc98c0dd61fc542e0acf879": {
+        "iron_ore_etc-deep_up_step3-any-7657b8c70cbbbf76c3d44affe72563e5": {
             "chunk-chance": 1,
             "cluster-count": 6,
             "biome": {
@@ -8046,7 +8092,7 @@
             "min-height": 18,
             "max-height": 26
         },
-        "iron_ore_etc-deep_up_step4-any-cf00dec48cc98c0dd61fc542e0acf879": {
+        "iron_ore_etc-deep_up_step4-any-7657b8c70cbbbf76c3d44affe72563e5": {
             "chunk-chance": 1,
             "cluster-count": 6,
             "biome": {
@@ -8099,7 +8145,7 @@
             "min-height": 21,
             "max-height": 29
         },
-        "iron_ore_etc-deep_up_step5-any-cf00dec48cc98c0dd61fc542e0acf879": {
+        "iron_ore_etc-deep_up_step5-any-7657b8c70cbbbf76c3d44affe72563e5": {
             "chunk-chance": 1,
             "cluster-count": 8,
             "biome": {
@@ -8152,7 +8198,7 @@
             "min-height": 24,
             "max-height": 32
         },
-        "iron_ore_etc-deep_up_step6-any-cf00dec48cc98c0dd61fc542e0acf879": {
+        "iron_ore_etc-deep_up_step6-any-7657b8c70cbbbf76c3d44affe72563e5": {
             "chunk-chance": 1,
             "cluster-count": 7,
             "biome": {
@@ -8205,7 +8251,7 @@
             "min-height": 27,
             "max-height": 35
         },
-        "iron_ore_etc-deep_up_step7-any-cf00dec48cc98c0dd61fc542e0acf879": {
+        "iron_ore_etc-deep_up_step7-any-7657b8c70cbbbf76c3d44affe72563e5": {
             "chunk-chance": 1,
             "cluster-count": 9,
             "biome": {
@@ -8258,7 +8304,7 @@
             "min-height": 30,
             "max-height": 38
         },
-        "iron_ore_etc-deep_up_step8-any-cf00dec48cc98c0dd61fc542e0acf879": {
+        "iron_ore_etc-deep_up_step8-any-7657b8c70cbbbf76c3d44affe72563e5": {
             "chunk-chance": 1,
             "cluster-count": 12,
             "biome": {
@@ -8311,7 +8357,7 @@
             "min-height": 34,
             "max-height": 42
         },
-        "iron_ore_etc-deep_up_step9-any-cf00dec48cc98c0dd61fc542e0acf879": {
+        "iron_ore_etc-deep_up_step9-any-7657b8c70cbbbf76c3d44affe72563e5": {
             "chunk-chance": 1,
             "cluster-count": 12,
             "biome": {
@@ -8364,7 +8410,7 @@
             "min-height": 37,
             "max-height": 45
         },
-        "iron_ore_etc-deep_up_step10-any-cf00dec48cc98c0dd61fc542e0acf879": {
+        "iron_ore_etc-deep_up_step10-any-7657b8c70cbbbf76c3d44affe72563e5": {
             "chunk-chance": 1,
             "cluster-count": 20,
             "biome": {
@@ -8417,7 +8463,7 @@
             "min-height": 40,
             "max-height": 48
         },
-        "ore_metal_poor_etc-surface_down_step0-any-cf00dec48cc98c0dd61fc542e0acf879": {
+        "ore_metal_poor_etc-surface_down_step0-any-7657b8c70cbbbf76c3d44affe72563e5": {
             "chunk-chance": 1,
             "cluster-count": 10,
             "biome": {
@@ -8470,7 +8516,7 @@
             "min-height": 72,
             "max-height": 80
         },
-        "ore_metal_poor_etc-surface_down_step1-any-cf00dec48cc98c0dd61fc542e0acf879": {
+        "ore_metal_poor_etc-surface_down_step1-any-7657b8c70cbbbf76c3d44affe72563e5": {
             "chunk-chance": 1,
             "cluster-count": 10,
             "biome": {
@@ -8523,7 +8569,7 @@
             "min-height": 69,
             "max-height": 77
         },
-        "ore_metal_poor_etc-surface_down_step2-any-cf00dec48cc98c0dd61fc542e0acf879": {
+        "ore_metal_poor_etc-surface_down_step2-any-7657b8c70cbbbf76c3d44affe72563e5": {
             "chunk-chance": 1,
             "cluster-count": 8,
             "biome": {
@@ -8576,7 +8622,7 @@
             "min-height": 66,
             "max-height": 74
         },
-        "ore_metal_poor_etc-surface_down_step3-any-cf00dec48cc98c0dd61fc542e0acf879": {
+        "ore_metal_poor_etc-surface_down_step3-any-7657b8c70cbbbf76c3d44affe72563e5": {
             "chunk-chance": 1,
             "cluster-count": 8,
             "biome": {
@@ -8629,7 +8675,7 @@
             "min-height": 62,
             "max-height": 70
         },
-        "ore_metal_poor_etc-surface_down_step4-any-cf00dec48cc98c0dd61fc542e0acf879": {
+        "ore_metal_poor_etc-surface_down_step4-any-7657b8c70cbbbf76c3d44affe72563e5": {
             "chunk-chance": 1,
             "cluster-count": 7,
             "biome": {
@@ -8682,7 +8728,7 @@
             "min-height": 59,
             "max-height": 67
         },
-        "ore_metal_poor_etc-surface_down_step5-any-cf00dec48cc98c0dd61fc542e0acf879": {
+        "ore_metal_poor_etc-surface_down_step5-any-7657b8c70cbbbf76c3d44affe72563e5": {
             "chunk-chance": 1,
             "cluster-count": 6,
             "biome": {
@@ -8735,7 +8781,7 @@
             "min-height": 56,
             "max-height": 64
         },
-        "ore_metal_poor_etc-surface_down_step6-any-cf00dec48cc98c0dd61fc542e0acf879": {
+        "ore_metal_poor_etc-surface_down_step6-any-7657b8c70cbbbf76c3d44affe72563e5": {
             "chunk-chance": 1,
             "cluster-count": 12,
             "biome": {
@@ -8788,7 +8834,7 @@
             "min-height": 53,
             "max-height": 61
         },
-        "ore_metal_poor_etc-surface_down_step7-any-cf00dec48cc98c0dd61fc542e0acf879": {
+        "ore_metal_poor_etc-surface_down_step7-any-7657b8c70cbbbf76c3d44affe72563e5": {
             "chunk-chance": 1,
             "cluster-count": 10,
             "biome": {
@@ -8841,7 +8887,7 @@
             "min-height": 50,
             "max-height": 58
         },
-        "ore_metal_poor_etc-surface_down_step8-any-cf00dec48cc98c0dd61fc542e0acf879": {
+        "ore_metal_poor_etc-surface_down_step8-any-7657b8c70cbbbf76c3d44affe72563e5": {
             "chunk-chance": 1,
             "cluster-count": 8,
             "biome": {
@@ -8894,7 +8940,7 @@
             "min-height": 46,
             "max-height": 54
         },
-        "ore_metal_poor_etc-surface_down_step9-any-cf00dec48cc98c0dd61fc542e0acf879": {
+        "ore_metal_poor_etc-surface_down_step9-any-7657b8c70cbbbf76c3d44affe72563e5": {
             "chunk-chance": 1,
             "cluster-count": 6,
             "biome": {
@@ -8947,7 +8993,7 @@
             "min-height": 43,
             "max-height": 51
         },
-        "ore_metal_poor_etc-surface_down_step10-any-cf00dec48cc98c0dd61fc542e0acf879": {
+        "ore_metal_poor_etc-surface_down_step10-any-7657b8c70cbbbf76c3d44affe72563e5": {
             "chunk-chance": 1,
             "cluster-count": 5,
             "biome": {
@@ -9000,7 +9046,7 @@
             "min-height": 40,
             "max-height": 48
         },
-        "ore_metal_poor_etc-surface_up_step0-any-cf00dec48cc98c0dd61fc542e0acf879": {
+        "ore_metal_poor_etc-surface_up_step0-any-7657b8c70cbbbf76c3d44affe72563e5": {
             "chunk-chance": 1,
             "cluster-count": 10,
             "biome": {
@@ -9053,7 +9099,7 @@
             "min-height": 72,
             "max-height": 80
         },
-        "ore_metal_poor_etc-surface_up_step1-any-cf00dec48cc98c0dd61fc542e0acf879": {
+        "ore_metal_poor_etc-surface_up_step1-any-7657b8c70cbbbf76c3d44affe72563e5": {
             "chunk-chance": 1,
             "cluster-count": 11,
             "biome": {
@@ -9106,7 +9152,7 @@
             "min-height": 77,
             "max-height": 85
         },
-        "ore_metal_poor_etc-surface_up_step2-any-cf00dec48cc98c0dd61fc542e0acf879": {
+        "ore_metal_poor_etc-surface_up_step2-any-7657b8c70cbbbf76c3d44affe72563e5": {
             "chunk-chance": 1,
             "cluster-count": 12,
             "biome": {
@@ -9159,7 +9205,7 @@
             "min-height": 82,
             "max-height": 90
         },
-        "ore_metal_poor_etc-surface_up_step3-any-cf00dec48cc98c0dd61fc542e0acf879": {
+        "ore_metal_poor_etc-surface_up_step3-any-7657b8c70cbbbf76c3d44affe72563e5": {
             "chunk-chance": 1,
             "cluster-count": 12,
             "biome": {
@@ -9212,7 +9258,7 @@
             "min-height": 86,
             "max-height": 94
         },
-        "ore_metal_poor_etc-surface_up_step4-any-cf00dec48cc98c0dd61fc542e0acf879": {
+        "ore_metal_poor_etc-surface_up_step4-any-7657b8c70cbbbf76c3d44affe72563e5": {
             "chunk-chance": 1,
             "cluster-count": 12,
             "biome": {
@@ -9265,7 +9311,7 @@
             "min-height": 91,
             "max-height": 99
         },
-        "ore_metal_poor_etc-surface_up_step5-any-cf00dec48cc98c0dd61fc542e0acf879": {
+        "ore_metal_poor_etc-surface_up_step5-any-7657b8c70cbbbf76c3d44affe72563e5": {
             "chunk-chance": 1,
             "cluster-count": 13,
             "biome": {
@@ -9318,7 +9364,7 @@
             "min-height": 96,
             "max-height": 104
         },
-        "ore_metal_poor_etc-surface_up_step6-any-cf00dec48cc98c0dd61fc542e0acf879": {
+        "ore_metal_poor_etc-surface_up_step6-any-7657b8c70cbbbf76c3d44affe72563e5": {
             "chunk-chance": 1,
             "cluster-count": 26,
             "biome": {
@@ -9371,7 +9417,7 @@
             "min-height": 101,
             "max-height": 109
         },
-        "ore_metal_poor_etc-surface_up_step7-any-cf00dec48cc98c0dd61fc542e0acf879": {
+        "ore_metal_poor_etc-surface_up_step7-any-7657b8c70cbbbf76c3d44affe72563e5": {
             "chunk-chance": 1,
             "cluster-count": 28,
             "biome": {
@@ -9424,7 +9470,7 @@
             "min-height": 106,
             "max-height": 114
         },
-        "ore_metal_poor_etc-surface_up_step8-any-cf00dec48cc98c0dd61fc542e0acf879": {
+        "ore_metal_poor_etc-surface_up_step8-any-7657b8c70cbbbf76c3d44affe72563e5": {
             "chunk-chance": 1,
             "cluster-count": 28,
             "biome": {
@@ -9477,7 +9523,7 @@
             "min-height": 110,
             "max-height": 118
         },
-        "ore_metal_poor_etc-surface_up_step9-any-cf00dec48cc98c0dd61fc542e0acf879": {
+        "ore_metal_poor_etc-surface_up_step9-any-7657b8c70cbbbf76c3d44affe72563e5": {
             "chunk-chance": 1,
             "cluster-count": 30,
             "biome": {
@@ -9530,7 +9576,7 @@
             "min-height": 115,
             "max-height": 123
         },
-        "ore_metal_poor_etc-surface_up_step10-any-cf00dec48cc98c0dd61fc542e0acf879": {
+        "ore_metal_poor_etc-surface_up_step10-any-7657b8c70cbbbf76c3d44affe72563e5": {
             "chunk-chance": 1,
             "cluster-count": 30,
             "biome": {
@@ -9583,7 +9629,7 @@
             "min-height": 120,
             "max-height": 128
         },
-        "ore_metal_poor_etc-ocean_floor-cd12bce82aaffab73f93248bfe343baa": {
+        "ore_metal_poor_etc-ocean_floor-5ad2f99f463a372a3fefd2cbf41e39f7": {
             "chunk-chance": 1,
             "cluster-count": 50,
             "biome": {
@@ -9657,7 +9703,7 @@
             "min-height": 0,
             "max-height": 40
         },
-        "aluminum_gravel_ore_etc-submerged_gravel-cd12bce82aaffab73f93248bfe343baa": {
+        "aluminum_gravel_ore_etc-submerged_gravel-5ad2f99f463a372a3fefd2cbf41e39f7": {
             "chunk-chance": 1,
             "cluster-count": 2,
             "biome": {
@@ -9731,7 +9777,7 @@
             "min-height": 32,
             "max-height": 64
         },
-        "ore-lava-cd12bce82aaffab73f93248bfe343baa": {
+        "ore-lava-5ad2f99f463a372a3fefd2cbf41e39f7": {
             "chunk-chance": 1,
             "cluster-count": 10,
             "biome": {
@@ -11596,7 +11642,7 @@
             "min-height": 120,
             "max-height": 128
         },
-        "lapis_gravel_ore_etc-submerged_gravel-abc9f3333f1f1b34627d20b6078f42ee": {
+        "lapis_gravel_ore_etc-submerged_gravel-ee0f5f0f2f5c79101dfc10a6e05c071c": {
             "chunk-chance": 1,
             "cluster-count": 82,
             "biome": {
@@ -11641,7 +11687,7 @@
             "min-height": 32,
             "max-height": 64
         },
-        "lapis_ore_etc-surface_down_step0-any-abc9f3333f1f1b34627d20b6078f42ee": {
+        "lapis_ore_etc-surface_down_step0-any-ee0f5f0f2f5c79101dfc10a6e05c071c": {
             "chunk-chance": 1,
             "cluster-count": 10,
             "biome": {
@@ -11688,7 +11734,7 @@
             "min-height": 72,
             "max-height": 80
         },
-        "lapis_ore_etc-surface_down_step1-any-abc9f3333f1f1b34627d20b6078f42ee": {
+        "lapis_ore_etc-surface_down_step1-any-ee0f5f0f2f5c79101dfc10a6e05c071c": {
             "chunk-chance": 1,
             "cluster-count": 10,
             "biome": {
@@ -11735,7 +11781,7 @@
             "min-height": 69,
             "max-height": 77
         },
-        "lapis_ore_etc-surface_down_step2-any-abc9f3333f1f1b34627d20b6078f42ee": {
+        "lapis_ore_etc-surface_down_step2-any-ee0f5f0f2f5c79101dfc10a6e05c071c": {
             "chunk-chance": 1,
             "cluster-count": 8,
             "biome": {
@@ -11782,7 +11828,7 @@
             "min-height": 66,
             "max-height": 74
         },
-        "lapis_ore_etc-surface_down_step3-any-abc9f3333f1f1b34627d20b6078f42ee": {
+        "lapis_ore_etc-surface_down_step3-any-ee0f5f0f2f5c79101dfc10a6e05c071c": {
             "chunk-chance": 1,
             "cluster-count": 8,
             "biome": {
@@ -11829,7 +11875,7 @@
             "min-height": 62,
             "max-height": 70
         },
-        "lapis_ore_etc-surface_down_step4-any-abc9f3333f1f1b34627d20b6078f42ee": {
+        "lapis_ore_etc-surface_down_step4-any-ee0f5f0f2f5c79101dfc10a6e05c071c": {
             "chunk-chance": 1,
             "cluster-count": 7,
             "biome": {
@@ -11876,7 +11922,7 @@
             "min-height": 59,
             "max-height": 67
         },
-        "lapis_ore_etc-surface_down_step5-any-abc9f3333f1f1b34627d20b6078f42ee": {
+        "lapis_ore_etc-surface_down_step5-any-ee0f5f0f2f5c79101dfc10a6e05c071c": {
             "chunk-chance": 1,
             "cluster-count": 6,
             "biome": {
@@ -11923,7 +11969,7 @@
             "min-height": 56,
             "max-height": 64
         },
-        "lapis_ore_etc-surface_down_step6-any-abc9f3333f1f1b34627d20b6078f42ee": {
+        "lapis_ore_etc-surface_down_step6-any-ee0f5f0f2f5c79101dfc10a6e05c071c": {
             "chunk-chance": 1,
             "cluster-count": 12,
             "biome": {
@@ -11970,7 +12016,7 @@
             "min-height": 53,
             "max-height": 61
         },
-        "lapis_ore_etc-surface_down_step7-any-abc9f3333f1f1b34627d20b6078f42ee": {
+        "lapis_ore_etc-surface_down_step7-any-ee0f5f0f2f5c79101dfc10a6e05c071c": {
             "chunk-chance": 1,
             "cluster-count": 10,
             "biome": {
@@ -12017,7 +12063,7 @@
             "min-height": 50,
             "max-height": 58
         },
-        "lapis_ore_etc-surface_down_step8-any-abc9f3333f1f1b34627d20b6078f42ee": {
+        "lapis_ore_etc-surface_down_step8-any-ee0f5f0f2f5c79101dfc10a6e05c071c": {
             "chunk-chance": 1,
             "cluster-count": 8,
             "biome": {
@@ -12064,7 +12110,7 @@
             "min-height": 46,
             "max-height": 54
         },
-        "lapis_ore_etc-surface_down_step9-any-abc9f3333f1f1b34627d20b6078f42ee": {
+        "lapis_ore_etc-surface_down_step9-any-ee0f5f0f2f5c79101dfc10a6e05c071c": {
             "chunk-chance": 1,
             "cluster-count": 6,
             "biome": {
@@ -12111,7 +12157,7 @@
             "min-height": 43,
             "max-height": 51
         },
-        "lapis_ore_etc-surface_down_step10-any-abc9f3333f1f1b34627d20b6078f42ee": {
+        "lapis_ore_etc-surface_down_step10-any-ee0f5f0f2f5c79101dfc10a6e05c071c": {
             "chunk-chance": 1,
             "cluster-count": 5,
             "biome": {
@@ -13837,7 +13883,7 @@
             "min-height": 120,
             "max-height": 128
         },
-        "ore0-surface-883de3a98f8a0e1287a31c103956b072": {
+        "ore0-surface-697f3656feca6531b1dca6b4e4be1985": {
             "chunk-chance": 1,
             "cluster-count": 20,
             "biome": {
@@ -13874,7 +13920,7 @@
             "spread": 16,
             "smoothness": 2
         },
-        "lava-diamond_ore-lake-lava-68a9ee2245ada3ebe389fdd42129e63c": {
+        "lava-diamond_ore-lake-lava-064cfaa575a2922df7b0a8c3ff013afc": {
             "chunk-chance": 3,
             "cluster-count": 1,
             "biome": {
@@ -13919,7 +13965,7 @@
             "min-height": 0,
             "max-height": 16
         },
-        "basalt2-lava-68a9ee2245ada3ebe389fdd42129e63c": {
+        "basalt2-lava-064cfaa575a2922df7b0a8c3ff013afc": {
             "chunk-chance": 5,
             "cluster-count": 1,
             "biome": {
@@ -13958,7 +14004,7 @@
             "min-height": 0,
             "max-height": 16
         },
-        "coal_ore_etc-coal_gradient_step0-any-68a9ee2245ada3ebe389fdd42129e63c": {
+        "coal_ore_etc-coal_gradient_step0-any-064cfaa575a2922df7b0a8c3ff013afc": {
             "chunk-chance": 1,
             "cluster-count": 5,
             "biome": {
@@ -14000,7 +14046,7 @@
             "min-height": 52,
             "max-height": 60
         },
-        "coal_ore_etc-coal_gradient_step1-any-68a9ee2245ada3ebe389fdd42129e63c": {
+        "coal_ore_etc-coal_gradient_step1-any-064cfaa575a2922df7b0a8c3ff013afc": {
             "chunk-chance": 1,
             "cluster-count": 5,
             "biome": {
@@ -14042,7 +14088,7 @@
             "min-height": 47,
             "max-height": 55
         },
-        "coal_ore_etc-coal_gradient_step2-any-68a9ee2245ada3ebe389fdd42129e63c": {
+        "coal_ore_etc-coal_gradient_step2-any-064cfaa575a2922df7b0a8c3ff013afc": {
             "chunk-chance": 1,
             "cluster-count": 5,
             "biome": {
@@ -14084,7 +14130,7 @@
             "min-height": 42,
             "max-height": 50
         },
-        "coal_ore_etc-coal_gradient_step3-any-68a9ee2245ada3ebe389fdd42129e63c": {
+        "coal_ore_etc-coal_gradient_step3-any-064cfaa575a2922df7b0a8c3ff013afc": {
             "chunk-chance": 1,
             "cluster-count": 5,
             "biome": {
@@ -14126,7 +14172,7 @@
             "min-height": 36,
             "max-height": 44
         },
-        "coal_ore_etc-coal_gradient_step4-any-68a9ee2245ada3ebe389fdd42129e63c": {
+        "coal_ore_etc-coal_gradient_step4-any-064cfaa575a2922df7b0a8c3ff013afc": {
             "chunk-chance": 1,
             "cluster-count": 5,
             "biome": {
@@ -14168,7 +14214,7 @@
             "min-height": 31,
             "max-height": 39
         },
-        "coal_ore_etc-coal_gradient_step5-any-68a9ee2245ada3ebe389fdd42129e63c": {
+        "coal_ore_etc-coal_gradient_step5-any-064cfaa575a2922df7b0a8c3ff013afc": {
             "chunk-chance": 1,
             "cluster-count": 6,
             "biome": {
@@ -14210,7 +14256,7 @@
             "min-height": 26,
             "max-height": 34
         },
-        "coal_ore_etc-coal_gradient_step6-any-68a9ee2245ada3ebe389fdd42129e63c": {
+        "coal_ore_etc-coal_gradient_step6-any-064cfaa575a2922df7b0a8c3ff013afc": {
             "chunk-chance": 1,
             "cluster-count": 6,
             "biome": {
@@ -14252,7 +14298,7 @@
             "min-height": 21,
             "max-height": 29
         },
-        "coal_ore_etc-coal_gradient_step7-any-68a9ee2245ada3ebe389fdd42129e63c": {
+        "coal_ore_etc-coal_gradient_step7-any-064cfaa575a2922df7b0a8c3ff013afc": {
             "chunk-chance": 1,
             "cluster-count": 6,
             "biome": {
@@ -14294,7 +14340,7 @@
             "min-height": 16,
             "max-height": 24
         },
-        "coal_ore_etc-coal_gradient_step8-any-68a9ee2245ada3ebe389fdd42129e63c": {
+        "coal_ore_etc-coal_gradient_step8-any-064cfaa575a2922df7b0a8c3ff013afc": {
             "chunk-chance": 1,
             "cluster-count": 6,
             "biome": {
@@ -14336,7 +14382,7 @@
             "min-height": 10,
             "max-height": 18
         },
-        "coal_ore_etc-coal_gradient_step9-any-68a9ee2245ada3ebe389fdd42129e63c": {
+        "coal_ore_etc-coal_gradient_step9-any-064cfaa575a2922df7b0a8c3ff013afc": {
             "chunk-chance": 1,
             "cluster-count": 6,
             "biome": {
@@ -14378,7 +14424,7 @@
             "min-height": 5,
             "max-height": 13
         },
-        "coal_ore_etc-coal_gradient_step10-any-68a9ee2245ada3ebe389fdd42129e63c": {
+        "coal_ore_etc-coal_gradient_step10-any-064cfaa575a2922df7b0a8c3ff013afc": {
             "chunk-chance": 1,
             "cluster-count": 5,
             "biome": {
@@ -14420,7 +14466,7 @@
             "min-height": 0,
             "max-height": 8
         },
-        "ore_fluid-surface-4ad12da02bbff316259360ddf4b18520": {
+        "ore_fluid-surface-ee244da1c9c46b3ecbc437f7f756a00d": {
             "chunk-chance": 3,
             "cluster-count": 1,
             "biome": {
@@ -14467,7 +14513,7 @@
             "spread": 16,
             "smoothness": 2
         },
-        "fluid_crude_oil-stone-lake-below_ground-4ad12da02bbff316259360ddf4b18520": {
+        "fluid_crude_oil-stone-lake-below_ground-ee244da1c9c46b3ecbc437f7f756a00d": {
             "chunk-chance": 10,
             "cluster-count": 4,
             "biome": {
@@ -14503,7 +14549,7 @@
             "min-height": 0,
             "max-height": 64
         },
-        "generic-any-4ad12da02bbff316259360ddf4b18520": {
+        "generic-any-ee244da1c9c46b3ecbc437f7f756a00d": {
             "chunk-chance": 5,
             "cluster-count": 16,
             "biome": {
@@ -14542,7 +14588,7 @@
             "min-height": 0,
             "max-height": 256
         },
-        "ore_metal_etc-deep_up_step0-any-4ad12da02bbff316259360ddf4b18520": {
+        "ore_metal_etc-deep_up_step0-any-ee244da1c9c46b3ecbc437f7f756a00d": {
             "chunk-chance": 1,
             "cluster-count": 5,
             "biome": {
@@ -14595,7 +14641,7 @@
             "min-height": 8,
             "max-height": 16
         },
-        "ore_metal_etc-deep_up_step1-any-4ad12da02bbff316259360ddf4b18520": {
+        "ore_metal_etc-deep_up_step1-any-ee244da1c9c46b3ecbc437f7f756a00d": {
             "chunk-chance": 1,
             "cluster-count": 6,
             "biome": {
@@ -14648,7 +14694,7 @@
             "min-height": 11,
             "max-height": 19
         },
-        "ore_metal_etc-deep_up_step2-any-4ad12da02bbff316259360ddf4b18520": {
+        "ore_metal_etc-deep_up_step2-any-ee244da1c9c46b3ecbc437f7f756a00d": {
             "chunk-chance": 1,
             "cluster-count": 6,
             "biome": {
@@ -14701,7 +14747,7 @@
             "min-height": 14,
             "max-height": 22
         },
-        "ore_metal_etc-deep_up_step3-any-4ad12da02bbff316259360ddf4b18520": {
+        "ore_metal_etc-deep_up_step3-any-ee244da1c9c46b3ecbc437f7f756a00d": {
             "chunk-chance": 1,
             "cluster-count": 6,
             "biome": {
@@ -14754,7 +14800,7 @@
             "min-height": 18,
             "max-height": 26
         },
-        "ore_metal_etc-deep_up_step4-any-4ad12da02bbff316259360ddf4b18520": {
+        "ore_metal_etc-deep_up_step4-any-ee244da1c9c46b3ecbc437f7f756a00d": {
             "chunk-chance": 1,
             "cluster-count": 6,
             "biome": {
@@ -14807,7 +14853,7 @@
             "min-height": 21,
             "max-height": 29
         },
-        "ore_metal_etc-deep_up_step5-any-4ad12da02bbff316259360ddf4b18520": {
+        "ore_metal_etc-deep_up_step5-any-ee244da1c9c46b3ecbc437f7f756a00d": {
             "chunk-chance": 1,
             "cluster-count": 8,
             "biome": {
@@ -14860,7 +14906,7 @@
             "min-height": 24,
             "max-height": 32
         },
-        "ore_metal_etc-deep_up_step6-any-4ad12da02bbff316259360ddf4b18520": {
+        "ore_metal_etc-deep_up_step6-any-ee244da1c9c46b3ecbc437f7f756a00d": {
             "chunk-chance": 1,
             "cluster-count": 7,
             "biome": {
@@ -14913,7 +14959,7 @@
             "min-height": 27,
             "max-height": 35
         },
-        "ore_metal_etc-deep_up_step7-any-4ad12da02bbff316259360ddf4b18520": {
+        "ore_metal_etc-deep_up_step7-any-ee244da1c9c46b3ecbc437f7f756a00d": {
             "chunk-chance": 1,
             "cluster-count": 9,
             "biome": {
@@ -14966,7 +15012,7 @@
             "min-height": 30,
             "max-height": 38
         },
-        "ore_metal_etc-deep_up_step8-any-4ad12da02bbff316259360ddf4b18520": {
+        "ore_metal_etc-deep_up_step8-any-ee244da1c9c46b3ecbc437f7f756a00d": {
             "chunk-chance": 1,
             "cluster-count": 12,
             "biome": {
@@ -15019,7 +15065,7 @@
             "min-height": 34,
             "max-height": 42
         },
-        "ore_metal_etc-deep_up_step9-any-4ad12da02bbff316259360ddf4b18520": {
+        "ore_metal_etc-deep_up_step9-any-ee244da1c9c46b3ecbc437f7f756a00d": {
             "chunk-chance": 1,
             "cluster-count": 12,
             "biome": {
@@ -15072,7 +15118,7 @@
             "min-height": 37,
             "max-height": 45
         },
-        "ore_metal_etc-deep_up_step10-any-4ad12da02bbff316259360ddf4b18520": {
+        "ore_metal_etc-deep_up_step10-any-ee244da1c9c46b3ecbc437f7f756a00d": {
             "chunk-chance": 1,
             "cluster-count": 20,
             "biome": {
@@ -15125,7 +15171,7 @@
             "min-height": 40,
             "max-height": 48
         },
-        "ore_metal_poor_etc-surface_down_step0-any-4ad12da02bbff316259360ddf4b18520": {
+        "ore_metal_poor_etc-surface_down_step0-any-ee244da1c9c46b3ecbc437f7f756a00d": {
             "chunk-chance": 1,
             "cluster-count": 10,
             "biome": {
@@ -15183,7 +15229,7 @@
             "min-height": 72,
             "max-height": 80
         },
-        "ore_metal_poor_etc-surface_down_step1-any-4ad12da02bbff316259360ddf4b18520": {
+        "ore_metal_poor_etc-surface_down_step1-any-ee244da1c9c46b3ecbc437f7f756a00d": {
             "chunk-chance": 1,
             "cluster-count": 10,
             "biome": {
@@ -15241,7 +15287,7 @@
             "min-height": 69,
             "max-height": 77
         },
-        "ore_metal_poor_etc-surface_down_step2-any-4ad12da02bbff316259360ddf4b18520": {
+        "ore_metal_poor_etc-surface_down_step2-any-ee244da1c9c46b3ecbc437f7f756a00d": {
             "chunk-chance": 1,
             "cluster-count": 8,
             "biome": {
@@ -15299,7 +15345,7 @@
             "min-height": 66,
             "max-height": 74
         },
-        "ore_metal_poor_etc-surface_down_step3-any-4ad12da02bbff316259360ddf4b18520": {
+        "ore_metal_poor_etc-surface_down_step3-any-ee244da1c9c46b3ecbc437f7f756a00d": {
             "chunk-chance": 1,
             "cluster-count": 8,
             "biome": {
@@ -15357,7 +15403,7 @@
             "min-height": 62,
             "max-height": 70
         },
-        "ore_metal_poor_etc-surface_down_step4-any-4ad12da02bbff316259360ddf4b18520": {
+        "ore_metal_poor_etc-surface_down_step4-any-ee244da1c9c46b3ecbc437f7f756a00d": {
             "chunk-chance": 1,
             "cluster-count": 7,
             "biome": {
@@ -15415,7 +15461,7 @@
             "min-height": 59,
             "max-height": 67
         },
-        "ore_metal_poor_etc-surface_down_step5-any-4ad12da02bbff316259360ddf4b18520": {
+        "ore_metal_poor_etc-surface_down_step5-any-ee244da1c9c46b3ecbc437f7f756a00d": {
             "chunk-chance": 1,
             "cluster-count": 6,
             "biome": {
@@ -15473,7 +15519,7 @@
             "min-height": 56,
             "max-height": 64
         },
-        "ore_metal_poor_etc-surface_down_step6-any-4ad12da02bbff316259360ddf4b18520": {
+        "ore_metal_poor_etc-surface_down_step6-any-ee244da1c9c46b3ecbc437f7f756a00d": {
             "chunk-chance": 1,
             "cluster-count": 12,
             "biome": {
@@ -15531,7 +15577,7 @@
             "min-height": 53,
             "max-height": 61
         },
-        "ore_metal_poor_etc-surface_down_step7-any-4ad12da02bbff316259360ddf4b18520": {
+        "ore_metal_poor_etc-surface_down_step7-any-ee244da1c9c46b3ecbc437f7f756a00d": {
             "chunk-chance": 1,
             "cluster-count": 10,
             "biome": {
@@ -15589,7 +15635,7 @@
             "min-height": 50,
             "max-height": 58
         },
-        "ore_metal_poor_etc-surface_down_step8-any-4ad12da02bbff316259360ddf4b18520": {
+        "ore_metal_poor_etc-surface_down_step8-any-ee244da1c9c46b3ecbc437f7f756a00d": {
             "chunk-chance": 1,
             "cluster-count": 8,
             "biome": {
@@ -15647,7 +15693,7 @@
             "min-height": 46,
             "max-height": 54
         },
-        "ore_metal_poor_etc-surface_down_step9-any-4ad12da02bbff316259360ddf4b18520": {
+        "ore_metal_poor_etc-surface_down_step9-any-ee244da1c9c46b3ecbc437f7f756a00d": {
             "chunk-chance": 1,
             "cluster-count": 6,
             "biome": {
@@ -15705,7 +15751,7 @@
             "min-height": 43,
             "max-height": 51
         },
-        "ore_metal_poor_etc-surface_down_step10-any-4ad12da02bbff316259360ddf4b18520": {
+        "ore_metal_poor_etc-surface_down_step10-any-ee244da1c9c46b3ecbc437f7f756a00d": {
             "chunk-chance": 1,
             "cluster-count": 5,
             "biome": {
@@ -15763,7 +15809,7 @@
             "min-height": 40,
             "max-height": 48
         },
-        "ore_metal_poor_etc-surface_up_step0-any-4ad12da02bbff316259360ddf4b18520": {
+        "ore_metal_poor_etc-surface_up_step0-any-ee244da1c9c46b3ecbc437f7f756a00d": {
             "chunk-chance": 1,
             "cluster-count": 10,
             "biome": {
@@ -15821,7 +15867,7 @@
             "min-height": 72,
             "max-height": 80
         },
-        "ore_metal_poor_etc-surface_up_step1-any-4ad12da02bbff316259360ddf4b18520": {
+        "ore_metal_poor_etc-surface_up_step1-any-ee244da1c9c46b3ecbc437f7f756a00d": {
             "chunk-chance": 1,
             "cluster-count": 11,
             "biome": {
@@ -15879,7 +15925,7 @@
             "min-height": 77,
             "max-height": 85
         },
-        "ore_metal_poor_etc-surface_up_step2-any-4ad12da02bbff316259360ddf4b18520": {
+        "ore_metal_poor_etc-surface_up_step2-any-ee244da1c9c46b3ecbc437f7f756a00d": {
             "chunk-chance": 1,
             "cluster-count": 12,
             "biome": {
@@ -15937,7 +15983,7 @@
             "min-height": 82,
             "max-height": 90
         },
-        "ore_metal_poor_etc-surface_up_step3-any-4ad12da02bbff316259360ddf4b18520": {
+        "ore_metal_poor_etc-surface_up_step3-any-ee244da1c9c46b3ecbc437f7f756a00d": {
             "chunk-chance": 1,
             "cluster-count": 12,
             "biome": {
@@ -15995,7 +16041,7 @@
             "min-height": 86,
             "max-height": 94
         },
-        "ore_metal_poor_etc-surface_up_step4-any-4ad12da02bbff316259360ddf4b18520": {
+        "ore_metal_poor_etc-surface_up_step4-any-ee244da1c9c46b3ecbc437f7f756a00d": {
             "chunk-chance": 1,
             "cluster-count": 12,
             "biome": {
@@ -16053,7 +16099,7 @@
             "min-height": 91,
             "max-height": 99
         },
-        "ore_metal_poor_etc-surface_up_step5-any-4ad12da02bbff316259360ddf4b18520": {
+        "ore_metal_poor_etc-surface_up_step5-any-ee244da1c9c46b3ecbc437f7f756a00d": {
             "chunk-chance": 1,
             "cluster-count": 13,
             "biome": {
@@ -16111,7 +16157,7 @@
             "min-height": 96,
             "max-height": 104
         },
-        "ore_metal_poor_etc-surface_up_step6-any-4ad12da02bbff316259360ddf4b18520": {
+        "ore_metal_poor_etc-surface_up_step6-any-ee244da1c9c46b3ecbc437f7f756a00d": {
             "chunk-chance": 1,
             "cluster-count": 26,
             "biome": {
@@ -16169,7 +16215,7 @@
             "min-height": 101,
             "max-height": 109
         },
-        "ore_metal_poor_etc-surface_up_step7-any-4ad12da02bbff316259360ddf4b18520": {
+        "ore_metal_poor_etc-surface_up_step7-any-ee244da1c9c46b3ecbc437f7f756a00d": {
             "chunk-chance": 1,
             "cluster-count": 28,
             "biome": {
@@ -16227,7 +16273,7 @@
             "min-height": 106,
             "max-height": 114
         },
-        "ore_metal_poor_etc-surface_up_step8-any-4ad12da02bbff316259360ddf4b18520": {
+        "ore_metal_poor_etc-surface_up_step8-any-ee244da1c9c46b3ecbc437f7f756a00d": {
             "chunk-chance": 1,
             "cluster-count": 28,
             "biome": {
@@ -16285,7 +16331,7 @@
             "min-height": 110,
             "max-height": 118
         },
-        "ore_metal_poor_etc-surface_up_step9-any-4ad12da02bbff316259360ddf4b18520": {
+        "ore_metal_poor_etc-surface_up_step9-any-ee244da1c9c46b3ecbc437f7f756a00d": {
             "chunk-chance": 1,
             "cluster-count": 30,
             "biome": {
@@ -16343,7 +16389,7 @@
             "min-height": 115,
             "max-height": 123
         },
-        "ore_metal_poor_etc-surface_up_step10-any-4ad12da02bbff316259360ddf4b18520": {
+        "ore_metal_poor_etc-surface_up_step10-any-ee244da1c9c46b3ecbc437f7f756a00d": {
             "chunk-chance": 1,
             "cluster-count": 30,
             "biome": {
@@ -16400,6 +16446,32 @@
             "distribution": "uniform",
             "min-height": 120,
             "max-height": 128
+        },
+        "monster_egg_stone-monster_band-d41d8cd98f00b204e9800998ecf8427e": {
+            "chunk-chance": 1,
+            "cluster-count": 15,
+            "biome": "any",
+            "generator": {
+                "block": {
+                    "name": "minecraft:monster_egg",
+                    "properties": {
+                        "variant": "stone"
+                    }
+                },
+                "material": "minecraft:stone",
+                "cluster-size": 2,
+                "type": "cluster"
+            },
+            "dimension": {
+                "restriction": "blacklist",
+                "value": [
+                    -1,
+                    1
+                ]
+            },
+            "distribution": "uniform",
+            "min-height": 0,
+            "max-height": 24
         },
         "ore_fluid-nether_floor-ad5f95ab52379818db6e4844190e6988": {
             "chunk-chance": 20,

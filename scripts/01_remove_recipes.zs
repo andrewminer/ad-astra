@@ -15,6 +15,14 @@ for i in ids {
 # Fist Full of Hay
 JEI.removeAndHide(<fistful_of_hay:logo>);
 
+# Minecraft
+JEI.removeAndHide(<minecraft:boat>);
+JEI.removeAndHide(<minecraft:acacia_boat>);
+JEI.removeAndHide(<minecraft:birch_boat>);
+JEI.removeAndHide(<minecraft:dark_oak_boat>);
+JEI.removeAndHide(<minecraft:jungle_boat>);
+JEI.removeAndHide(<minecraft:spruce_boat>);
+
 # Mowzie's Mobs
 JEI.removeAndHide(<mowziesmobs:mob_remover>);
 JEI.removeAndHide(<mowziesmobs:test_structure>);
@@ -28,6 +36,6 @@ for i in ids {
     JEI.removeAndHide(<thermalfoundation:coin>.definition.makeStack(i));
 }
 
-# Vehicles Mode
+# Vehicles Mod
 JEI.removeAndHide(<vehicle:fluid_pipe>);
 JEI.removeAndHide(<vehicle:fluid_pump>);

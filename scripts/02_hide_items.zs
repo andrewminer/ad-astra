@@ -364,6 +364,7 @@ for nameParts in hideWoodVariantNames {
 # Hide arbitrary patterns of items
 var hideRegexPatterns = [
     "dynamictreesphc:.*seed",
+    "fssm:.*foney",
     "harvestcraft:.*seeditem",
     "harvestcraft:.*_sapling",
     "minecraft:record_.*",

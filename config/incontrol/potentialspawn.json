@@ -1,13 +1,1506 @@
 [
     {
         "remove": [
+            "horse_colors:horse_felinoid",
+            "minecraft:bat",
+            "minecraft:blaze",
+            "minecraft:cave_spider",
             "minecraft:chicken",
             "minecraft:cow",
             "minecraft:donkey",
+            "minecraft:enderman",
+            "minecraft:llama",
+            "minecraft:mooshroom",
+            "minecraft:mule",
+            "minecraft:ocelot",
+            "minecraft:parrot",
             "minecraft:pig",
+            "minecraft:rabbit",
+            "minecraft:sheep",
+            "minecraft:slime",
+            "minecraft:spider",
+            "minecraft:squid",
             "minecraft:villager",
             "minecraft:villager_golem",
-            "zawa:brownrat"
+            "minecraft:witch",
+            "minecraft:wolf",
+            "mowziesmobs:baby_foliaath",
+            "mowziesmobs:foliaath",
+            "mowziesmobs:frostmaw",
+            "mowziesmobs:grottol",
+            "mowziesmobs:lantern",
+            "mowziesmobs:naga",
+            "thermalfoundation:basalz",
+            "thermalfoundation:blitz",
+            "thermalfoundation:blizz",
+            "zawa:africanelephant",
+            "zawa:africanlion",
+            "zawa:albatross",
+            "zawa:americanbison",
+            "zawa:amurleopard",
+            "zawa:andeancondor",
+            "zawa:asianelephant",
+            "zawa:baldeagle",
+            "zawa:beaver",
+            "zawa:bengaltiger",
+            "zawa:blackrhinoceros",
+            "zawa:blackspidermonkey",
+            "zawa:bluefish",
+            "zawa:bottlenosedolphin",
+            "zawa:braziliantapir",
+            "zawa:brownrat",
+            "zawa:cassowary",
+            "zawa:cichlid",
+            "zawa:clownfish",
+            "zawa:coatimundi",
+            "zawa:cockatoo",
+            "zawa:coconutcrab",
+            "zawa:commonchimpanzee",
+            "zawa:echidna",
+            "zawa:fijibandediguana",
+            "zawa:frigate",
+            "zawa:galapagostortoise",
+            "zawa:gaur",
+            "zawa:goldenliontamarin",
+            "zawa:greathornedowl",
+            "zawa:greatwhiteshark",
+            "zawa:greenanaconda",
+            "zawa:grevyszebra",
+            "zawa:grizzlybear",
+            "zawa:harpyeagle",
+            "zawa:hawksbillseaturtle",
+            "zawa:humpbackwhale",
+            "zawa:indiangharial",
+            "zawa:indianpangolin",
+            "zawa:jaguar",
+            "zawa:japanesegiantsalamander",
+            "zawa:koala",
+            "zawa:macaw",
+            "zawa:marineiguana",
+            "zawa:marinetang",
+            "zawa:meerkat",
+            "zawa:moose",
+            "zawa:morayeel",
+            "zawa:nilehippopotamus",
+            "zawa:octopus",
+            "zawa:okapi",
+            "zawa:orca",
+            "zawa:pacificwalrus",
+            "zawa:platypus",
+            "zawa:polarbear",
+            "zawa:pufferfish",
+            "zawa:pygmyhippopotamus",
+            "zawa:rattlesnake",
+            "zawa:redkangaroo",
+            "zawa:redpanda",
+            "zawa:reticulatedgiraffe",
+            "zawa:sockeyesalmon",
+            "zawa:sumatranrhinoceros",
+            "zawa:tasmaniandevil",
+            "zawa:threetoedsloth",
+            "zawa:tigershark",
+            "zawa:toucan",
+            "zawa:treefrog",
+            "zawa:westernlowlandgorilla"
+        ]
+    },
+    {
+        "biome": [
+            "Cold Beach"
+        ],
+        "block": [
+            "minecraft:dirt",
+            "minecraft:gravel",
+            "minecraft:ice",
+            "minecraft:sand",
+            "minecraft:snow"
+        ],
+        "mobs": [
+            {
+                "mob": "minecraft:giant",
+                "weight": 1787
+            },
+            {
+                "mob": "zawa:pacificwalrus",
+                "groupcountmin": 6,
+                "groupcountmax": 10,
+                "weight": 10
+            },
+            {
+                "mob": "zawa:albatross",
+                "groupcountmin": 1,
+                "groupcountmax": 1,
+                "weight": 2
+            },
+            {
+                "mob": "zawa:polarbear",
+                "groupcountmin": 1,
+                "groupcountmax": 1,
+                "weight": 1
+            }
+        ]
+    },
+    {
+        "biome": [
+            "OceanSpires",
+            "Stone Beach"
+        ],
+        "block": [
+            "minecraft:gravel",
+            "minecraft:dirt",
+            "minecraft:sand"
+        ],
+        "mobs": [
+            {
+                "mob": "minecraft:giant",
+                "weight": 1789
+            },
+            {
+                "mob": "zawa:frigate",
+                "groupcountmin": 3,
+                "groupcountmax": 6,
+                "weight": 10
+            },
+            {
+                "mob": "zawa:albatross",
+                "groupcountmin": 1,
+                "groupcountmax": 1,
+                "weight": 1
+            }
+        ]
+    },
+    {
+        "biome": [
+            "Beach"
+        ],
+        "block": [
+            "minecraft:grass",
+            "minecraft:sand"
+        ],
+        "mobs": [
+            {
+                "mob": "minecraft:giant",
+                "weight": 1014
+            },
+            {
+                "mob": "zawa:frigate",
+                "groupcountmin": 3,
+                "groupcountmax": 6,
+                "weight": 100
+            },
+            {
+                "mob": "zawa:coconutcrab",
+                "groupcountmin": 2,
+                "groupcountmax": 3,
+                "weight": 60
+            },
+            {
+                "mob": "zawa:marineiguana",
+                "groupcountmin": 1,
+                "groupcountmax": 2,
+                "weight": 15
+            },
+            {
+                "mob": "zawa:galapagostortoise",
+                "groupcountmin": 2,
+                "groupcountmax": 3,
+                "weight": 10
+            },
+            {
+                "mob": "zawa:albatross",
+                "groupcountmin": 1,
+                "groupcountmax": 1,
+                "weight": 1
+            }
+        ]
+    },
+    {
+        "biome": [
+            "Desert",
+            "Desert M",
+            "DesertHills"
+        ],
+        "block": [
+            "minecraft:dirt",
+            "minecraft:sand",
+            "minecraft:sandstone"
+        ],
+        "mobs": [
+            {
+                "mob": "minecraft:giant",
+                "weight": 1787
+            },
+            {
+                "mob": "zawa:indianpangolin",
+                "groupcountmin": 2,
+                "groupcountmax": 3,
+                "weight": 10
+            },
+            {
+                "mob": "zawa:redkangaroo",
+                "groupcountmin": 3,
+                "groupcountmax": 6,
+                "weight": 2
+            },
+            {
+                "mob": "zawa:rattlesnake",
+                "groupcountmin": 1,
+                "groupcountmax": 1,
+                "weight": 1
+            }
+        ]
+    },
+    {
+        "biome": [
+            "Desert",
+            "Desert M",
+            "DesertHills"
+        ],
+        "block": [
+            "minecraft:dirt",
+            "minecraft:sand",
+            "minecraft:sandstone"
+        ],
+        "mobs": [
+            {
+                "mob": "minecraft:giant",
+                "weight": 1780
+            },
+            {
+                "mob": "minecraft:rabbit",
+                "groupcountmin": 2,
+                "groupcountmax": 3,
+                "weight": 20
+            }
+        ]
+    },
+    {
+        "biome": [
+            "Desert",
+            "Desert M",
+            "DesertHills"
+        ],
+        "block": [
+            "minecraft:stone"
+        ],
+        "seesky": false,
+        "mobs": [
+            {
+                "mob": "minecraft:blaze",
+                "groupcountmin": 2,
+                "groupcountmax": 3,
+                "weight": 20
+            }
+        ]
+    },
+    {
+        "biome": [
+            "Desert",
+            "Desert M",
+            "DesertHills"
+        ],
+        "block": [
+            "minecraft:dirt",
+            "minecraft:sand",
+            "minecraft:sandstone"
+        ],
+        "weather": "thunder",
+        "mobs": [
+            {
+                "mob": "minecraft:giant",
+                "weight": 1780
+            },
+            {
+                "mob": "minecraft:blaze",
+                "groupcountmin": 2,
+                "groupcountmax": 3,
+                "weight": 20
+            }
+        ]
+    },
+    {
+        "biome": [
+            "Roofed Forest",
+            "Roofed Forest M"
+        ],
+        "block": [
+            "minecraft:grass",
+            "minecraft:dirt",
+            "minecraft:sand"
+        ],
+        "mobs": [
+            {
+                "mob": "minecraft:giant",
+                "weight": 1147
+            },
+            {
+                "mob": "zawa:echidna",
+                "groupcountmin": 1,
+                "groupcountmax": 1,
+                "weight": 30
+            },
+            {
+                "mob": "minecraft:mooshroom",
+                "groupcountmin": 6,
+                "groupcountmax": 10,
+                "weight": 20
+            },
+            {
+                "mob": "zawa:pygmyhippopotamus",
+                "groupcountmin": 1,
+                "groupcountmax": 2,
+                "weight": 2
+            },
+            {
+                "mob": "zawa:westernlowlandgorilla",
+                "groupcountmin": 3,
+                "groupcountmax": 6,
+                "weight": 1
+            }
+        ]
+    },
+    {
+        "biome": [
+            "Roofed Forest",
+            "Roofed Forest M"
+        ],
+        "block": [
+            "minecraft:grass",
+            "minecraft:dirt",
+            "minecraft:sand"
+        ],
+        "mobs": [
+            {
+                "mob": "minecraft:giant",
+                "weight": 1124
+            },
+            {
+                "mob": "zawa:treefrog",
+                "groupcountmin": 2,
+                "groupcountmax": 3,
+                "weight": 40
+            },
+            {
+                "mob": "zawa:echidna",
+                "groupcountmin": 1,
+                "groupcountmax": 1,
+                "weight": 20
+            },
+            {
+                "mob": "zawa:greathornedowl",
+                "groupcountmin": 1,
+                "groupcountmax": 1,
+                "weight": 10
+            },
+            {
+                "mob": "mowziesmobs:lantern",
+                "groupcountmin": 2,
+                "groupcountmax": 3,
+                "weight": 5
+            },
+            {
+                "mob": "minecraft:spider",
+                "groupcountmin": 1,
+                "groupcountmax": 1,
+                "weight": 1
+            }
+        ]
+    },
+    {
+        "biome": [
+            "Roofed Forest",
+            "Roofed Forest M"
+        ],
+        "block": [
+            "minecraft:grass",
+            "minecraft:dirt",
+            "minecraft:sand"
+        ],
+        "mobs": [
+            {
+                "mob": "minecraft:giant",
+                "weight": 1180
+            },
+            {
+                "mob": "minecraft:rabbit",
+                "groupcountmin": 2,
+                "groupcountmax": 3,
+                "weight": 20
+            }
+        ]
+    },
+    {
+        "biome": [
+            "Ice Plains Spikes"
+        ],
+        "block": [
+            "minecraft:dirt",
+            "minecraft:gravel",
+            "minecraft:ice",
+            "minecraft:sand",
+            "minecraft:snow"
+        ],
+        "mobs": [
+            {
+                "mob": "minecraft:giant",
+                "weight": 580
+            },
+            {
+                "mob": "thermalfoundation:blizz",
+                "groupcountmin": 2,
+                "groupcountmax": 3,
+                "weight": 20
+            }
+        ]
+    },
+    {
+        "biome": [
+            "Ice Plains Spikes"
+        ],
+        "block": [
+            "minecraft:dirt",
+            "minecraft:gravel",
+            "minecraft:ice",
+            "minecraft:sand",
+            "minecraft:snow"
+        ],
+        "mobs": [
+            {
+                "mob": "minecraft:giant",
+                "weight": 580
+            },
+            {
+                "mob": "mowziesmobs:frostmaw",
+                "groupcountmin": 1,
+                "groupcountmax": 1,
+                "weight": 20
+            }
+        ]
+    },
+    {
+        "biome": [
+            "Jungle",
+            "Jungle M",
+            "JungleEdge",
+            "JungleEdge M",
+            "JungleHills"
+        ],
+        "block": [
+            "minecraft:grass",
+            "minecraft:dirt",
+            "minecraft:sand"
+        ],
+        "mobs": [
+            {
+                "mob": "minecraft:parrot",
+                "groupcountmin": 3,
+                "groupcountmax": 6,
+                "weight": 75
+            },
+            {
+                "mob": "zawa:blackspidermonkey",
+                "groupcountmin": 3,
+                "groupcountmax": 6,
+                "weight": 50
+            },
+            {
+                "mob": "zawa:cockatoo",
+                "groupcountmin": 3,
+                "groupcountmax": 6,
+                "weight": 40
+            },
+            {
+                "mob": "zawa:macaw",
+                "groupcountmin": 3,
+                "groupcountmax": 6,
+                "weight": 40
+            },
+            {
+                "mob": "zawa:toucan",
+                "groupcountmin": 2,
+                "groupcountmax": 3,
+                "weight": 40
+            },
+            {
+                "mob": "zawa:threetoedsloth",
+                "groupcountmin": 1,
+                "groupcountmax": 1,
+                "weight": 30
+            },
+            {
+                "mob": "zawa:goldenliontamarin",
+                "groupcountmin": 3,
+                "groupcountmax": 6,
+                "weight": 30
+            },
+            {
+                "mob": "zawa:fijibandediguana",
+                "groupcountmin": 1,
+                "groupcountmax": 2,
+                "weight": 25
+            },
+            {
+                "mob": "zawa:coatimundi",
+                "groupcountmin": 3,
+                "groupcountmax": 6,
+                "weight": 20
+            },
+            {
+                "mob": "zawa:harpyeagle",
+                "groupcountmin": 1,
+                "groupcountmax": 2,
+                "weight": 10
+            },
+            {
+                "mob": "zawa:sumatranrhinoceros",
+                "groupcountmin": 1,
+                "groupcountmax": 2,
+                "weight": 10
+            },
+            {
+                "mob": "zawa:okapi",
+                "groupcountmin": 2,
+                "groupcountmax": 3,
+                "weight": 10
+            },
+            {
+                "mob": "zawa:commonchimpanzee",
+                "groupcountmin": 3,
+                "groupcountmax": 6,
+                "weight": 6
+            },
+            {
+                "mob": "zawa:westernlowlandgorilla",
+                "groupcountmin": 3,
+                "groupcountmax": 6,
+                "weight": 3
+            },
+            {
+                "mob": "zawa:asianelephant",
+                "groupcountmin": 2,
+                "groupcountmax": 3,
+                "weight": 2
+            },
+            {
+                "mob": "mowziesmobs:foliaath",
+                "groupcountmin": 1,
+                "groupcountmax": 1,
+                "weight": 1
+            },
+            {
+                "mob": "mowziesmobs:baby_foliaath",
+                "groupcountmin": 2,
+                "groupcountmax": 3,
+                "weight": 1
+            }
+        ]
+    },
+    {
+        "biome": [
+            "Jungle",
+            "Jungle M",
+            "JungleEdge",
+            "JungleEdge M",
+            "JungleHills"
+        ],
+        "block": [
+            "minecraft:grass",
+            "minecraft:dirt",
+            "minecraft:sand"
+        ],
+        "mobs": [
+            {
+                "mob": "minecraft:giant",
+                "weight": 142
+            },
+            {
+                "mob": "zawa:treefrog",
+                "groupcountmin": 2,
+                "groupcountmax": 3,
+                "weight": 75
+            },
+            {
+                "mob": "zawa:threetoedsloth",
+                "groupcountmin": 1,
+                "groupcountmax": 1,
+                "weight": 30
+            },
+            {
+                "mob": "zawa:coatimundi",
+                "groupcountmin": 3,
+                "groupcountmax": 6,
+                "weight": 20
+            },
+            {
+                "mob": "zawa:braziliantapir",
+                "groupcountmin": 1,
+                "groupcountmax": 2,
+                "weight": 15
+            },
+            {
+                "mob": "zawa:sumatranrhinoceros",
+                "groupcountmin": 1,
+                "groupcountmax": 2,
+                "weight": 10
+            },
+            {
+                "mob": "minecraft:ocelot",
+                "groupcountmin": 1,
+                "groupcountmax": 1,
+                "weight": 2
+            },
+            {
+                "mob": "zawa:jaguar",
+                "groupcountmin": 1,
+                "groupcountmax": 1,
+                "weight": 2
+            },
+            {
+                "mob": "zawa:bengaltiger",
+                "groupcountmin": 1,
+                "groupcountmax": 1,
+                "weight": 2
+            },
+            {
+                "mob": "mowziesmobs:foliaath",
+                "groupcountmin": 1,
+                "groupcountmax": 1,
+                "weight": 1
+            },
+            {
+                "mob": "mowziesmobs:baby_foliaath",
+                "groupcountmin": 2,
+                "groupcountmax": 3,
+                "weight": 1
+            }
+        ]
+    },
+    {
+        "biome": [
+            "Birch Forest",
+            "Birch Forest Hills",
+            "Birch Forest Hills M",
+            "Birch Forest M",
+            "Flower Forest",
+            "Forest",
+            "ForestHills"
+        ],
+        "block": [
+            "minecraft:grass",
+            "minecraft:dirt",
+            "minecraft:sand"
+        ],
+        "mobs": [
+            {
+                "mob": "minecraft:giant",
+                "weight": 1152
+            },
+            {
+                "mob": "zawa:echidna",
+                "groupcountmin": 1,
+                "groupcountmax": 1,
+                "weight": 30
+            },
+            {
+                "mob": "zawa:koala",
+                "groupcountmin": 2,
+                "groupcountmax": 3,
+                "weight": 10
+            },
+            {
+                "mob": "zawa:beaver",
+                "groupcountmin": 1,
+                "groupcountmax": 2,
+                "weight": 5
+            },
+            {
+                "mob": "zawa:cassowary",
+                "groupcountmin": 1,
+                "groupcountmax": 2,
+                "weight": 2
+            },
+            {
+                "mob": "zawa:baldeagle",
+                "groupcountmin": 1,
+                "groupcountmax": 2,
+                "weight": 1
+            }
+        ]
+    },
+    {
+        "biome": [
+            "Birch Forest",
+            "Birch Forest Hills",
+            "Birch Forest Hills M",
+            "Birch Forest M",
+            "Flower Forest",
+            "Forest",
+            "ForestHills"
+        ],
+        "block": [
+            "minecraft:grass",
+            "minecraft:dirt",
+            "minecraft:sand"
+        ],
+        "mobs": [
+            {
+                "mob": "minecraft:giant",
+                "weight": 1149
+            },
+            {
+                "mob": "zawa:echidna",
+                "groupcountmin": 1,
+                "groupcountmax": 1,
+                "weight": 30
+            },
+            {
+                "mob": "zawa:greathornedowl",
+                "groupcountmin": 1,
+                "groupcountmax": 1,
+                "weight": 20
+            },
+            {
+                "mob": "zawa:tasmaniandevil",
+                "groupcountmin": 1,
+                "groupcountmax": 2,
+                "weight": 1
+            }
+        ]
+    },
+    {
+        "biome": [
+            "Birch Forest",
+            "Birch Forest Hills",
+            "Birch Forest Hills M",
+            "Birch Forest M",
+            "Flower Forest",
+            "Forest",
+            "ForestHills"
+        ],
+        "block": [
+            "minecraft:grass",
+            "minecraft:dirt",
+            "minecraft:sand"
+        ],
+        "mobs": [
+            {
+                "mob": "minecraft:giant",
+                "weight": 289
+            },
+            {
+                "mob": "minecraft:rabbit",
+                "groupcountmin": 2,
+                "groupcountmax": 3,
+                "weight": 10
+            },
+            {
+                "mob": "zawa:amurleopard",
+                "groupcountmin": 1,
+                "groupcountmax": 1,
+                "weight": 1
+            }
+        ]
+    },
+    {
+        "biome": [
+            "Extreme Hills",
+            "Extreme Hills Edge",
+            "Extreme Hills M"
+        ],
+        "block": [
+            "minecraft:grass",
+            "minecraft:dirt",
+            "minecraft:sand"
+        ],
+        "minheight": 110,
+        "mobs": [
+            {
+                "mob": "minecraft:giant",
+                "weight": 1799
+            },
+            {
+                "mob": "mowziesmobs:naga",
+                "groupcountmin": 1,
+                "groupcountmax": 2,
+                "weight": 1
+            }
+        ]
+    },
+    {
+        "biome": [
+            "Extreme Hills",
+            "Extreme Hills Edge",
+            "Extreme Hills M"
+        ],
+        "block": [
+            "minecraft:grass",
+            "minecraft:dirt",
+            "minecraft:sand"
+        ],
+        "maxheight": 110,
+        "mobs": [
+            {
+                "mob": "minecraft:giant",
+                "weight": 1775
+            },
+            {
+                "mob": "minecraft:llama",
+                "groupcountmin": 6,
+                "groupcountmax": 10,
+                "weight": 20
+            },
+            {
+                "mob": "zawa:andeancondor",
+                "groupcountmin": 1,
+                "groupcountmax": 2,
+                "weight": 5
+            }
+        ]
+    },
+    {
+        "biome": [
+            "Extreme Hills",
+            "Extreme Hills Edge",
+            "Extreme Hills M"
+        ],
+        "block": [
+            "minecraft:grass",
+            "minecraft:dirt",
+            "minecraft:sand"
+        ],
+        "maxheight": 110,
+        "mobs": [
+            {
+                "mob": "minecraft:giant",
+                "weight": 1799
+            },
+            {
+                "mob": "minecraft:wolf",
+                "groupcountmin": 3,
+                "groupcountmax": 6,
+                "weight": 1
+            }
+        ]
+    },
+    {
+        "biome": [
+            "Extreme Hills",
+            "Extreme Hills Edge",
+            "Extreme Hills M"
+        ],
+        "block": [
+            "minecraft:stone"
+        ],
+        "seesky": false,
+        "mobs": [
+            {
+                "mob": "thermalfoundation:basalz",
+                "groupcountmin": 2,
+                "groupcountmax": 3,
+                "weight": 20
+            },
+            {
+                "mob": "minecraft:villager_golem",
+                "groupcountmin": 1,
+                "groupcountmax": 1,
+                "weight": 10
+            }
+        ]
+    },
+    {
+        "biome": [
+            "Extreme Hills",
+            "Extreme Hills Edge",
+            "Extreme Hills M"
+        ],
+        "block": [
+            "minecraft:grass",
+            "minecraft:dirt",
+            "minecraft:sand"
+        ],
+        "weather": "thunder",
+        "mobs": [
+            {
+                "mob": "minecraft:giant",
+                "weight": 1780
+            },
+            {
+                "mob": "thermalfoundation:basalz",
+                "groupcountmin": 2,
+                "groupcountmax": 3,
+                "weight": 20
+            }
+        ]
+    },
+    {
+        "biome": [
+            "Extreme Hills+",
+            "Extreme Hills+ M"
+        ],
+        "block": [
+            "minecraft:grass",
+            "minecraft:dirt",
+            "minecraft:sand"
+        ],
+        "mobs": [
+            {
+                "mob": "minecraft:giant",
+                "weight": 1789
+            },
+            {
+                "mob": "minecraft:sheep",
+                "groupcountmin": 6,
+                "groupcountmax": 10,
+                "weight": 10
+            },
+            {
+                "mob": "minecraft:mule",
+                "groupcountmin": 6,
+                "groupcountmax": 10,
+                "weight": 1
+            }
+        ]
+    },
+    {
+        "biome": [
+            "Extreme Hills+",
+            "Extreme Hills+ M"
+        ],
+        "block": [
+            "minecraft:grass",
+            "minecraft:dirt",
+            "minecraft:sand"
+        ],
+        "mobs": [
+            {
+                "mob": "minecraft:giant",
+                "weight": 1769
+            },
+            {
+                "mob": "zawa:greathornedowl",
+                "groupcountmin": 1,
+                "groupcountmax": 1,
+                "weight": 20
+            },
+            {
+                "mob": "zawa:redpanda",
+                "groupcountmin": 1,
+                "groupcountmax": 2,
+                "weight": 10
+            },
+            {
+                "mob": "minecraft:wolf",
+                "groupcountmin": 3,
+                "groupcountmax": 6,
+                "weight": 1
+            }
+        ]
+    },
+    {
+        "biome": [
+            "Extreme Hills+",
+            "Extreme Hills+ M"
+        ],
+        "block": [
+            "minecraft:grass",
+            "minecraft:dirt",
+            "minecraft:sand"
+        ],
+        "mobs": [
+            {
+                "mob": "minecraft:giant",
+                "weight": 1780
+            },
+            {
+                "mob": "minecraft:rabbit",
+                "groupcountmin": 2,
+                "groupcountmax": 3,
+                "weight": 20
+            }
+        ]
+    },
+    {
+        "biome": [
+            "MushroomIsland",
+            "MushroomIslandShore"
+        ],
+        "block": [
+            "minecraft:mycelium"
+        ],
+        "mobs": [
+            {
+                "mob": "minecraft:giant",
+                "weight": 580
+            },
+            {
+                "mob": "minecraft:mooshroom",
+                "groupcountmin": 6,
+                "groupcountmax": 10,
+                "weight": 20
+            }
+        ]
+    },
+    {
+        "biome": [
+            "Ocean"
+        ],
+        "block": [
+            "minecraft:water"
+        ],
+        "mobs": [
+            {
+                "mob": "minecraft:giant",
+                "weight": 286
+            },
+            {
+                "mob": "zawa:bluefish",
+                "groupcountmin": 10,
+                "groupcountmax": 20,
+                "weight": 100
+            },
+            {
+                "mob": "zawa:clownfish",
+                "groupcountmin": 2,
+                "groupcountmax": 3,
+                "weight": 40
+            },
+            {
+                "mob": "zawa:marinetang",
+                "groupcountmin": 6,
+                "groupcountmax": 10,
+                "weight": 40
+            },
+            {
+                "mob": "zawa:pufferfish",
+                "groupcountmin": 2,
+                "groupcountmax": 3,
+                "weight": 40
+            },
+            {
+                "mob": "zawa:galapagostortoise",
+                "groupcountmin": 2,
+                "groupcountmax": 3,
+                "weight": 25
+            },
+            {
+                "mob": "zawa:hawksbillseaturtle",
+                "groupcountmin": 2,
+                "groupcountmax": 3,
+                "weight": 25
+            },
+            {
+                "mob": "zawa:octopus",
+                "groupcountmin": 1,
+                "groupcountmax": 1,
+                "weight": 20
+            },
+            {
+                "mob": "zawa:morayeel",
+                "groupcountmin": 1,
+                "groupcountmax": 1,
+                "weight": 20
+            },
+            {
+                "mob": "zawa:bottlenosedolphin",
+                "groupcountmin": 6,
+                "groupcountmax": 10,
+                "weight": 2
+            },
+            {
+                "mob": "zawa:tigershark",
+                "groupcountmin": 1,
+                "groupcountmax": 2,
+                "weight": 1
+            },
+            {
+                "mob": "zawa:orca",
+                "groupcountmin": 2,
+                "groupcountmax": 3,
+                "weight": 1
+            }
+        ]
+    },
+    {
+        "biome": [
+            "Deep Ocean"
+        ],
+        "block": [
+            "minecraft:water"
+        ],
+        "mobs": [
+            {
+                "mob": "minecraft:giant",
+                "weight": 1613
+            },
+            {
+                "mob": "zawa:bluefish",
+                "groupcountmin": 10,
+                "groupcountmax": 20,
+                "weight": 100
+            },
+            {
+                "mob": "minecraft:squid",
+                "groupcountmin": 3,
+                "groupcountmax": 6,
+                "weight": 50
+            },
+            {
+                "mob": "zawa:octopus",
+                "groupcountmin": 1,
+                "groupcountmax": 1,
+                "weight": 20
+            },
+            {
+                "mob": "zawa:bottlenosedolphin",
+                "groupcountmin": 6,
+                "groupcountmax": 10,
+                "weight": 10
+            },
+            {
+                "mob": "zawa:orca",
+                "groupcountmin": 2,
+                "groupcountmax": 3,
+                "weight": 4
+            },
+            {
+                "mob": "zawa:humpbackwhale",
+                "groupcountmin": 2,
+                "groupcountmax": 3,
+                "weight": 2
+            },
+            {
+                "mob": "zawa:greatwhiteshark",
+                "groupcountmin": 1,
+                "groupcountmax": 1,
+                "weight": 1
+            }
+        ]
+    },
+    {
+        "biome": [
+            "FrozenOcean"
+        ],
+        "block": [
+            "minecraft:water"
+        ],
+        "mobs": [
+            {
+                "mob": "minecraft:giant",
+                "weight": 2344
+            },
+            {
+                "mob": "zawa:bluefish",
+                "groupcountmin": 10,
+                "groupcountmax": 20,
+                "weight": 50
+            },
+            {
+                "mob": "zawa:octopus",
+                "groupcountmin": 1,
+                "groupcountmax": 1,
+                "weight": 5
+            },
+            {
+                "mob": "zawa:orca",
+                "groupcountmin": 2,
+                "groupcountmax": 3,
+                "weight": 1
+            }
+        ]
+    },
+    {
+        "biome": [
+            "Plains",
+            "Sunflower Plains"
+        ],
+        "block": [
+            "minecraft:grass",
+            "minecraft:dirt",
+            "minecraft:sand"
+        ],
+        "mobs": [
+            {
+                "mob": "minecraft:giant",
+                "weight": 1194
+            },
+            {
+                "mob": "zawa:americanbison",
+                "groupcountmin": 10,
+                "groupcountmax": 20,
+                "weight": 5
+            },
+            {
+                "mob": "horse_colors:horse_felinoid",
+                "groupcountmin": 6,
+                "groupcountmax": 10,
+                "weight": 1
+            }
+        ]
+    },
+    {
+        "biome": [
+            "Plains",
+            "Sunflower Plains"
+        ],
+        "block": [
+            "minecraft:grass",
+            "minecraft:dirt",
+            "minecraft:sand"
+        ],
+        "mobs": [
+            {
+                "mob": "minecraft:giant",
+                "weight": 1199
+            },
+            {
+                "mob": "minecraft:rabbit",
+                "groupcountmin": 2,
+                "groupcountmax": 3,
+                "weight": 1
+            }
+        ]
+    },
+    {
+        "biome": [
+            "Plains",
+            "Savanna",
+            "Savanna M",
+            "Savanna Plateau",
+            "Savanna Plateau M",
+            "Sunflower Plains"
+        ],
+        "block": [
+            "minecraft:stone"
+        ],
+        "seesky": false,
+        "mobs": [
+            {
+                "mob": "thermalfoundation:blitz",
+                "groupcountmin": 2,
+                "groupcountmax": 3,
+                "weight": 20
+            }
+        ]
+    },
+    {
+        "biome": [
+            "Plains",
+            "Savanna",
+            "Savanna M",
+            "Savanna Plateau",
+            "Savanna Plateau M",
+            "Sunflower Plains"
+        ],
+        "block": [
+            "minecraft:grass",
+            "minecraft:dirt",
+            "minecraft:sand"
+        ],
+        "weather": "thunder",
+        "mobs": [
+            {
+                "mob": "minecraft:giant",
+                "weight": 1780
+            },
+            {
+                "mob": "thermalfoundation:blitz",
+                "groupcountmin": 2,
+                "groupcountmax": 3,
+                "weight": 20
+            }
+        ]
+    },
+    {
+        "biome": [
+            "River"
+        ],
+        "block": [
+            "minecraft:water"
+        ],
+        "mobs": [
+            {
+                "mob": "minecraft:giant",
+                "weight": 1169
+            },
+            {
+                "mob": "zawa:bluefish",
+                "groupcountmin": 10,
+                "groupcountmax": 20,
+                "weight": 16
+            },
+            {
+                "mob": "zawa:sockeyesalmon",
+                "groupcountmin": 10,
+                "groupcountmax": 20,
+                "weight": 8
+            },
+            {
+                "mob": "zawa:cichlid",
+                "groupcountmin": 6,
+                "groupcountmax": 10,
+                "weight": 4
+            },
+            {
+                "mob": "zawa:pufferfish",
+                "groupcountmin": 2,
+                "groupcountmax": 3,
+                "weight": 2
+            },
+            {
+                "mob": "zawa:japanesegiantsalamander",
+                "groupcountmin": 1,
+                "groupcountmax": 1,
+                "weight": 1
+            }
+        ]
+    },
+    {
+        "biome": [
+            "FrozenRiver"
+        ],
+        "block": [
+            "minecraft:water"
+        ],
+        "mobs": [
+            {
+                "mob": "minecraft:giant",
+                "weight": 2396
+            },
+            {
+                "mob": "zawa:sockeyesalmon",
+                "groupcountmin": 10,
+                "groupcountmax": 20,
+                "weight": 3
+            },
+            {
+                "mob": "zawa:bluefish",
+                "groupcountmin": 10,
+                "groupcountmax": 20,
+                "weight": 1
+            }
+        ]
+    },
+    {
+        "biome": [
+            "Savanna",
+            "Savanna M",
+            "Savanna Plateau",
+            "Savanna Plateau M"
+        ],
+        "block": [
+            "minecraft:grass",
+            "minecraft:dirt",
+            "minecraft:sand"
+        ],
+        "mobs": [
+            {
+                "mob": "minecraft:giant",
+                "weight": 1776
+            },
+            {
+                "mob": "zawa:meerkat",
+                "groupcountmin": 3,
+                "groupcountmax": 6,
+                "weight": 8
+            },
+            {
+                "mob": "zawa:grevyszebra",
+                "groupcountmin": 6,
+                "groupcountmax": 10,
+                "weight": 6
+            },
+            {
+                "mob": "zawa:africanelephant",
+                "groupcountmin": 6,
+                "groupcountmax": 10,
+                "weight": 4
+            },
+            {
+                "mob": "zawa:gaur",
+                "groupcountmin": 6,
+                "groupcountmax": 10,
+                "weight": 3
+            },
+            {
+                "mob": "zawa:reticulatedgiraffe",
+                "groupcountmin": 6,
+                "groupcountmax": 10,
+                "weight": 2
+            },
+            {
+                "mob": "zawa:commonchimpanzee",
+                "groupcountmin": 3,
+                "groupcountmax": 6,
+                "weight": 1
+            }
+        ]
+    },
+    {
+        "biome": [
+            "Savanna",
+            "Savanna M",
+            "Savanna Plateau",
+            "Savanna Plateau M"
+        ],
+        "block": [
+            "minecraft:grass",
+            "minecraft:dirt",
+            "minecraft:sand"
+        ],
+        "mobs": [
+            {
+                "mob": "minecraft:giant",
+                "weight": 1785
+            },
+            {
+                "mob": "zawa:meerkat",
+                "groupcountmin": 3,
+                "groupcountmax": 6,
+                "weight": 8
+            },
+            {
+                "mob": "zawa:africanelephant",
+                "groupcountmin": 6,
+                "groupcountmax": 10,
+                "weight": 4
+            },
+            {
+                "mob": "zawa:reticulatedgiraffe",
+                "groupcountmin": 6,
+                "groupcountmax": 10,
+                "weight": 2
+            },
+            {
+                "mob": "zawa:blackrhinoceros",
+                "groupcountmin": 2,
+                "groupcountmax": 3,
+                "weight": 1
+            }
+        ]
+    },
+    {
+        "biome": [
+            "Savanna",
+            "Savanna M",
+            "Savanna Plateau",
+            "Savanna Plateau M"
+        ],
+        "block": [
+            "minecraft:grass",
+            "minecraft:dirt",
+            "minecraft:sand"
+        ],
+        "mobs": [
+            {
+                "mob": "minecraft:giant",
+                "weight": 899
+            },
+            {
+                "mob": "zawa:africanlion",
+                "groupcountmin": 3,
+                "groupcountmax": 6,
+                "weight": 1
+            }
         ]
     },
     {
@@ -181,6 +1674,650 @@
             },
             {
                 "mob": "minecraft:villager",
+                "groupcountmin": 1,
+                "groupcountmax": 1,
+                "weight": 1
+            }
+        ]
+    },
+    {
+        "biome": [
+            "DeepSwamp",
+            "Marsh",
+            "Swampland",
+            "Swampland M"
+        ],
+        "block": [
+            "minecraft:dirt",
+            "minecraft:grass",
+            "minecraft:sand",
+            "minecraft:water"
+        ],
+        "mobs": [
+            {
+                "mob": "minecraft:giant",
+                "weight": 279
+            },
+            {
+                "mob": "zawa:indiangharial",
+                "groupcountmin": 1,
+                "groupcountmax": 2,
+                "weight": 10
+            },
+            {
+                "mob": "zawa:platypus",
+                "groupcountmin": 1,
+                "groupcountmax": 2,
+                "weight": 10
+            },
+            {
+                "mob": "minecraft:slime",
+                "groupcountmin": 2,
+                "groupcountmax": 3,
+                "weight": 1
+            }
+        ]
+    },
+    {
+        "biome": [
+            "DeepSwamp",
+            "Marsh",
+            "Swampland",
+            "Swampland M"
+        ],
+        "block": [
+            "minecraft:dirt",
+            "minecraft:grass",
+            "minecraft:sand",
+            "minecraft:water"
+        ],
+        "mobs": [
+            {
+                "mob": "minecraft:giant",
+                "weight": 232
+            },
+            {
+                "mob": "zawa:indiangharial",
+                "groupcountmin": 1,
+                "groupcountmax": 2,
+                "weight": 25
+            },
+            {
+                "mob": "minecraft:slime",
+                "groupcountmin": 2,
+                "groupcountmax": 3,
+                "weight": 20
+            },
+            {
+                "mob": "zawa:nilehippopotamus",
+                "groupcountmin": 3,
+                "groupcountmax": 6,
+                "weight": 20
+            },
+            {
+                "mob": "zawa:greenanaconda",
+                "groupcountmin": 1,
+                "groupcountmax": 1,
+                "weight": 2
+            },
+            {
+                "mob": "zawa:jaguar",
+                "groupcountmin": 1,
+                "groupcountmax": 1,
+                "weight": 1
+            }
+        ]
+    },
+    {
+        "biome": [
+            "DeepSwamp",
+            "Marsh",
+            "Swampland",
+            "Swampland M"
+        ],
+        "block": [
+            "minecraft:dirt",
+            "minecraft:grass",
+            "minecraft:sand",
+            "minecraft:water"
+        ],
+        "mobs": [
+            {
+                "mob": "minecraft:giant",
+                "weight": 139
+            },
+            {
+                "mob": "zawa:sumatranrhinoceros",
+                "groupcountmin": 1,
+                "groupcountmax": 2,
+                "weight": 1
+            }
+        ]
+    },
+    {
+        "biome": [
+            "DeepSwamp",
+            "Marsh",
+            "Swampland",
+            "Swampland M"
+        ],
+        "block": [
+            "minecraft:stone"
+        ],
+        "seesky": false,
+        "maxheight": 24,
+        "mobs": [
+            {
+                "mob": "mowziesmobs:grottol",
+                "groupcountmin": 2,
+                "groupcountmax": 3,
+                "weight": 20
+            }
+        ]
+    },
+    {
+        "biome": [
+            "DeepSwamp",
+            "Marsh",
+            "Swampland",
+            "Swampland M"
+        ],
+        "block": [
+            "minecraft:water"
+        ],
+        "mobs": [
+            {
+                "mob": "minecraft:giant",
+                "weight": 587
+            },
+            {
+                "mob": "zawa:bluefish",
+                "groupcountmin": 10,
+                "groupcountmax": 20,
+                "weight": 8
+            },
+            {
+                "mob": "zawa:cichlid",
+                "groupcountmin": 6,
+                "groupcountmax": 10,
+                "weight": 4
+            },
+            {
+                "mob": "zawa:japanesegiantsalamander",
+                "groupcountmin": 1,
+                "groupcountmax": 1,
+                "weight": 1
+            }
+        ]
+    },
+    {
+        "biome": [
+            "DeepSwamp",
+            "Marsh",
+            "Swampland",
+            "Swampland M"
+        ],
+        "block": [
+            "minecraft:dirt",
+            "minecraft:grass",
+            "minecraft:sand",
+            "minecraft:water"
+        ],
+        "weather": "rain",
+        "mobs": [
+            {
+                "mob": "minecraft:giant",
+                "weight": 280
+            },
+            {
+                "mob": "minecraft:slime",
+                "groupcountmin": 2,
+                "groupcountmax": 3,
+                "weight": 20
+            }
+        ]
+    },
+    {
+        "biome": [
+            "DeepSwamp",
+            "Marsh",
+            "Swampland",
+            "Swampland M"
+        ],
+        "structure": "Temple",
+        "block": [
+            "minecraft:dirt",
+            "minecraft:grass",
+            "minecraft:sand",
+            "minecraft:water"
+        ],
+        "mobs": [
+            {
+                "mob": "minecraft:witch",
+                "groupcountmin": 1,
+                "groupcountmax": 1,
+                "weight": 20
+            }
+        ]
+    },
+    {
+        "biome": [
+            "Cold Taiga",
+            "Cold Taiga Hills",
+            "Cold Taiga M",
+            "Mega Spruce Taiga",
+            "Mega Taiga",
+            "Mega Taiga Hills",
+            "Redwood Taiga Hills M",
+            "Taiga",
+            "Taiga M",
+            "TaigaHills"
+        ],
+        "block": [
+            "minecraft:grass",
+            "minecraft:dirt",
+            "minecraft:sand"
+        ],
+        "mobs": [
+            {
+                "mob": "minecraft:giant",
+                "weight": 1160
+            },
+            {
+                "mob": "minecraft:sheep",
+                "groupcountmin": 6,
+                "groupcountmax": 10,
+                "weight": 30
+            },
+            {
+                "mob": "zawa:baldeagle",
+                "groupcountmin": 1,
+                "groupcountmax": 2,
+                "weight": 6
+            },
+            {
+                "mob": "zawa:moose",
+                "groupcountmin": 1,
+                "groupcountmax": 2,
+                "weight": 3
+            },
+            {
+                "mob": "zawa:grizzlybear",
+                "groupcountmin": 1,
+                "groupcountmax": 2,
+                "weight": 1
+            }
+        ]
+    },
+    {
+        "biome": [
+            "Cold Taiga",
+            "Cold Taiga Hills",
+            "Cold Taiga M",
+            "Mega Spruce Taiga",
+            "Mega Taiga",
+            "Mega Taiga Hills",
+            "Redwood Taiga Hills M",
+            "Taiga",
+            "Taiga M",
+            "TaigaHills"
+        ],
+        "block": [
+            "minecraft:grass",
+            "minecraft:dirt",
+            "minecraft:sand"
+        ],
+        "mobs": [
+            {
+                "mob": "minecraft:giant",
+                "weight": 1193
+            },
+            {
+                "mob": "zawa:brownrat",
+                "groupcountmin": 3,
+                "groupcountmax": 6,
+                "weight": 5
+            },
+            {
+                "mob": "zawa:greathornedowl",
+                "groupcountmin": 1,
+                "groupcountmax": 1,
+                "weight": 1
+            },
+            {
+                "mob": "minecraft:wolf",
+                "groupcountmin": 3,
+                "groupcountmax": 6,
+                "weight": 1
+            }
+        ]
+    },
+    {
+        "biome": [
+            "Cold Taiga",
+            "Cold Taiga Hills",
+            "Cold Taiga M",
+            "Mega Spruce Taiga",
+            "Mega Taiga",
+            "Mega Taiga Hills",
+            "Redwood Taiga Hills M",
+            "Taiga",
+            "Taiga M",
+            "TaigaHills"
+        ],
+        "block": [
+            "minecraft:grass",
+            "minecraft:dirt",
+            "minecraft:sand"
+        ],
+        "mobs": [
+            {
+                "mob": "minecraft:giant",
+                "weight": 899
+            },
+            {
+                "mob": "minecraft:rabbit",
+                "groupcountmin": 2,
+                "groupcountmax": 3,
+                "weight": 1
+            }
+        ]
+    },
+    {
+        "biome": [
+            "The End"
+        ],
+        "block": [
+            "minecraft:end_stone"
+        ],
+        "mobs": [
+            {
+                "mob": "minecraft:giant",
+                "weight": 580
+            },
+            {
+                "mob": "minecraft:enderman",
+                "groupcountmin": 2,
+                "groupcountmax": 3,
+                "weight": 20
+            }
+        ]
+    },
+    {
+        "biome": [
+            "CrystalChasms",
+            "Ice Mountains",
+            "Ice Plains"
+        ],
+        "block": [
+            "minecraft:dirt",
+            "minecraft:gravel",
+            "minecraft:ice",
+            "minecraft:sand",
+            "minecraft:snow"
+        ],
+        "mobs": [
+            {
+                "mob": "minecraft:giant",
+                "weight": 2390
+            },
+            {
+                "mob": "zawa:polarbear",
+                "groupcountmin": 1,
+                "groupcountmax": 1,
+                "weight": 10
+            }
+        ]
+    },
+    {
+        "biome": [
+            "CrystalChasms",
+            "Ice Mountains",
+            "Ice Plains"
+        ],
+        "block": [
+            "minecraft:dirt",
+            "minecraft:gravel",
+            "minecraft:ice",
+            "minecraft:sand",
+            "minecraft:snow"
+        ],
+        "mobs": [
+            {
+                "mob": "minecraft:giant",
+                "weight": 2399
+            },
+            {
+                "mob": "mowziesmobs:frostmaw",
+                "groupcountmin": 1,
+                "groupcountmax": 1,
+                "weight": 1
+            }
+        ]
+    },
+    {
+        "biome": [
+            "CrystalChasms",
+            "Ice Mountains",
+            "Ice Plains"
+        ],
+        "block": [
+            "minecraft:stone"
+        ],
+        "seesky": false,
+        "mobs": [
+            {
+                "mob": "thermalfoundation:blizz",
+                "groupcountmin": 2,
+                "groupcountmax": 3,
+                "weight": 20
+            }
+        ]
+    },
+    {
+        "biome": [
+            "CrystalChasms",
+            "Ice Mountains",
+            "Ice Plains"
+        ],
+        "block": [
+            "minecraft:dirt",
+            "minecraft:gravel",
+            "minecraft:ice",
+            "minecraft:sand",
+            "minecraft:snow"
+        ],
+        "weather": "thunder",
+        "mobs": [
+            {
+                "mob": "minecraft:giant",
+                "weight": 880
+            },
+            {
+                "mob": "thermalfoundation:blizz",
+                "groupcountmin": 2,
+                "groupcountmax": 3,
+                "weight": 20
+            }
+        ]
+    },
+    {
+        "block": [
+            "minecraft:grass",
+            "minecraft:dirt",
+            "minecraft:sand"
+        ],
+        "mobs": [
+            {
+                "mob": "minecraft:giant",
+                "weight": 5999
+            },
+            {
+                "mob": "minecraft:enderman",
+                "groupcountmin": 2,
+                "groupcountmax": 3,
+                "weight": 1
+            }
+        ]
+    },
+    {
+        "biome": [
+            "Beach",
+            "Birch Forest",
+            "Birch Forest Hills",
+            "Birch Forest Hills M",
+            "Birch Forest M",
+            "Cold Beach",
+            "Cold Taiga",
+            "Cold Taiga Hills",
+            "Cold Taiga M",
+            "CrystalChasms",
+            "Deep Ocean",
+            "DeepSwamp",
+            "Desert",
+            "Desert M",
+            "DesertHills",
+            "Extreme Hills",
+            "Extreme Hills Edge",
+            "Extreme Hills M",
+            "Extreme Hills+",
+            "Extreme Hills+ M",
+            "Flower Forest",
+            "Forest",
+            "ForestHills",
+            "FrozenOcean",
+            "FrozenRiver",
+            "Ice Mountains",
+            "Ice Plains",
+            "Ice Plains Spikes",
+            "Jungle",
+            "Jungle M",
+            "JungleEdge",
+            "JungleEdge M",
+            "JungleHills",
+            "Marsh",
+            "Mega Spruce Taiga",
+            "Mega Taiga",
+            "Mega Taiga Hills",
+            "MushroomIsland",
+            "MushroomIslandShore",
+            "Ocean",
+            "OceanSpires",
+            "Plains",
+            "Redwood Taiga Hills M",
+            "River",
+            "Roofed Forest",
+            "Roofed Forest M",
+            "Savanna",
+            "Savanna M",
+            "Savanna Plateau",
+            "Savanna Plateau M",
+            "Stone Beach",
+            "Sunflower Plains",
+            "Swampland",
+            "Swampland M",
+            "Taiga",
+            "Taiga M",
+            "TaigaHills"
+        ],
+        "block": [
+            "minecraft:grass",
+            "minecraft:dirt",
+            "minecraft:sand"
+        ],
+        "mobs": [
+            {
+                "mob": "minecraft:giant",
+                "weight": 1199
+            },
+            {
+                "mob": "minecraft:bat",
+                "groupcountmin": 1,
+                "groupcountmax": 1,
+                "weight": 1
+            }
+        ]
+    },
+    {
+        "biome": [
+            "Beach",
+            "Birch Forest",
+            "Birch Forest Hills",
+            "Birch Forest Hills M",
+            "Birch Forest M",
+            "Cold Beach",
+            "Cold Taiga",
+            "Cold Taiga Hills",
+            "Cold Taiga M",
+            "CrystalChasms",
+            "Deep Ocean",
+            "DeepSwamp",
+            "Desert",
+            "Desert M",
+            "DesertHills",
+            "Extreme Hills",
+            "Extreme Hills Edge",
+            "Extreme Hills M",
+            "Extreme Hills+",
+            "Extreme Hills+ M",
+            "Flower Forest",
+            "Forest",
+            "ForestHills",
+            "FrozenOcean",
+            "FrozenRiver",
+            "Ice Mountains",
+            "Ice Plains",
+            "Ice Plains Spikes",
+            "Jungle",
+            "Jungle M",
+            "JungleEdge",
+            "JungleEdge M",
+            "JungleHills",
+            "Marsh",
+            "Mega Spruce Taiga",
+            "Mega Taiga",
+            "Mega Taiga Hills",
+            "MushroomIsland",
+            "MushroomIslandShore",
+            "Ocean",
+            "OceanSpires",
+            "Plains",
+            "Redwood Taiga Hills M",
+            "River",
+            "Roofed Forest",
+            "Roofed Forest M",
+            "Savanna",
+            "Savanna M",
+            "Savanna Plateau",
+            "Savanna Plateau M",
+            "Stone Beach",
+            "Sunflower Plains",
+            "Swampland",
+            "Swampland M",
+            "Taiga",
+            "Taiga M",
+            "TaigaHills"
+        ],
+        "block": [
+            "minecraft:stone"
+        ],
+        "seesky": false,
+        "minheight": 48,
+        "mobs": [
+            {
+                "mob": "zawa:brownrat",
+                "groupcountmin": 3,
+                "groupcountmax": 6,
+                "weight": 10
+            },
+            {
+                "mob": "minecraft:bat",
+                "groupcountmin": 1,
+                "groupcountmax": 1,
+                "weight": 10
+            },
+            {
+                "mob": "minecraft:cave_spider",
                 "groupcountmin": 1,
                 "groupcountmax": 1,
                 "weight": 1

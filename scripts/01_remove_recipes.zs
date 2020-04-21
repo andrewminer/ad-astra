@@ -12,6 +12,10 @@ for i in ids {
     JEI.removeAndHide(<davincisvessels:balloon>.definition.makeStack(i));
 }
 
+# Fex's Small Money Mod (FSMM)
+JEI.removeAndHide(<fcl:blueprinttable>);
+JEI.removeAndHide(<fcl:workbench>);
+
 # Fist Full of Hay
 JEI.removeAndHide(<fistful_of_hay:logo>);
 
@@ -39,3 +43,13 @@ for i in ids {
 # Vehicles Mod
 JEI.removeAndHide(<vehicle:fluid_pipe>);
 JEI.removeAndHide(<vehicle:fluid_pump>);
+
+# ZAWA
+JEI.removeAndHide(<zawa:atv>);
+JEI.removeAndHide(<zawa:coin>);
+JEI.removeAndHide(<zawa:hunting_rifle>);
+JEI.removeAndHide(<zawa:off_road_car>);
+JEI.removeAndHide(<zawa:tire>);
+JEI.removeAndHide(<zawa:tranquilizer_dart>);
+JEI.removeAndHide(<zawa:tranquilizer_dart_strong>);
+JEI.removeAndHide(<zawa:tranquilizer_gun>);

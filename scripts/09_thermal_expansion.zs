@@ -1,3 +1,4 @@
+import mods.thermalexpansion.Centrifuge;
 import mods.thermalexpansion.Refinery;
 import mods.thermalexpansion.Pulverizer;
 
@@ -6,3 +7,11 @@ Refinery.addRecipe(<liquid:fuelium> * 100, null, <liquid:refined_fuel> * 100, 10
 
 # Gold Nugget — turn gold coins back into nuggets
 Pulverizer.addRecipe(<minecraft:gold_nugget> * 2, <thermalfoundation:coin:1>, 1500, <minecraft:gold_nugget>, 50);
+
+# Iron Nugget -- turn oxidized sand into iron nuggets and sand
+Centrifuge.addRecipe(
+    [<minecraft:iron_nugget> % 10, <minecraft:sand>],
+    <advancedrocketry:hotturf>,
+    <liquid:water>,
+    2000
+);

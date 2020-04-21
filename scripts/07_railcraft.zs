@@ -1,3 +1,5 @@
+import crafttweaker.item.IItemStack;
+import crafttweaker.oredict.IOreDict;
 import mods.thermalexpansion.Pulverizer;
 
 

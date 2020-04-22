@@ -555,6 +555,27 @@
     },
     {
         "mob": [
+            "minecraft:blaze"
+        ],
+        "biomes": [
+            "Mesa",
+            "Mesa (Bryce)",
+            "Mesa Plateau",
+            "Mesa Plateau F",
+            "Mesa Plateau F M",
+            "Mesa Plateau M"
+        ],
+        "mincount": {
+            "amount": 32,
+            "perperson": true,
+            "mob": [
+                "minecraft:blaze"
+            ]
+        },
+        "result": "deny"
+    },
+    {
+        "mob": [
             "minecraft:sheep",
             "minecraft:mule"
         ],
@@ -880,6 +901,54 @@
     },
     {
         "mob": [
+            "minecraft:mule",
+            "zawa:rattlesnake",
+            "zawa:komododragon"
+        ],
+        "biomes": [
+            "Mesa",
+            "Mesa (Bryce)",
+            "Mesa Plateau",
+            "Mesa Plateau F",
+            "Mesa Plateau F M",
+            "Mesa Plateau M"
+        ],
+        "mincount": {
+            "amount": 20,
+            "perperson": true,
+            "mob": [
+                "minecraft:mule",
+                "zawa:rattlesnake",
+                "zawa:komododragon"
+            ]
+        },
+        "result": "deny"
+    },
+    {
+        "mob": [
+            "zawa:redkangaroo",
+            "zawa:rattlesnake"
+        ],
+        "biomes": [
+            "Mesa",
+            "Mesa (Bryce)",
+            "Mesa Plateau",
+            "Mesa Plateau F",
+            "Mesa Plateau F M",
+            "Mesa Plateau M"
+        ],
+        "mincount": {
+            "amount": 20,
+            "perperson": true,
+            "mob": [
+                "zawa:redkangaroo",
+                "zawa:rattlesnake"
+            ]
+        },
+        "result": "deny"
+    },
+    {
+        "mob": [
             "minecraft:chicken",
             "minecraft:pig",
             "minecraft:cow",
@@ -987,6 +1056,27 @@
             "Desert",
             "Desert M",
             "DesertHills"
+        ],
+        "mincount": {
+            "amount": 16,
+            "perperson": true,
+            "mob": [
+                "minecraft:blaze"
+            ]
+        },
+        "result": "deny"
+    },
+    {
+        "mob": [
+            "minecraft:blaze"
+        ],
+        "biomes": [
+            "Mesa",
+            "Mesa (Bryce)",
+            "Mesa Plateau",
+            "Mesa Plateau F",
+            "Mesa Plateau F M",
+            "Mesa Plateau M"
         ],
         "mincount": {
             "amount": 16,
@@ -1445,6 +1535,29 @@
             "perperson": true,
             "mob": [
                 "minecraft:rabbit"
+            ]
+        },
+        "result": "deny"
+    },
+    {
+        "mob": [
+            "minecraft:rabbit",
+            "zawa:gilamonster"
+        ],
+        "biomes": [
+            "Mesa",
+            "Mesa (Bryce)",
+            "Mesa Plateau",
+            "Mesa Plateau F",
+            "Mesa Plateau F M",
+            "Mesa Plateau M"
+        ],
+        "mincount": {
+            "amount": 3,
+            "perperson": true,
+            "mob": [
+                "minecraft:rabbit",
+                "zawa:gilamonster"
             ]
         },
         "result": "deny"
@@ -4278,6 +4391,436 @@
         "maxcount": {
             "mob": "zawa:amurleopard",
             "amount": 1,
+            "perplayer": true
+        },
+        "result": "allow"
+    },
+    {
+        "mob": "minecraft:mule",
+        "biome": [
+            "Mesa",
+            "Mesa (Bryce)",
+            "Mesa Plateau",
+            "Mesa Plateau F",
+            "Mesa Plateau F M",
+            "Mesa Plateau M"
+        ],
+        "blocks": [
+            "minecraft:sand",
+            "minecraft:red_sandstone",
+            "minecraft:dirt",
+            "minecraft:grass"
+        ],
+        "mintime": 23500,
+        "maxcount": {
+            "mob": "minecraft:mule",
+            "amount": 40,
+            "perplayer": true
+        },
+        "result": "allow"
+    },
+    {
+        "mob": "minecraft:mule",
+        "biome": [
+            "Mesa",
+            "Mesa (Bryce)",
+            "Mesa Plateau",
+            "Mesa Plateau F",
+            "Mesa Plateau F M",
+            "Mesa Plateau M"
+        ],
+        "blocks": [
+            "minecraft:sand",
+            "minecraft:red_sandstone",
+            "minecraft:dirt",
+            "minecraft:grass"
+        ],
+        "maxtime": 12500,
+        "maxcount": {
+            "mob": "minecraft:mule",
+            "amount": 40,
+            "perplayer": true
+        },
+        "result": "allow"
+    },
+    {
+        "mob": "zawa:rattlesnake",
+        "biome": [
+            "Mesa",
+            "Mesa (Bryce)",
+            "Mesa Plateau",
+            "Mesa Plateau F",
+            "Mesa Plateau F M",
+            "Mesa Plateau M"
+        ],
+        "blocks": [
+            "minecraft:sand",
+            "minecraft:red_sandstone",
+            "minecraft:dirt",
+            "minecraft:grass"
+        ],
+        "mintime": 23500,
+        "maxcount": {
+            "mob": "zawa:rattlesnake",
+            "amount": 10,
+            "perplayer": true
+        },
+        "result": "allow"
+    },
+    {
+        "mob": "zawa:rattlesnake",
+        "biome": [
+            "Mesa",
+            "Mesa (Bryce)",
+            "Mesa Plateau",
+            "Mesa Plateau F",
+            "Mesa Plateau F M",
+            "Mesa Plateau M"
+        ],
+        "blocks": [
+            "minecraft:sand",
+            "minecraft:red_sandstone",
+            "minecraft:dirt",
+            "minecraft:grass"
+        ],
+        "maxtime": 12500,
+        "maxcount": {
+            "mob": "zawa:rattlesnake",
+            "amount": 10,
+            "perplayer": true
+        },
+        "result": "allow"
+    },
+    {
+        "mob": "zawa:komododragon",
+        "biome": [
+            "Mesa",
+            "Mesa (Bryce)",
+            "Mesa Plateau",
+            "Mesa Plateau F",
+            "Mesa Plateau F M",
+            "Mesa Plateau M"
+        ],
+        "blocks": [
+            "minecraft:sand",
+            "minecraft:red_sandstone",
+            "minecraft:dirt",
+            "minecraft:grass"
+        ],
+        "mintime": 23500,
+        "maxcount": {
+            "mob": "zawa:komododragon",
+            "amount": 5,
+            "perplayer": true
+        },
+        "result": "allow"
+    },
+    {
+        "mob": "zawa:komododragon",
+        "biome": [
+            "Mesa",
+            "Mesa (Bryce)",
+            "Mesa Plateau",
+            "Mesa Plateau F",
+            "Mesa Plateau F M",
+            "Mesa Plateau M"
+        ],
+        "blocks": [
+            "minecraft:sand",
+            "minecraft:red_sandstone",
+            "minecraft:dirt",
+            "minecraft:grass"
+        ],
+        "maxtime": 12500,
+        "maxcount": {
+            "mob": "zawa:komododragon",
+            "amount": 5,
+            "perplayer": true
+        },
+        "result": "allow"
+    },
+    {
+        "mob": "zawa:redkangaroo",
+        "biome": [
+            "Mesa",
+            "Mesa (Bryce)",
+            "Mesa Plateau",
+            "Mesa Plateau F",
+            "Mesa Plateau F M",
+            "Mesa Plateau M"
+        ],
+        "blocks": [
+            "minecraft:sand",
+            "minecraft:red_sandstone",
+            "minecraft:dirt",
+            "minecraft:grass"
+        ],
+        "mintime": 11500,
+        "maxcount": {
+            "mob": "zawa:redkangaroo",
+            "amount": 24,
+            "perplayer": true
+        },
+        "result": "allow"
+    },
+    {
+        "mob": "zawa:redkangaroo",
+        "biome": [
+            "Mesa",
+            "Mesa (Bryce)",
+            "Mesa Plateau",
+            "Mesa Plateau F",
+            "Mesa Plateau F M",
+            "Mesa Plateau M"
+        ],
+        "blocks": [
+            "minecraft:sand",
+            "minecraft:red_sandstone",
+            "minecraft:dirt",
+            "minecraft:grass"
+        ],
+        "maxtime": 500,
+        "maxcount": {
+            "mob": "zawa:redkangaroo",
+            "amount": 24,
+            "perplayer": true
+        },
+        "result": "allow"
+    },
+    {
+        "mob": "zawa:rattlesnake",
+        "biome": [
+            "Mesa",
+            "Mesa (Bryce)",
+            "Mesa Plateau",
+            "Mesa Plateau F",
+            "Mesa Plateau F M",
+            "Mesa Plateau M"
+        ],
+        "blocks": [
+            "minecraft:sand",
+            "minecraft:red_sandstone",
+            "minecraft:dirt",
+            "minecraft:grass"
+        ],
+        "mintime": 11500,
+        "maxcount": {
+            "mob": "zawa:rattlesnake",
+            "amount": 10,
+            "perplayer": true
+        },
+        "result": "allow"
+    },
+    {
+        "mob": "zawa:rattlesnake",
+        "biome": [
+            "Mesa",
+            "Mesa (Bryce)",
+            "Mesa Plateau",
+            "Mesa Plateau F",
+            "Mesa Plateau F M",
+            "Mesa Plateau M"
+        ],
+        "blocks": [
+            "minecraft:sand",
+            "minecraft:red_sandstone",
+            "minecraft:dirt",
+            "minecraft:grass"
+        ],
+        "maxtime": 500,
+        "maxcount": {
+            "mob": "zawa:rattlesnake",
+            "amount": 10,
+            "perplayer": true
+        },
+        "result": "allow"
+    },
+    {
+        "mob": "minecraft:rabbit",
+        "biome": [
+            "Mesa",
+            "Mesa (Bryce)",
+            "Mesa Plateau",
+            "Mesa Plateau F",
+            "Mesa Plateau F M",
+            "Mesa Plateau M"
+        ],
+        "blocks": [
+            "minecraft:sand",
+            "minecraft:red_sandstone",
+            "minecraft:dirt",
+            "minecraft:grass"
+        ],
+        "mintime": 11000,
+        "maxtime": 13000,
+        "maxcount": {
+            "mob": "minecraft:rabbit",
+            "amount": 30,
+            "perplayer": true
+        },
+        "result": "allow"
+    },
+    {
+        "mob": "minecraft:rabbit",
+        "biome": [
+            "Mesa",
+            "Mesa (Bryce)",
+            "Mesa Plateau",
+            "Mesa Plateau F",
+            "Mesa Plateau F M",
+            "Mesa Plateau M"
+        ],
+        "blocks": [
+            "minecraft:sand",
+            "minecraft:red_sandstone",
+            "minecraft:dirt",
+            "minecraft:grass"
+        ],
+        "maxtime": 1000,
+        "maxcount": {
+            "mob": "minecraft:rabbit",
+            "amount": 30,
+            "perplayer": true
+        },
+        "result": "allow"
+    },
+    {
+        "mob": "minecraft:rabbit",
+        "biome": [
+            "Mesa",
+            "Mesa (Bryce)",
+            "Mesa Plateau",
+            "Mesa Plateau F",
+            "Mesa Plateau F M",
+            "Mesa Plateau M"
+        ],
+        "blocks": [
+            "minecraft:sand",
+            "minecraft:red_sandstone",
+            "minecraft:dirt",
+            "minecraft:grass"
+        ],
+        "mintime": 23000,
+        "maxcount": {
+            "mob": "minecraft:rabbit",
+            "amount": 30,
+            "perplayer": true
+        },
+        "result": "allow"
+    },
+    {
+        "mob": "zawa:gilamonster",
+        "biome": [
+            "Mesa",
+            "Mesa (Bryce)",
+            "Mesa Plateau",
+            "Mesa Plateau F",
+            "Mesa Plateau F M",
+            "Mesa Plateau M"
+        ],
+        "blocks": [
+            "minecraft:sand",
+            "minecraft:red_sandstone",
+            "minecraft:dirt",
+            "minecraft:grass"
+        ],
+        "mintime": 11000,
+        "maxtime": 13000,
+        "maxcount": {
+            "mob": "zawa:gilamonster",
+            "amount": 5,
+            "perplayer": true
+        },
+        "result": "allow"
+    },
+    {
+        "mob": "zawa:gilamonster",
+        "biome": [
+            "Mesa",
+            "Mesa (Bryce)",
+            "Mesa Plateau",
+            "Mesa Plateau F",
+            "Mesa Plateau F M",
+            "Mesa Plateau M"
+        ],
+        "blocks": [
+            "minecraft:sand",
+            "minecraft:red_sandstone",
+            "minecraft:dirt",
+            "minecraft:grass"
+        ],
+        "maxtime": 1000,
+        "maxcount": {
+            "mob": "zawa:gilamonster",
+            "amount": 5,
+            "perplayer": true
+        },
+        "result": "allow"
+    },
+    {
+        "mob": "zawa:gilamonster",
+        "biome": [
+            "Mesa",
+            "Mesa (Bryce)",
+            "Mesa Plateau",
+            "Mesa Plateau F",
+            "Mesa Plateau F M",
+            "Mesa Plateau M"
+        ],
+        "blocks": [
+            "minecraft:sand",
+            "minecraft:red_sandstone",
+            "minecraft:dirt",
+            "minecraft:grass"
+        ],
+        "mintime": 23000,
+        "maxcount": {
+            "mob": "zawa:gilamonster",
+            "amount": 5,
+            "perplayer": true
+        },
+        "result": "allow"
+    },
+    {
+        "mob": "minecraft:blaze",
+        "biome": [
+            "Mesa",
+            "Mesa (Bryce)",
+            "Mesa Plateau",
+            "Mesa Plateau F",
+            "Mesa Plateau F M",
+            "Mesa Plateau M"
+        ],
+        "blocks": [
+            "minecraft:stone"
+        ],
+        "maxcount": {
+            "mob": "minecraft:blaze",
+            "amount": 60,
+            "perplayer": true
+        },
+        "result": "allow"
+    },
+    {
+        "mob": "minecraft:blaze",
+        "biome": [
+            "Mesa",
+            "Mesa (Bryce)",
+            "Mesa Plateau",
+            "Mesa Plateau F",
+            "Mesa Plateau F M",
+            "Mesa Plateau M"
+        ],
+        "blocks": [
+            "minecraft:sand",
+            "minecraft:red_sandstone",
+            "minecraft:dirt",
+            "minecraft:grass"
+        ],
+        "weather": "thunder",
+        "maxcount": {
+            "mob": "minecraft:blaze",
+            "amount": 12,
             "perplayer": true
         },
         "result": "allow"
@@ -8163,6 +8706,7 @@
             "zawa:frigate",
             "zawa:galapagostortoise",
             "zawa:gaur",
+            "zawa:gilamonster",
             "zawa:goldenliontamarin",
             "zawa:greathornedowl",
             "zawa:greatwhiteshark",
@@ -8177,6 +8721,7 @@
             "zawa:jaguar",
             "zawa:japanesegiantsalamander",
             "zawa:koala",
+            "zawa:komododragon",
             "zawa:macaw",
             "zawa:marineiguana",
             "zawa:marinetang",

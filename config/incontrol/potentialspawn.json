@@ -61,6 +61,7 @@
             "zawa:frigate",
             "zawa:galapagostortoise",
             "zawa:gaur",
+            "zawa:gilamonster",
             "zawa:goldenliontamarin",
             "zawa:greathornedowl",
             "zawa:greatwhiteshark",
@@ -75,6 +76,7 @@
             "zawa:jaguar",
             "zawa:japanesegiantsalamander",
             "zawa:koala",
+            "zawa:komododragon",
             "zawa:macaw",
             "zawa:marineiguana",
             "zawa:marinetang",
@@ -798,6 +800,165 @@
                 "groupcountmin": 1,
                 "groupcountmax": 1,
                 "weight": 1
+            }
+        ]
+    },
+    {
+        "biome": [
+            "Mesa",
+            "Mesa (Bryce)",
+            "Mesa Plateau",
+            "Mesa Plateau F",
+            "Mesa Plateau F M",
+            "Mesa Plateau M"
+        ],
+        "block": [
+            "minecraft:sand",
+            "minecraft:red_sandstone",
+            "minecraft:dirt",
+            "minecraft:grass"
+        ],
+        "mobs": [
+            {
+                "mob": "minecraft:giant",
+                "weight": 1790
+            },
+            {
+                "mob": "minecraft:mule",
+                "groupcountmin": 6,
+                "groupcountmax": 10,
+                "weight": 6
+            },
+            {
+                "mob": "zawa:rattlesnake",
+                "groupcountmin": 1,
+                "groupcountmax": 1,
+                "weight": 3
+            },
+            {
+                "mob": "zawa:komododragon",
+                "groupcountmin": 1,
+                "groupcountmax": 1,
+                "weight": 1
+            }
+        ]
+    },
+    {
+        "biome": [
+            "Mesa",
+            "Mesa (Bryce)",
+            "Mesa Plateau",
+            "Mesa Plateau F",
+            "Mesa Plateau F M",
+            "Mesa Plateau M"
+        ],
+        "block": [
+            "minecraft:sand",
+            "minecraft:red_sandstone",
+            "minecraft:dirt",
+            "minecraft:grass"
+        ],
+        "mobs": [
+            {
+                "mob": "minecraft:giant",
+                "weight": 1791
+            },
+            {
+                "mob": "zawa:redkangaroo",
+                "groupcountmin": 3,
+                "groupcountmax": 6,
+                "weight": 6
+            },
+            {
+                "mob": "zawa:rattlesnake",
+                "groupcountmin": 1,
+                "groupcountmax": 1,
+                "weight": 3
+            }
+        ]
+    },
+    {
+        "biome": [
+            "Mesa",
+            "Mesa (Bryce)",
+            "Mesa Plateau",
+            "Mesa Plateau F",
+            "Mesa Plateau F M",
+            "Mesa Plateau M"
+        ],
+        "block": [
+            "minecraft:sand",
+            "minecraft:red_sandstone",
+            "minecraft:dirt",
+            "minecraft:grass"
+        ],
+        "mobs": [
+            {
+                "mob": "minecraft:giant",
+                "weight": 1720
+            },
+            {
+                "mob": "minecraft:rabbit",
+                "groupcountmin": 2,
+                "groupcountmax": 3,
+                "weight": 60
+            },
+            {
+                "mob": "zawa:gilamonster",
+                "groupcountmin": 1,
+                "groupcountmax": 1,
+                "weight": 20
+            }
+        ]
+    },
+    {
+        "biome": [
+            "Mesa",
+            "Mesa (Bryce)",
+            "Mesa Plateau",
+            "Mesa Plateau F",
+            "Mesa Plateau F M",
+            "Mesa Plateau M"
+        ],
+        "block": [
+            "minecraft:stone"
+        ],
+        "seesky": false,
+        "mobs": [
+            {
+                "mob": "minecraft:blaze",
+                "groupcountmin": 2,
+                "groupcountmax": 3,
+                "weight": 20
+            }
+        ]
+    },
+    {
+        "biome": [
+            "Mesa",
+            "Mesa (Bryce)",
+            "Mesa Plateau",
+            "Mesa Plateau F",
+            "Mesa Plateau F M",
+            "Mesa Plateau M"
+        ],
+        "block": [
+            "minecraft:sand",
+            "minecraft:red_sandstone",
+            "minecraft:dirt",
+            "minecraft:grass"
+        ],
+        "weather": "thunder",
+        "mobs": [
+            {
+                "mob": "minecraft:giant",
+                "weight": 1780
+            },
+            {
+                "mob": "minecraft:blaze",
+                "groupcountmin": 2,
+                "groupcountmax": 3,
+                "weight": 20
             }
         ]
     },

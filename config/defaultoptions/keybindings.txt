@@ -9,10 +9,9 @@ key_key.sneak:42:NONE
 key_key.sprint:29:NONE
 key_key.drop:21:NONE
 key_key.inventory:18:NONE
-key_key.chat:20:NONE
-key_key.playerlist:15:NONE
+key_key.chat:53:NONE
 key_key.pickItem:0:NONE
-key_key.command:53:NONE
+key_key.command:0:NONE
 key_key.screenshot:60:NONE
 key_key.togglePerspective:63:NONE
 key_key.smoothCamera:0:NONE
@@ -31,34 +30,44 @@ key_key.hotbar.6:7:NONE
 key_key.hotbar.7:8:NONE
 key_key.hotbar.8:9:NONE
 key_key.hotbar.9:10:NONE
+key_of.key.zoom:0:NONE
+key_key.fart.desc:0:NONE
 key_chineseworkshop.keybind.select:56:NONE
-key_key.davincis.up:45:NONE
-key_key.davincis.down:44:NONE
+key_key.death_history:41:NONE
+key_key.davincis.up:44:NONE
+key_key.davincis.down:45:NONE
 key_key.davincis.brake:46:NONE
 key_key.davincis.align:13:NONE
-key_key.davincis.decompile:43:NONE
-key_key.davincis.shipinv:37:NONE
-key_keybind.railcraft.cart.bed:208:NONE
-key_simplyjetpacks.keybind.engine:34:NONE
-key_simplyjetpacks.keybind.hover:38:NONE
-key_simplyjetpacks.keybind.charger:25:NONE
-key_simplyjetpacks.keybind.emergencyhover:19:NONE
-key_key.toastcontrol.clear:36:NONE
-key_key.vehicle.horn:35:NONE
-key_key.vehicle.cycle_seats:46:NONE
-key_key.wearablebackpacks.open:48:NONE
+key_key.davincis.decompile:12:NONE
+key_key.davincis.shipinv:18:ALT
+key_key.aim:0:NONE
+key_key.reload:19:NONE
+key_key.unload:20:NONE
+key_keybind.railcraft.cart.bed:31:ALT
+key_simplyjetpacks.keybind.engine:37:NONE
+key_simplyjetpacks.keybind.hover:35:NONE
+key_simplyjetpacks.keybind.charger:36:NONE
+key_simplyjetpacks.keybind.emergencyhover:49:NONE
+key_key.toastcontrol.clear:0:NONE
+key_key.vehicle.horn:39:NONE
+key_key.vehicle.cycle_seats:40:NONE
+key_key.wearablebackpacks.open:0:NONE
+key_smoothfont.key.guiOpen:0:NONE
 key_key.cofh.multimode:47:NONE
 key_key.jei.toggleOverlay:24:CONTROL
-key_key.jei.focusSearch:33:CONTROL
+key_key.jei.focusSearch:0:NONE
 key_key.jei.toggleCheatMode:0:NONE
 key_key.jei.toggleEditMode:0:NONE
 key_key.jei.showRecipe:19:NONE
 key_key.jei.showUses:22:NONE
 key_key.jei.recipeBack:14:NONE
-key_key.jei.previousPage:201:NONE
-key_key.jei.nextPage:209:NONE
-key_key.jei.bookmark:30:NONE
+key_key.jei.previousPage:0:NONE
+key_key.jei.nextPage:0:NONE
+key_key.jei.bookmark:0:NONE
 key_key.jei.toggleBookmarkOverlay:0:NONE
+key_atlasextras.keybind.togglehud:0:NONE
+key_atlasextras.keybind.openatlas:50:NONE
+key_Seamoth descend:0:NONE
 key_mod.chiselsandbits.chiselmode.single:0:NONE
 key_mod.chiselsandbits.chiselmode.snap2:0:NONE
 key_mod.chiselsandbits.chiselmode.snap4:0:NONE
@@ -83,32 +92,41 @@ key_mod.chiselsandbits.other.mode:56:NONE
 key_mod.chiselsandbits.other.rotate.ccw:0:NONE
 key_mod.chiselsandbits.other.rotate.cw:0:NONE
 key_mod.chiselsandbits.other.pickbit:0:NONE
-key_mod.chiselsandbits.other.offgrid:0:NONE
+key_mod.chiselsandbits.other.offgrid:219:NONE
 key_mod.chiselsandbits.other.undo:0:NONE
 key_mod.chiselsandbits.other.redo:0:NONE
 key_mod.chiselsandbits.other.add_to_clipboard:0:NONE
-key_waila.keybind.wailaconfig:82:NONE
-key_waila.keybind.wailadisplay:79:NONE
-key_waila.keybind.liquid:80:NONE
-key_waila.keybind.recipe:81:NONE
-key_waila.keybind.usage:75:NONE
-key_invtweaks.key.sort:19:NONE
-key_key.llor.hotkey:62:NONE
-key_key.refinedstorage.focusSearchBar:15:NONE
-key_key.refinedstorage.clearGridCraftingMatrix:45:CONTROL
-key_key.refinedstorage.openWirelessGrid:0:NONE
-key_key.refinedstorage.openWirelessFluidGrid:0:NONE
+key_key.clipboardPaste:47:ALT
+key_invtweaks.key.sort:16:NONE
+key_keywizard.keybind.openKeyboardWizard:0:NONE
+key_key.llor.hotkey:65:NONE
+key_key.oxygen_core.accept:28:NONE
+key_key.oxygen_core.reject:14:NONE
+key_key.oxygen_core.interact:43:NONE
+key_key.oxygen_menu.openMenu:60:NONE
+key_key.refinedstorage.focusSearchBar:0:NONE
+key_key.refinedstorage.clearGridCraftingMatrix:0:NONE
+key_key.refinedstorage.openWirelessGrid:34:NONE
+key_key.refinedstorage.openWirelessFluidGrid:34:ALT
 key_key.refinedstorage.openPortableGrid:0:NONE
 key_key.refinedstorage.openWirelessCraftingMonitor:0:NONE
-key_key.refinedstorageaddons.openWirelessCraftingGrid:34:CONTROL
+key_key.refinedstorageaddons.openWirelessCraftingGrid:0:NONE
 key_key.porterNextDestination:27:NONE
 key_key.porterPrevDestination:26:NONE
 key_key.debugDumpNBTItem:0:NONE
 key_key.debugDumpNBTBlock:0:NONE
-key_Toggle Jetpack:45:NONE
-key_Open Rocket GUI:46:NONE
-key_Toggle RCS:19:NONE
+key_key.toggleLiquids:0:NONE
+key_key.toggleVisible:0:NONE
+key_Toggle Jetpack:0:NONE
+key_Open Rocket GUI:66:NONE
+key_Toggle RCS:31:NONE
 key_Rotate Vehicle Right:32:NONE
 key_Rotate Vehicle Left:30:NONE
 key_Move Vehicle Up:44:NONE
 key_Move Vehicle Down:45:NONE
+key_key.control:0:NONE
+key_keybind.railcraft.loco.reverse:19:ALT
+key_keybind.railcraft.loco.faster:16:ALT
+key_keybind.railcraft.loco.slower:30:ALT
+key_keybind.railcraft.loco.mode:32:ALT
+key_keybind.railcraft.loco.whistle:17:ALT

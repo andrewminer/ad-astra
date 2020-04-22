@@ -5,6 +5,7 @@ import mods.jei.JEI;
 
 # Advanced Rocketry -- Titanium Iridium Alloy Gear -- remove unused gear
 JEI.removeAndHide(<advancedrocketry:productgear:1>);
+JEI.removeAndHide(<advancedrocketry:jetpack>);
 
 # BiblioCraft -- Atlas -- remove in preference for Antique Atlas
 JEI.removeAndHide(<bibliocraft:atlasbook>);

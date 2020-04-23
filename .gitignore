@@ -17,6 +17,7 @@ logs/
 mountains.txt
 options.txt
 optionsof.txt
+optionsshaders.txt
 oxygen/
 photo-frame-cache/
 saves/
@@ -29,3 +30,5 @@ usercache.json
 usernamecache.json
 
 !defaultoptions/options.txt
+!defaultoptions/optionsof.txt
+!defaultoptions/optionsshaders.txt

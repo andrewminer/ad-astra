@@ -124,9 +124,9 @@ key_Rotate Vehicle Right:32:NONE
 key_Rotate Vehicle Left:30:NONE
 key_Move Vehicle Up:44:NONE
 key_Move Vehicle Down:45:NONE
-key_key.control:0:NONE
-key_keybind.railcraft.loco.reverse:19:ALT
-key_keybind.railcraft.loco.faster:16:ALT
-key_keybind.railcraft.loco.slower:30:ALT
-key_keybind.railcraft.loco.mode:32:ALT
-key_keybind.railcraft.loco.whistle:17:ALT
+key_key.control:29:NONE
+key_keybind.railcraft.loco.reverse:53:ALT
+key_keybind.railcraft.loco.faster:52:ALT
+key_keybind.railcraft.loco.slower:51:ALT
+key_keybind.railcraft.loco.mode:50:ALT
+key_keybind.railcraft.loco.whistle:49:ALT

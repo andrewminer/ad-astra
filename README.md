@@ -2,7 +2,7 @@ Ad Astra is a transportation-focused modpack for Minecraft 1.12.2.  With it, you
 can go from travelling on your own two feet to travelling among the stars in
 your warp-capable starship.  And the world of Ad Astra is worth travelling in...
 realistic hills, valleys, mountains, oceans and islands are populated with
-realistic trees and a variety of plant and animal life.
+living, growing trees and over 100 species of wild animals.
 
 To help you in your travels, you've got a wide variety of vehicles available.
 Of course, you've always got the trusty wooden raft, but you can also make motor
@@ -20,13 +20,6 @@ with lots of cool extras to build with, when you find the perfect place to make
 that ancient Japanese temple, you'll have more than enough cool blocks at hand
 to do it.
 
-But, you're going to *want* to travel.  With realistic terrain unlike what
-you've seen in Minecraft before.  Low sandy beaches give way to smooth grassy
-plains which ripple into low hills before exploding into long ranges of
-mountains.  Realistic trees gradually grow from saplings to tower above you.
-And all among them are 100+ species of animals: some out in the daytime, some
-only out at night.  Careful, though... not all of them a friendly!
-
 Finally, Ad Astra is a high-tech place.  Oil refineries, nuclear power plants,
 rocket fuel plants, and space stations are all things you'll need to build here,
 and you've got the tech to do it.  Power systems, items pipes, and a lot of
@@ -43,4 +36,4 @@ little tweaks to both make things harder, easier, and just more integrated.
 The wiki will describe what you need to know to navigate the new terrain.
 Here's where to start:
 
-### [Ad Astra Wiki](./wiki)
+### [Ad Astra Wiki](https://github.com/andrewminer/ad-astra/wiki)

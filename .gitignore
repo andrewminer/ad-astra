@@ -7,6 +7,7 @@
 __pycache__/
 config/oxygen/data/client/worlds/
 crash-reports/
+crash-reports/
 fonts/
 installers
 knownkeys.txt
@@ -14,11 +15,13 @@ llibrary/
 logs/
 mountains.txt
 options.txt
+oxygen/
 photo-frame-cache/
 saves/
 screenshots/
 server/
 servers.dat
+shaderpacks/
 tv-cache/
 usercache.json
 usernamecache.json

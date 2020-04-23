@@ -1,9 +1,0 @@
-#Thu Apr 09 22:22:14 MDT 2020
-animationSpeed=0.25
-customStars=false
-defskybox=true
-Depth_of_Field=true
-raytracedShadows=true
-SSDO=true
-waves_amplitude=0.55
-wFogDensity=30.0

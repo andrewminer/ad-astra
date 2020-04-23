@@ -1,3 +1,5 @@
+![blend](https://raw.githubusercontent.com/wiki/andrewminer/ad-astra/images/blend.png)
+
 Ad Astra is a transportation-focused modpack for Minecraft 1.12.2.  With it, you
 can go from travelling on your own two feet to travelling among the stars in
 your warp-capable starship.  And the world of Ad Astra is worth travelling in...

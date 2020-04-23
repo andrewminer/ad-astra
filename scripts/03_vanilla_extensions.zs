@@ -15,6 +15,17 @@ for ingot in ingots {
     ]);
 }
 
+# Compass -- make a much easier recipe for early-game use
+recipes.remove(<minecraft:compass>);
+ingots = [<ore:ingotIron>, <ore:ingotAluminum>, <ore:ingotTin>, <ore:ingotSilver>] as IOreDictEntry[];
+for ingot in ingots {
+    recipes.addShaped(<minecraft:compass>, [
+        [null, ingot, null],
+        [ingot, <ore:nuggetIron>, ingot],
+        [null, ingot, null],
+    ]);
+}
+
 # Saddle -- add alternate recipes using various metals
 recipes.remove(<minecraft:saddle>);
 ingots = [

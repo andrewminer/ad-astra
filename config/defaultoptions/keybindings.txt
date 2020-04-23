@@ -103,7 +103,7 @@ key_key.llor.hotkey:65:NONE
 key_key.oxygen_core.accept:28:NONE
 key_key.oxygen_core.reject:14:NONE
 key_key.oxygen_core.interact:43:NONE
-key_key.oxygen_menu.openMenu:60:NONE
+key_key.oxygen_menu.openMenu:62:NONE
 key_key.refinedstorage.focusSearchBar:0:NONE
 key_key.refinedstorage.clearGridCraftingMatrix:0:NONE
 key_key.refinedstorage.openWirelessGrid:34:NONE

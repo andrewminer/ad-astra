@@ -274,7 +274,6 @@ var keepMetaZero = [
     <railcraft:glass>,
     <railcraft:post_metal>,
     <railcraft:post_metal_platform>,
-    <railcraft:reinforced_concrete>,
     <railcraft:tank_iron_gauge>,
     <railcraft:tank_iron_valve>,
     <railcraft:tank_iron_wall>,
@@ -282,11 +281,7 @@ var keepMetaZero = [
     <railcraft:tank_steel_valve>,
     <railcraft:tank_steel_wall>,
     <rsgauges:sensitiveglass>,
-    <thermalfoundation:dye>,
     <thermalfoundation:rockwool>,
-    <vending:vendingmachine>,
-    <vending:vendingmachineadvanced>,
-    <vending:vendingmachinemultiple>,
 ] as IItemStack[];
 
 for item in keepMetaZero {

@@ -650,6 +650,26 @@
     },
     {
         "mob": [
+            "minecraft:skeleton",
+            "minecraft:zombie",
+            "minecraft:zombie_villager"
+        ],
+        "biomes": [
+            "Hell"
+        ],
+        "mincount": {
+            "amount": 32,
+            "perperson": true,
+            "mob": [
+                "minecraft:skeleton",
+                "minecraft:zombie",
+                "minecraft:zombie_villager"
+            ]
+        },
+        "result": "deny"
+    },
+    {
+        "mob": [
             "zawa:sockeyesalmon",
             "zawa:bluefish"
         ],
@@ -877,6 +897,24 @@
     },
     {
         "mob": [
+            "thermalfoundation:blizz",
+            "mowziesmobs:frostmaw"
+        ],
+        "biomes": [
+            "Ice Plains Spikes"
+        ],
+        "mincount": {
+            "amount": 20,
+            "perperson": true,
+            "mob": [
+                "thermalfoundation:blizz",
+                "mowziesmobs:frostmaw"
+            ]
+        },
+        "result": "deny"
+    },
+    {
+        "mob": [
             "minecraft:rabbit",
             "zawa:amurleopard"
         ],
@@ -1062,6 +1100,22 @@
             "perperson": true,
             "mob": [
                 "minecraft:blaze"
+            ]
+        },
+        "result": "deny"
+    },
+    {
+        "mob": [
+            "mowziesmobs:grottol"
+        ],
+        "biomes": [
+            "NotDryRock"
+        ],
+        "mincount": {
+            "amount": 16,
+            "perperson": true,
+            "mob": [
+                "mowziesmobs:grottol"
             ]
         },
         "result": "deny"
@@ -1421,16 +1475,18 @@
     },
     {
         "mob": [
-            "mowziesmobs:frostmaw"
+            "zawa:rattlesnake"
         ],
         "biomes": [
-            "Ice Plains Spikes"
+            "Desert",
+            "Desert M",
+            "DesertHills"
         ],
         "mincount": {
-            "amount": 4,
+            "amount": 6,
             "perperson": true,
             "mob": [
-                "mowziesmobs:frostmaw"
+                "zawa:rattlesnake"
             ]
         },
         "result": "deny"
@@ -2100,6 +2156,46 @@
         "result": "allow"
     },
     {
+        "mob": "zawa:rattlesnake",
+        "biome": [
+            "Desert",
+            "Desert M",
+            "DesertHills"
+        ],
+        "blocks": [
+            "minecraft:dirt",
+            "minecraft:sand",
+            "minecraft:sandstone"
+        ],
+        "mintime": 11500,
+        "maxcount": {
+            "mob": "zawa:rattlesnake",
+            "amount": 6,
+            "perplayer": true
+        },
+        "result": "allow"
+    },
+    {
+        "mob": "zawa:rattlesnake",
+        "biome": [
+            "Desert",
+            "Desert M",
+            "DesertHills"
+        ],
+        "blocks": [
+            "minecraft:dirt",
+            "minecraft:sand",
+            "minecraft:sandstone"
+        ],
+        "maxtime": 500,
+        "maxcount": {
+            "mob": "zawa:rattlesnake",
+            "amount": 6,
+            "perplayer": true
+        },
+        "result": "allow"
+    },
+    {
         "mob": "minecraft:rabbit",
         "biome": [
             "Desert",
@@ -2638,6 +2734,46 @@
         "result": "allow"
     },
     {
+        "mob": "thermalfoundation:blizz",
+        "biome": [
+            "Ice Plains Spikes"
+        ],
+        "blocks": [
+            "minecraft:dirt",
+            "minecraft:gravel",
+            "minecraft:ice",
+            "minecraft:sand",
+            "minecraft:snow"
+        ],
+        "mintime": 11500,
+        "maxcount": {
+            "mob": "thermalfoundation:blizz",
+            "amount": 30,
+            "perplayer": true
+        },
+        "result": "allow"
+    },
+    {
+        "mob": "thermalfoundation:blizz",
+        "biome": [
+            "Ice Plains Spikes"
+        ],
+        "blocks": [
+            "minecraft:dirt",
+            "minecraft:gravel",
+            "minecraft:ice",
+            "minecraft:sand",
+            "minecraft:snow"
+        ],
+        "maxtime": 500,
+        "maxcount": {
+            "mob": "thermalfoundation:blizz",
+            "amount": 30,
+            "perplayer": true
+        },
+        "result": "allow"
+    },
+    {
         "mob": "mowziesmobs:frostmaw",
         "biome": [
             "Ice Plains Spikes"
@@ -4391,6 +4527,21 @@
         "maxcount": {
             "mob": "zawa:amurleopard",
             "amount": 1,
+            "perplayer": true
+        },
+        "result": "allow"
+    },
+    {
+        "mob": "mowziesmobs:grottol",
+        "biome": [
+            "NotDryRock"
+        ],
+        "blocks": [
+            "minecraft:stone"
+        ],
+        "maxcount": {
+            "mob": "mowziesmobs:grottol",
+            "amount": 30,
             "perplayer": true
         },
         "result": "allow"
@@ -5632,6 +5783,60 @@
         "maxcount": {
             "mob": "zawa:orca",
             "amount": 3,
+            "perplayer": true
+        },
+        "result": "allow"
+    },
+    {
+        "mob": "minecraft:skeleton",
+        "biome": [
+            "Hell"
+        ],
+        "blocks": [
+            "minecraft:netherrack",
+            "minecraft:soul_sand",
+            "minecraft:nether_brick",
+            "minecraft:bedrock"
+        ],
+        "maxcount": {
+            "mob": "minecraft:skeleton",
+            "amount": 16,
+            "perplayer": true
+        },
+        "result": "allow"
+    },
+    {
+        "mob": "minecraft:zombie",
+        "biome": [
+            "Hell"
+        ],
+        "blocks": [
+            "minecraft:netherrack",
+            "minecraft:soul_sand",
+            "minecraft:nether_brick",
+            "minecraft:bedrock"
+        ],
+        "maxcount": {
+            "mob": "minecraft:zombie",
+            "amount": 6,
+            "perplayer": true
+        },
+        "result": "allow"
+    },
+    {
+        "mob": "minecraft:zombie_villager",
+        "biome": [
+            "Hell"
+        ],
+        "blocks": [
+            "minecraft:netherrack",
+            "minecraft:soul_sand",
+            "minecraft:nether_brick",
+            "minecraft:bedrock"
+        ],
+        "maxcount": {
+            "mob": "minecraft:zombie_villager",
+            "amount": 2,
             "perplayer": true
         },
         "result": "allow"
@@ -8662,6 +8867,7 @@
             "minecraft:pig",
             "minecraft:rabbit",
             "minecraft:sheep",
+            "minecraft:skeleton",
             "minecraft:slime",
             "minecraft:spider",
             "minecraft:squid",
@@ -8669,6 +8875,8 @@
             "minecraft:villager_golem",
             "minecraft:witch",
             "minecraft:wolf",
+            "minecraft:zombie",
+            "minecraft:zombie_villager",
             "mowziesmobs:baby_foliaath",
             "mowziesmobs:foliaath",
             "mowziesmobs:frostmaw",

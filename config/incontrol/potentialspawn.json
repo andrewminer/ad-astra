@@ -17,6 +17,7 @@
             "minecraft:pig",
             "minecraft:rabbit",
             "minecraft:sheep",
+            "minecraft:skeleton",
             "minecraft:slime",
             "minecraft:spider",
             "minecraft:squid",
@@ -24,6 +25,8 @@
             "minecraft:villager_golem",
             "minecraft:witch",
             "minecraft:wolf",
+            "minecraft:zombie",
+            "minecraft:zombie_villager",
             "mowziesmobs:baby_foliaath",
             "mowziesmobs:foliaath",
             "mowziesmobs:frostmaw",
@@ -266,6 +269,30 @@
         "mobs": [
             {
                 "mob": "minecraft:giant",
+                "weight": 1799
+            },
+            {
+                "mob": "zawa:rattlesnake",
+                "groupcountmin": 1,
+                "groupcountmax": 1,
+                "weight": 1
+            }
+        ]
+    },
+    {
+        "biome": [
+            "Desert",
+            "Desert M",
+            "DesertHills"
+        ],
+        "block": [
+            "minecraft:dirt",
+            "minecraft:sand",
+            "minecraft:sandstone"
+        ],
+        "mobs": [
+            {
+                "mob": "minecraft:giant",
                 "weight": 1780
             },
             {
@@ -469,13 +496,19 @@
         "mobs": [
             {
                 "mob": "minecraft:giant",
-                "weight": 580
+                "weight": 575
+            },
+            {
+                "mob": "thermalfoundation:blizz",
+                "groupcountmin": 2,
+                "groupcountmax": 3,
+                "weight": 20
             },
             {
                 "mob": "mowziesmobs:frostmaw",
                 "groupcountmin": 1,
                 "groupcountmax": 1,
-                "weight": 20
+                "weight": 5
             }
         ]
     },
@@ -800,6 +833,23 @@
                 "groupcountmin": 1,
                 "groupcountmax": 1,
                 "weight": 1
+            }
+        ]
+    },
+    {
+        "biome": [
+            "NotDryRock"
+        ],
+        "block": [
+            "minecraft:stone"
+        ],
+        "seesky": false,
+        "mobs": [
+            {
+                "mob": "mowziesmobs:grottol",
+                "groupcountmin": 2,
+                "groupcountmax": 3,
+                "weight": 20
             }
         ]
     },
@@ -1365,6 +1415,41 @@
                 "mob": "zawa:orca",
                 "groupcountmin": 2,
                 "groupcountmax": 3,
+                "weight": 1
+            }
+        ]
+    },
+    {
+        "biome": [
+            "Hell"
+        ],
+        "block": [
+            "minecraft:netherrack",
+            "minecraft:soul_sand",
+            "minecraft:nether_brick",
+            "minecraft:bedrock"
+        ],
+        "mobs": [
+            {
+                "mob": "minecraft:giant",
+                "weight": 1787
+            },
+            {
+                "mob": "minecraft:skeleton",
+                "groupcountmin": 1,
+                "groupcountmax": 2,
+                "weight": 8
+            },
+            {
+                "mob": "minecraft:zombie",
+                "groupcountmin": 2,
+                "groupcountmax": 3,
+                "weight": 4
+            },
+            {
+                "mob": "minecraft:zombie_villager",
+                "groupcountmin": 1,
+                "groupcountmax": 1,
                 "weight": 1
             }
         ]

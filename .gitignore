@@ -5,8 +5,9 @@
 .ReAuth.cfg
 .mixin.out
 __pycache__/
+config/jei/worldSettings.cfg
+config/optionsshaders.txt
 config/oxygen/data/client/worlds/
-crash-reports/
 crash-reports/
 fonts/
 installers

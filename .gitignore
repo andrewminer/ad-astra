@@ -5,6 +5,7 @@
 .ReAuth.cfg
 .mixin.out
 __pycache__/
+config/oxygen/data/client/worlds/
 crash-reports/
 fonts/
 installers

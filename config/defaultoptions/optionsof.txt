@@ -1,13 +1,13 @@
 ofFogType:2
 ofFogStart:0.8
-ofMipmapType:2
+ofMipmapType:1
 ofOcclusionFancy:false
-ofSmoothFps:true
+ofSmoothFps:false
 ofSmoothWorld:true
 ofAoLevel:1.0
 ofClouds:2
-ofCloudsHeight:0.8028169
-ofTrees:2
+ofCloudsHeight:0.0
+ofTrees:4
 ofDroppedItems:2
 ofRain:2
 ofAnimatedWater:0
@@ -30,7 +30,7 @@ ofRainSplash:true
 ofLagometer:false
 ofShowFps:false
 ofAutoSaveTicks:4000
-ofBetterGrass:3
+ofBetterGrass:2
 ofConnectedTextures:2
 ofWeather:true
 ofSky:true
@@ -40,7 +40,7 @@ ofVignette:0
 ofChunkUpdates:1
 ofChunkUpdatesDynamic:false
 ofTime:0
-ofClearWater:false
+ofClearWater:true
 ofAaLevel:2
 ofAfLevel:2
 ofProfiler:false

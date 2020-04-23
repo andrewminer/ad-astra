@@ -29,6 +29,6 @@ tv-cache/
 usercache.json
 usernamecache.json
 
-!defaultoptions/options.txt
-!defaultoptions/optionsof.txt
-!defaultoptions/optionsshaders.txt
+!config/defaultoptions/options.txt
+!config/defaultoptions/optionsof.txt
+!config/defaultoptions/optionsshaders.txt

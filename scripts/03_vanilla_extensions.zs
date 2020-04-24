@@ -6,7 +6,7 @@ import crafttweaker.oredict.IOreDictEntry;
 # Bucket -- add alternate recipes metal buckets
 recipes.remove(<minecraft:bucket>);
 var ingots = [
-    <ore:ingotCopper>, <ore:ingotIron>, <ore:ingotTin>, <ore:ingotSteel>
+    <ore:ingotAluminum>, <ore:ingotCopper>, <ore:ingotIron>, <ore:ingotTin>, <ore:ingotSteel>
 ] as IOreDictEntry[];
 for ingot in ingots {
     recipes.addShaped(<minecraft:bucket>, [
@@ -38,3 +38,7 @@ for ingot in ingots {
         [ingot, null, ingot],
     ]);
 }
+
+# Seed -- create seed from wheat and rename
+<minecraft:wheat_seeds>.displayName = "Wheat Seeds";
+recipes.addShapeless(<minecraft:wheat_seeds>, [<minecraft:wheat>]);

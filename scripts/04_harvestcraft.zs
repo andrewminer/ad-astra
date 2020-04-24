@@ -1,20 +1,55 @@
+import crafttweaker.oredict.IOreDictEntry;
 import mods.jei.JEI;
+import mods.thermalexpansion.Centrifuge;
 
 
 ########################################################################################################################
 
+var bladeMetals = [
+    <ore:ingotIron>,
+    <ore:ingotSteel>,
+] as IOreDictEntry[];
+
+var cookingMetals = [
+    <ore:ingotAluminum>,
+    <ore:ingotBronze>,
+    <ore:ingotCopper>,
+    <ore:ingotIron>,
+    <ore:ingotNickel>,
+    <ore:ingotSteel>,
+] as IOreDictEntry[];
+
+<ore:ingotBrick>.add(<chineseworkshop:material:1>);
+<ore:ingotBrick>.add(<chineseworkshop:material:3>);
+var ceramics = [
+    <ore:ingotBrick>,
+    <ore:ingotBrickNether>,
+] as IOreDictEntry[];
+
+var water = <harvestcraft:freshwateritem>;
+
+
+########################################################################################################################
+
+# Bakeware -- replace with more generic recipe
+recipes.remove(<harvestcraft:bakewareitem>);
+for brick in ceramics {
+    recipes.addShaped(<harvestcraft:bakewareitem>, [
+        [brick, brick, brick],
+        [brick, null,  brick],
+        [brick, brick, brick],
+    ]);
+}
+
 # Cutting Board -- replace bricks(?!) and use metals
 recipes.remove(<harvestcraft:cuttingboarditem>);
-recipes.addShaped(<harvestcraft:cuttingboarditem>, [
-    [<ore:ironIngot>, null, null],
-    [null, <ore:stick>, null],
-    [null, null, <ore:plankWood>],
-]);
-recipes.addShaped(<harvestcraft:cuttingboarditem>, [
-    [<ore:steelIngot>, null, null],
-    [null, <ore:stick>, null],
-    [null, null, <ore:plankWood>],
-]);
+for ingot in bladeMetals {
+    recipes.addShaped(<harvestcraft:cuttingboarditem>, [
+        [ingot, null, null],
+        [null, <ore:stickWood>, null],
+        [null, null, <ore:plankWood>],
+    ]);
+}
 
 # Fish Bait -- replace recipe to use less string and require ground fish
 recipes.remove(<harvestcraft:fishtrapbaititem>);
@@ -23,9 +58,12 @@ recipes.addShapeless(
     [<ore:string>, <harvestcraft:groundfishitem>]
 );
 
-# Fresh Water -- increase output of recipe to match milk
+# Fresh Milk -- don't let people use a whole bucket when a quarter will do
+<ore:listAllMilk>.remove(<minecraft:milk_bucket>);
+
+# Fresh Water -- don't allow food-grade water from buckets (eww)
 recipes.remove(<harvestcraft:freshwateritem>);
-recipes.addShapeless(<harvestcraft:freshwateritem> * 4, [<minecraft:water_bucket>]);
+<ore:listAllwater>.remove(<minecraft:water_bucket>);
 
 # Grinder -- remove as redundant with Thermal Expansion Pulverizer
 JEI.removeAndHide(<harvestcraft:grinder>);
@@ -38,39 +76,25 @@ JEI.removeAndHide(<harvestcraft:market>);
 
 # Pot -- replace bricks(?!) and use metals
 recipes.remove(<harvestcraft:potitem>);
-recipes.addShaped(<harvestcraft:potitem>, [
-    [<ore:stick>, <ore:ironIngot>, <ore:ironIngot>],
-    [null, <ore:ironIngot>, <ore:ironIngot>],
-]);
-recipes.addShaped(<harvestcraft:potitem>, [
-    [<ore:stick>, <ore:copperIngot>, <ore:copperIngot>],
-    [null, <ore:copperIngot>, <ore:copperIngot>],
-]);
-recipes.addShaped(<harvestcraft:potitem>, [
-    [<ore:stick>, <ore:steelIngot>, <ore:steelIngot>],
-    [null, <ore:steelIngot>, <ore:steelIngot>],
-]);
+for ingot in cookingMetals {
+    recipes.addShaped(<harvestcraft:potitem>, [
+        [<ore:stickWood>, ingot, ingot],
+        [null,        ingot, ingot],
+    ]);
+}
 
 # Presser -- remove as redundant with Thermal Expansion Centrifugal Separator
 JEI.removeAndHide(<harvestcraft:presser>);
 
 # Saucepan -- replace bricks(?!) and use metals
 recipes.remove(<harvestcraft:saucepanitem>);
-recipes.addShaped(<harvestcraft:saucepanitem>, [
-    [<ore:ironIngot>, null, null],
-    [null, <ore:ironIngot>, null],
-    [null, null, <ore:stick>],
-]);
-recipes.addShaped(<harvestcraft:saucepanitem>, [
-    [<ore:copperIngot>, null, null],
-    [null, <ore:copperIngot>, null],
-    [null, null, <ore:stick>],
-]);
-recipes.addShaped(<harvestcraft:saucepanitem>, [
-    [<ore:steelIngot>, null, null],
-    [null, <ore:steelIngot>, null],
-    [null, null, <ore:stick>],
-]);
+for ingot in cookingMetals {
+    recipes.addShaped(<harvestcraft:saucepanitem>, [
+        [ingot, null,  null],
+        [null,  ingot, null],
+        [null,  null,  <ore:stickWood>],
+    ]);
+}
 
 # Salt -- remove the ability to craft salt from water
 recipes.removeByRecipeName("harvestcraft:saltitem");
@@ -80,18 +104,22 @@ JEI.removeAndHide(<harvestcraft:shippingbin>);
 
 # Skillet -- replace bricks(?!) and use metals
 recipes.remove(<harvestcraft:skilletitem>);
-recipes.addShaped(<harvestcraft:skilletitem>, [
-    [null, <ore:ironIngot>, null],
-    [null, null, <ore:stick>],
-]);
-recipes.addShaped(<harvestcraft:skilletitem>, [
-    [null, <ore:copperIngot>, null],
-    [null, null, <ore:stick>],
-]);
-recipes.addShaped(<harvestcraft:skilletitem>, [
-    [null, <ore:steelIngot>, null],
-    [null, null, <ore:stick>],
-]);
+for ingot in cookingMetals {
+    recipes.addShaped(<harvestcraft:skilletitem>, [
+        [null, ingot, null],
+        [null, null,  <ore:stickWood>],
+    ]);
+}
+
+# Water Filter -- replace with early-game-friendly recipe
+recipes.remove(<harvestcraft:waterfilter>);
+for ingot in cookingMetals {
+    recipes.addShaped(<harvestcraft:waterfilter>, [
+        [ingot, <ore:stickWood>, ingot],
+        [<ore:stickWood>, <projectred-core:resource_item:420>, <ore:stickWood>],
+        [ingot, <ore:stickWood>, ingot],
+    ]);
+}
 
 # Well -- remove as too OP
 JEI.removeAndHide(<harvestcraft:well>);

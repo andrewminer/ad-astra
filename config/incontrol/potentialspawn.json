@@ -313,6 +313,7 @@
             "minecraft:stone"
         ],
         "seesky": false,
+        "maxheight": 48,
         "mobs": [
             {
                 "mob": "minecraft:blaze",
@@ -974,6 +975,7 @@
             "minecraft:stone"
         ],
         "seesky": false,
+        "maxheight": 48,
         "mobs": [
             {
                 "mob": "minecraft:blaze",
@@ -1103,12 +1105,30 @@
             "minecraft:stone"
         ],
         "seesky": false,
+        "maxheight": 48,
         "mobs": [
             {
                 "mob": "thermalfoundation:basalz",
                 "groupcountmin": 2,
                 "groupcountmax": 3,
                 "weight": 20
+            }
+        ]
+    },
+    {
+        "biome": [
+            "Extreme Hills",
+            "Extreme Hills Edge",
+            "Extreme Hills M"
+        ],
+        "block": [
+            "minecraft:stone"
+        ],
+        "seesky": false,
+        "mobs": [
+            {
+                "mob": "minecraft:giant",
+                "weight": 10
             },
             {
                 "mob": "minecraft:villager_golem",
@@ -1519,6 +1539,7 @@
             "minecraft:stone"
         ],
         "seesky": false,
+        "maxheight": 48,
         "mobs": [
             {
                 "mob": "thermalfoundation:blitz",
@@ -2351,6 +2372,7 @@
             "minecraft:stone"
         ],
         "seesky": false,
+        "maxheight": 48,
         "mobs": [
             {
                 "mob": "thermalfoundation:blizz",

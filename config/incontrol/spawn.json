@@ -253,26 +253,6 @@
     },
     {
         "mob": [
-            "thermalfoundation:basalz",
-            "minecraft:villager_golem"
-        ],
-        "biomes": [
-            "Extreme Hills",
-            "Extreme Hills Edge",
-            "Extreme Hills M"
-        ],
-        "mincount": {
-            "amount": 64,
-            "perperson": true,
-            "mob": [
-                "thermalfoundation:basalz",
-                "minecraft:villager_golem"
-            ]
-        },
-        "result": "deny"
-    },
-    {
-        "mob": [
             "zawa:bluefish",
             "minecraft:squid",
             "zawa:octopus",
@@ -482,6 +462,24 @@
             "mob": [
                 "minecraft:llama",
                 "zawa:andeancondor"
+            ]
+        },
+        "result": "deny"
+    },
+    {
+        "mob": [
+            "thermalfoundation:basalz"
+        ],
+        "biomes": [
+            "Extreme Hills",
+            "Extreme Hills Edge",
+            "Extreme Hills M"
+        ],
+        "mincount": {
+            "amount": 48,
+            "perperson": true,
+            "mob": [
+                "thermalfoundation:basalz"
             ]
         },
         "result": "deny"
@@ -1137,6 +1135,24 @@
             "perperson": true,
             "mob": [
                 "minecraft:blaze"
+            ]
+        },
+        "result": "deny"
+    },
+    {
+        "mob": [
+            "minecraft:villager_golem"
+        ],
+        "biomes": [
+            "Extreme Hills",
+            "Extreme Hills Edge",
+            "Extreme Hills M"
+        ],
+        "mincount": {
+            "amount": 16,
+            "perperson": true,
+            "mob": [
+                "minecraft:villager_golem"
             ]
         },
         "result": "deny"
@@ -5148,7 +5164,7 @@
         ],
         "maxcount": {
             "mob": "thermalfoundation:basalz",
-            "amount": 60,
+            "amount": 48,
             "perplayer": true
         },
         "result": "allow"
@@ -8417,30 +8433,6 @@
             "minecraft:snow"
         ],
         "weather": "thunder",
-        "mintime": 11500,
-        "maxcount": {
-            "mob": "thermalfoundation:blizz",
-            "amount": 12,
-            "perplayer": true
-        },
-        "result": "allow"
-    },
-    {
-        "mob": "thermalfoundation:blizz",
-        "biome": [
-            "CrystalChasms",
-            "Ice Mountains",
-            "Ice Plains"
-        ],
-        "blocks": [
-            "minecraft:dirt",
-            "minecraft:gravel",
-            "minecraft:ice",
-            "minecraft:sand",
-            "minecraft:snow"
-        ],
-        "weather": "thunder",
-        "maxtime": 500,
         "maxcount": {
             "mob": "thermalfoundation:blizz",
             "amount": 12,

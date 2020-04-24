@@ -5,6 +5,7 @@
 .ReAuth.cfg
 .mixin.out
 __pycache__/
+backups/
 config/jei/worldSettings.cfg
 config/optionsshaders.txt
 config/oxygen/data/client/worlds/

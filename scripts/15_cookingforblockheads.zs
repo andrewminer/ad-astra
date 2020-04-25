@@ -1,6 +1,3 @@
-var nugget = <ore:nuggetIron> | <ore:nuggetAluminum> | <ore:nuggetCopper> | <ore:nuggetNickel> | <ore:nuggetSteel>;
-var ingot = <ore:ingotIron> | <ore:ingotAluminum> | <ore:ingotCopper> | <ore:ingotNickel> | <ore:ingotSteel>;
-
 # Cooking for Blockheads II — don't require diamonds
 recipes.remove(<cookingforblockheads:recipe_book:2>);
 recipes.addShaped(<cookingforblockheads:recipe_book:2>, [
@@ -11,9 +8,9 @@ recipes.addShaped(<cookingforblockheads:recipe_book:2>, [
 # Fridge -- allow a wider selection of metals
 recipes.remove(<cookingforblockheads:fridge>);
 recipes.addShaped(<cookingforblockheads:fridge>, [
-    [ingot, null, ingot],
-    [ingot, <ore:chestWood>, ingot],
-    [ingot, null, ingot],
+    [<ore:itemMetalIngot>, null, <ore:itemMetalIngot>],
+    [<ore:itemMetalIngot>, <ore:chestWood>, <ore:itemMetalIngot>],
+    [<ore:itemMetalIngot>, null, <ore:itemMetalIngot>],
 ]);
 
 # Heating Unit -- use a more compatible recipe
@@ -48,7 +45,7 @@ recipes.addShaped(<cookingforblockheads:preservation_chamber>, [
 # Sink -- allow a wider selection of metals
 recipes.remove(<cookingforblockheads:sink>);
 recipes.addShaped(<cookingforblockheads:sink>, [
-    [ingot, ingot, ingot],
+    [<ore:itemMetalIngot>, <ore:itemMetalIngot>, <ore:itemMetalIngot>],
     [<minecraft:hardened_clay>, <minecraft:bucket>, <minecraft:hardened_clay>],
     [<minecraft:hardened_clay>, <minecraft:hardened_clay>, <minecraft:hardened_clay>],
 ]);
@@ -57,13 +54,13 @@ recipes.addShaped(<cookingforblockheads:sink>, [
 recipes.remove(<cookingforblockheads:oven>);
 recipes.addShaped(<cookingforblockheads:oven>, [
     [<ore:blockGlassBlack>, <ore:blockGlassBlack>, <ore:blockGlassBlack>],
-    [ingot, <minecraft:furnace>, ingot],
-    [ingot, ingot, ingot],
+    [<ore:itemMetalIngot>, <minecraft:furnace>, <ore:itemMetalIngot>],
+    [<ore:itemMetalIngot>, <ore:itemMetalIngot>, <ore:itemMetalIngot>],
 ]);
 
 # Tool Rack -- allow a wider selection of metals
 recipes.remove(<cookingforblockheads:tool_rack>);
 recipes.addShaped(<cookingforblockheads:tool_rack>, [
     [<ore:slabWood>, <ore:slabWood>, <ore:slabWood>],
-    [nugget, null, nugget],
+    [<ore:itemMetalNugget>, null, <ore:itemMetalNugget>],
 ]);

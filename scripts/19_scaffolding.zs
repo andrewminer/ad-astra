@@ -2,6 +2,6 @@
 recipes.remove(<scaffolding:scaffolding_block>);
 recipes.addShaped(<scaffolding:scaffolding_block> * 32, [
     [<ore:plankWood>, <ore:stickWood>, <ore:plankWood>],
-    [<ore:stickWood>, <ore:ingotIron>, <ore:stickWood>],
+    [<ore:stickWood>, <ore:itemMetalIngot>, <ore:stickWood>],
     [<ore:plankWood>, <ore:stickWood>, <ore:plankWood>],
 ]);

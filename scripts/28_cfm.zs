@@ -1,7 +1,7 @@
 # Knife -- change to something reasonable
 recipes.remove(<cfm:item_knife>);
 recipes.addShaped(<cfm:item_knife>, [
-    [<ore:ingotIron> | <ore:ingotSteel>],
+    [<ore:bladeMetalIngot>],
     [<ore:stickWood>],
 ]);
 

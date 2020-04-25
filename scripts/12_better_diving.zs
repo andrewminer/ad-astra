@@ -137,6 +137,9 @@ JEI.removeAndHide(<better_diving:seaglide>);
 # Disabled because there's no way to charge these things right now.
 JEI.removeAndHide(<better_diving:seamoth>);
 
+# Silicone Rubber -- add recipe for using just the leaves
+recipes.addShapeless(<better_diving:silicone_rubber>, [<better_diving:creepvine>, <better_diving:creepvine>]);
+
 # Standard O2 Tank — replace with cheaper recipe
 recipes.remove(<better_diving:standard_o2_tank>);
 recipes.addShaped(<better_diving:standard_o2_tank>, [

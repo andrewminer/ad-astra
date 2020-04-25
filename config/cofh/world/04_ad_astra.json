@@ -129,7 +129,7 @@
             "min-height": 0,
             "max-height": 64
         },
-        "stone_andesite-any-5ef93be4a7ef7054d6330a7567fbc7f5": {
+        "stone_andesite-any-2782b445846c2423da710532c1e1c81b": {
             "chunk-chance": 1,
             "cluster-count": 96,
             "biome": {
@@ -170,7 +170,7 @@
             "min-height": 0,
             "max-height": 256
         },
-        "ore_metal_etc-deep_up_step0-any-5ef93be4a7ef7054d6330a7567fbc7f5": {
+        "ore_metal_etc-deep_up_step0-any-2782b445846c2423da710532c1e1c81b": {
             "chunk-chance": 1,
             "cluster-count": 5,
             "biome": {
@@ -226,7 +226,7 @@
             "min-height": 8,
             "max-height": 16
         },
-        "ore_metal_etc-deep_up_step1-any-5ef93be4a7ef7054d6330a7567fbc7f5": {
+        "ore_metal_etc-deep_up_step1-any-2782b445846c2423da710532c1e1c81b": {
             "chunk-chance": 1,
             "cluster-count": 6,
             "biome": {
@@ -282,7 +282,7 @@
             "min-height": 11,
             "max-height": 19
         },
-        "ore_metal_etc-deep_up_step2-any-5ef93be4a7ef7054d6330a7567fbc7f5": {
+        "ore_metal_etc-deep_up_step2-any-2782b445846c2423da710532c1e1c81b": {
             "chunk-chance": 1,
             "cluster-count": 6,
             "biome": {
@@ -338,7 +338,7 @@
             "min-height": 14,
             "max-height": 22
         },
-        "ore_metal_etc-deep_up_step3-any-5ef93be4a7ef7054d6330a7567fbc7f5": {
+        "ore_metal_etc-deep_up_step3-any-2782b445846c2423da710532c1e1c81b": {
             "chunk-chance": 1,
             "cluster-count": 6,
             "biome": {
@@ -394,7 +394,7 @@
             "min-height": 18,
             "max-height": 26
         },
-        "ore_metal_etc-deep_up_step4-any-5ef93be4a7ef7054d6330a7567fbc7f5": {
+        "ore_metal_etc-deep_up_step4-any-2782b445846c2423da710532c1e1c81b": {
             "chunk-chance": 1,
             "cluster-count": 6,
             "biome": {
@@ -450,7 +450,7 @@
             "min-height": 21,
             "max-height": 29
         },
-        "ore_metal_etc-deep_up_step5-any-5ef93be4a7ef7054d6330a7567fbc7f5": {
+        "ore_metal_etc-deep_up_step5-any-2782b445846c2423da710532c1e1c81b": {
             "chunk-chance": 1,
             "cluster-count": 8,
             "biome": {
@@ -506,7 +506,7 @@
             "min-height": 24,
             "max-height": 32
         },
-        "ore_metal_etc-deep_up_step6-any-5ef93be4a7ef7054d6330a7567fbc7f5": {
+        "ore_metal_etc-deep_up_step6-any-2782b445846c2423da710532c1e1c81b": {
             "chunk-chance": 1,
             "cluster-count": 7,
             "biome": {
@@ -562,7 +562,7 @@
             "min-height": 27,
             "max-height": 35
         },
-        "ore_metal_etc-deep_up_step7-any-5ef93be4a7ef7054d6330a7567fbc7f5": {
+        "ore_metal_etc-deep_up_step7-any-2782b445846c2423da710532c1e1c81b": {
             "chunk-chance": 1,
             "cluster-count": 9,
             "biome": {
@@ -618,7 +618,7 @@
             "min-height": 30,
             "max-height": 38
         },
-        "ore_metal_etc-deep_up_step8-any-5ef93be4a7ef7054d6330a7567fbc7f5": {
+        "ore_metal_etc-deep_up_step8-any-2782b445846c2423da710532c1e1c81b": {
             "chunk-chance": 1,
             "cluster-count": 12,
             "biome": {
@@ -674,7 +674,7 @@
             "min-height": 34,
             "max-height": 42
         },
-        "ore_metal_etc-deep_up_step9-any-5ef93be4a7ef7054d6330a7567fbc7f5": {
+        "ore_metal_etc-deep_up_step9-any-2782b445846c2423da710532c1e1c81b": {
             "chunk-chance": 1,
             "cluster-count": 12,
             "biome": {
@@ -730,7 +730,7 @@
             "min-height": 37,
             "max-height": 45
         },
-        "ore_metal_etc-deep_up_step10-any-5ef93be4a7ef7054d6330a7567fbc7f5": {
+        "ore_metal_etc-deep_up_step10-any-2782b445846c2423da710532c1e1c81b": {
             "chunk-chance": 1,
             "cluster-count": 20,
             "biome": {
@@ -786,7 +786,7 @@
             "min-height": 40,
             "max-height": 48
         },
-        "ore_metal_poor_etc-surface_down_step0-any-5ef93be4a7ef7054d6330a7567fbc7f5": {
+        "ore_metal_poor_etc-surface_down_step0-any-2782b445846c2423da710532c1e1c81b": {
             "chunk-chance": 1,
             "cluster-count": 10,
             "biome": {
@@ -841,7 +841,7 @@
             "min-height": 72,
             "max-height": 80
         },
-        "ore_metal_poor_etc-surface_down_step1-any-5ef93be4a7ef7054d6330a7567fbc7f5": {
+        "ore_metal_poor_etc-surface_down_step1-any-2782b445846c2423da710532c1e1c81b": {
             "chunk-chance": 1,
             "cluster-count": 10,
             "biome": {
@@ -896,7 +896,7 @@
             "min-height": 69,
             "max-height": 77
         },
-        "ore_metal_poor_etc-surface_down_step2-any-5ef93be4a7ef7054d6330a7567fbc7f5": {
+        "ore_metal_poor_etc-surface_down_step2-any-2782b445846c2423da710532c1e1c81b": {
             "chunk-chance": 1,
             "cluster-count": 8,
             "biome": {
@@ -951,7 +951,7 @@
             "min-height": 66,
             "max-height": 74
         },
-        "ore_metal_poor_etc-surface_down_step3-any-5ef93be4a7ef7054d6330a7567fbc7f5": {
+        "ore_metal_poor_etc-surface_down_step3-any-2782b445846c2423da710532c1e1c81b": {
             "chunk-chance": 1,
             "cluster-count": 8,
             "biome": {
@@ -1006,7 +1006,7 @@
             "min-height": 62,
             "max-height": 70
         },
-        "ore_metal_poor_etc-surface_down_step4-any-5ef93be4a7ef7054d6330a7567fbc7f5": {
+        "ore_metal_poor_etc-surface_down_step4-any-2782b445846c2423da710532c1e1c81b": {
             "chunk-chance": 1,
             "cluster-count": 7,
             "biome": {
@@ -1061,7 +1061,7 @@
             "min-height": 59,
             "max-height": 67
         },
-        "ore_metal_poor_etc-surface_down_step5-any-5ef93be4a7ef7054d6330a7567fbc7f5": {
+        "ore_metal_poor_etc-surface_down_step5-any-2782b445846c2423da710532c1e1c81b": {
             "chunk-chance": 1,
             "cluster-count": 6,
             "biome": {
@@ -1116,7 +1116,7 @@
             "min-height": 56,
             "max-height": 64
         },
-        "ore_metal_poor_etc-surface_down_step6-any-5ef93be4a7ef7054d6330a7567fbc7f5": {
+        "ore_metal_poor_etc-surface_down_step6-any-2782b445846c2423da710532c1e1c81b": {
             "chunk-chance": 1,
             "cluster-count": 12,
             "biome": {
@@ -1171,7 +1171,7 @@
             "min-height": 53,
             "max-height": 61
         },
-        "ore_metal_poor_etc-surface_down_step7-any-5ef93be4a7ef7054d6330a7567fbc7f5": {
+        "ore_metal_poor_etc-surface_down_step7-any-2782b445846c2423da710532c1e1c81b": {
             "chunk-chance": 1,
             "cluster-count": 10,
             "biome": {
@@ -1226,7 +1226,7 @@
             "min-height": 50,
             "max-height": 58
         },
-        "ore_metal_poor_etc-surface_down_step8-any-5ef93be4a7ef7054d6330a7567fbc7f5": {
+        "ore_metal_poor_etc-surface_down_step8-any-2782b445846c2423da710532c1e1c81b": {
             "chunk-chance": 1,
             "cluster-count": 8,
             "biome": {
@@ -1281,7 +1281,7 @@
             "min-height": 46,
             "max-height": 54
         },
-        "ore_metal_poor_etc-surface_down_step9-any-5ef93be4a7ef7054d6330a7567fbc7f5": {
+        "ore_metal_poor_etc-surface_down_step9-any-2782b445846c2423da710532c1e1c81b": {
             "chunk-chance": 1,
             "cluster-count": 6,
             "biome": {
@@ -1336,7 +1336,7 @@
             "min-height": 43,
             "max-height": 51
         },
-        "ore_metal_poor_etc-surface_down_step10-any-5ef93be4a7ef7054d6330a7567fbc7f5": {
+        "ore_metal_poor_etc-surface_down_step10-any-2782b445846c2423da710532c1e1c81b": {
             "chunk-chance": 1,
             "cluster-count": 5,
             "biome": {
@@ -1391,7 +1391,7 @@
             "min-height": 40,
             "max-height": 48
         },
-        "ore_metal_poor_etc-surface_up_step0-any-5ef93be4a7ef7054d6330a7567fbc7f5": {
+        "ore_metal_poor_etc-surface_up_step0-any-2782b445846c2423da710532c1e1c81b": {
             "chunk-chance": 1,
             "cluster-count": 10,
             "biome": {
@@ -1446,7 +1446,7 @@
             "min-height": 72,
             "max-height": 80
         },
-        "ore_metal_poor_etc-surface_up_step1-any-5ef93be4a7ef7054d6330a7567fbc7f5": {
+        "ore_metal_poor_etc-surface_up_step1-any-2782b445846c2423da710532c1e1c81b": {
             "chunk-chance": 1,
             "cluster-count": 11,
             "biome": {
@@ -1501,7 +1501,7 @@
             "min-height": 77,
             "max-height": 85
         },
-        "ore_metal_poor_etc-surface_up_step2-any-5ef93be4a7ef7054d6330a7567fbc7f5": {
+        "ore_metal_poor_etc-surface_up_step2-any-2782b445846c2423da710532c1e1c81b": {
             "chunk-chance": 1,
             "cluster-count": 12,
             "biome": {
@@ -1556,7 +1556,7 @@
             "min-height": 82,
             "max-height": 90
         },
-        "ore_metal_poor_etc-surface_up_step3-any-5ef93be4a7ef7054d6330a7567fbc7f5": {
+        "ore_metal_poor_etc-surface_up_step3-any-2782b445846c2423da710532c1e1c81b": {
             "chunk-chance": 1,
             "cluster-count": 12,
             "biome": {
@@ -1611,7 +1611,7 @@
             "min-height": 86,
             "max-height": 94
         },
-        "ore_metal_poor_etc-surface_up_step4-any-5ef93be4a7ef7054d6330a7567fbc7f5": {
+        "ore_metal_poor_etc-surface_up_step4-any-2782b445846c2423da710532c1e1c81b": {
             "chunk-chance": 1,
             "cluster-count": 12,
             "biome": {
@@ -1666,7 +1666,7 @@
             "min-height": 91,
             "max-height": 99
         },
-        "ore_metal_poor_etc-surface_up_step5-any-5ef93be4a7ef7054d6330a7567fbc7f5": {
+        "ore_metal_poor_etc-surface_up_step5-any-2782b445846c2423da710532c1e1c81b": {
             "chunk-chance": 1,
             "cluster-count": 13,
             "biome": {
@@ -1721,7 +1721,7 @@
             "min-height": 96,
             "max-height": 104
         },
-        "ore_metal_poor_etc-surface_up_step6-any-5ef93be4a7ef7054d6330a7567fbc7f5": {
+        "ore_metal_poor_etc-surface_up_step6-any-2782b445846c2423da710532c1e1c81b": {
             "chunk-chance": 1,
             "cluster-count": 26,
             "biome": {
@@ -1776,7 +1776,7 @@
             "min-height": 101,
             "max-height": 109
         },
-        "ore_metal_poor_etc-surface_up_step7-any-5ef93be4a7ef7054d6330a7567fbc7f5": {
+        "ore_metal_poor_etc-surface_up_step7-any-2782b445846c2423da710532c1e1c81b": {
             "chunk-chance": 1,
             "cluster-count": 28,
             "biome": {
@@ -1831,7 +1831,7 @@
             "min-height": 106,
             "max-height": 114
         },
-        "ore_metal_poor_etc-surface_up_step8-any-5ef93be4a7ef7054d6330a7567fbc7f5": {
+        "ore_metal_poor_etc-surface_up_step8-any-2782b445846c2423da710532c1e1c81b": {
             "chunk-chance": 1,
             "cluster-count": 28,
             "biome": {
@@ -1886,7 +1886,7 @@
             "min-height": 110,
             "max-height": 118
         },
-        "ore_metal_poor_etc-surface_up_step9-any-5ef93be4a7ef7054d6330a7567fbc7f5": {
+        "ore_metal_poor_etc-surface_up_step9-any-2782b445846c2423da710532c1e1c81b": {
             "chunk-chance": 1,
             "cluster-count": 30,
             "biome": {
@@ -1941,7 +1941,7 @@
             "min-height": 115,
             "max-height": 123
         },
-        "ore_metal_poor_etc-surface_up_step10-any-5ef93be4a7ef7054d6330a7567fbc7f5": {
+        "ore_metal_poor_etc-surface_up_step10-any-2782b445846c2423da710532c1e1c81b": {
             "chunk-chance": 1,
             "cluster-count": 30,
             "biome": {
@@ -1996,7 +1996,7 @@
             "min-height": 120,
             "max-height": 128
         },
-        "limestone2-shallow-9f60e35d7d51a3bdc3cce95e84ce9f06": {
+        "limestone2-shallow-10609f3deee1dc6255aaf66f60f29323": {
             "chunk-chance": 5,
             "cluster-count": 2,
             "biome": {
@@ -2036,7 +2036,7 @@
             "min-height": 40,
             "max-height": 64
         },
-        "ore_metal_etc-deep_up_step0-any-9f60e35d7d51a3bdc3cce95e84ce9f06": {
+        "ore0_etc-deep_up_step0-any-10609f3deee1dc6255aaf66f60f29323": {
             "chunk-chance": 1,
             "cluster-count": 5,
             "biome": {
@@ -2056,9 +2056,9 @@
             "generator": {
                 "block": [
                     {
-                        "name": "railcraft:ore_metal",
-                        "metadata": 1,
-                        "weight": 55000
+                        "name": "libvulpes:ore0",
+                        "metadata": 9,
+                        "weight": 60000
                     },
                     {
                         "name": "railcraft:ore_metal",
@@ -2066,9 +2066,8 @@
                         "weight": 20000
                     },
                     {
-                        "name": "railcraft:ore_metal_poor",
-                        "metadata": 3,
-                        "weight": 15000
+                        "name": "minecraft:stone",
+                        "weight": 10000
                     },
                     {
                         "name": "railcraft:ore_metal_poor",
@@ -2091,7 +2090,7 @@
             "min-height": 8,
             "max-height": 16
         },
-        "ore_metal_etc-deep_up_step1-any-9f60e35d7d51a3bdc3cce95e84ce9f06": {
+        "ore0_etc-deep_up_step1-any-10609f3deee1dc6255aaf66f60f29323": {
             "chunk-chance": 1,
             "cluster-count": 6,
             "biome": {
@@ -2111,9 +2110,9 @@
             "generator": {
                 "block": [
                     {
-                        "name": "railcraft:ore_metal",
-                        "metadata": 1,
-                        "weight": 55000
+                        "name": "libvulpes:ore0",
+                        "metadata": 9,
+                        "weight": 60000
                     },
                     {
                         "name": "railcraft:ore_metal",
@@ -2121,9 +2120,8 @@
                         "weight": 20000
                     },
                     {
-                        "name": "railcraft:ore_metal_poor",
-                        "metadata": 3,
-                        "weight": 15000
+                        "name": "minecraft:stone",
+                        "weight": 10000
                     },
                     {
                         "name": "railcraft:ore_metal_poor",
@@ -2146,7 +2144,7 @@
             "min-height": 11,
             "max-height": 19
         },
-        "ore_metal_etc-deep_up_step2-any-9f60e35d7d51a3bdc3cce95e84ce9f06": {
+        "ore0_etc-deep_up_step2-any-10609f3deee1dc6255aaf66f60f29323": {
             "chunk-chance": 1,
             "cluster-count": 6,
             "biome": {
@@ -2166,9 +2164,9 @@
             "generator": {
                 "block": [
                     {
-                        "name": "railcraft:ore_metal",
-                        "metadata": 1,
-                        "weight": 55000
+                        "name": "libvulpes:ore0",
+                        "metadata": 9,
+                        "weight": 60000
                     },
                     {
                         "name": "railcraft:ore_metal",
@@ -2176,9 +2174,8 @@
                         "weight": 20000
                     },
                     {
-                        "name": "railcraft:ore_metal_poor",
-                        "metadata": 3,
-                        "weight": 15000
+                        "name": "minecraft:stone",
+                        "weight": 10000
                     },
                     {
                         "name": "railcraft:ore_metal_poor",
@@ -2201,7 +2198,7 @@
             "min-height": 14,
             "max-height": 22
         },
-        "ore_metal_etc-deep_up_step3-any-9f60e35d7d51a3bdc3cce95e84ce9f06": {
+        "ore0_etc-deep_up_step3-any-10609f3deee1dc6255aaf66f60f29323": {
             "chunk-chance": 1,
             "cluster-count": 6,
             "biome": {
@@ -2221,9 +2218,9 @@
             "generator": {
                 "block": [
                     {
-                        "name": "railcraft:ore_metal",
-                        "metadata": 1,
-                        "weight": 55000
+                        "name": "libvulpes:ore0",
+                        "metadata": 9,
+                        "weight": 60000
                     },
                     {
                         "name": "railcraft:ore_metal",
@@ -2231,9 +2228,8 @@
                         "weight": 20000
                     },
                     {
-                        "name": "railcraft:ore_metal_poor",
-                        "metadata": 3,
-                        "weight": 15000
+                        "name": "minecraft:stone",
+                        "weight": 10000
                     },
                     {
                         "name": "railcraft:ore_metal_poor",
@@ -2256,7 +2252,7 @@
             "min-height": 18,
             "max-height": 26
         },
-        "ore_metal_etc-deep_up_step4-any-9f60e35d7d51a3bdc3cce95e84ce9f06": {
+        "ore0_etc-deep_up_step4-any-10609f3deee1dc6255aaf66f60f29323": {
             "chunk-chance": 1,
             "cluster-count": 6,
             "biome": {
@@ -2276,9 +2272,9 @@
             "generator": {
                 "block": [
                     {
-                        "name": "railcraft:ore_metal",
-                        "metadata": 1,
-                        "weight": 55000
+                        "name": "libvulpes:ore0",
+                        "metadata": 9,
+                        "weight": 60000
                     },
                     {
                         "name": "railcraft:ore_metal",
@@ -2286,9 +2282,8 @@
                         "weight": 20000
                     },
                     {
-                        "name": "railcraft:ore_metal_poor",
-                        "metadata": 3,
-                        "weight": 15000
+                        "name": "minecraft:stone",
+                        "weight": 10000
                     },
                     {
                         "name": "railcraft:ore_metal_poor",
@@ -2311,7 +2306,7 @@
             "min-height": 21,
             "max-height": 29
         },
-        "ore_metal_etc-deep_up_step5-any-9f60e35d7d51a3bdc3cce95e84ce9f06": {
+        "ore0_etc-deep_up_step5-any-10609f3deee1dc6255aaf66f60f29323": {
             "chunk-chance": 1,
             "cluster-count": 8,
             "biome": {
@@ -2331,9 +2326,9 @@
             "generator": {
                 "block": [
                     {
-                        "name": "railcraft:ore_metal",
-                        "metadata": 1,
-                        "weight": 55000
+                        "name": "libvulpes:ore0",
+                        "metadata": 9,
+                        "weight": 60000
                     },
                     {
                         "name": "railcraft:ore_metal",
@@ -2341,9 +2336,8 @@
                         "weight": 20000
                     },
                     {
-                        "name": "railcraft:ore_metal_poor",
-                        "metadata": 3,
-                        "weight": 15000
+                        "name": "minecraft:stone",
+                        "weight": 10000
                     },
                     {
                         "name": "railcraft:ore_metal_poor",
@@ -2366,7 +2360,7 @@
             "min-height": 24,
             "max-height": 32
         },
-        "ore_metal_etc-deep_up_step6-any-9f60e35d7d51a3bdc3cce95e84ce9f06": {
+        "ore0_etc-deep_up_step6-any-10609f3deee1dc6255aaf66f60f29323": {
             "chunk-chance": 1,
             "cluster-count": 7,
             "biome": {
@@ -2386,9 +2380,9 @@
             "generator": {
                 "block": [
                     {
-                        "name": "railcraft:ore_metal",
-                        "metadata": 1,
-                        "weight": 55000
+                        "name": "libvulpes:ore0",
+                        "metadata": 9,
+                        "weight": 60000
                     },
                     {
                         "name": "railcraft:ore_metal",
@@ -2396,9 +2390,8 @@
                         "weight": 20000
                     },
                     {
-                        "name": "railcraft:ore_metal_poor",
-                        "metadata": 3,
-                        "weight": 15000
+                        "name": "minecraft:stone",
+                        "weight": 10000
                     },
                     {
                         "name": "railcraft:ore_metal_poor",
@@ -2421,7 +2414,7 @@
             "min-height": 27,
             "max-height": 35
         },
-        "ore_metal_etc-deep_up_step7-any-9f60e35d7d51a3bdc3cce95e84ce9f06": {
+        "ore0_etc-deep_up_step7-any-10609f3deee1dc6255aaf66f60f29323": {
             "chunk-chance": 1,
             "cluster-count": 9,
             "biome": {
@@ -2441,9 +2434,9 @@
             "generator": {
                 "block": [
                     {
-                        "name": "railcraft:ore_metal",
-                        "metadata": 1,
-                        "weight": 55000
+                        "name": "libvulpes:ore0",
+                        "metadata": 9,
+                        "weight": 60000
                     },
                     {
                         "name": "railcraft:ore_metal",
@@ -2451,9 +2444,8 @@
                         "weight": 20000
                     },
                     {
-                        "name": "railcraft:ore_metal_poor",
-                        "metadata": 3,
-                        "weight": 15000
+                        "name": "minecraft:stone",
+                        "weight": 10000
                     },
                     {
                         "name": "railcraft:ore_metal_poor",
@@ -2476,7 +2468,7 @@
             "min-height": 30,
             "max-height": 38
         },
-        "ore_metal_etc-deep_up_step8-any-9f60e35d7d51a3bdc3cce95e84ce9f06": {
+        "ore0_etc-deep_up_step8-any-10609f3deee1dc6255aaf66f60f29323": {
             "chunk-chance": 1,
             "cluster-count": 12,
             "biome": {
@@ -2496,9 +2488,9 @@
             "generator": {
                 "block": [
                     {
-                        "name": "railcraft:ore_metal",
-                        "metadata": 1,
-                        "weight": 55000
+                        "name": "libvulpes:ore0",
+                        "metadata": 9,
+                        "weight": 60000
                     },
                     {
                         "name": "railcraft:ore_metal",
@@ -2506,9 +2498,8 @@
                         "weight": 20000
                     },
                     {
-                        "name": "railcraft:ore_metal_poor",
-                        "metadata": 3,
-                        "weight": 15000
+                        "name": "minecraft:stone",
+                        "weight": 10000
                     },
                     {
                         "name": "railcraft:ore_metal_poor",
@@ -2531,7 +2522,7 @@
             "min-height": 34,
             "max-height": 42
         },
-        "ore_metal_etc-deep_up_step9-any-9f60e35d7d51a3bdc3cce95e84ce9f06": {
+        "ore0_etc-deep_up_step9-any-10609f3deee1dc6255aaf66f60f29323": {
             "chunk-chance": 1,
             "cluster-count": 12,
             "biome": {
@@ -2551,9 +2542,9 @@
             "generator": {
                 "block": [
                     {
-                        "name": "railcraft:ore_metal",
-                        "metadata": 1,
-                        "weight": 55000
+                        "name": "libvulpes:ore0",
+                        "metadata": 9,
+                        "weight": 60000
                     },
                     {
                         "name": "railcraft:ore_metal",
@@ -2561,9 +2552,8 @@
                         "weight": 20000
                     },
                     {
-                        "name": "railcraft:ore_metal_poor",
-                        "metadata": 3,
-                        "weight": 15000
+                        "name": "minecraft:stone",
+                        "weight": 10000
                     },
                     {
                         "name": "railcraft:ore_metal_poor",
@@ -2586,7 +2576,7 @@
             "min-height": 37,
             "max-height": 45
         },
-        "ore_metal_etc-deep_up_step10-any-9f60e35d7d51a3bdc3cce95e84ce9f06": {
+        "ore0_etc-deep_up_step10-any-10609f3deee1dc6255aaf66f60f29323": {
             "chunk-chance": 1,
             "cluster-count": 20,
             "biome": {
@@ -2606,9 +2596,9 @@
             "generator": {
                 "block": [
                     {
-                        "name": "railcraft:ore_metal",
-                        "metadata": 1,
-                        "weight": 55000
+                        "name": "libvulpes:ore0",
+                        "metadata": 9,
+                        "weight": 60000
                     },
                     {
                         "name": "railcraft:ore_metal",
@@ -2616,9 +2606,8 @@
                         "weight": 20000
                     },
                     {
-                        "name": "railcraft:ore_metal_poor",
-                        "metadata": 3,
-                        "weight": 15000
+                        "name": "minecraft:stone",
+                        "weight": 10000
                     },
                     {
                         "name": "railcraft:ore_metal_poor",
@@ -2641,7 +2630,7 @@
             "min-height": 40,
             "max-height": 48
         },
-        "ore_metal_poor_etc-surface_down_step0-any-9f60e35d7d51a3bdc3cce95e84ce9f06": {
+        "stone_etc-surface_down_step0-any-10609f3deee1dc6255aaf66f60f29323": {
             "chunk-chance": 1,
             "cluster-count": 10,
             "biome": {
@@ -2661,9 +2650,8 @@
             "generator": {
                 "block": [
                     {
-                        "name": "railcraft:ore_metal_poor",
-                        "metadata": 3,
-                        "weight": 55000
+                        "name": "minecraft:stone",
+                        "weight": 43000
                     },
                     {
                         "name": "railcraft:ore_metal_poor",
@@ -2671,9 +2659,9 @@
                         "weight": 20000
                     },
                     {
-                        "name": "railcraft:ore_metal",
-                        "metadata": 1,
-                        "weight": 15000
+                        "name": "libvulpes:ore0",
+                        "metadata": 9,
+                        "weight": 32000
                     },
                     {
                         "name": "railcraft:ore_metal",
@@ -2696,7 +2684,7 @@
             "min-height": 72,
             "max-height": 80
         },
-        "ore_metal_poor_etc-surface_down_step1-any-9f60e35d7d51a3bdc3cce95e84ce9f06": {
+        "stone_etc-surface_down_step1-any-10609f3deee1dc6255aaf66f60f29323": {
             "chunk-chance": 1,
             "cluster-count": 10,
             "biome": {
@@ -2716,9 +2704,8 @@
             "generator": {
                 "block": [
                     {
-                        "name": "railcraft:ore_metal_poor",
-                        "metadata": 3,
-                        "weight": 55000
+                        "name": "minecraft:stone",
+                        "weight": 43000
                     },
                     {
                         "name": "railcraft:ore_metal_poor",
@@ -2726,9 +2713,9 @@
                         "weight": 20000
                     },
                     {
-                        "name": "railcraft:ore_metal",
-                        "metadata": 1,
-                        "weight": 15000
+                        "name": "libvulpes:ore0",
+                        "metadata": 9,
+                        "weight": 32000
                     },
                     {
                         "name": "railcraft:ore_metal",
@@ -2751,7 +2738,7 @@
             "min-height": 69,
             "max-height": 77
         },
-        "ore_metal_poor_etc-surface_down_step2-any-9f60e35d7d51a3bdc3cce95e84ce9f06": {
+        "stone_etc-surface_down_step2-any-10609f3deee1dc6255aaf66f60f29323": {
             "chunk-chance": 1,
             "cluster-count": 8,
             "biome": {
@@ -2771,9 +2758,8 @@
             "generator": {
                 "block": [
                     {
-                        "name": "railcraft:ore_metal_poor",
-                        "metadata": 3,
-                        "weight": 55000
+                        "name": "minecraft:stone",
+                        "weight": 43000
                     },
                     {
                         "name": "railcraft:ore_metal_poor",
@@ -2781,9 +2767,9 @@
                         "weight": 20000
                     },
                     {
-                        "name": "railcraft:ore_metal",
-                        "metadata": 1,
-                        "weight": 15000
+                        "name": "libvulpes:ore0",
+                        "metadata": 9,
+                        "weight": 32000
                     },
                     {
                         "name": "railcraft:ore_metal",
@@ -2806,7 +2792,7 @@
             "min-height": 66,
             "max-height": 74
         },
-        "ore_metal_poor_etc-surface_down_step3-any-9f60e35d7d51a3bdc3cce95e84ce9f06": {
+        "stone_etc-surface_down_step3-any-10609f3deee1dc6255aaf66f60f29323": {
             "chunk-chance": 1,
             "cluster-count": 8,
             "biome": {
@@ -2826,9 +2812,8 @@
             "generator": {
                 "block": [
                     {
-                        "name": "railcraft:ore_metal_poor",
-                        "metadata": 3,
-                        "weight": 55000
+                        "name": "minecraft:stone",
+                        "weight": 43000
                     },
                     {
                         "name": "railcraft:ore_metal_poor",
@@ -2836,9 +2821,9 @@
                         "weight": 20000
                     },
                     {
-                        "name": "railcraft:ore_metal",
-                        "metadata": 1,
-                        "weight": 15000
+                        "name": "libvulpes:ore0",
+                        "metadata": 9,
+                        "weight": 32000
                     },
                     {
                         "name": "railcraft:ore_metal",
@@ -2861,7 +2846,7 @@
             "min-height": 62,
             "max-height": 70
         },
-        "ore_metal_poor_etc-surface_down_step4-any-9f60e35d7d51a3bdc3cce95e84ce9f06": {
+        "stone_etc-surface_down_step4-any-10609f3deee1dc6255aaf66f60f29323": {
             "chunk-chance": 1,
             "cluster-count": 7,
             "biome": {
@@ -2881,9 +2866,8 @@
             "generator": {
                 "block": [
                     {
-                        "name": "railcraft:ore_metal_poor",
-                        "metadata": 3,
-                        "weight": 55000
+                        "name": "minecraft:stone",
+                        "weight": 43000
                     },
                     {
                         "name": "railcraft:ore_metal_poor",
@@ -2891,9 +2875,9 @@
                         "weight": 20000
                     },
                     {
-                        "name": "railcraft:ore_metal",
-                        "metadata": 1,
-                        "weight": 15000
+                        "name": "libvulpes:ore0",
+                        "metadata": 9,
+                        "weight": 32000
                     },
                     {
                         "name": "railcraft:ore_metal",
@@ -2916,7 +2900,7 @@
             "min-height": 59,
             "max-height": 67
         },
-        "ore_metal_poor_etc-surface_down_step5-any-9f60e35d7d51a3bdc3cce95e84ce9f06": {
+        "stone_etc-surface_down_step5-any-10609f3deee1dc6255aaf66f60f29323": {
             "chunk-chance": 1,
             "cluster-count": 6,
             "biome": {
@@ -2936,9 +2920,8 @@
             "generator": {
                 "block": [
                     {
-                        "name": "railcraft:ore_metal_poor",
-                        "metadata": 3,
-                        "weight": 55000
+                        "name": "minecraft:stone",
+                        "weight": 43000
                     },
                     {
                         "name": "railcraft:ore_metal_poor",
@@ -2946,9 +2929,9 @@
                         "weight": 20000
                     },
                     {
-                        "name": "railcraft:ore_metal",
-                        "metadata": 1,
-                        "weight": 15000
+                        "name": "libvulpes:ore0",
+                        "metadata": 9,
+                        "weight": 32000
                     },
                     {
                         "name": "railcraft:ore_metal",
@@ -2971,7 +2954,7 @@
             "min-height": 56,
             "max-height": 64
         },
-        "ore_metal_poor_etc-surface_down_step6-any-9f60e35d7d51a3bdc3cce95e84ce9f06": {
+        "stone_etc-surface_down_step6-any-10609f3deee1dc6255aaf66f60f29323": {
             "chunk-chance": 1,
             "cluster-count": 12,
             "biome": {
@@ -2991,9 +2974,8 @@
             "generator": {
                 "block": [
                     {
-                        "name": "railcraft:ore_metal_poor",
-                        "metadata": 3,
-                        "weight": 55000
+                        "name": "minecraft:stone",
+                        "weight": 43000
                     },
                     {
                         "name": "railcraft:ore_metal_poor",
@@ -3001,9 +2983,9 @@
                         "weight": 20000
                     },
                     {
-                        "name": "railcraft:ore_metal",
-                        "metadata": 1,
-                        "weight": 15000
+                        "name": "libvulpes:ore0",
+                        "metadata": 9,
+                        "weight": 32000
                     },
                     {
                         "name": "railcraft:ore_metal",
@@ -3026,7 +3008,7 @@
             "min-height": 53,
             "max-height": 61
         },
-        "ore_metal_poor_etc-surface_down_step7-any-9f60e35d7d51a3bdc3cce95e84ce9f06": {
+        "stone_etc-surface_down_step7-any-10609f3deee1dc6255aaf66f60f29323": {
             "chunk-chance": 1,
             "cluster-count": 10,
             "biome": {
@@ -3046,9 +3028,8 @@
             "generator": {
                 "block": [
                     {
-                        "name": "railcraft:ore_metal_poor",
-                        "metadata": 3,
-                        "weight": 55000
+                        "name": "minecraft:stone",
+                        "weight": 43000
                     },
                     {
                         "name": "railcraft:ore_metal_poor",
@@ -3056,9 +3037,9 @@
                         "weight": 20000
                     },
                     {
-                        "name": "railcraft:ore_metal",
-                        "metadata": 1,
-                        "weight": 15000
+                        "name": "libvulpes:ore0",
+                        "metadata": 9,
+                        "weight": 32000
                     },
                     {
                         "name": "railcraft:ore_metal",
@@ -3081,7 +3062,7 @@
             "min-height": 50,
             "max-height": 58
         },
-        "ore_metal_poor_etc-surface_down_step8-any-9f60e35d7d51a3bdc3cce95e84ce9f06": {
+        "stone_etc-surface_down_step8-any-10609f3deee1dc6255aaf66f60f29323": {
             "chunk-chance": 1,
             "cluster-count": 8,
             "biome": {
@@ -3101,9 +3082,8 @@
             "generator": {
                 "block": [
                     {
-                        "name": "railcraft:ore_metal_poor",
-                        "metadata": 3,
-                        "weight": 55000
+                        "name": "minecraft:stone",
+                        "weight": 43000
                     },
                     {
                         "name": "railcraft:ore_metal_poor",
@@ -3111,9 +3091,9 @@
                         "weight": 20000
                     },
                     {
-                        "name": "railcraft:ore_metal",
-                        "metadata": 1,
-                        "weight": 15000
+                        "name": "libvulpes:ore0",
+                        "metadata": 9,
+                        "weight": 32000
                     },
                     {
                         "name": "railcraft:ore_metal",
@@ -3136,7 +3116,7 @@
             "min-height": 46,
             "max-height": 54
         },
-        "ore_metal_poor_etc-surface_down_step9-any-9f60e35d7d51a3bdc3cce95e84ce9f06": {
+        "stone_etc-surface_down_step9-any-10609f3deee1dc6255aaf66f60f29323": {
             "chunk-chance": 1,
             "cluster-count": 6,
             "biome": {
@@ -3156,9 +3136,8 @@
             "generator": {
                 "block": [
                     {
-                        "name": "railcraft:ore_metal_poor",
-                        "metadata": 3,
-                        "weight": 55000
+                        "name": "minecraft:stone",
+                        "weight": 43000
                     },
                     {
                         "name": "railcraft:ore_metal_poor",
@@ -3166,9 +3145,9 @@
                         "weight": 20000
                     },
                     {
-                        "name": "railcraft:ore_metal",
-                        "metadata": 1,
-                        "weight": 15000
+                        "name": "libvulpes:ore0",
+                        "metadata": 9,
+                        "weight": 32000
                     },
                     {
                         "name": "railcraft:ore_metal",
@@ -3191,7 +3170,7 @@
             "min-height": 43,
             "max-height": 51
         },
-        "ore_metal_poor_etc-surface_down_step10-any-9f60e35d7d51a3bdc3cce95e84ce9f06": {
+        "stone_etc-surface_down_step10-any-10609f3deee1dc6255aaf66f60f29323": {
             "chunk-chance": 1,
             "cluster-count": 5,
             "biome": {
@@ -3211,9 +3190,8 @@
             "generator": {
                 "block": [
                     {
-                        "name": "railcraft:ore_metal_poor",
-                        "metadata": 3,
-                        "weight": 55000
+                        "name": "minecraft:stone",
+                        "weight": 43000
                     },
                     {
                         "name": "railcraft:ore_metal_poor",
@@ -3221,9 +3199,9 @@
                         "weight": 20000
                     },
                     {
-                        "name": "railcraft:ore_metal",
-                        "metadata": 1,
-                        "weight": 15000
+                        "name": "libvulpes:ore0",
+                        "metadata": 9,
+                        "weight": 32000
                     },
                     {
                         "name": "railcraft:ore_metal",
@@ -3246,7 +3224,7 @@
             "min-height": 40,
             "max-height": 48
         },
-        "ore_metal_poor_etc-surface_up_step0-any-9f60e35d7d51a3bdc3cce95e84ce9f06": {
+        "stone_etc-surface_up_step0-any-10609f3deee1dc6255aaf66f60f29323": {
             "chunk-chance": 1,
             "cluster-count": 10,
             "biome": {
@@ -3266,9 +3244,8 @@
             "generator": {
                 "block": [
                     {
-                        "name": "railcraft:ore_metal_poor",
-                        "metadata": 3,
-                        "weight": 55000
+                        "name": "minecraft:stone",
+                        "weight": 43000
                     },
                     {
                         "name": "railcraft:ore_metal_poor",
@@ -3276,9 +3253,9 @@
                         "weight": 20000
                     },
                     {
-                        "name": "railcraft:ore_metal",
-                        "metadata": 1,
-                        "weight": 15000
+                        "name": "libvulpes:ore0",
+                        "metadata": 9,
+                        "weight": 32000
                     },
                     {
                         "name": "railcraft:ore_metal",
@@ -3301,7 +3278,7 @@
             "min-height": 72,
             "max-height": 80
         },
-        "ore_metal_poor_etc-surface_up_step1-any-9f60e35d7d51a3bdc3cce95e84ce9f06": {
+        "stone_etc-surface_up_step1-any-10609f3deee1dc6255aaf66f60f29323": {
             "chunk-chance": 1,
             "cluster-count": 11,
             "biome": {
@@ -3321,9 +3298,8 @@
             "generator": {
                 "block": [
                     {
-                        "name": "railcraft:ore_metal_poor",
-                        "metadata": 3,
-                        "weight": 55000
+                        "name": "minecraft:stone",
+                        "weight": 43000
                     },
                     {
                         "name": "railcraft:ore_metal_poor",
@@ -3331,9 +3307,9 @@
                         "weight": 20000
                     },
                     {
-                        "name": "railcraft:ore_metal",
-                        "metadata": 1,
-                        "weight": 15000
+                        "name": "libvulpes:ore0",
+                        "metadata": 9,
+                        "weight": 32000
                     },
                     {
                         "name": "railcraft:ore_metal",
@@ -3356,7 +3332,7 @@
             "min-height": 77,
             "max-height": 85
         },
-        "ore_metal_poor_etc-surface_up_step2-any-9f60e35d7d51a3bdc3cce95e84ce9f06": {
+        "stone_etc-surface_up_step2-any-10609f3deee1dc6255aaf66f60f29323": {
             "chunk-chance": 1,
             "cluster-count": 12,
             "biome": {
@@ -3376,9 +3352,8 @@
             "generator": {
                 "block": [
                     {
-                        "name": "railcraft:ore_metal_poor",
-                        "metadata": 3,
-                        "weight": 55000
+                        "name": "minecraft:stone",
+                        "weight": 43000
                     },
                     {
                         "name": "railcraft:ore_metal_poor",
@@ -3386,9 +3361,9 @@
                         "weight": 20000
                     },
                     {
-                        "name": "railcraft:ore_metal",
-                        "metadata": 1,
-                        "weight": 15000
+                        "name": "libvulpes:ore0",
+                        "metadata": 9,
+                        "weight": 32000
                     },
                     {
                         "name": "railcraft:ore_metal",
@@ -3411,7 +3386,7 @@
             "min-height": 82,
             "max-height": 90
         },
-        "ore_metal_poor_etc-surface_up_step3-any-9f60e35d7d51a3bdc3cce95e84ce9f06": {
+        "stone_etc-surface_up_step3-any-10609f3deee1dc6255aaf66f60f29323": {
             "chunk-chance": 1,
             "cluster-count": 12,
             "biome": {
@@ -3431,9 +3406,8 @@
             "generator": {
                 "block": [
                     {
-                        "name": "railcraft:ore_metal_poor",
-                        "metadata": 3,
-                        "weight": 55000
+                        "name": "minecraft:stone",
+                        "weight": 43000
                     },
                     {
                         "name": "railcraft:ore_metal_poor",
@@ -3441,9 +3415,9 @@
                         "weight": 20000
                     },
                     {
-                        "name": "railcraft:ore_metal",
-                        "metadata": 1,
-                        "weight": 15000
+                        "name": "libvulpes:ore0",
+                        "metadata": 9,
+                        "weight": 32000
                     },
                     {
                         "name": "railcraft:ore_metal",
@@ -3466,7 +3440,7 @@
             "min-height": 86,
             "max-height": 94
         },
-        "ore_metal_poor_etc-surface_up_step4-any-9f60e35d7d51a3bdc3cce95e84ce9f06": {
+        "stone_etc-surface_up_step4-any-10609f3deee1dc6255aaf66f60f29323": {
             "chunk-chance": 1,
             "cluster-count": 12,
             "biome": {
@@ -3486,9 +3460,8 @@
             "generator": {
                 "block": [
                     {
-                        "name": "railcraft:ore_metal_poor",
-                        "metadata": 3,
-                        "weight": 55000
+                        "name": "minecraft:stone",
+                        "weight": 43000
                     },
                     {
                         "name": "railcraft:ore_metal_poor",
@@ -3496,9 +3469,9 @@
                         "weight": 20000
                     },
                     {
-                        "name": "railcraft:ore_metal",
-                        "metadata": 1,
-                        "weight": 15000
+                        "name": "libvulpes:ore0",
+                        "metadata": 9,
+                        "weight": 32000
                     },
                     {
                         "name": "railcraft:ore_metal",
@@ -3521,7 +3494,7 @@
             "min-height": 91,
             "max-height": 99
         },
-        "ore_metal_poor_etc-surface_up_step5-any-9f60e35d7d51a3bdc3cce95e84ce9f06": {
+        "stone_etc-surface_up_step5-any-10609f3deee1dc6255aaf66f60f29323": {
             "chunk-chance": 1,
             "cluster-count": 13,
             "biome": {
@@ -3541,9 +3514,8 @@
             "generator": {
                 "block": [
                     {
-                        "name": "railcraft:ore_metal_poor",
-                        "metadata": 3,
-                        "weight": 55000
+                        "name": "minecraft:stone",
+                        "weight": 43000
                     },
                     {
                         "name": "railcraft:ore_metal_poor",
@@ -3551,9 +3523,9 @@
                         "weight": 20000
                     },
                     {
-                        "name": "railcraft:ore_metal",
-                        "metadata": 1,
-                        "weight": 15000
+                        "name": "libvulpes:ore0",
+                        "metadata": 9,
+                        "weight": 32000
                     },
                     {
                         "name": "railcraft:ore_metal",
@@ -3576,7 +3548,7 @@
             "min-height": 96,
             "max-height": 104
         },
-        "ore_metal_poor_etc-surface_up_step6-any-9f60e35d7d51a3bdc3cce95e84ce9f06": {
+        "stone_etc-surface_up_step6-any-10609f3deee1dc6255aaf66f60f29323": {
             "chunk-chance": 1,
             "cluster-count": 26,
             "biome": {
@@ -3596,9 +3568,8 @@
             "generator": {
                 "block": [
                     {
-                        "name": "railcraft:ore_metal_poor",
-                        "metadata": 3,
-                        "weight": 55000
+                        "name": "minecraft:stone",
+                        "weight": 43000
                     },
                     {
                         "name": "railcraft:ore_metal_poor",
@@ -3606,9 +3577,9 @@
                         "weight": 20000
                     },
                     {
-                        "name": "railcraft:ore_metal",
-                        "metadata": 1,
-                        "weight": 15000
+                        "name": "libvulpes:ore0",
+                        "metadata": 9,
+                        "weight": 32000
                     },
                     {
                         "name": "railcraft:ore_metal",
@@ -3631,7 +3602,7 @@
             "min-height": 101,
             "max-height": 109
         },
-        "ore_metal_poor_etc-surface_up_step7-any-9f60e35d7d51a3bdc3cce95e84ce9f06": {
+        "stone_etc-surface_up_step7-any-10609f3deee1dc6255aaf66f60f29323": {
             "chunk-chance": 1,
             "cluster-count": 28,
             "biome": {
@@ -3651,9 +3622,8 @@
             "generator": {
                 "block": [
                     {
-                        "name": "railcraft:ore_metal_poor",
-                        "metadata": 3,
-                        "weight": 55000
+                        "name": "minecraft:stone",
+                        "weight": 43000
                     },
                     {
                         "name": "railcraft:ore_metal_poor",
@@ -3661,9 +3631,9 @@
                         "weight": 20000
                     },
                     {
-                        "name": "railcraft:ore_metal",
-                        "metadata": 1,
-                        "weight": 15000
+                        "name": "libvulpes:ore0",
+                        "metadata": 9,
+                        "weight": 32000
                     },
                     {
                         "name": "railcraft:ore_metal",
@@ -3686,7 +3656,7 @@
             "min-height": 106,
             "max-height": 114
         },
-        "ore_metal_poor_etc-surface_up_step8-any-9f60e35d7d51a3bdc3cce95e84ce9f06": {
+        "stone_etc-surface_up_step8-any-10609f3deee1dc6255aaf66f60f29323": {
             "chunk-chance": 1,
             "cluster-count": 28,
             "biome": {
@@ -3706,9 +3676,8 @@
             "generator": {
                 "block": [
                     {
-                        "name": "railcraft:ore_metal_poor",
-                        "metadata": 3,
-                        "weight": 55000
+                        "name": "minecraft:stone",
+                        "weight": 43000
                     },
                     {
                         "name": "railcraft:ore_metal_poor",
@@ -3716,9 +3685,9 @@
                         "weight": 20000
                     },
                     {
-                        "name": "railcraft:ore_metal",
-                        "metadata": 1,
-                        "weight": 15000
+                        "name": "libvulpes:ore0",
+                        "metadata": 9,
+                        "weight": 32000
                     },
                     {
                         "name": "railcraft:ore_metal",
@@ -3741,7 +3710,7 @@
             "min-height": 110,
             "max-height": 118
         },
-        "ore_metal_poor_etc-surface_up_step9-any-9f60e35d7d51a3bdc3cce95e84ce9f06": {
+        "stone_etc-surface_up_step9-any-10609f3deee1dc6255aaf66f60f29323": {
             "chunk-chance": 1,
             "cluster-count": 30,
             "biome": {
@@ -3761,9 +3730,8 @@
             "generator": {
                 "block": [
                     {
-                        "name": "railcraft:ore_metal_poor",
-                        "metadata": 3,
-                        "weight": 55000
+                        "name": "minecraft:stone",
+                        "weight": 43000
                     },
                     {
                         "name": "railcraft:ore_metal_poor",
@@ -3771,9 +3739,9 @@
                         "weight": 20000
                     },
                     {
-                        "name": "railcraft:ore_metal",
-                        "metadata": 1,
-                        "weight": 15000
+                        "name": "libvulpes:ore0",
+                        "metadata": 9,
+                        "weight": 32000
                     },
                     {
                         "name": "railcraft:ore_metal",
@@ -3796,7 +3764,7 @@
             "min-height": 115,
             "max-height": 123
         },
-        "ore_metal_poor_etc-surface_up_step10-any-9f60e35d7d51a3bdc3cce95e84ce9f06": {
+        "stone_etc-surface_up_step10-any-10609f3deee1dc6255aaf66f60f29323": {
             "chunk-chance": 1,
             "cluster-count": 30,
             "biome": {
@@ -3816,9 +3784,8 @@
             "generator": {
                 "block": [
                     {
-                        "name": "railcraft:ore_metal_poor",
-                        "metadata": 3,
-                        "weight": 55000
+                        "name": "minecraft:stone",
+                        "weight": 43000
                     },
                     {
                         "name": "railcraft:ore_metal_poor",
@@ -3826,9 +3793,9 @@
                         "weight": 20000
                     },
                     {
-                        "name": "railcraft:ore_metal",
-                        "metadata": 1,
-                        "weight": 15000
+                        "name": "libvulpes:ore0",
+                        "metadata": 9,
+                        "weight": 32000
                     },
                     {
                         "name": "railcraft:ore_metal",
@@ -3851,7 +3818,7 @@
             "min-height": 120,
             "max-height": 128
         },
-        "lava-emerald_ore-lake-lava-aaa48ce1351440cba5485bcadd9b74ab": {
+        "lava-emerald_ore-lake-lava-0945838659ed6fd7b57bfdc3cdf529b2": {
             "chunk-chance": 3,
             "cluster-count": 1,
             "biome": {
@@ -3865,7 +3832,8 @@
                             "minecraft:birch_forest_hills",
                             "minecraft:forest",
                             "minecraft:forest_hills",
-                            "minecraft:mutated_forest"
+                            "minecraft:mutated_forest",
+                            "minecraft:roofed_forest"
                         ]
                     }
                 ]
@@ -3899,7 +3867,7 @@
             "min-height": 0,
             "max-height": 16
         },
-        "ore_metal_etc-deep_up_step0-any-aaa48ce1351440cba5485bcadd9b74ab": {
+        "ore_metal_etc-deep_up_step0-any-0945838659ed6fd7b57bfdc3cdf529b2": {
             "chunk-chance": 1,
             "cluster-count": 5,
             "biome": {
@@ -3913,7 +3881,8 @@
                             "minecraft:birch_forest_hills",
                             "minecraft:forest",
                             "minecraft:forest_hills",
-                            "minecraft:mutated_forest"
+                            "minecraft:mutated_forest",
+                            "minecraft:roofed_forest"
                         ]
                     }
                 ]
@@ -3954,7 +3923,7 @@
             "min-height": 8,
             "max-height": 16
         },
-        "ore_metal_etc-deep_up_step1-any-aaa48ce1351440cba5485bcadd9b74ab": {
+        "ore_metal_etc-deep_up_step1-any-0945838659ed6fd7b57bfdc3cdf529b2": {
             "chunk-chance": 1,
             "cluster-count": 6,
             "biome": {
@@ -3968,7 +3937,8 @@
                             "minecraft:birch_forest_hills",
                             "minecraft:forest",
                             "minecraft:forest_hills",
-                            "minecraft:mutated_forest"
+                            "minecraft:mutated_forest",
+                            "minecraft:roofed_forest"
                         ]
                     }
                 ]
@@ -4009,7 +3979,7 @@
             "min-height": 11,
             "max-height": 19
         },
-        "ore_metal_etc-deep_up_step2-any-aaa48ce1351440cba5485bcadd9b74ab": {
+        "ore_metal_etc-deep_up_step2-any-0945838659ed6fd7b57bfdc3cdf529b2": {
             "chunk-chance": 1,
             "cluster-count": 6,
             "biome": {
@@ -4023,7 +3993,8 @@
                             "minecraft:birch_forest_hills",
                             "minecraft:forest",
                             "minecraft:forest_hills",
-                            "minecraft:mutated_forest"
+                            "minecraft:mutated_forest",
+                            "minecraft:roofed_forest"
                         ]
                     }
                 ]
@@ -4064,7 +4035,7 @@
             "min-height": 14,
             "max-height": 22
         },
-        "ore_metal_etc-deep_up_step3-any-aaa48ce1351440cba5485bcadd9b74ab": {
+        "ore_metal_etc-deep_up_step3-any-0945838659ed6fd7b57bfdc3cdf529b2": {
             "chunk-chance": 1,
             "cluster-count": 6,
             "biome": {
@@ -4078,7 +4049,8 @@
                             "minecraft:birch_forest_hills",
                             "minecraft:forest",
                             "minecraft:forest_hills",
-                            "minecraft:mutated_forest"
+                            "minecraft:mutated_forest",
+                            "minecraft:roofed_forest"
                         ]
                     }
                 ]
@@ -4119,7 +4091,7 @@
             "min-height": 18,
             "max-height": 26
         },
-        "ore_metal_etc-deep_up_step4-any-aaa48ce1351440cba5485bcadd9b74ab": {
+        "ore_metal_etc-deep_up_step4-any-0945838659ed6fd7b57bfdc3cdf529b2": {
             "chunk-chance": 1,
             "cluster-count": 6,
             "biome": {
@@ -4133,7 +4105,8 @@
                             "minecraft:birch_forest_hills",
                             "minecraft:forest",
                             "minecraft:forest_hills",
-                            "minecraft:mutated_forest"
+                            "minecraft:mutated_forest",
+                            "minecraft:roofed_forest"
                         ]
                     }
                 ]
@@ -4174,7 +4147,7 @@
             "min-height": 21,
             "max-height": 29
         },
-        "ore_metal_etc-deep_up_step5-any-aaa48ce1351440cba5485bcadd9b74ab": {
+        "ore_metal_etc-deep_up_step5-any-0945838659ed6fd7b57bfdc3cdf529b2": {
             "chunk-chance": 1,
             "cluster-count": 8,
             "biome": {
@@ -4188,7 +4161,8 @@
                             "minecraft:birch_forest_hills",
                             "minecraft:forest",
                             "minecraft:forest_hills",
-                            "minecraft:mutated_forest"
+                            "minecraft:mutated_forest",
+                            "minecraft:roofed_forest"
                         ]
                     }
                 ]
@@ -4229,7 +4203,7 @@
             "min-height": 24,
             "max-height": 32
         },
-        "ore_metal_etc-deep_up_step6-any-aaa48ce1351440cba5485bcadd9b74ab": {
+        "ore_metal_etc-deep_up_step6-any-0945838659ed6fd7b57bfdc3cdf529b2": {
             "chunk-chance": 1,
             "cluster-count": 7,
             "biome": {
@@ -4243,7 +4217,8 @@
                             "minecraft:birch_forest_hills",
                             "minecraft:forest",
                             "minecraft:forest_hills",
-                            "minecraft:mutated_forest"
+                            "minecraft:mutated_forest",
+                            "minecraft:roofed_forest"
                         ]
                     }
                 ]
@@ -4284,7 +4259,7 @@
             "min-height": 27,
             "max-height": 35
         },
-        "ore_metal_etc-deep_up_step7-any-aaa48ce1351440cba5485bcadd9b74ab": {
+        "ore_metal_etc-deep_up_step7-any-0945838659ed6fd7b57bfdc3cdf529b2": {
             "chunk-chance": 1,
             "cluster-count": 9,
             "biome": {
@@ -4298,7 +4273,8 @@
                             "minecraft:birch_forest_hills",
                             "minecraft:forest",
                             "minecraft:forest_hills",
-                            "minecraft:mutated_forest"
+                            "minecraft:mutated_forest",
+                            "minecraft:roofed_forest"
                         ]
                     }
                 ]
@@ -4339,7 +4315,7 @@
             "min-height": 30,
             "max-height": 38
         },
-        "ore_metal_etc-deep_up_step8-any-aaa48ce1351440cba5485bcadd9b74ab": {
+        "ore_metal_etc-deep_up_step8-any-0945838659ed6fd7b57bfdc3cdf529b2": {
             "chunk-chance": 1,
             "cluster-count": 12,
             "biome": {
@@ -4353,7 +4329,8 @@
                             "minecraft:birch_forest_hills",
                             "minecraft:forest",
                             "minecraft:forest_hills",
-                            "minecraft:mutated_forest"
+                            "minecraft:mutated_forest",
+                            "minecraft:roofed_forest"
                         ]
                     }
                 ]
@@ -4394,7 +4371,7 @@
             "min-height": 34,
             "max-height": 42
         },
-        "ore_metal_etc-deep_up_step9-any-aaa48ce1351440cba5485bcadd9b74ab": {
+        "ore_metal_etc-deep_up_step9-any-0945838659ed6fd7b57bfdc3cdf529b2": {
             "chunk-chance": 1,
             "cluster-count": 12,
             "biome": {
@@ -4408,7 +4385,8 @@
                             "minecraft:birch_forest_hills",
                             "minecraft:forest",
                             "minecraft:forest_hills",
-                            "minecraft:mutated_forest"
+                            "minecraft:mutated_forest",
+                            "minecraft:roofed_forest"
                         ]
                     }
                 ]
@@ -4449,7 +4427,7 @@
             "min-height": 37,
             "max-height": 45
         },
-        "ore_metal_etc-deep_up_step10-any-aaa48ce1351440cba5485bcadd9b74ab": {
+        "ore_metal_etc-deep_up_step10-any-0945838659ed6fd7b57bfdc3cdf529b2": {
             "chunk-chance": 1,
             "cluster-count": 20,
             "biome": {
@@ -4463,7 +4441,8 @@
                             "minecraft:birch_forest_hills",
                             "minecraft:forest",
                             "minecraft:forest_hills",
-                            "minecraft:mutated_forest"
+                            "minecraft:mutated_forest",
+                            "minecraft:roofed_forest"
                         ]
                     }
                 ]
@@ -4504,7 +4483,7 @@
             "min-height": 40,
             "max-height": 48
         },
-        "ore_metal_poor_etc-surface_down_step0-any-aaa48ce1351440cba5485bcadd9b74ab": {
+        "ore_metal_poor_etc-surface_down_step0-any-0945838659ed6fd7b57bfdc3cdf529b2": {
             "chunk-chance": 1,
             "cluster-count": 10,
             "biome": {
@@ -4518,7 +4497,8 @@
                             "minecraft:birch_forest_hills",
                             "minecraft:forest",
                             "minecraft:forest_hills",
-                            "minecraft:mutated_forest"
+                            "minecraft:mutated_forest",
+                            "minecraft:roofed_forest"
                         ]
                     }
                 ]
@@ -4555,7 +4535,7 @@
             "min-height": 72,
             "max-height": 80
         },
-        "ore_metal_poor_etc-surface_down_step1-any-aaa48ce1351440cba5485bcadd9b74ab": {
+        "ore_metal_poor_etc-surface_down_step1-any-0945838659ed6fd7b57bfdc3cdf529b2": {
             "chunk-chance": 1,
             "cluster-count": 10,
             "biome": {
@@ -4569,7 +4549,8 @@
                             "minecraft:birch_forest_hills",
                             "minecraft:forest",
                             "minecraft:forest_hills",
-                            "minecraft:mutated_forest"
+                            "minecraft:mutated_forest",
+                            "minecraft:roofed_forest"
                         ]
                     }
                 ]
@@ -4606,7 +4587,7 @@
             "min-height": 69,
             "max-height": 77
         },
-        "ore_metal_poor_etc-surface_down_step2-any-aaa48ce1351440cba5485bcadd9b74ab": {
+        "ore_metal_poor_etc-surface_down_step2-any-0945838659ed6fd7b57bfdc3cdf529b2": {
             "chunk-chance": 1,
             "cluster-count": 8,
             "biome": {
@@ -4620,7 +4601,8 @@
                             "minecraft:birch_forest_hills",
                             "minecraft:forest",
                             "minecraft:forest_hills",
-                            "minecraft:mutated_forest"
+                            "minecraft:mutated_forest",
+                            "minecraft:roofed_forest"
                         ]
                     }
                 ]
@@ -4657,7 +4639,7 @@
             "min-height": 66,
             "max-height": 74
         },
-        "ore_metal_poor_etc-surface_down_step3-any-aaa48ce1351440cba5485bcadd9b74ab": {
+        "ore_metal_poor_etc-surface_down_step3-any-0945838659ed6fd7b57bfdc3cdf529b2": {
             "chunk-chance": 1,
             "cluster-count": 8,
             "biome": {
@@ -4671,7 +4653,8 @@
                             "minecraft:birch_forest_hills",
                             "minecraft:forest",
                             "minecraft:forest_hills",
-                            "minecraft:mutated_forest"
+                            "minecraft:mutated_forest",
+                            "minecraft:roofed_forest"
                         ]
                     }
                 ]
@@ -4708,7 +4691,7 @@
             "min-height": 62,
             "max-height": 70
         },
-        "ore_metal_poor_etc-surface_down_step4-any-aaa48ce1351440cba5485bcadd9b74ab": {
+        "ore_metal_poor_etc-surface_down_step4-any-0945838659ed6fd7b57bfdc3cdf529b2": {
             "chunk-chance": 1,
             "cluster-count": 7,
             "biome": {
@@ -4722,7 +4705,8 @@
                             "minecraft:birch_forest_hills",
                             "minecraft:forest",
                             "minecraft:forest_hills",
-                            "minecraft:mutated_forest"
+                            "minecraft:mutated_forest",
+                            "minecraft:roofed_forest"
                         ]
                     }
                 ]
@@ -4759,7 +4743,7 @@
             "min-height": 59,
             "max-height": 67
         },
-        "ore_metal_poor_etc-surface_down_step5-any-aaa48ce1351440cba5485bcadd9b74ab": {
+        "ore_metal_poor_etc-surface_down_step5-any-0945838659ed6fd7b57bfdc3cdf529b2": {
             "chunk-chance": 1,
             "cluster-count": 6,
             "biome": {
@@ -4773,7 +4757,8 @@
                             "minecraft:birch_forest_hills",
                             "minecraft:forest",
                             "minecraft:forest_hills",
-                            "minecraft:mutated_forest"
+                            "minecraft:mutated_forest",
+                            "minecraft:roofed_forest"
                         ]
                     }
                 ]
@@ -4810,7 +4795,7 @@
             "min-height": 56,
             "max-height": 64
         },
-        "ore_metal_poor_etc-surface_down_step6-any-aaa48ce1351440cba5485bcadd9b74ab": {
+        "ore_metal_poor_etc-surface_down_step6-any-0945838659ed6fd7b57bfdc3cdf529b2": {
             "chunk-chance": 1,
             "cluster-count": 12,
             "biome": {
@@ -4824,7 +4809,8 @@
                             "minecraft:birch_forest_hills",
                             "minecraft:forest",
                             "minecraft:forest_hills",
-                            "minecraft:mutated_forest"
+                            "minecraft:mutated_forest",
+                            "minecraft:roofed_forest"
                         ]
                     }
                 ]
@@ -4861,7 +4847,7 @@
             "min-height": 53,
             "max-height": 61
         },
-        "ore_metal_poor_etc-surface_down_step7-any-aaa48ce1351440cba5485bcadd9b74ab": {
+        "ore_metal_poor_etc-surface_down_step7-any-0945838659ed6fd7b57bfdc3cdf529b2": {
             "chunk-chance": 1,
             "cluster-count": 10,
             "biome": {
@@ -4875,7 +4861,8 @@
                             "minecraft:birch_forest_hills",
                             "minecraft:forest",
                             "minecraft:forest_hills",
-                            "minecraft:mutated_forest"
+                            "minecraft:mutated_forest",
+                            "minecraft:roofed_forest"
                         ]
                     }
                 ]
@@ -4912,7 +4899,7 @@
             "min-height": 50,
             "max-height": 58
         },
-        "ore_metal_poor_etc-surface_down_step8-any-aaa48ce1351440cba5485bcadd9b74ab": {
+        "ore_metal_poor_etc-surface_down_step8-any-0945838659ed6fd7b57bfdc3cdf529b2": {
             "chunk-chance": 1,
             "cluster-count": 8,
             "biome": {
@@ -4926,7 +4913,8 @@
                             "minecraft:birch_forest_hills",
                             "minecraft:forest",
                             "minecraft:forest_hills",
-                            "minecraft:mutated_forest"
+                            "minecraft:mutated_forest",
+                            "minecraft:roofed_forest"
                         ]
                     }
                 ]
@@ -4963,7 +4951,7 @@
             "min-height": 46,
             "max-height": 54
         },
-        "ore_metal_poor_etc-surface_down_step9-any-aaa48ce1351440cba5485bcadd9b74ab": {
+        "ore_metal_poor_etc-surface_down_step9-any-0945838659ed6fd7b57bfdc3cdf529b2": {
             "chunk-chance": 1,
             "cluster-count": 6,
             "biome": {
@@ -4977,7 +4965,8 @@
                             "minecraft:birch_forest_hills",
                             "minecraft:forest",
                             "minecraft:forest_hills",
-                            "minecraft:mutated_forest"
+                            "minecraft:mutated_forest",
+                            "minecraft:roofed_forest"
                         ]
                     }
                 ]
@@ -5014,7 +5003,7 @@
             "min-height": 43,
             "max-height": 51
         },
-        "ore_metal_poor_etc-surface_down_step10-any-aaa48ce1351440cba5485bcadd9b74ab": {
+        "ore_metal_poor_etc-surface_down_step10-any-0945838659ed6fd7b57bfdc3cdf529b2": {
             "chunk-chance": 1,
             "cluster-count": 5,
             "biome": {
@@ -5028,7 +5017,8 @@
                             "minecraft:birch_forest_hills",
                             "minecraft:forest",
                             "minecraft:forest_hills",
-                            "minecraft:mutated_forest"
+                            "minecraft:mutated_forest",
+                            "minecraft:roofed_forest"
                         ]
                     }
                 ]
@@ -5065,7 +5055,7 @@
             "min-height": 40,
             "max-height": 48
         },
-        "ore_metal_poor_etc-surface_up_step0-any-aaa48ce1351440cba5485bcadd9b74ab": {
+        "ore_metal_poor_etc-surface_up_step0-any-0945838659ed6fd7b57bfdc3cdf529b2": {
             "chunk-chance": 1,
             "cluster-count": 10,
             "biome": {
@@ -5079,7 +5069,8 @@
                             "minecraft:birch_forest_hills",
                             "minecraft:forest",
                             "minecraft:forest_hills",
-                            "minecraft:mutated_forest"
+                            "minecraft:mutated_forest",
+                            "minecraft:roofed_forest"
                         ]
                     }
                 ]
@@ -5116,7 +5107,7 @@
             "min-height": 72,
             "max-height": 80
         },
-        "ore_metal_poor_etc-surface_up_step1-any-aaa48ce1351440cba5485bcadd9b74ab": {
+        "ore_metal_poor_etc-surface_up_step1-any-0945838659ed6fd7b57bfdc3cdf529b2": {
             "chunk-chance": 1,
             "cluster-count": 11,
             "biome": {
@@ -5130,7 +5121,8 @@
                             "minecraft:birch_forest_hills",
                             "minecraft:forest",
                             "minecraft:forest_hills",
-                            "minecraft:mutated_forest"
+                            "minecraft:mutated_forest",
+                            "minecraft:roofed_forest"
                         ]
                     }
                 ]
@@ -5167,7 +5159,7 @@
             "min-height": 77,
             "max-height": 85
         },
-        "ore_metal_poor_etc-surface_up_step2-any-aaa48ce1351440cba5485bcadd9b74ab": {
+        "ore_metal_poor_etc-surface_up_step2-any-0945838659ed6fd7b57bfdc3cdf529b2": {
             "chunk-chance": 1,
             "cluster-count": 12,
             "biome": {
@@ -5181,7 +5173,8 @@
                             "minecraft:birch_forest_hills",
                             "minecraft:forest",
                             "minecraft:forest_hills",
-                            "minecraft:mutated_forest"
+                            "minecraft:mutated_forest",
+                            "minecraft:roofed_forest"
                         ]
                     }
                 ]
@@ -5218,7 +5211,7 @@
             "min-height": 82,
             "max-height": 90
         },
-        "ore_metal_poor_etc-surface_up_step3-any-aaa48ce1351440cba5485bcadd9b74ab": {
+        "ore_metal_poor_etc-surface_up_step3-any-0945838659ed6fd7b57bfdc3cdf529b2": {
             "chunk-chance": 1,
             "cluster-count": 12,
             "biome": {
@@ -5232,7 +5225,8 @@
                             "minecraft:birch_forest_hills",
                             "minecraft:forest",
                             "minecraft:forest_hills",
-                            "minecraft:mutated_forest"
+                            "minecraft:mutated_forest",
+                            "minecraft:roofed_forest"
                         ]
                     }
                 ]
@@ -5269,7 +5263,7 @@
             "min-height": 86,
             "max-height": 94
         },
-        "ore_metal_poor_etc-surface_up_step4-any-aaa48ce1351440cba5485bcadd9b74ab": {
+        "ore_metal_poor_etc-surface_up_step4-any-0945838659ed6fd7b57bfdc3cdf529b2": {
             "chunk-chance": 1,
             "cluster-count": 12,
             "biome": {
@@ -5283,7 +5277,8 @@
                             "minecraft:birch_forest_hills",
                             "minecraft:forest",
                             "minecraft:forest_hills",
-                            "minecraft:mutated_forest"
+                            "minecraft:mutated_forest",
+                            "minecraft:roofed_forest"
                         ]
                     }
                 ]
@@ -5320,7 +5315,7 @@
             "min-height": 91,
             "max-height": 99
         },
-        "ore_metal_poor_etc-surface_up_step5-any-aaa48ce1351440cba5485bcadd9b74ab": {
+        "ore_metal_poor_etc-surface_up_step5-any-0945838659ed6fd7b57bfdc3cdf529b2": {
             "chunk-chance": 1,
             "cluster-count": 13,
             "biome": {
@@ -5334,7 +5329,8 @@
                             "minecraft:birch_forest_hills",
                             "minecraft:forest",
                             "minecraft:forest_hills",
-                            "minecraft:mutated_forest"
+                            "minecraft:mutated_forest",
+                            "minecraft:roofed_forest"
                         ]
                     }
                 ]
@@ -5371,7 +5367,7 @@
             "min-height": 96,
             "max-height": 104
         },
-        "ore_metal_poor_etc-surface_up_step6-any-aaa48ce1351440cba5485bcadd9b74ab": {
+        "ore_metal_poor_etc-surface_up_step6-any-0945838659ed6fd7b57bfdc3cdf529b2": {
             "chunk-chance": 1,
             "cluster-count": 26,
             "biome": {
@@ -5385,7 +5381,8 @@
                             "minecraft:birch_forest_hills",
                             "minecraft:forest",
                             "minecraft:forest_hills",
-                            "minecraft:mutated_forest"
+                            "minecraft:mutated_forest",
+                            "minecraft:roofed_forest"
                         ]
                     }
                 ]
@@ -5422,7 +5419,7 @@
             "min-height": 101,
             "max-height": 109
         },
-        "ore_metal_poor_etc-surface_up_step7-any-aaa48ce1351440cba5485bcadd9b74ab": {
+        "ore_metal_poor_etc-surface_up_step7-any-0945838659ed6fd7b57bfdc3cdf529b2": {
             "chunk-chance": 1,
             "cluster-count": 28,
             "biome": {
@@ -5436,7 +5433,8 @@
                             "minecraft:birch_forest_hills",
                             "minecraft:forest",
                             "minecraft:forest_hills",
-                            "minecraft:mutated_forest"
+                            "minecraft:mutated_forest",
+                            "minecraft:roofed_forest"
                         ]
                     }
                 ]
@@ -5473,7 +5471,7 @@
             "min-height": 106,
             "max-height": 114
         },
-        "ore_metal_poor_etc-surface_up_step8-any-aaa48ce1351440cba5485bcadd9b74ab": {
+        "ore_metal_poor_etc-surface_up_step8-any-0945838659ed6fd7b57bfdc3cdf529b2": {
             "chunk-chance": 1,
             "cluster-count": 28,
             "biome": {
@@ -5487,7 +5485,8 @@
                             "minecraft:birch_forest_hills",
                             "minecraft:forest",
                             "minecraft:forest_hills",
-                            "minecraft:mutated_forest"
+                            "minecraft:mutated_forest",
+                            "minecraft:roofed_forest"
                         ]
                     }
                 ]
@@ -5524,7 +5523,7 @@
             "min-height": 110,
             "max-height": 118
         },
-        "ore_metal_poor_etc-surface_up_step9-any-aaa48ce1351440cba5485bcadd9b74ab": {
+        "ore_metal_poor_etc-surface_up_step9-any-0945838659ed6fd7b57bfdc3cdf529b2": {
             "chunk-chance": 1,
             "cluster-count": 30,
             "biome": {
@@ -5538,7 +5537,8 @@
                             "minecraft:birch_forest_hills",
                             "minecraft:forest",
                             "minecraft:forest_hills",
-                            "minecraft:mutated_forest"
+                            "minecraft:mutated_forest",
+                            "minecraft:roofed_forest"
                         ]
                     }
                 ]
@@ -5575,7 +5575,7 @@
             "min-height": 115,
             "max-height": 123
         },
-        "ore_metal_poor_etc-surface_up_step10-any-aaa48ce1351440cba5485bcadd9b74ab": {
+        "ore_metal_poor_etc-surface_up_step10-any-0945838659ed6fd7b57bfdc3cdf529b2": {
             "chunk-chance": 1,
             "cluster-count": 30,
             "biome": {
@@ -5589,7 +5589,8 @@
                             "minecraft:birch_forest_hills",
                             "minecraft:forest",
                             "minecraft:forest_hills",
-                            "minecraft:mutated_forest"
+                            "minecraft:mutated_forest",
+                            "minecraft:roofed_forest"
                         ]
                     }
                 ]
@@ -5626,7 +5627,7 @@
             "min-height": 120,
             "max-height": 128
         },
-        "ore_fluid-surface-cf5a595945a9ea0e071668593931e375": {
+        "ore_fluid-surface-f4c114f5252a56c4027cd14558eb45be": {
             "chunk-chance": 3,
             "cluster-count": 1,
             "biome": {
@@ -5680,7 +5681,7 @@
             "spread": 16,
             "smoothness": 2
         },
-        "fluid_crude_oil-stone-lake-below_ground-cf5a595945a9ea0e071668593931e375": {
+        "fluid_crude_oil-stone-lake-below_ground-f4c114f5252a56c4027cd14558eb45be": {
             "chunk-chance": 10,
             "cluster-count": 4,
             "biome": {
@@ -5719,7 +5720,7 @@
             "min-height": 0,
             "max-height": 64
         },
-        "stone_etc-deep_up_step0-any-cf5a595945a9ea0e071668593931e375": {
+        "stone_etc-deep_up_step0-any-f4c114f5252a56c4027cd14558eb45be": {
             "chunk-chance": 1,
             "cluster-count": 5,
             "biome": {
@@ -5779,7 +5780,7 @@
             "min-height": 8,
             "max-height": 16
         },
-        "stone_etc-deep_up_step1-any-cf5a595945a9ea0e071668593931e375": {
+        "stone_etc-deep_up_step1-any-f4c114f5252a56c4027cd14558eb45be": {
             "chunk-chance": 1,
             "cluster-count": 6,
             "biome": {
@@ -5839,7 +5840,7 @@
             "min-height": 11,
             "max-height": 19
         },
-        "stone_etc-deep_up_step2-any-cf5a595945a9ea0e071668593931e375": {
+        "stone_etc-deep_up_step2-any-f4c114f5252a56c4027cd14558eb45be": {
             "chunk-chance": 1,
             "cluster-count": 6,
             "biome": {
@@ -5899,7 +5900,7 @@
             "min-height": 14,
             "max-height": 22
         },
-        "stone_etc-deep_up_step3-any-cf5a595945a9ea0e071668593931e375": {
+        "stone_etc-deep_up_step3-any-f4c114f5252a56c4027cd14558eb45be": {
             "chunk-chance": 1,
             "cluster-count": 6,
             "biome": {
@@ -5959,7 +5960,7 @@
             "min-height": 18,
             "max-height": 26
         },
-        "stone_etc-deep_up_step4-any-cf5a595945a9ea0e071668593931e375": {
+        "stone_etc-deep_up_step4-any-f4c114f5252a56c4027cd14558eb45be": {
             "chunk-chance": 1,
             "cluster-count": 6,
             "biome": {
@@ -6019,7 +6020,7 @@
             "min-height": 21,
             "max-height": 29
         },
-        "stone_etc-deep_up_step5-any-cf5a595945a9ea0e071668593931e375": {
+        "stone_etc-deep_up_step5-any-f4c114f5252a56c4027cd14558eb45be": {
             "chunk-chance": 1,
             "cluster-count": 8,
             "biome": {
@@ -6079,7 +6080,7 @@
             "min-height": 24,
             "max-height": 32
         },
-        "stone_etc-deep_up_step6-any-cf5a595945a9ea0e071668593931e375": {
+        "stone_etc-deep_up_step6-any-f4c114f5252a56c4027cd14558eb45be": {
             "chunk-chance": 1,
             "cluster-count": 7,
             "biome": {
@@ -6139,7 +6140,7 @@
             "min-height": 27,
             "max-height": 35
         },
-        "stone_etc-deep_up_step7-any-cf5a595945a9ea0e071668593931e375": {
+        "stone_etc-deep_up_step7-any-f4c114f5252a56c4027cd14558eb45be": {
             "chunk-chance": 1,
             "cluster-count": 9,
             "biome": {
@@ -6199,7 +6200,7 @@
             "min-height": 30,
             "max-height": 38
         },
-        "stone_etc-deep_up_step8-any-cf5a595945a9ea0e071668593931e375": {
+        "stone_etc-deep_up_step8-any-f4c114f5252a56c4027cd14558eb45be": {
             "chunk-chance": 1,
             "cluster-count": 12,
             "biome": {
@@ -6259,7 +6260,7 @@
             "min-height": 34,
             "max-height": 42
         },
-        "stone_etc-deep_up_step9-any-cf5a595945a9ea0e071668593931e375": {
+        "stone_etc-deep_up_step9-any-f4c114f5252a56c4027cd14558eb45be": {
             "chunk-chance": 1,
             "cluster-count": 12,
             "biome": {
@@ -6319,7 +6320,7 @@
             "min-height": 37,
             "max-height": 45
         },
-        "stone_etc-deep_up_step10-any-cf5a595945a9ea0e071668593931e375": {
+        "stone_etc-deep_up_step10-any-f4c114f5252a56c4027cd14558eb45be": {
             "chunk-chance": 1,
             "cluster-count": 20,
             "biome": {
@@ -6379,7 +6380,7 @@
             "min-height": 40,
             "max-height": 48
         },
-        "stone_etc-surface_down_step0-any-cf5a595945a9ea0e071668593931e375": {
+        "stone_etc-surface_down_step0-any-f4c114f5252a56c4027cd14558eb45be": {
             "chunk-chance": 1,
             "cluster-count": 10,
             "biome": {
@@ -6430,7 +6431,7 @@
             "min-height": 72,
             "max-height": 80
         },
-        "stone_etc-surface_down_step1-any-cf5a595945a9ea0e071668593931e375": {
+        "stone_etc-surface_down_step1-any-f4c114f5252a56c4027cd14558eb45be": {
             "chunk-chance": 1,
             "cluster-count": 10,
             "biome": {
@@ -6481,7 +6482,7 @@
             "min-height": 69,
             "max-height": 77
         },
-        "stone_etc-surface_down_step2-any-cf5a595945a9ea0e071668593931e375": {
+        "stone_etc-surface_down_step2-any-f4c114f5252a56c4027cd14558eb45be": {
             "chunk-chance": 1,
             "cluster-count": 8,
             "biome": {
@@ -6532,7 +6533,7 @@
             "min-height": 66,
             "max-height": 74
         },
-        "stone_etc-surface_down_step3-any-cf5a595945a9ea0e071668593931e375": {
+        "stone_etc-surface_down_step3-any-f4c114f5252a56c4027cd14558eb45be": {
             "chunk-chance": 1,
             "cluster-count": 8,
             "biome": {
@@ -6583,7 +6584,7 @@
             "min-height": 62,
             "max-height": 70
         },
-        "stone_etc-surface_down_step4-any-cf5a595945a9ea0e071668593931e375": {
+        "stone_etc-surface_down_step4-any-f4c114f5252a56c4027cd14558eb45be": {
             "chunk-chance": 1,
             "cluster-count": 7,
             "biome": {
@@ -6634,7 +6635,7 @@
             "min-height": 59,
             "max-height": 67
         },
-        "stone_etc-surface_down_step5-any-cf5a595945a9ea0e071668593931e375": {
+        "stone_etc-surface_down_step5-any-f4c114f5252a56c4027cd14558eb45be": {
             "chunk-chance": 1,
             "cluster-count": 6,
             "biome": {
@@ -6685,7 +6686,7 @@
             "min-height": 56,
             "max-height": 64
         },
-        "stone_etc-surface_down_step6-any-cf5a595945a9ea0e071668593931e375": {
+        "stone_etc-surface_down_step6-any-f4c114f5252a56c4027cd14558eb45be": {
             "chunk-chance": 1,
             "cluster-count": 12,
             "biome": {
@@ -6736,7 +6737,7 @@
             "min-height": 53,
             "max-height": 61
         },
-        "stone_etc-surface_down_step7-any-cf5a595945a9ea0e071668593931e375": {
+        "stone_etc-surface_down_step7-any-f4c114f5252a56c4027cd14558eb45be": {
             "chunk-chance": 1,
             "cluster-count": 10,
             "biome": {
@@ -6787,7 +6788,7 @@
             "min-height": 50,
             "max-height": 58
         },
-        "stone_etc-surface_down_step8-any-cf5a595945a9ea0e071668593931e375": {
+        "stone_etc-surface_down_step8-any-f4c114f5252a56c4027cd14558eb45be": {
             "chunk-chance": 1,
             "cluster-count": 8,
             "biome": {
@@ -6838,7 +6839,7 @@
             "min-height": 46,
             "max-height": 54
         },
-        "stone_etc-surface_down_step9-any-cf5a595945a9ea0e071668593931e375": {
+        "stone_etc-surface_down_step9-any-f4c114f5252a56c4027cd14558eb45be": {
             "chunk-chance": 1,
             "cluster-count": 6,
             "biome": {
@@ -6889,7 +6890,7 @@
             "min-height": 43,
             "max-height": 51
         },
-        "stone_etc-surface_down_step10-any-cf5a595945a9ea0e071668593931e375": {
+        "stone_etc-surface_down_step10-any-f4c114f5252a56c4027cd14558eb45be": {
             "chunk-chance": 1,
             "cluster-count": 5,
             "biome": {
@@ -6940,7 +6941,7 @@
             "min-height": 40,
             "max-height": 48
         },
-        "stone_etc-surface_up_step0-any-cf5a595945a9ea0e071668593931e375": {
+        "stone_etc-surface_up_step0-any-f4c114f5252a56c4027cd14558eb45be": {
             "chunk-chance": 1,
             "cluster-count": 10,
             "biome": {
@@ -6991,7 +6992,7 @@
             "min-height": 72,
             "max-height": 80
         },
-        "stone_etc-surface_up_step1-any-cf5a595945a9ea0e071668593931e375": {
+        "stone_etc-surface_up_step1-any-f4c114f5252a56c4027cd14558eb45be": {
             "chunk-chance": 1,
             "cluster-count": 11,
             "biome": {
@@ -7042,7 +7043,7 @@
             "min-height": 77,
             "max-height": 85
         },
-        "stone_etc-surface_up_step2-any-cf5a595945a9ea0e071668593931e375": {
+        "stone_etc-surface_up_step2-any-f4c114f5252a56c4027cd14558eb45be": {
             "chunk-chance": 1,
             "cluster-count": 12,
             "biome": {
@@ -7093,7 +7094,7 @@
             "min-height": 82,
             "max-height": 90
         },
-        "stone_etc-surface_up_step3-any-cf5a595945a9ea0e071668593931e375": {
+        "stone_etc-surface_up_step3-any-f4c114f5252a56c4027cd14558eb45be": {
             "chunk-chance": 1,
             "cluster-count": 12,
             "biome": {
@@ -7144,7 +7145,7 @@
             "min-height": 86,
             "max-height": 94
         },
-        "stone_etc-surface_up_step4-any-cf5a595945a9ea0e071668593931e375": {
+        "stone_etc-surface_up_step4-any-f4c114f5252a56c4027cd14558eb45be": {
             "chunk-chance": 1,
             "cluster-count": 12,
             "biome": {
@@ -7195,7 +7196,7 @@
             "min-height": 91,
             "max-height": 99
         },
-        "stone_etc-surface_up_step5-any-cf5a595945a9ea0e071668593931e375": {
+        "stone_etc-surface_up_step5-any-f4c114f5252a56c4027cd14558eb45be": {
             "chunk-chance": 1,
             "cluster-count": 13,
             "biome": {
@@ -7246,7 +7247,7 @@
             "min-height": 96,
             "max-height": 104
         },
-        "stone_etc-surface_up_step6-any-cf5a595945a9ea0e071668593931e375": {
+        "stone_etc-surface_up_step6-any-f4c114f5252a56c4027cd14558eb45be": {
             "chunk-chance": 1,
             "cluster-count": 26,
             "biome": {
@@ -7297,7 +7298,7 @@
             "min-height": 101,
             "max-height": 109
         },
-        "stone_etc-surface_up_step7-any-cf5a595945a9ea0e071668593931e375": {
+        "stone_etc-surface_up_step7-any-f4c114f5252a56c4027cd14558eb45be": {
             "chunk-chance": 1,
             "cluster-count": 28,
             "biome": {
@@ -7348,7 +7349,7 @@
             "min-height": 106,
             "max-height": 114
         },
-        "stone_etc-surface_up_step8-any-cf5a595945a9ea0e071668593931e375": {
+        "stone_etc-surface_up_step8-any-f4c114f5252a56c4027cd14558eb45be": {
             "chunk-chance": 1,
             "cluster-count": 28,
             "biome": {
@@ -7399,7 +7400,7 @@
             "min-height": 110,
             "max-height": 118
         },
-        "stone_etc-surface_up_step9-any-cf5a595945a9ea0e071668593931e375": {
+        "stone_etc-surface_up_step9-any-f4c114f5252a56c4027cd14558eb45be": {
             "chunk-chance": 1,
             "cluster-count": 30,
             "biome": {
@@ -7450,7 +7451,7 @@
             "min-height": 115,
             "max-height": 123
         },
-        "stone_etc-surface_up_step10-any-cf5a595945a9ea0e071668593931e375": {
+        "stone_etc-surface_up_step10-any-f4c114f5252a56c4027cd14558eb45be": {
             "chunk-chance": 1,
             "cluster-count": 30,
             "biome": {
@@ -7675,12 +7676,17 @@
                     {
                         "name": "libvulpes:ore0",
                         "metadata": 9,
-                        "weight": 35000
+                        "weight": 30000
                     },
                     {
                         "name": "libvulpes:ore0",
                         "metadata": 8,
-                        "weight": 20000
+                        "weight": 15000
+                    },
+                    {
+                        "name": "libvulpes:ore0",
+                        "metadata": 10,
+                        "weight": 10000
                     }
                 ],
                 "material": [
@@ -7701,7 +7707,7 @@
             "min-height": 0,
             "max-height": 256
         },
-        "ore0_etc-any-bf28ea20bfb798f51d462f06c2e0bfac": {
+        "ore0_etc-any-b57953ea5d25765ef62eb59913cae695": {
             "chunk-chance": 1,
             "cluster-count": 816,
             "biome": {
@@ -7759,7 +7765,7 @@
             "min-height": 0,
             "max-height": 256
         },
-        "obsidian-any-bf28ea20bfb798f51d462f06c2e0bfac": {
+        "obsidian-any-b57953ea5d25765ef62eb59913cae695": {
             "chunk-chance": 1,
             "cluster-count": 112,
             "biome": {
@@ -7794,7 +7800,7 @@
             "min-height": 0,
             "max-height": 256
         },
-        "marble2-above_ground-7657b8c70cbbbf76c3d44affe72563e5": {
+        "marble2-above_ground-9a11977af96d9ce4ccc3a4d66cdd7469": {
             "chunk-chance": 5,
             "cluster-count": 5,
             "biome": {
@@ -7834,7 +7840,7 @@
             "min-height": 65,
             "max-height": 138
         },
-        "iron_gravel_ore-above_ground-7657b8c70cbbbf76c3d44affe72563e5": {
+        "iron_gravel_ore-above_ground-9a11977af96d9ce4ccc3a4d66cdd7469": {
             "chunk-chance": 1,
             "cluster-count": 5,
             "biome": {
@@ -7880,7 +7886,7 @@
             "min-height": 65,
             "max-height": 138
         },
-        "iron_ore_etc-deep_up_step0-any-7657b8c70cbbbf76c3d44affe72563e5": {
+        "iron_ore_etc-deep_up_step0-any-9a11977af96d9ce4ccc3a4d66cdd7469": {
             "chunk-chance": 1,
             "cluster-count": 5,
             "biome": {
@@ -7933,7 +7939,7 @@
             "min-height": 8,
             "max-height": 16
         },
-        "iron_ore_etc-deep_up_step1-any-7657b8c70cbbbf76c3d44affe72563e5": {
+        "iron_ore_etc-deep_up_step1-any-9a11977af96d9ce4ccc3a4d66cdd7469": {
             "chunk-chance": 1,
             "cluster-count": 6,
             "biome": {
@@ -7986,7 +7992,7 @@
             "min-height": 11,
             "max-height": 19
         },
-        "iron_ore_etc-deep_up_step2-any-7657b8c70cbbbf76c3d44affe72563e5": {
+        "iron_ore_etc-deep_up_step2-any-9a11977af96d9ce4ccc3a4d66cdd7469": {
             "chunk-chance": 1,
             "cluster-count": 6,
             "biome": {
@@ -8039,7 +8045,7 @@
             "min-height": 14,
             "max-height": 22
         },
-        "iron_ore_etc-deep_up_step3-any-7657b8c70cbbbf76c3d44affe72563e5": {
+        "iron_ore_etc-deep_up_step3-any-9a11977af96d9ce4ccc3a4d66cdd7469": {
             "chunk-chance": 1,
             "cluster-count": 6,
             "biome": {
@@ -8092,7 +8098,7 @@
             "min-height": 18,
             "max-height": 26
         },
-        "iron_ore_etc-deep_up_step4-any-7657b8c70cbbbf76c3d44affe72563e5": {
+        "iron_ore_etc-deep_up_step4-any-9a11977af96d9ce4ccc3a4d66cdd7469": {
             "chunk-chance": 1,
             "cluster-count": 6,
             "biome": {
@@ -8145,7 +8151,7 @@
             "min-height": 21,
             "max-height": 29
         },
-        "iron_ore_etc-deep_up_step5-any-7657b8c70cbbbf76c3d44affe72563e5": {
+        "iron_ore_etc-deep_up_step5-any-9a11977af96d9ce4ccc3a4d66cdd7469": {
             "chunk-chance": 1,
             "cluster-count": 8,
             "biome": {
@@ -8198,7 +8204,7 @@
             "min-height": 24,
             "max-height": 32
         },
-        "iron_ore_etc-deep_up_step6-any-7657b8c70cbbbf76c3d44affe72563e5": {
+        "iron_ore_etc-deep_up_step6-any-9a11977af96d9ce4ccc3a4d66cdd7469": {
             "chunk-chance": 1,
             "cluster-count": 7,
             "biome": {
@@ -8251,7 +8257,7 @@
             "min-height": 27,
             "max-height": 35
         },
-        "iron_ore_etc-deep_up_step7-any-7657b8c70cbbbf76c3d44affe72563e5": {
+        "iron_ore_etc-deep_up_step7-any-9a11977af96d9ce4ccc3a4d66cdd7469": {
             "chunk-chance": 1,
             "cluster-count": 9,
             "biome": {
@@ -8304,7 +8310,7 @@
             "min-height": 30,
             "max-height": 38
         },
-        "iron_ore_etc-deep_up_step8-any-7657b8c70cbbbf76c3d44affe72563e5": {
+        "iron_ore_etc-deep_up_step8-any-9a11977af96d9ce4ccc3a4d66cdd7469": {
             "chunk-chance": 1,
             "cluster-count": 12,
             "biome": {
@@ -8357,7 +8363,7 @@
             "min-height": 34,
             "max-height": 42
         },
-        "iron_ore_etc-deep_up_step9-any-7657b8c70cbbbf76c3d44affe72563e5": {
+        "iron_ore_etc-deep_up_step9-any-9a11977af96d9ce4ccc3a4d66cdd7469": {
             "chunk-chance": 1,
             "cluster-count": 12,
             "biome": {
@@ -8410,7 +8416,7 @@
             "min-height": 37,
             "max-height": 45
         },
-        "iron_ore_etc-deep_up_step10-any-7657b8c70cbbbf76c3d44affe72563e5": {
+        "iron_ore_etc-deep_up_step10-any-9a11977af96d9ce4ccc3a4d66cdd7469": {
             "chunk-chance": 1,
             "cluster-count": 20,
             "biome": {
@@ -8463,7 +8469,7 @@
             "min-height": 40,
             "max-height": 48
         },
-        "ore_metal_poor_etc-surface_down_step0-any-7657b8c70cbbbf76c3d44affe72563e5": {
+        "ore_metal_poor_etc-surface_down_step0-any-9a11977af96d9ce4ccc3a4d66cdd7469": {
             "chunk-chance": 1,
             "cluster-count": 10,
             "biome": {
@@ -8516,7 +8522,7 @@
             "min-height": 72,
             "max-height": 80
         },
-        "ore_metal_poor_etc-surface_down_step1-any-7657b8c70cbbbf76c3d44affe72563e5": {
+        "ore_metal_poor_etc-surface_down_step1-any-9a11977af96d9ce4ccc3a4d66cdd7469": {
             "chunk-chance": 1,
             "cluster-count": 10,
             "biome": {
@@ -8569,7 +8575,7 @@
             "min-height": 69,
             "max-height": 77
         },
-        "ore_metal_poor_etc-surface_down_step2-any-7657b8c70cbbbf76c3d44affe72563e5": {
+        "ore_metal_poor_etc-surface_down_step2-any-9a11977af96d9ce4ccc3a4d66cdd7469": {
             "chunk-chance": 1,
             "cluster-count": 8,
             "biome": {
@@ -8622,7 +8628,7 @@
             "min-height": 66,
             "max-height": 74
         },
-        "ore_metal_poor_etc-surface_down_step3-any-7657b8c70cbbbf76c3d44affe72563e5": {
+        "ore_metal_poor_etc-surface_down_step3-any-9a11977af96d9ce4ccc3a4d66cdd7469": {
             "chunk-chance": 1,
             "cluster-count": 8,
             "biome": {
@@ -8675,7 +8681,7 @@
             "min-height": 62,
             "max-height": 70
         },
-        "ore_metal_poor_etc-surface_down_step4-any-7657b8c70cbbbf76c3d44affe72563e5": {
+        "ore_metal_poor_etc-surface_down_step4-any-9a11977af96d9ce4ccc3a4d66cdd7469": {
             "chunk-chance": 1,
             "cluster-count": 7,
             "biome": {
@@ -8728,7 +8734,7 @@
             "min-height": 59,
             "max-height": 67
         },
-        "ore_metal_poor_etc-surface_down_step5-any-7657b8c70cbbbf76c3d44affe72563e5": {
+        "ore_metal_poor_etc-surface_down_step5-any-9a11977af96d9ce4ccc3a4d66cdd7469": {
             "chunk-chance": 1,
             "cluster-count": 6,
             "biome": {
@@ -8781,7 +8787,7 @@
             "min-height": 56,
             "max-height": 64
         },
-        "ore_metal_poor_etc-surface_down_step6-any-7657b8c70cbbbf76c3d44affe72563e5": {
+        "ore_metal_poor_etc-surface_down_step6-any-9a11977af96d9ce4ccc3a4d66cdd7469": {
             "chunk-chance": 1,
             "cluster-count": 12,
             "biome": {
@@ -8834,7 +8840,7 @@
             "min-height": 53,
             "max-height": 61
         },
-        "ore_metal_poor_etc-surface_down_step7-any-7657b8c70cbbbf76c3d44affe72563e5": {
+        "ore_metal_poor_etc-surface_down_step7-any-9a11977af96d9ce4ccc3a4d66cdd7469": {
             "chunk-chance": 1,
             "cluster-count": 10,
             "biome": {
@@ -8887,7 +8893,7 @@
             "min-height": 50,
             "max-height": 58
         },
-        "ore_metal_poor_etc-surface_down_step8-any-7657b8c70cbbbf76c3d44affe72563e5": {
+        "ore_metal_poor_etc-surface_down_step8-any-9a11977af96d9ce4ccc3a4d66cdd7469": {
             "chunk-chance": 1,
             "cluster-count": 8,
             "biome": {
@@ -8940,7 +8946,7 @@
             "min-height": 46,
             "max-height": 54
         },
-        "ore_metal_poor_etc-surface_down_step9-any-7657b8c70cbbbf76c3d44affe72563e5": {
+        "ore_metal_poor_etc-surface_down_step9-any-9a11977af96d9ce4ccc3a4d66cdd7469": {
             "chunk-chance": 1,
             "cluster-count": 6,
             "biome": {
@@ -8993,7 +8999,7 @@
             "min-height": 43,
             "max-height": 51
         },
-        "ore_metal_poor_etc-surface_down_step10-any-7657b8c70cbbbf76c3d44affe72563e5": {
+        "ore_metal_poor_etc-surface_down_step10-any-9a11977af96d9ce4ccc3a4d66cdd7469": {
             "chunk-chance": 1,
             "cluster-count": 5,
             "biome": {
@@ -9046,7 +9052,7 @@
             "min-height": 40,
             "max-height": 48
         },
-        "ore_metal_poor_etc-surface_up_step0-any-7657b8c70cbbbf76c3d44affe72563e5": {
+        "ore_metal_poor_etc-surface_up_step0-any-9a11977af96d9ce4ccc3a4d66cdd7469": {
             "chunk-chance": 1,
             "cluster-count": 10,
             "biome": {
@@ -9099,7 +9105,7 @@
             "min-height": 72,
             "max-height": 80
         },
-        "ore_metal_poor_etc-surface_up_step1-any-7657b8c70cbbbf76c3d44affe72563e5": {
+        "ore_metal_poor_etc-surface_up_step1-any-9a11977af96d9ce4ccc3a4d66cdd7469": {
             "chunk-chance": 1,
             "cluster-count": 11,
             "biome": {
@@ -9152,7 +9158,7 @@
             "min-height": 77,
             "max-height": 85
         },
-        "ore_metal_poor_etc-surface_up_step2-any-7657b8c70cbbbf76c3d44affe72563e5": {
+        "ore_metal_poor_etc-surface_up_step2-any-9a11977af96d9ce4ccc3a4d66cdd7469": {
             "chunk-chance": 1,
             "cluster-count": 12,
             "biome": {
@@ -9205,7 +9211,7 @@
             "min-height": 82,
             "max-height": 90
         },
-        "ore_metal_poor_etc-surface_up_step3-any-7657b8c70cbbbf76c3d44affe72563e5": {
+        "ore_metal_poor_etc-surface_up_step3-any-9a11977af96d9ce4ccc3a4d66cdd7469": {
             "chunk-chance": 1,
             "cluster-count": 12,
             "biome": {
@@ -9258,7 +9264,7 @@
             "min-height": 86,
             "max-height": 94
         },
-        "ore_metal_poor_etc-surface_up_step4-any-7657b8c70cbbbf76c3d44affe72563e5": {
+        "ore_metal_poor_etc-surface_up_step4-any-9a11977af96d9ce4ccc3a4d66cdd7469": {
             "chunk-chance": 1,
             "cluster-count": 12,
             "biome": {
@@ -9311,7 +9317,7 @@
             "min-height": 91,
             "max-height": 99
         },
-        "ore_metal_poor_etc-surface_up_step5-any-7657b8c70cbbbf76c3d44affe72563e5": {
+        "ore_metal_poor_etc-surface_up_step5-any-9a11977af96d9ce4ccc3a4d66cdd7469": {
             "chunk-chance": 1,
             "cluster-count": 13,
             "biome": {
@@ -9364,7 +9370,7 @@
             "min-height": 96,
             "max-height": 104
         },
-        "ore_metal_poor_etc-surface_up_step6-any-7657b8c70cbbbf76c3d44affe72563e5": {
+        "ore_metal_poor_etc-surface_up_step6-any-9a11977af96d9ce4ccc3a4d66cdd7469": {
             "chunk-chance": 1,
             "cluster-count": 26,
             "biome": {
@@ -9417,7 +9423,7 @@
             "min-height": 101,
             "max-height": 109
         },
-        "ore_metal_poor_etc-surface_up_step7-any-7657b8c70cbbbf76c3d44affe72563e5": {
+        "ore_metal_poor_etc-surface_up_step7-any-9a11977af96d9ce4ccc3a4d66cdd7469": {
             "chunk-chance": 1,
             "cluster-count": 28,
             "biome": {
@@ -9470,7 +9476,7 @@
             "min-height": 106,
             "max-height": 114
         },
-        "ore_metal_poor_etc-surface_up_step8-any-7657b8c70cbbbf76c3d44affe72563e5": {
+        "ore_metal_poor_etc-surface_up_step8-any-9a11977af96d9ce4ccc3a4d66cdd7469": {
             "chunk-chance": 1,
             "cluster-count": 28,
             "biome": {
@@ -9523,7 +9529,7 @@
             "min-height": 110,
             "max-height": 118
         },
-        "ore_metal_poor_etc-surface_up_step9-any-7657b8c70cbbbf76c3d44affe72563e5": {
+        "ore_metal_poor_etc-surface_up_step9-any-9a11977af96d9ce4ccc3a4d66cdd7469": {
             "chunk-chance": 1,
             "cluster-count": 30,
             "biome": {
@@ -9576,7 +9582,7 @@
             "min-height": 115,
             "max-height": 123
         },
-        "ore_metal_poor_etc-surface_up_step10-any-7657b8c70cbbbf76c3d44affe72563e5": {
+        "ore_metal_poor_etc-surface_up_step10-any-9a11977af96d9ce4ccc3a4d66cdd7469": {
             "chunk-chance": 1,
             "cluster-count": 30,
             "biome": {
@@ -9629,7 +9635,7 @@
             "min-height": 120,
             "max-height": 128
         },
-        "ore_metal_poor_etc-ocean_floor-5ad2f99f463a372a3fefd2cbf41e39f7": {
+        "ore_metal_poor_etc-ocean_floor-03aef09250963373015a4385398dce4d": {
             "chunk-chance": 1,
             "cluster-count": 50,
             "biome": {
@@ -9703,7 +9709,7 @@
             "min-height": 0,
             "max-height": 40
         },
-        "aluminum_gravel_ore_etc-submerged_gravel-5ad2f99f463a372a3fefd2cbf41e39f7": {
+        "aluminum_gravel_ore_etc-submerged_gravel-03aef09250963373015a4385398dce4d": {
             "chunk-chance": 1,
             "cluster-count": 2,
             "biome": {
@@ -9777,7 +9783,7 @@
             "min-height": 32,
             "max-height": 64
         },
-        "ore-lava-5ad2f99f463a372a3fefd2cbf41e39f7": {
+        "ore-lava-03aef09250963373015a4385398dce4d": {
             "chunk-chance": 1,
             "cluster-count": 10,
             "biome": {
@@ -9886,7 +9892,7 @@
             "min-height": 0,
             "max-height": 40
         },
-        "stone_diorite-deep-183ba02f1f833aeef3942f4f3ef46144": {
+        "stone_diorite-deep-e7f4dd5748932d7d91c26c6dc7e23779": {
             "chunk-chance": 5,
             "cluster-count": 2,
             "biome": {
@@ -9926,7 +9932,7 @@
             "min-height": 16,
             "max-height": 40
         },
-        "ore0_etc-deep_up_step0-any-183ba02f1f833aeef3942f4f3ef46144": {
+        "ore_metal_etc-deep_up_step0-any-e7f4dd5748932d7d91c26c6dc7e23779": {
             "chunk-chance": 1,
             "cluster-count": 5,
             "biome": {
@@ -9944,9 +9950,9 @@
             "generator": {
                 "block": [
                     {
-                        "name": "libvulpes:ore0",
-                        "metadata": 9,
-                        "weight": 60000
+                        "name": "railcraft:ore_metal",
+                        "metadata": 1,
+                        "weight": 55000
                     },
                     {
                         "name": "railcraft:ore_metal",
@@ -9954,8 +9960,9 @@
                         "weight": 20000
                     },
                     {
-                        "name": "minecraft:stone",
-                        "weight": 10000
+                        "name": "railcraft:ore_metal_poor",
+                        "metadata": 3,
+                        "weight": 15000
                     },
                     {
                         "name": "railcraft:ore_metal_poor",
@@ -9978,7 +9985,7 @@
             "min-height": 8,
             "max-height": 16
         },
-        "ore0_etc-deep_up_step1-any-183ba02f1f833aeef3942f4f3ef46144": {
+        "ore_metal_etc-deep_up_step1-any-e7f4dd5748932d7d91c26c6dc7e23779": {
             "chunk-chance": 1,
             "cluster-count": 6,
             "biome": {
@@ -9996,9 +10003,9 @@
             "generator": {
                 "block": [
                     {
-                        "name": "libvulpes:ore0",
-                        "metadata": 9,
-                        "weight": 60000
+                        "name": "railcraft:ore_metal",
+                        "metadata": 1,
+                        "weight": 55000
                     },
                     {
                         "name": "railcraft:ore_metal",
@@ -10006,8 +10013,9 @@
                         "weight": 20000
                     },
                     {
-                        "name": "minecraft:stone",
-                        "weight": 10000
+                        "name": "railcraft:ore_metal_poor",
+                        "metadata": 3,
+                        "weight": 15000
                     },
                     {
                         "name": "railcraft:ore_metal_poor",
@@ -10030,7 +10038,7 @@
             "min-height": 11,
             "max-height": 19
         },
-        "ore0_etc-deep_up_step2-any-183ba02f1f833aeef3942f4f3ef46144": {
+        "ore_metal_etc-deep_up_step2-any-e7f4dd5748932d7d91c26c6dc7e23779": {
             "chunk-chance": 1,
             "cluster-count": 6,
             "biome": {
@@ -10048,9 +10056,9 @@
             "generator": {
                 "block": [
                     {
-                        "name": "libvulpes:ore0",
-                        "metadata": 9,
-                        "weight": 60000
+                        "name": "railcraft:ore_metal",
+                        "metadata": 1,
+                        "weight": 55000
                     },
                     {
                         "name": "railcraft:ore_metal",
@@ -10058,8 +10066,9 @@
                         "weight": 20000
                     },
                     {
-                        "name": "minecraft:stone",
-                        "weight": 10000
+                        "name": "railcraft:ore_metal_poor",
+                        "metadata": 3,
+                        "weight": 15000
                     },
                     {
                         "name": "railcraft:ore_metal_poor",
@@ -10082,7 +10091,7 @@
             "min-height": 14,
             "max-height": 22
         },
-        "ore0_etc-deep_up_step3-any-183ba02f1f833aeef3942f4f3ef46144": {
+        "ore_metal_etc-deep_up_step3-any-e7f4dd5748932d7d91c26c6dc7e23779": {
             "chunk-chance": 1,
             "cluster-count": 6,
             "biome": {
@@ -10100,9 +10109,9 @@
             "generator": {
                 "block": [
                     {
-                        "name": "libvulpes:ore0",
-                        "metadata": 9,
-                        "weight": 60000
+                        "name": "railcraft:ore_metal",
+                        "metadata": 1,
+                        "weight": 55000
                     },
                     {
                         "name": "railcraft:ore_metal",
@@ -10110,8 +10119,9 @@
                         "weight": 20000
                     },
                     {
-                        "name": "minecraft:stone",
-                        "weight": 10000
+                        "name": "railcraft:ore_metal_poor",
+                        "metadata": 3,
+                        "weight": 15000
                     },
                     {
                         "name": "railcraft:ore_metal_poor",
@@ -10134,7 +10144,7 @@
             "min-height": 18,
             "max-height": 26
         },
-        "ore0_etc-deep_up_step4-any-183ba02f1f833aeef3942f4f3ef46144": {
+        "ore_metal_etc-deep_up_step4-any-e7f4dd5748932d7d91c26c6dc7e23779": {
             "chunk-chance": 1,
             "cluster-count": 6,
             "biome": {
@@ -10152,9 +10162,9 @@
             "generator": {
                 "block": [
                     {
-                        "name": "libvulpes:ore0",
-                        "metadata": 9,
-                        "weight": 60000
+                        "name": "railcraft:ore_metal",
+                        "metadata": 1,
+                        "weight": 55000
                     },
                     {
                         "name": "railcraft:ore_metal",
@@ -10162,8 +10172,9 @@
                         "weight": 20000
                     },
                     {
-                        "name": "minecraft:stone",
-                        "weight": 10000
+                        "name": "railcraft:ore_metal_poor",
+                        "metadata": 3,
+                        "weight": 15000
                     },
                     {
                         "name": "railcraft:ore_metal_poor",
@@ -10186,7 +10197,7 @@
             "min-height": 21,
             "max-height": 29
         },
-        "ore0_etc-deep_up_step5-any-183ba02f1f833aeef3942f4f3ef46144": {
+        "ore_metal_etc-deep_up_step5-any-e7f4dd5748932d7d91c26c6dc7e23779": {
             "chunk-chance": 1,
             "cluster-count": 8,
             "biome": {
@@ -10204,9 +10215,9 @@
             "generator": {
                 "block": [
                     {
-                        "name": "libvulpes:ore0",
-                        "metadata": 9,
-                        "weight": 60000
+                        "name": "railcraft:ore_metal",
+                        "metadata": 1,
+                        "weight": 55000
                     },
                     {
                         "name": "railcraft:ore_metal",
@@ -10214,8 +10225,9 @@
                         "weight": 20000
                     },
                     {
-                        "name": "minecraft:stone",
-                        "weight": 10000
+                        "name": "railcraft:ore_metal_poor",
+                        "metadata": 3,
+                        "weight": 15000
                     },
                     {
                         "name": "railcraft:ore_metal_poor",
@@ -10238,7 +10250,7 @@
             "min-height": 24,
             "max-height": 32
         },
-        "ore0_etc-deep_up_step6-any-183ba02f1f833aeef3942f4f3ef46144": {
+        "ore_metal_etc-deep_up_step6-any-e7f4dd5748932d7d91c26c6dc7e23779": {
             "chunk-chance": 1,
             "cluster-count": 7,
             "biome": {
@@ -10256,9 +10268,9 @@
             "generator": {
                 "block": [
                     {
-                        "name": "libvulpes:ore0",
-                        "metadata": 9,
-                        "weight": 60000
+                        "name": "railcraft:ore_metal",
+                        "metadata": 1,
+                        "weight": 55000
                     },
                     {
                         "name": "railcraft:ore_metal",
@@ -10266,8 +10278,9 @@
                         "weight": 20000
                     },
                     {
-                        "name": "minecraft:stone",
-                        "weight": 10000
+                        "name": "railcraft:ore_metal_poor",
+                        "metadata": 3,
+                        "weight": 15000
                     },
                     {
                         "name": "railcraft:ore_metal_poor",
@@ -10290,7 +10303,7 @@
             "min-height": 27,
             "max-height": 35
         },
-        "ore0_etc-deep_up_step7-any-183ba02f1f833aeef3942f4f3ef46144": {
+        "ore_metal_etc-deep_up_step7-any-e7f4dd5748932d7d91c26c6dc7e23779": {
             "chunk-chance": 1,
             "cluster-count": 9,
             "biome": {
@@ -10308,9 +10321,9 @@
             "generator": {
                 "block": [
                     {
-                        "name": "libvulpes:ore0",
-                        "metadata": 9,
-                        "weight": 60000
+                        "name": "railcraft:ore_metal",
+                        "metadata": 1,
+                        "weight": 55000
                     },
                     {
                         "name": "railcraft:ore_metal",
@@ -10318,8 +10331,9 @@
                         "weight": 20000
                     },
                     {
-                        "name": "minecraft:stone",
-                        "weight": 10000
+                        "name": "railcraft:ore_metal_poor",
+                        "metadata": 3,
+                        "weight": 15000
                     },
                     {
                         "name": "railcraft:ore_metal_poor",
@@ -10342,7 +10356,7 @@
             "min-height": 30,
             "max-height": 38
         },
-        "ore0_etc-deep_up_step8-any-183ba02f1f833aeef3942f4f3ef46144": {
+        "ore_metal_etc-deep_up_step8-any-e7f4dd5748932d7d91c26c6dc7e23779": {
             "chunk-chance": 1,
             "cluster-count": 12,
             "biome": {
@@ -10360,9 +10374,9 @@
             "generator": {
                 "block": [
                     {
-                        "name": "libvulpes:ore0",
-                        "metadata": 9,
-                        "weight": 60000
+                        "name": "railcraft:ore_metal",
+                        "metadata": 1,
+                        "weight": 55000
                     },
                     {
                         "name": "railcraft:ore_metal",
@@ -10370,8 +10384,9 @@
                         "weight": 20000
                     },
                     {
-                        "name": "minecraft:stone",
-                        "weight": 10000
+                        "name": "railcraft:ore_metal_poor",
+                        "metadata": 3,
+                        "weight": 15000
                     },
                     {
                         "name": "railcraft:ore_metal_poor",
@@ -10394,7 +10409,7 @@
             "min-height": 34,
             "max-height": 42
         },
-        "ore0_etc-deep_up_step9-any-183ba02f1f833aeef3942f4f3ef46144": {
+        "ore_metal_etc-deep_up_step9-any-e7f4dd5748932d7d91c26c6dc7e23779": {
             "chunk-chance": 1,
             "cluster-count": 12,
             "biome": {
@@ -10412,9 +10427,9 @@
             "generator": {
                 "block": [
                     {
-                        "name": "libvulpes:ore0",
-                        "metadata": 9,
-                        "weight": 60000
+                        "name": "railcraft:ore_metal",
+                        "metadata": 1,
+                        "weight": 55000
                     },
                     {
                         "name": "railcraft:ore_metal",
@@ -10422,8 +10437,9 @@
                         "weight": 20000
                     },
                     {
-                        "name": "minecraft:stone",
-                        "weight": 10000
+                        "name": "railcraft:ore_metal_poor",
+                        "metadata": 3,
+                        "weight": 15000
                     },
                     {
                         "name": "railcraft:ore_metal_poor",
@@ -10446,7 +10462,7 @@
             "min-height": 37,
             "max-height": 45
         },
-        "ore0_etc-deep_up_step10-any-183ba02f1f833aeef3942f4f3ef46144": {
+        "ore_metal_etc-deep_up_step10-any-e7f4dd5748932d7d91c26c6dc7e23779": {
             "chunk-chance": 1,
             "cluster-count": 20,
             "biome": {
@@ -10464,9 +10480,9 @@
             "generator": {
                 "block": [
                     {
-                        "name": "libvulpes:ore0",
-                        "metadata": 9,
-                        "weight": 60000
+                        "name": "railcraft:ore_metal",
+                        "metadata": 1,
+                        "weight": 55000
                     },
                     {
                         "name": "railcraft:ore_metal",
@@ -10474,8 +10490,9 @@
                         "weight": 20000
                     },
                     {
-                        "name": "minecraft:stone",
-                        "weight": 10000
+                        "name": "railcraft:ore_metal_poor",
+                        "metadata": 3,
+                        "weight": 15000
                     },
                     {
                         "name": "railcraft:ore_metal_poor",
@@ -10498,7 +10515,7 @@
             "min-height": 40,
             "max-height": 48
         },
-        "stone_etc-surface_down_step0-any-183ba02f1f833aeef3942f4f3ef46144": {
+        "ore_metal_poor_etc-surface_down_step0-any-e7f4dd5748932d7d91c26c6dc7e23779": {
             "chunk-chance": 1,
             "cluster-count": 10,
             "biome": {
@@ -10516,8 +10533,9 @@
             "generator": {
                 "block": [
                     {
-                        "name": "minecraft:stone",
-                        "weight": 43000
+                        "name": "railcraft:ore_metal_poor",
+                        "metadata": 3,
+                        "weight": 55000
                     },
                     {
                         "name": "railcraft:ore_metal_poor",
@@ -10525,9 +10543,9 @@
                         "weight": 20000
                     },
                     {
-                        "name": "libvulpes:ore0",
-                        "metadata": 9,
-                        "weight": 32000
+                        "name": "railcraft:ore_metal",
+                        "metadata": 1,
+                        "weight": 15000
                     },
                     {
                         "name": "railcraft:ore_metal",
@@ -10550,7 +10568,7 @@
             "min-height": 72,
             "max-height": 80
         },
-        "stone_etc-surface_down_step1-any-183ba02f1f833aeef3942f4f3ef46144": {
+        "ore_metal_poor_etc-surface_down_step1-any-e7f4dd5748932d7d91c26c6dc7e23779": {
             "chunk-chance": 1,
             "cluster-count": 10,
             "biome": {
@@ -10568,8 +10586,9 @@
             "generator": {
                 "block": [
                     {
-                        "name": "minecraft:stone",
-                        "weight": 43000
+                        "name": "railcraft:ore_metal_poor",
+                        "metadata": 3,
+                        "weight": 55000
                     },
                     {
                         "name": "railcraft:ore_metal_poor",
@@ -10577,9 +10596,9 @@
                         "weight": 20000
                     },
                     {
-                        "name": "libvulpes:ore0",
-                        "metadata": 9,
-                        "weight": 32000
+                        "name": "railcraft:ore_metal",
+                        "metadata": 1,
+                        "weight": 15000
                     },
                     {
                         "name": "railcraft:ore_metal",
@@ -10602,7 +10621,7 @@
             "min-height": 69,
             "max-height": 77
         },
-        "stone_etc-surface_down_step2-any-183ba02f1f833aeef3942f4f3ef46144": {
+        "ore_metal_poor_etc-surface_down_step2-any-e7f4dd5748932d7d91c26c6dc7e23779": {
             "chunk-chance": 1,
             "cluster-count": 8,
             "biome": {
@@ -10620,8 +10639,9 @@
             "generator": {
                 "block": [
                     {
-                        "name": "minecraft:stone",
-                        "weight": 43000
+                        "name": "railcraft:ore_metal_poor",
+                        "metadata": 3,
+                        "weight": 55000
                     },
                     {
                         "name": "railcraft:ore_metal_poor",
@@ -10629,9 +10649,9 @@
                         "weight": 20000
                     },
                     {
-                        "name": "libvulpes:ore0",
-                        "metadata": 9,
-                        "weight": 32000
+                        "name": "railcraft:ore_metal",
+                        "metadata": 1,
+                        "weight": 15000
                     },
                     {
                         "name": "railcraft:ore_metal",
@@ -10654,7 +10674,7 @@
             "min-height": 66,
             "max-height": 74
         },
-        "stone_etc-surface_down_step3-any-183ba02f1f833aeef3942f4f3ef46144": {
+        "ore_metal_poor_etc-surface_down_step3-any-e7f4dd5748932d7d91c26c6dc7e23779": {
             "chunk-chance": 1,
             "cluster-count": 8,
             "biome": {
@@ -10672,8 +10692,9 @@
             "generator": {
                 "block": [
                     {
-                        "name": "minecraft:stone",
-                        "weight": 43000
+                        "name": "railcraft:ore_metal_poor",
+                        "metadata": 3,
+                        "weight": 55000
                     },
                     {
                         "name": "railcraft:ore_metal_poor",
@@ -10681,9 +10702,9 @@
                         "weight": 20000
                     },
                     {
-                        "name": "libvulpes:ore0",
-                        "metadata": 9,
-                        "weight": 32000
+                        "name": "railcraft:ore_metal",
+                        "metadata": 1,
+                        "weight": 15000
                     },
                     {
                         "name": "railcraft:ore_metal",
@@ -10706,7 +10727,7 @@
             "min-height": 62,
             "max-height": 70
         },
-        "stone_etc-surface_down_step4-any-183ba02f1f833aeef3942f4f3ef46144": {
+        "ore_metal_poor_etc-surface_down_step4-any-e7f4dd5748932d7d91c26c6dc7e23779": {
             "chunk-chance": 1,
             "cluster-count": 7,
             "biome": {
@@ -10724,8 +10745,9 @@
             "generator": {
                 "block": [
                     {
-                        "name": "minecraft:stone",
-                        "weight": 43000
+                        "name": "railcraft:ore_metal_poor",
+                        "metadata": 3,
+                        "weight": 55000
                     },
                     {
                         "name": "railcraft:ore_metal_poor",
@@ -10733,9 +10755,9 @@
                         "weight": 20000
                     },
                     {
-                        "name": "libvulpes:ore0",
-                        "metadata": 9,
-                        "weight": 32000
+                        "name": "railcraft:ore_metal",
+                        "metadata": 1,
+                        "weight": 15000
                     },
                     {
                         "name": "railcraft:ore_metal",
@@ -10758,7 +10780,7 @@
             "min-height": 59,
             "max-height": 67
         },
-        "stone_etc-surface_down_step5-any-183ba02f1f833aeef3942f4f3ef46144": {
+        "ore_metal_poor_etc-surface_down_step5-any-e7f4dd5748932d7d91c26c6dc7e23779": {
             "chunk-chance": 1,
             "cluster-count": 6,
             "biome": {
@@ -10776,8 +10798,9 @@
             "generator": {
                 "block": [
                     {
-                        "name": "minecraft:stone",
-                        "weight": 43000
+                        "name": "railcraft:ore_metal_poor",
+                        "metadata": 3,
+                        "weight": 55000
                     },
                     {
                         "name": "railcraft:ore_metal_poor",
@@ -10785,9 +10808,9 @@
                         "weight": 20000
                     },
                     {
-                        "name": "libvulpes:ore0",
-                        "metadata": 9,
-                        "weight": 32000
+                        "name": "railcraft:ore_metal",
+                        "metadata": 1,
+                        "weight": 15000
                     },
                     {
                         "name": "railcraft:ore_metal",
@@ -10810,7 +10833,7 @@
             "min-height": 56,
             "max-height": 64
         },
-        "stone_etc-surface_down_step6-any-183ba02f1f833aeef3942f4f3ef46144": {
+        "ore_metal_poor_etc-surface_down_step6-any-e7f4dd5748932d7d91c26c6dc7e23779": {
             "chunk-chance": 1,
             "cluster-count": 12,
             "biome": {
@@ -10828,8 +10851,9 @@
             "generator": {
                 "block": [
                     {
-                        "name": "minecraft:stone",
-                        "weight": 43000
+                        "name": "railcraft:ore_metal_poor",
+                        "metadata": 3,
+                        "weight": 55000
                     },
                     {
                         "name": "railcraft:ore_metal_poor",
@@ -10837,9 +10861,9 @@
                         "weight": 20000
                     },
                     {
-                        "name": "libvulpes:ore0",
-                        "metadata": 9,
-                        "weight": 32000
+                        "name": "railcraft:ore_metal",
+                        "metadata": 1,
+                        "weight": 15000
                     },
                     {
                         "name": "railcraft:ore_metal",
@@ -10862,7 +10886,7 @@
             "min-height": 53,
             "max-height": 61
         },
-        "stone_etc-surface_down_step7-any-183ba02f1f833aeef3942f4f3ef46144": {
+        "ore_metal_poor_etc-surface_down_step7-any-e7f4dd5748932d7d91c26c6dc7e23779": {
             "chunk-chance": 1,
             "cluster-count": 10,
             "biome": {
@@ -10880,8 +10904,9 @@
             "generator": {
                 "block": [
                     {
-                        "name": "minecraft:stone",
-                        "weight": 43000
+                        "name": "railcraft:ore_metal_poor",
+                        "metadata": 3,
+                        "weight": 55000
                     },
                     {
                         "name": "railcraft:ore_metal_poor",
@@ -10889,9 +10914,9 @@
                         "weight": 20000
                     },
                     {
-                        "name": "libvulpes:ore0",
-                        "metadata": 9,
-                        "weight": 32000
+                        "name": "railcraft:ore_metal",
+                        "metadata": 1,
+                        "weight": 15000
                     },
                     {
                         "name": "railcraft:ore_metal",
@@ -10914,7 +10939,7 @@
             "min-height": 50,
             "max-height": 58
         },
-        "stone_etc-surface_down_step8-any-183ba02f1f833aeef3942f4f3ef46144": {
+        "ore_metal_poor_etc-surface_down_step8-any-e7f4dd5748932d7d91c26c6dc7e23779": {
             "chunk-chance": 1,
             "cluster-count": 8,
             "biome": {
@@ -10932,8 +10957,9 @@
             "generator": {
                 "block": [
                     {
-                        "name": "minecraft:stone",
-                        "weight": 43000
+                        "name": "railcraft:ore_metal_poor",
+                        "metadata": 3,
+                        "weight": 55000
                     },
                     {
                         "name": "railcraft:ore_metal_poor",
@@ -10941,9 +10967,9 @@
                         "weight": 20000
                     },
                     {
-                        "name": "libvulpes:ore0",
-                        "metadata": 9,
-                        "weight": 32000
+                        "name": "railcraft:ore_metal",
+                        "metadata": 1,
+                        "weight": 15000
                     },
                     {
                         "name": "railcraft:ore_metal",
@@ -10966,7 +10992,7 @@
             "min-height": 46,
             "max-height": 54
         },
-        "stone_etc-surface_down_step9-any-183ba02f1f833aeef3942f4f3ef46144": {
+        "ore_metal_poor_etc-surface_down_step9-any-e7f4dd5748932d7d91c26c6dc7e23779": {
             "chunk-chance": 1,
             "cluster-count": 6,
             "biome": {
@@ -10984,8 +11010,9 @@
             "generator": {
                 "block": [
                     {
-                        "name": "minecraft:stone",
-                        "weight": 43000
+                        "name": "railcraft:ore_metal_poor",
+                        "metadata": 3,
+                        "weight": 55000
                     },
                     {
                         "name": "railcraft:ore_metal_poor",
@@ -10993,9 +11020,9 @@
                         "weight": 20000
                     },
                     {
-                        "name": "libvulpes:ore0",
-                        "metadata": 9,
-                        "weight": 32000
+                        "name": "railcraft:ore_metal",
+                        "metadata": 1,
+                        "weight": 15000
                     },
                     {
                         "name": "railcraft:ore_metal",
@@ -11018,7 +11045,7 @@
             "min-height": 43,
             "max-height": 51
         },
-        "stone_etc-surface_down_step10-any-183ba02f1f833aeef3942f4f3ef46144": {
+        "ore_metal_poor_etc-surface_down_step10-any-e7f4dd5748932d7d91c26c6dc7e23779": {
             "chunk-chance": 1,
             "cluster-count": 5,
             "biome": {
@@ -11036,8 +11063,9 @@
             "generator": {
                 "block": [
                     {
-                        "name": "minecraft:stone",
-                        "weight": 43000
+                        "name": "railcraft:ore_metal_poor",
+                        "metadata": 3,
+                        "weight": 55000
                     },
                     {
                         "name": "railcraft:ore_metal_poor",
@@ -11045,9 +11073,9 @@
                         "weight": 20000
                     },
                     {
-                        "name": "libvulpes:ore0",
-                        "metadata": 9,
-                        "weight": 32000
+                        "name": "railcraft:ore_metal",
+                        "metadata": 1,
+                        "weight": 15000
                     },
                     {
                         "name": "railcraft:ore_metal",
@@ -11070,7 +11098,7 @@
             "min-height": 40,
             "max-height": 48
         },
-        "stone_etc-surface_up_step0-any-183ba02f1f833aeef3942f4f3ef46144": {
+        "ore_metal_poor_etc-surface_up_step0-any-e7f4dd5748932d7d91c26c6dc7e23779": {
             "chunk-chance": 1,
             "cluster-count": 10,
             "biome": {
@@ -11088,8 +11116,9 @@
             "generator": {
                 "block": [
                     {
-                        "name": "minecraft:stone",
-                        "weight": 43000
+                        "name": "railcraft:ore_metal_poor",
+                        "metadata": 3,
+                        "weight": 55000
                     },
                     {
                         "name": "railcraft:ore_metal_poor",
@@ -11097,9 +11126,9 @@
                         "weight": 20000
                     },
                     {
-                        "name": "libvulpes:ore0",
-                        "metadata": 9,
-                        "weight": 32000
+                        "name": "railcraft:ore_metal",
+                        "metadata": 1,
+                        "weight": 15000
                     },
                     {
                         "name": "railcraft:ore_metal",
@@ -11122,7 +11151,7 @@
             "min-height": 72,
             "max-height": 80
         },
-        "stone_etc-surface_up_step1-any-183ba02f1f833aeef3942f4f3ef46144": {
+        "ore_metal_poor_etc-surface_up_step1-any-e7f4dd5748932d7d91c26c6dc7e23779": {
             "chunk-chance": 1,
             "cluster-count": 11,
             "biome": {
@@ -11140,8 +11169,9 @@
             "generator": {
                 "block": [
                     {
-                        "name": "minecraft:stone",
-                        "weight": 43000
+                        "name": "railcraft:ore_metal_poor",
+                        "metadata": 3,
+                        "weight": 55000
                     },
                     {
                         "name": "railcraft:ore_metal_poor",
@@ -11149,9 +11179,9 @@
                         "weight": 20000
                     },
                     {
-                        "name": "libvulpes:ore0",
-                        "metadata": 9,
-                        "weight": 32000
+                        "name": "railcraft:ore_metal",
+                        "metadata": 1,
+                        "weight": 15000
                     },
                     {
                         "name": "railcraft:ore_metal",
@@ -11174,7 +11204,7 @@
             "min-height": 77,
             "max-height": 85
         },
-        "stone_etc-surface_up_step2-any-183ba02f1f833aeef3942f4f3ef46144": {
+        "ore_metal_poor_etc-surface_up_step2-any-e7f4dd5748932d7d91c26c6dc7e23779": {
             "chunk-chance": 1,
             "cluster-count": 12,
             "biome": {
@@ -11192,8 +11222,9 @@
             "generator": {
                 "block": [
                     {
-                        "name": "minecraft:stone",
-                        "weight": 43000
+                        "name": "railcraft:ore_metal_poor",
+                        "metadata": 3,
+                        "weight": 55000
                     },
                     {
                         "name": "railcraft:ore_metal_poor",
@@ -11201,9 +11232,9 @@
                         "weight": 20000
                     },
                     {
-                        "name": "libvulpes:ore0",
-                        "metadata": 9,
-                        "weight": 32000
+                        "name": "railcraft:ore_metal",
+                        "metadata": 1,
+                        "weight": 15000
                     },
                     {
                         "name": "railcraft:ore_metal",
@@ -11226,7 +11257,7 @@
             "min-height": 82,
             "max-height": 90
         },
-        "stone_etc-surface_up_step3-any-183ba02f1f833aeef3942f4f3ef46144": {
+        "ore_metal_poor_etc-surface_up_step3-any-e7f4dd5748932d7d91c26c6dc7e23779": {
             "chunk-chance": 1,
             "cluster-count": 12,
             "biome": {
@@ -11244,8 +11275,9 @@
             "generator": {
                 "block": [
                     {
-                        "name": "minecraft:stone",
-                        "weight": 43000
+                        "name": "railcraft:ore_metal_poor",
+                        "metadata": 3,
+                        "weight": 55000
                     },
                     {
                         "name": "railcraft:ore_metal_poor",
@@ -11253,9 +11285,9 @@
                         "weight": 20000
                     },
                     {
-                        "name": "libvulpes:ore0",
-                        "metadata": 9,
-                        "weight": 32000
+                        "name": "railcraft:ore_metal",
+                        "metadata": 1,
+                        "weight": 15000
                     },
                     {
                         "name": "railcraft:ore_metal",
@@ -11278,7 +11310,7 @@
             "min-height": 86,
             "max-height": 94
         },
-        "stone_etc-surface_up_step4-any-183ba02f1f833aeef3942f4f3ef46144": {
+        "ore_metal_poor_etc-surface_up_step4-any-e7f4dd5748932d7d91c26c6dc7e23779": {
             "chunk-chance": 1,
             "cluster-count": 12,
             "biome": {
@@ -11296,8 +11328,9 @@
             "generator": {
                 "block": [
                     {
-                        "name": "minecraft:stone",
-                        "weight": 43000
+                        "name": "railcraft:ore_metal_poor",
+                        "metadata": 3,
+                        "weight": 55000
                     },
                     {
                         "name": "railcraft:ore_metal_poor",
@@ -11305,9 +11338,9 @@
                         "weight": 20000
                     },
                     {
-                        "name": "libvulpes:ore0",
-                        "metadata": 9,
-                        "weight": 32000
+                        "name": "railcraft:ore_metal",
+                        "metadata": 1,
+                        "weight": 15000
                     },
                     {
                         "name": "railcraft:ore_metal",
@@ -11330,7 +11363,7 @@
             "min-height": 91,
             "max-height": 99
         },
-        "stone_etc-surface_up_step5-any-183ba02f1f833aeef3942f4f3ef46144": {
+        "ore_metal_poor_etc-surface_up_step5-any-e7f4dd5748932d7d91c26c6dc7e23779": {
             "chunk-chance": 1,
             "cluster-count": 13,
             "biome": {
@@ -11348,8 +11381,9 @@
             "generator": {
                 "block": [
                     {
-                        "name": "minecraft:stone",
-                        "weight": 43000
+                        "name": "railcraft:ore_metal_poor",
+                        "metadata": 3,
+                        "weight": 55000
                     },
                     {
                         "name": "railcraft:ore_metal_poor",
@@ -11357,9 +11391,9 @@
                         "weight": 20000
                     },
                     {
-                        "name": "libvulpes:ore0",
-                        "metadata": 9,
-                        "weight": 32000
+                        "name": "railcraft:ore_metal",
+                        "metadata": 1,
+                        "weight": 15000
                     },
                     {
                         "name": "railcraft:ore_metal",
@@ -11382,7 +11416,7 @@
             "min-height": 96,
             "max-height": 104
         },
-        "stone_etc-surface_up_step6-any-183ba02f1f833aeef3942f4f3ef46144": {
+        "ore_metal_poor_etc-surface_up_step6-any-e7f4dd5748932d7d91c26c6dc7e23779": {
             "chunk-chance": 1,
             "cluster-count": 26,
             "biome": {
@@ -11400,8 +11434,9 @@
             "generator": {
                 "block": [
                     {
-                        "name": "minecraft:stone",
-                        "weight": 43000
+                        "name": "railcraft:ore_metal_poor",
+                        "metadata": 3,
+                        "weight": 55000
                     },
                     {
                         "name": "railcraft:ore_metal_poor",
@@ -11409,9 +11444,9 @@
                         "weight": 20000
                     },
                     {
-                        "name": "libvulpes:ore0",
-                        "metadata": 9,
-                        "weight": 32000
+                        "name": "railcraft:ore_metal",
+                        "metadata": 1,
+                        "weight": 15000
                     },
                     {
                         "name": "railcraft:ore_metal",
@@ -11434,7 +11469,7 @@
             "min-height": 101,
             "max-height": 109
         },
-        "stone_etc-surface_up_step7-any-183ba02f1f833aeef3942f4f3ef46144": {
+        "ore_metal_poor_etc-surface_up_step7-any-e7f4dd5748932d7d91c26c6dc7e23779": {
             "chunk-chance": 1,
             "cluster-count": 28,
             "biome": {
@@ -11452,8 +11487,9 @@
             "generator": {
                 "block": [
                     {
-                        "name": "minecraft:stone",
-                        "weight": 43000
+                        "name": "railcraft:ore_metal_poor",
+                        "metadata": 3,
+                        "weight": 55000
                     },
                     {
                         "name": "railcraft:ore_metal_poor",
@@ -11461,9 +11497,9 @@
                         "weight": 20000
                     },
                     {
-                        "name": "libvulpes:ore0",
-                        "metadata": 9,
-                        "weight": 32000
+                        "name": "railcraft:ore_metal",
+                        "metadata": 1,
+                        "weight": 15000
                     },
                     {
                         "name": "railcraft:ore_metal",
@@ -11486,7 +11522,7 @@
             "min-height": 106,
             "max-height": 114
         },
-        "stone_etc-surface_up_step8-any-183ba02f1f833aeef3942f4f3ef46144": {
+        "ore_metal_poor_etc-surface_up_step8-any-e7f4dd5748932d7d91c26c6dc7e23779": {
             "chunk-chance": 1,
             "cluster-count": 28,
             "biome": {
@@ -11504,8 +11540,9 @@
             "generator": {
                 "block": [
                     {
-                        "name": "minecraft:stone",
-                        "weight": 43000
+                        "name": "railcraft:ore_metal_poor",
+                        "metadata": 3,
+                        "weight": 55000
                     },
                     {
                         "name": "railcraft:ore_metal_poor",
@@ -11513,9 +11550,9 @@
                         "weight": 20000
                     },
                     {
-                        "name": "libvulpes:ore0",
-                        "metadata": 9,
-                        "weight": 32000
+                        "name": "railcraft:ore_metal",
+                        "metadata": 1,
+                        "weight": 15000
                     },
                     {
                         "name": "railcraft:ore_metal",
@@ -11538,7 +11575,7 @@
             "min-height": 110,
             "max-height": 118
         },
-        "stone_etc-surface_up_step9-any-183ba02f1f833aeef3942f4f3ef46144": {
+        "ore_metal_poor_etc-surface_up_step9-any-e7f4dd5748932d7d91c26c6dc7e23779": {
             "chunk-chance": 1,
             "cluster-count": 30,
             "biome": {
@@ -11556,8 +11593,9 @@
             "generator": {
                 "block": [
                     {
-                        "name": "minecraft:stone",
-                        "weight": 43000
+                        "name": "railcraft:ore_metal_poor",
+                        "metadata": 3,
+                        "weight": 55000
                     },
                     {
                         "name": "railcraft:ore_metal_poor",
@@ -11565,9 +11603,9 @@
                         "weight": 20000
                     },
                     {
-                        "name": "libvulpes:ore0",
-                        "metadata": 9,
-                        "weight": 32000
+                        "name": "railcraft:ore_metal",
+                        "metadata": 1,
+                        "weight": 15000
                     },
                     {
                         "name": "railcraft:ore_metal",
@@ -11590,7 +11628,7 @@
             "min-height": 115,
             "max-height": 123
         },
-        "stone_etc-surface_up_step10-any-183ba02f1f833aeef3942f4f3ef46144": {
+        "ore_metal_poor_etc-surface_up_step10-any-e7f4dd5748932d7d91c26c6dc7e23779": {
             "chunk-chance": 1,
             "cluster-count": 30,
             "biome": {
@@ -11608,8 +11646,9 @@
             "generator": {
                 "block": [
                     {
-                        "name": "minecraft:stone",
-                        "weight": 43000
+                        "name": "railcraft:ore_metal_poor",
+                        "metadata": 3,
+                        "weight": 55000
                     },
                     {
                         "name": "railcraft:ore_metal_poor",
@@ -11617,9 +11656,9 @@
                         "weight": 20000
                     },
                     {
-                        "name": "libvulpes:ore0",
-                        "metadata": 9,
-                        "weight": 32000
+                        "name": "railcraft:ore_metal",
+                        "metadata": 1,
+                        "weight": 15000
                     },
                     {
                         "name": "railcraft:ore_metal",
@@ -11642,7 +11681,7 @@
             "min-height": 120,
             "max-height": 128
         },
-        "lapis_gravel_ore_etc-submerged_gravel-ee0f5f0f2f5c79101dfc10a6e05c071c": {
+        "lapis_gravel_ore_etc-submerged_gravel-abc9f3333f1f1b34627d20b6078f42ee": {
             "chunk-chance": 1,
             "cluster-count": 82,
             "biome": {
@@ -11687,7 +11726,7 @@
             "min-height": 32,
             "max-height": 64
         },
-        "lapis_ore_etc-surface_down_step0-any-ee0f5f0f2f5c79101dfc10a6e05c071c": {
+        "lapis_ore_etc-surface_down_step0-any-abc9f3333f1f1b34627d20b6078f42ee": {
             "chunk-chance": 1,
             "cluster-count": 10,
             "biome": {
@@ -11734,7 +11773,7 @@
             "min-height": 72,
             "max-height": 80
         },
-        "lapis_ore_etc-surface_down_step1-any-ee0f5f0f2f5c79101dfc10a6e05c071c": {
+        "lapis_ore_etc-surface_down_step1-any-abc9f3333f1f1b34627d20b6078f42ee": {
             "chunk-chance": 1,
             "cluster-count": 10,
             "biome": {
@@ -11781,7 +11820,7 @@
             "min-height": 69,
             "max-height": 77
         },
-        "lapis_ore_etc-surface_down_step2-any-ee0f5f0f2f5c79101dfc10a6e05c071c": {
+        "lapis_ore_etc-surface_down_step2-any-abc9f3333f1f1b34627d20b6078f42ee": {
             "chunk-chance": 1,
             "cluster-count": 8,
             "biome": {
@@ -11828,7 +11867,7 @@
             "min-height": 66,
             "max-height": 74
         },
-        "lapis_ore_etc-surface_down_step3-any-ee0f5f0f2f5c79101dfc10a6e05c071c": {
+        "lapis_ore_etc-surface_down_step3-any-abc9f3333f1f1b34627d20b6078f42ee": {
             "chunk-chance": 1,
             "cluster-count": 8,
             "biome": {
@@ -11875,7 +11914,7 @@
             "min-height": 62,
             "max-height": 70
         },
-        "lapis_ore_etc-surface_down_step4-any-ee0f5f0f2f5c79101dfc10a6e05c071c": {
+        "lapis_ore_etc-surface_down_step4-any-abc9f3333f1f1b34627d20b6078f42ee": {
             "chunk-chance": 1,
             "cluster-count": 7,
             "biome": {
@@ -11922,7 +11961,7 @@
             "min-height": 59,
             "max-height": 67
         },
-        "lapis_ore_etc-surface_down_step5-any-ee0f5f0f2f5c79101dfc10a6e05c071c": {
+        "lapis_ore_etc-surface_down_step5-any-abc9f3333f1f1b34627d20b6078f42ee": {
             "chunk-chance": 1,
             "cluster-count": 6,
             "biome": {
@@ -11969,7 +12008,7 @@
             "min-height": 56,
             "max-height": 64
         },
-        "lapis_ore_etc-surface_down_step6-any-ee0f5f0f2f5c79101dfc10a6e05c071c": {
+        "lapis_ore_etc-surface_down_step6-any-abc9f3333f1f1b34627d20b6078f42ee": {
             "chunk-chance": 1,
             "cluster-count": 12,
             "biome": {
@@ -12016,7 +12055,7 @@
             "min-height": 53,
             "max-height": 61
         },
-        "lapis_ore_etc-surface_down_step7-any-ee0f5f0f2f5c79101dfc10a6e05c071c": {
+        "lapis_ore_etc-surface_down_step7-any-abc9f3333f1f1b34627d20b6078f42ee": {
             "chunk-chance": 1,
             "cluster-count": 10,
             "biome": {
@@ -12063,7 +12102,7 @@
             "min-height": 50,
             "max-height": 58
         },
-        "lapis_ore_etc-surface_down_step8-any-ee0f5f0f2f5c79101dfc10a6e05c071c": {
+        "lapis_ore_etc-surface_down_step8-any-abc9f3333f1f1b34627d20b6078f42ee": {
             "chunk-chance": 1,
             "cluster-count": 8,
             "biome": {
@@ -12110,7 +12149,7 @@
             "min-height": 46,
             "max-height": 54
         },
-        "lapis_ore_etc-surface_down_step9-any-ee0f5f0f2f5c79101dfc10a6e05c071c": {
+        "lapis_ore_etc-surface_down_step9-any-abc9f3333f1f1b34627d20b6078f42ee": {
             "chunk-chance": 1,
             "cluster-count": 6,
             "biome": {
@@ -12157,7 +12196,7 @@
             "min-height": 43,
             "max-height": 51
         },
-        "lapis_ore_etc-surface_down_step10-any-ee0f5f0f2f5c79101dfc10a6e05c071c": {
+        "lapis_ore_etc-surface_down_step10-any-abc9f3333f1f1b34627d20b6078f42ee": {
             "chunk-chance": 1,
             "cluster-count": 5,
             "biome": {
@@ -12389,7 +12428,7 @@
                     },
                     {
                         "name": "railcraft:ore_metal_poor",
-                        "metadata": 7,
+                        "metadata": 3,
                         "weight": 30000
                     },
                     {
@@ -12398,7 +12437,7 @@
                     },
                     {
                         "name": "railcraft:ore_metal",
-                        "metadata": 5,
+                        "metadata": 1,
                         "weight": 20000
                     }
                 ],
@@ -12441,7 +12480,7 @@
                     },
                     {
                         "name": "railcraft:ore_metal_poor",
-                        "metadata": 7,
+                        "metadata": 3,
                         "weight": 30000
                     },
                     {
@@ -12450,7 +12489,7 @@
                     },
                     {
                         "name": "railcraft:ore_metal",
-                        "metadata": 5,
+                        "metadata": 1,
                         "weight": 20000
                     }
                 ],
@@ -12493,7 +12532,7 @@
                     },
                     {
                         "name": "railcraft:ore_metal_poor",
-                        "metadata": 7,
+                        "metadata": 3,
                         "weight": 30000
                     },
                     {
@@ -12502,7 +12541,7 @@
                     },
                     {
                         "name": "railcraft:ore_metal",
-                        "metadata": 5,
+                        "metadata": 1,
                         "weight": 20000
                     }
                 ],
@@ -12545,7 +12584,7 @@
                     },
                     {
                         "name": "railcraft:ore_metal_poor",
-                        "metadata": 7,
+                        "metadata": 3,
                         "weight": 30000
                     },
                     {
@@ -12554,7 +12593,7 @@
                     },
                     {
                         "name": "railcraft:ore_metal",
-                        "metadata": 5,
+                        "metadata": 1,
                         "weight": 20000
                     }
                 ],
@@ -12597,7 +12636,7 @@
                     },
                     {
                         "name": "railcraft:ore_metal_poor",
-                        "metadata": 7,
+                        "metadata": 3,
                         "weight": 30000
                     },
                     {
@@ -12606,7 +12645,7 @@
                     },
                     {
                         "name": "railcraft:ore_metal",
-                        "metadata": 5,
+                        "metadata": 1,
                         "weight": 20000
                     }
                 ],
@@ -12649,7 +12688,7 @@
                     },
                     {
                         "name": "railcraft:ore_metal_poor",
-                        "metadata": 7,
+                        "metadata": 3,
                         "weight": 30000
                     },
                     {
@@ -12658,7 +12697,7 @@
                     },
                     {
                         "name": "railcraft:ore_metal",
-                        "metadata": 5,
+                        "metadata": 1,
                         "weight": 20000
                     }
                 ],
@@ -12701,7 +12740,7 @@
                     },
                     {
                         "name": "railcraft:ore_metal_poor",
-                        "metadata": 7,
+                        "metadata": 3,
                         "weight": 30000
                     },
                     {
@@ -12710,7 +12749,7 @@
                     },
                     {
                         "name": "railcraft:ore_metal",
-                        "metadata": 5,
+                        "metadata": 1,
                         "weight": 20000
                     }
                 ],
@@ -12753,7 +12792,7 @@
                     },
                     {
                         "name": "railcraft:ore_metal_poor",
-                        "metadata": 7,
+                        "metadata": 3,
                         "weight": 30000
                     },
                     {
@@ -12762,7 +12801,7 @@
                     },
                     {
                         "name": "railcraft:ore_metal",
-                        "metadata": 5,
+                        "metadata": 1,
                         "weight": 20000
                     }
                 ],
@@ -12805,7 +12844,7 @@
                     },
                     {
                         "name": "railcraft:ore_metal_poor",
-                        "metadata": 7,
+                        "metadata": 3,
                         "weight": 30000
                     },
                     {
@@ -12814,7 +12853,7 @@
                     },
                     {
                         "name": "railcraft:ore_metal",
-                        "metadata": 5,
+                        "metadata": 1,
                         "weight": 20000
                     }
                 ],
@@ -12857,7 +12896,7 @@
                     },
                     {
                         "name": "railcraft:ore_metal_poor",
-                        "metadata": 7,
+                        "metadata": 3,
                         "weight": 30000
                     },
                     {
@@ -12866,7 +12905,7 @@
                     },
                     {
                         "name": "railcraft:ore_metal",
-                        "metadata": 5,
+                        "metadata": 1,
                         "weight": 20000
                     }
                 ],
@@ -12909,7 +12948,7 @@
                     },
                     {
                         "name": "railcraft:ore_metal_poor",
-                        "metadata": 7,
+                        "metadata": 3,
                         "weight": 30000
                     },
                     {
@@ -12918,7 +12957,7 @@
                     },
                     {
                         "name": "railcraft:ore_metal",
-                        "metadata": 5,
+                        "metadata": 1,
                         "weight": 20000
                     }
                 ],
@@ -12961,7 +13000,7 @@
                     },
                     {
                         "name": "railcraft:ore_metal_poor",
-                        "metadata": 7,
+                        "metadata": 3,
                         "weight": 50000
                     }
                 ],
@@ -13004,7 +13043,7 @@
                     },
                     {
                         "name": "railcraft:ore_metal_poor",
-                        "metadata": 7,
+                        "metadata": 3,
                         "weight": 50000
                     }
                 ],
@@ -13047,7 +13086,7 @@
                     },
                     {
                         "name": "railcraft:ore_metal_poor",
-                        "metadata": 7,
+                        "metadata": 3,
                         "weight": 50000
                     }
                 ],
@@ -13090,7 +13129,7 @@
                     },
                     {
                         "name": "railcraft:ore_metal_poor",
-                        "metadata": 7,
+                        "metadata": 3,
                         "weight": 50000
                     }
                 ],
@@ -13133,7 +13172,7 @@
                     },
                     {
                         "name": "railcraft:ore_metal_poor",
-                        "metadata": 7,
+                        "metadata": 3,
                         "weight": 50000
                     }
                 ],
@@ -13176,7 +13215,7 @@
                     },
                     {
                         "name": "railcraft:ore_metal_poor",
-                        "metadata": 7,
+                        "metadata": 3,
                         "weight": 50000
                     }
                 ],
@@ -13219,7 +13258,7 @@
                     },
                     {
                         "name": "railcraft:ore_metal_poor",
-                        "metadata": 7,
+                        "metadata": 3,
                         "weight": 50000
                     }
                 ],
@@ -13262,7 +13301,7 @@
                     },
                     {
                         "name": "railcraft:ore_metal_poor",
-                        "metadata": 7,
+                        "metadata": 3,
                         "weight": 50000
                     }
                 ],
@@ -13305,7 +13344,7 @@
                     },
                     {
                         "name": "railcraft:ore_metal_poor",
-                        "metadata": 7,
+                        "metadata": 3,
                         "weight": 50000
                     }
                 ],
@@ -13348,7 +13387,7 @@
                     },
                     {
                         "name": "railcraft:ore_metal_poor",
-                        "metadata": 7,
+                        "metadata": 3,
                         "weight": 50000
                     }
                 ],
@@ -13391,7 +13430,7 @@
                     },
                     {
                         "name": "railcraft:ore_metal_poor",
-                        "metadata": 7,
+                        "metadata": 3,
                         "weight": 50000
                     }
                 ],
@@ -13434,7 +13473,7 @@
                     },
                     {
                         "name": "railcraft:ore_metal_poor",
-                        "metadata": 7,
+                        "metadata": 3,
                         "weight": 50000
                     }
                 ],
@@ -13477,7 +13516,7 @@
                     },
                     {
                         "name": "railcraft:ore_metal_poor",
-                        "metadata": 7,
+                        "metadata": 3,
                         "weight": 50000
                     }
                 ],
@@ -13520,7 +13559,7 @@
                     },
                     {
                         "name": "railcraft:ore_metal_poor",
-                        "metadata": 7,
+                        "metadata": 3,
                         "weight": 50000
                     }
                 ],
@@ -13563,7 +13602,7 @@
                     },
                     {
                         "name": "railcraft:ore_metal_poor",
-                        "metadata": 7,
+                        "metadata": 3,
                         "weight": 50000
                     }
                 ],
@@ -13606,7 +13645,7 @@
                     },
                     {
                         "name": "railcraft:ore_metal_poor",
-                        "metadata": 7,
+                        "metadata": 3,
                         "weight": 50000
                     }
                 ],
@@ -13649,7 +13688,7 @@
                     },
                     {
                         "name": "railcraft:ore_metal_poor",
-                        "metadata": 7,
+                        "metadata": 3,
                         "weight": 50000
                     }
                 ],
@@ -13692,7 +13731,7 @@
                     },
                     {
                         "name": "railcraft:ore_metal_poor",
-                        "metadata": 7,
+                        "metadata": 3,
                         "weight": 50000
                     }
                 ],
@@ -13735,7 +13774,7 @@
                     },
                     {
                         "name": "railcraft:ore_metal_poor",
-                        "metadata": 7,
+                        "metadata": 3,
                         "weight": 50000
                     }
                 ],
@@ -13778,7 +13817,7 @@
                     },
                     {
                         "name": "railcraft:ore_metal_poor",
-                        "metadata": 7,
+                        "metadata": 3,
                         "weight": 50000
                     }
                 ],
@@ -13821,7 +13860,7 @@
                     },
                     {
                         "name": "railcraft:ore_metal_poor",
-                        "metadata": 7,
+                        "metadata": 3,
                         "weight": 50000
                     }
                 ],
@@ -13864,7 +13903,7 @@
                     },
                     {
                         "name": "railcraft:ore_metal_poor",
-                        "metadata": 7,
+                        "metadata": 3,
                         "weight": 50000
                     }
                 ],
@@ -13883,7 +13922,7 @@
             "min-height": 120,
             "max-height": 128
         },
-        "ore0-surface-697f3656feca6531b1dca6b4e4be1985": {
+        "ore0-surface-883de3a98f8a0e1287a31c103956b072": {
             "chunk-chance": 1,
             "cluster-count": 20,
             "biome": {
@@ -13920,7 +13959,7 @@
             "spread": 16,
             "smoothness": 2
         },
-        "lava-diamond_ore-lake-lava-064cfaa575a2922df7b0a8c3ff013afc": {
+        "lava-diamond_ore-lake-lava-5b4df23e8a3f1f7333ad3b42c673f1ad": {
             "chunk-chance": 3,
             "cluster-count": 1,
             "biome": {
@@ -13965,7 +14004,7 @@
             "min-height": 0,
             "max-height": 16
         },
-        "basalt2-lava-064cfaa575a2922df7b0a8c3ff013afc": {
+        "basalt2-lava-5b4df23e8a3f1f7333ad3b42c673f1ad": {
             "chunk-chance": 5,
             "cluster-count": 1,
             "biome": {
@@ -14004,7 +14043,7 @@
             "min-height": 0,
             "max-height": 16
         },
-        "coal_ore_etc-coal_gradient_step0-any-064cfaa575a2922df7b0a8c3ff013afc": {
+        "coal_ore_etc-coal_gradient_step0-any-5b4df23e8a3f1f7333ad3b42c673f1ad": {
             "chunk-chance": 1,
             "cluster-count": 5,
             "biome": {
@@ -14046,7 +14085,7 @@
             "min-height": 52,
             "max-height": 60
         },
-        "coal_ore_etc-coal_gradient_step1-any-064cfaa575a2922df7b0a8c3ff013afc": {
+        "coal_ore_etc-coal_gradient_step1-any-5b4df23e8a3f1f7333ad3b42c673f1ad": {
             "chunk-chance": 1,
             "cluster-count": 5,
             "biome": {
@@ -14088,7 +14127,7 @@
             "min-height": 47,
             "max-height": 55
         },
-        "coal_ore_etc-coal_gradient_step2-any-064cfaa575a2922df7b0a8c3ff013afc": {
+        "coal_ore_etc-coal_gradient_step2-any-5b4df23e8a3f1f7333ad3b42c673f1ad": {
             "chunk-chance": 1,
             "cluster-count": 5,
             "biome": {
@@ -14130,7 +14169,7 @@
             "min-height": 42,
             "max-height": 50
         },
-        "coal_ore_etc-coal_gradient_step3-any-064cfaa575a2922df7b0a8c3ff013afc": {
+        "coal_ore_etc-coal_gradient_step3-any-5b4df23e8a3f1f7333ad3b42c673f1ad": {
             "chunk-chance": 1,
             "cluster-count": 5,
             "biome": {
@@ -14172,7 +14211,7 @@
             "min-height": 36,
             "max-height": 44
         },
-        "coal_ore_etc-coal_gradient_step4-any-064cfaa575a2922df7b0a8c3ff013afc": {
+        "coal_ore_etc-coal_gradient_step4-any-5b4df23e8a3f1f7333ad3b42c673f1ad": {
             "chunk-chance": 1,
             "cluster-count": 5,
             "biome": {
@@ -14214,7 +14253,7 @@
             "min-height": 31,
             "max-height": 39
         },
-        "coal_ore_etc-coal_gradient_step5-any-064cfaa575a2922df7b0a8c3ff013afc": {
+        "coal_ore_etc-coal_gradient_step5-any-5b4df23e8a3f1f7333ad3b42c673f1ad": {
             "chunk-chance": 1,
             "cluster-count": 6,
             "biome": {
@@ -14256,7 +14295,7 @@
             "min-height": 26,
             "max-height": 34
         },
-        "coal_ore_etc-coal_gradient_step6-any-064cfaa575a2922df7b0a8c3ff013afc": {
+        "coal_ore_etc-coal_gradient_step6-any-5b4df23e8a3f1f7333ad3b42c673f1ad": {
             "chunk-chance": 1,
             "cluster-count": 6,
             "biome": {
@@ -14298,7 +14337,7 @@
             "min-height": 21,
             "max-height": 29
         },
-        "coal_ore_etc-coal_gradient_step7-any-064cfaa575a2922df7b0a8c3ff013afc": {
+        "coal_ore_etc-coal_gradient_step7-any-5b4df23e8a3f1f7333ad3b42c673f1ad": {
             "chunk-chance": 1,
             "cluster-count": 6,
             "biome": {
@@ -14340,7 +14379,7 @@
             "min-height": 16,
             "max-height": 24
         },
-        "coal_ore_etc-coal_gradient_step8-any-064cfaa575a2922df7b0a8c3ff013afc": {
+        "coal_ore_etc-coal_gradient_step8-any-5b4df23e8a3f1f7333ad3b42c673f1ad": {
             "chunk-chance": 1,
             "cluster-count": 6,
             "biome": {
@@ -14382,7 +14421,7 @@
             "min-height": 10,
             "max-height": 18
         },
-        "coal_ore_etc-coal_gradient_step9-any-064cfaa575a2922df7b0a8c3ff013afc": {
+        "coal_ore_etc-coal_gradient_step9-any-5b4df23e8a3f1f7333ad3b42c673f1ad": {
             "chunk-chance": 1,
             "cluster-count": 6,
             "biome": {
@@ -14424,7 +14463,7 @@
             "min-height": 5,
             "max-height": 13
         },
-        "coal_ore_etc-coal_gradient_step10-any-064cfaa575a2922df7b0a8c3ff013afc": {
+        "coal_ore_etc-coal_gradient_step10-any-5b4df23e8a3f1f7333ad3b42c673f1ad": {
             "chunk-chance": 1,
             "cluster-count": 5,
             "biome": {
@@ -14466,7 +14505,7 @@
             "min-height": 0,
             "max-height": 8
         },
-        "ore_fluid-surface-ee244da1c9c46b3ecbc437f7f756a00d": {
+        "ore_fluid-surface-44a6a52888e616b3561f03ae70e0c6a9": {
             "chunk-chance": 3,
             "cluster-count": 1,
             "biome": {
@@ -14513,7 +14552,7 @@
             "spread": 16,
             "smoothness": 2
         },
-        "fluid_crude_oil-stone-lake-below_ground-ee244da1c9c46b3ecbc437f7f756a00d": {
+        "fluid_crude_oil-stone-lake-below_ground-44a6a52888e616b3561f03ae70e0c6a9": {
             "chunk-chance": 10,
             "cluster-count": 4,
             "biome": {
@@ -14549,7 +14588,7 @@
             "min-height": 0,
             "max-height": 64
         },
-        "generic-any-ee244da1c9c46b3ecbc437f7f756a00d": {
+        "generic-any-44a6a52888e616b3561f03ae70e0c6a9": {
             "chunk-chance": 5,
             "cluster-count": 16,
             "biome": {
@@ -14588,7 +14627,7 @@
             "min-height": 0,
             "max-height": 256
         },
-        "ore_metal_etc-deep_up_step0-any-ee244da1c9c46b3ecbc437f7f756a00d": {
+        "ore_metal_etc-deep_up_step0-any-44a6a52888e616b3561f03ae70e0c6a9": {
             "chunk-chance": 1,
             "cluster-count": 5,
             "biome": {
@@ -14641,7 +14680,7 @@
             "min-height": 8,
             "max-height": 16
         },
-        "ore_metal_etc-deep_up_step1-any-ee244da1c9c46b3ecbc437f7f756a00d": {
+        "ore_metal_etc-deep_up_step1-any-44a6a52888e616b3561f03ae70e0c6a9": {
             "chunk-chance": 1,
             "cluster-count": 6,
             "biome": {
@@ -14694,7 +14733,7 @@
             "min-height": 11,
             "max-height": 19
         },
-        "ore_metal_etc-deep_up_step2-any-ee244da1c9c46b3ecbc437f7f756a00d": {
+        "ore_metal_etc-deep_up_step2-any-44a6a52888e616b3561f03ae70e0c6a9": {
             "chunk-chance": 1,
             "cluster-count": 6,
             "biome": {
@@ -14747,7 +14786,7 @@
             "min-height": 14,
             "max-height": 22
         },
-        "ore_metal_etc-deep_up_step3-any-ee244da1c9c46b3ecbc437f7f756a00d": {
+        "ore_metal_etc-deep_up_step3-any-44a6a52888e616b3561f03ae70e0c6a9": {
             "chunk-chance": 1,
             "cluster-count": 6,
             "biome": {
@@ -14800,7 +14839,7 @@
             "min-height": 18,
             "max-height": 26
         },
-        "ore_metal_etc-deep_up_step4-any-ee244da1c9c46b3ecbc437f7f756a00d": {
+        "ore_metal_etc-deep_up_step4-any-44a6a52888e616b3561f03ae70e0c6a9": {
             "chunk-chance": 1,
             "cluster-count": 6,
             "biome": {
@@ -14853,7 +14892,7 @@
             "min-height": 21,
             "max-height": 29
         },
-        "ore_metal_etc-deep_up_step5-any-ee244da1c9c46b3ecbc437f7f756a00d": {
+        "ore_metal_etc-deep_up_step5-any-44a6a52888e616b3561f03ae70e0c6a9": {
             "chunk-chance": 1,
             "cluster-count": 8,
             "biome": {
@@ -14906,7 +14945,7 @@
             "min-height": 24,
             "max-height": 32
         },
-        "ore_metal_etc-deep_up_step6-any-ee244da1c9c46b3ecbc437f7f756a00d": {
+        "ore_metal_etc-deep_up_step6-any-44a6a52888e616b3561f03ae70e0c6a9": {
             "chunk-chance": 1,
             "cluster-count": 7,
             "biome": {
@@ -14959,7 +14998,7 @@
             "min-height": 27,
             "max-height": 35
         },
-        "ore_metal_etc-deep_up_step7-any-ee244da1c9c46b3ecbc437f7f756a00d": {
+        "ore_metal_etc-deep_up_step7-any-44a6a52888e616b3561f03ae70e0c6a9": {
             "chunk-chance": 1,
             "cluster-count": 9,
             "biome": {
@@ -15012,7 +15051,7 @@
             "min-height": 30,
             "max-height": 38
         },
-        "ore_metal_etc-deep_up_step8-any-ee244da1c9c46b3ecbc437f7f756a00d": {
+        "ore_metal_etc-deep_up_step8-any-44a6a52888e616b3561f03ae70e0c6a9": {
             "chunk-chance": 1,
             "cluster-count": 12,
             "biome": {
@@ -15065,7 +15104,7 @@
             "min-height": 34,
             "max-height": 42
         },
-        "ore_metal_etc-deep_up_step9-any-ee244da1c9c46b3ecbc437f7f756a00d": {
+        "ore_metal_etc-deep_up_step9-any-44a6a52888e616b3561f03ae70e0c6a9": {
             "chunk-chance": 1,
             "cluster-count": 12,
             "biome": {
@@ -15118,7 +15157,7 @@
             "min-height": 37,
             "max-height": 45
         },
-        "ore_metal_etc-deep_up_step10-any-ee244da1c9c46b3ecbc437f7f756a00d": {
+        "ore_metal_etc-deep_up_step10-any-44a6a52888e616b3561f03ae70e0c6a9": {
             "chunk-chance": 1,
             "cluster-count": 20,
             "biome": {
@@ -15171,7 +15210,7 @@
             "min-height": 40,
             "max-height": 48
         },
-        "ore_metal_poor_etc-surface_down_step0-any-ee244da1c9c46b3ecbc437f7f756a00d": {
+        "ore_metal_poor_etc-surface_down_step0-any-44a6a52888e616b3561f03ae70e0c6a9": {
             "chunk-chance": 1,
             "cluster-count": 10,
             "biome": {
@@ -15229,7 +15268,7 @@
             "min-height": 72,
             "max-height": 80
         },
-        "ore_metal_poor_etc-surface_down_step1-any-ee244da1c9c46b3ecbc437f7f756a00d": {
+        "ore_metal_poor_etc-surface_down_step1-any-44a6a52888e616b3561f03ae70e0c6a9": {
             "chunk-chance": 1,
             "cluster-count": 10,
             "biome": {
@@ -15287,7 +15326,7 @@
             "min-height": 69,
             "max-height": 77
         },
-        "ore_metal_poor_etc-surface_down_step2-any-ee244da1c9c46b3ecbc437f7f756a00d": {
+        "ore_metal_poor_etc-surface_down_step2-any-44a6a52888e616b3561f03ae70e0c6a9": {
             "chunk-chance": 1,
             "cluster-count": 8,
             "biome": {
@@ -15345,7 +15384,7 @@
             "min-height": 66,
             "max-height": 74
         },
-        "ore_metal_poor_etc-surface_down_step3-any-ee244da1c9c46b3ecbc437f7f756a00d": {
+        "ore_metal_poor_etc-surface_down_step3-any-44a6a52888e616b3561f03ae70e0c6a9": {
             "chunk-chance": 1,
             "cluster-count": 8,
             "biome": {
@@ -15403,7 +15442,7 @@
             "min-height": 62,
             "max-height": 70
         },
-        "ore_metal_poor_etc-surface_down_step4-any-ee244da1c9c46b3ecbc437f7f756a00d": {
+        "ore_metal_poor_etc-surface_down_step4-any-44a6a52888e616b3561f03ae70e0c6a9": {
             "chunk-chance": 1,
             "cluster-count": 7,
             "biome": {
@@ -15461,7 +15500,7 @@
             "min-height": 59,
             "max-height": 67
         },
-        "ore_metal_poor_etc-surface_down_step5-any-ee244da1c9c46b3ecbc437f7f756a00d": {
+        "ore_metal_poor_etc-surface_down_step5-any-44a6a52888e616b3561f03ae70e0c6a9": {
             "chunk-chance": 1,
             "cluster-count": 6,
             "biome": {
@@ -15519,7 +15558,7 @@
             "min-height": 56,
             "max-height": 64
         },
-        "ore_metal_poor_etc-surface_down_step6-any-ee244da1c9c46b3ecbc437f7f756a00d": {
+        "ore_metal_poor_etc-surface_down_step6-any-44a6a52888e616b3561f03ae70e0c6a9": {
             "chunk-chance": 1,
             "cluster-count": 12,
             "biome": {
@@ -15577,7 +15616,7 @@
             "min-height": 53,
             "max-height": 61
         },
-        "ore_metal_poor_etc-surface_down_step7-any-ee244da1c9c46b3ecbc437f7f756a00d": {
+        "ore_metal_poor_etc-surface_down_step7-any-44a6a52888e616b3561f03ae70e0c6a9": {
             "chunk-chance": 1,
             "cluster-count": 10,
             "biome": {
@@ -15635,7 +15674,7 @@
             "min-height": 50,
             "max-height": 58
         },
-        "ore_metal_poor_etc-surface_down_step8-any-ee244da1c9c46b3ecbc437f7f756a00d": {
+        "ore_metal_poor_etc-surface_down_step8-any-44a6a52888e616b3561f03ae70e0c6a9": {
             "chunk-chance": 1,
             "cluster-count": 8,
             "biome": {
@@ -15693,7 +15732,7 @@
             "min-height": 46,
             "max-height": 54
         },
-        "ore_metal_poor_etc-surface_down_step9-any-ee244da1c9c46b3ecbc437f7f756a00d": {
+        "ore_metal_poor_etc-surface_down_step9-any-44a6a52888e616b3561f03ae70e0c6a9": {
             "chunk-chance": 1,
             "cluster-count": 6,
             "biome": {
@@ -15751,7 +15790,7 @@
             "min-height": 43,
             "max-height": 51
         },
-        "ore_metal_poor_etc-surface_down_step10-any-ee244da1c9c46b3ecbc437f7f756a00d": {
+        "ore_metal_poor_etc-surface_down_step10-any-44a6a52888e616b3561f03ae70e0c6a9": {
             "chunk-chance": 1,
             "cluster-count": 5,
             "biome": {
@@ -15809,7 +15848,7 @@
             "min-height": 40,
             "max-height": 48
         },
-        "ore_metal_poor_etc-surface_up_step0-any-ee244da1c9c46b3ecbc437f7f756a00d": {
+        "ore_metal_poor_etc-surface_up_step0-any-44a6a52888e616b3561f03ae70e0c6a9": {
             "chunk-chance": 1,
             "cluster-count": 10,
             "biome": {
@@ -15867,7 +15906,7 @@
             "min-height": 72,
             "max-height": 80
         },
-        "ore_metal_poor_etc-surface_up_step1-any-ee244da1c9c46b3ecbc437f7f756a00d": {
+        "ore_metal_poor_etc-surface_up_step1-any-44a6a52888e616b3561f03ae70e0c6a9": {
             "chunk-chance": 1,
             "cluster-count": 11,
             "biome": {
@@ -15925,7 +15964,7 @@
             "min-height": 77,
             "max-height": 85
         },
-        "ore_metal_poor_etc-surface_up_step2-any-ee244da1c9c46b3ecbc437f7f756a00d": {
+        "ore_metal_poor_etc-surface_up_step2-any-44a6a52888e616b3561f03ae70e0c6a9": {
             "chunk-chance": 1,
             "cluster-count": 12,
             "biome": {
@@ -15983,7 +16022,7 @@
             "min-height": 82,
             "max-height": 90
         },
-        "ore_metal_poor_etc-surface_up_step3-any-ee244da1c9c46b3ecbc437f7f756a00d": {
+        "ore_metal_poor_etc-surface_up_step3-any-44a6a52888e616b3561f03ae70e0c6a9": {
             "chunk-chance": 1,
             "cluster-count": 12,
             "biome": {
@@ -16041,7 +16080,7 @@
             "min-height": 86,
             "max-height": 94
         },
-        "ore_metal_poor_etc-surface_up_step4-any-ee244da1c9c46b3ecbc437f7f756a00d": {
+        "ore_metal_poor_etc-surface_up_step4-any-44a6a52888e616b3561f03ae70e0c6a9": {
             "chunk-chance": 1,
             "cluster-count": 12,
             "biome": {
@@ -16099,7 +16138,7 @@
             "min-height": 91,
             "max-height": 99
         },
-        "ore_metal_poor_etc-surface_up_step5-any-ee244da1c9c46b3ecbc437f7f756a00d": {
+        "ore_metal_poor_etc-surface_up_step5-any-44a6a52888e616b3561f03ae70e0c6a9": {
             "chunk-chance": 1,
             "cluster-count": 13,
             "biome": {
@@ -16157,7 +16196,7 @@
             "min-height": 96,
             "max-height": 104
         },
-        "ore_metal_poor_etc-surface_up_step6-any-ee244da1c9c46b3ecbc437f7f756a00d": {
+        "ore_metal_poor_etc-surface_up_step6-any-44a6a52888e616b3561f03ae70e0c6a9": {
             "chunk-chance": 1,
             "cluster-count": 26,
             "biome": {
@@ -16215,7 +16254,7 @@
             "min-height": 101,
             "max-height": 109
         },
-        "ore_metal_poor_etc-surface_up_step7-any-ee244da1c9c46b3ecbc437f7f756a00d": {
+        "ore_metal_poor_etc-surface_up_step7-any-44a6a52888e616b3561f03ae70e0c6a9": {
             "chunk-chance": 1,
             "cluster-count": 28,
             "biome": {
@@ -16273,7 +16312,7 @@
             "min-height": 106,
             "max-height": 114
         },
-        "ore_metal_poor_etc-surface_up_step8-any-ee244da1c9c46b3ecbc437f7f756a00d": {
+        "ore_metal_poor_etc-surface_up_step8-any-44a6a52888e616b3561f03ae70e0c6a9": {
             "chunk-chance": 1,
             "cluster-count": 28,
             "biome": {
@@ -16331,7 +16370,7 @@
             "min-height": 110,
             "max-height": 118
         },
-        "ore_metal_poor_etc-surface_up_step9-any-ee244da1c9c46b3ecbc437f7f756a00d": {
+        "ore_metal_poor_etc-surface_up_step9-any-44a6a52888e616b3561f03ae70e0c6a9": {
             "chunk-chance": 1,
             "cluster-count": 30,
             "biome": {
@@ -16389,7 +16428,7 @@
             "min-height": 115,
             "max-height": 123
         },
-        "ore_metal_poor_etc-surface_up_step10-any-ee244da1c9c46b3ecbc437f7f756a00d": {
+        "ore_metal_poor_etc-surface_up_step10-any-44a6a52888e616b3561f03ae70e0c6a9": {
             "chunk-chance": 1,
             "cluster-count": 30,
             "biome": {

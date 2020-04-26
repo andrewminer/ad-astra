@@ -975,7 +975,6 @@
             "minecraft:stone"
         ],
         "seesky": false,
-        "maxheight": 48,
         "mobs": [
             {
                 "mob": "minecraft:blaze",

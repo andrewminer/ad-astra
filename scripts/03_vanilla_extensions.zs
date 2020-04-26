@@ -11,6 +11,7 @@ recipes.addShaped(<minecraft:bucket>, [
 ]);
 
 # Compass -- make a much easier recipe for early-game use
+<minecraft:compass>.displayName = "Compass";
 recipes.remove(<minecraft:compass>);
 recipes.addShaped(<minecraft:compass>, [
     [null, <ore:itemMetalIngot>, null],

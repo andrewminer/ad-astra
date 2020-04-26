@@ -9,3 +9,6 @@ recipes.addShaped(<cfm:item_knife>, [
 recipes.addShapeless(<minecraft:leather>, [
     <cfm:item_knife>.anyDamage().transformDamage(), <ore:zawaFur>
 ]);
+recipes.addShapeless(<minecraft:leather> * 2, [
+    <cfm:item_knife>.anyDamage().transformDamage(2), <zawa:thick_fur>
+]);

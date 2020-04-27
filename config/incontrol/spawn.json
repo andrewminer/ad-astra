@@ -3286,7 +3286,7 @@
         "mintime": 23500,
         "maxcount": {
             "mob": "zawa:sumatranrhinoceros",
-            "amount": 4,
+            "amount": 2,
             "perplayer": true
         },
         "result": "allow"
@@ -3308,7 +3308,7 @@
         "maxtime": 12500,
         "maxcount": {
             "mob": "zawa:sumatranrhinoceros",
-            "amount": 4,
+            "amount": 2,
             "perplayer": true
         },
         "result": "allow"
@@ -3770,7 +3770,7 @@
         "mintime": 11500,
         "maxcount": {
             "mob": "zawa:sumatranrhinoceros",
-            "amount": 4,
+            "amount": 2,
             "perplayer": true
         },
         "result": "allow"
@@ -3792,7 +3792,7 @@
         "maxtime": 500,
         "maxcount": {
             "mob": "zawa:sumatranrhinoceros",
-            "amount": 4,
+            "amount": 2,
             "perplayer": true
         },
         "result": "allow"
@@ -7673,7 +7673,7 @@
         "maxtime": 13000,
         "maxcount": {
             "mob": "zawa:sumatranrhinoceros",
-            "amount": 2,
+            "amount": 1,
             "perplayer": true
         },
         "result": "allow"
@@ -7695,7 +7695,7 @@
         "maxtime": 1000,
         "maxcount": {
             "mob": "zawa:sumatranrhinoceros",
-            "amount": 2,
+            "amount": 1,
             "perplayer": true
         },
         "result": "allow"
@@ -7717,7 +7717,7 @@
         "mintime": 23000,
         "maxcount": {
             "mob": "zawa:sumatranrhinoceros",
-            "amount": 2,
+            "amount": 1,
             "perplayer": true
         },
         "result": "allow"

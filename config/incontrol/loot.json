@@ -1,1 +1,2151 @@
-[]
+[
+    {
+        "mob": "zawa:pacificwalrus",
+        "removeall": true
+    },
+    {
+        "mob": "zawa:pacificwalrus",
+        "item": [
+            "zawa:cetacean_meat_raw"
+        ],
+        "itemcount": "2-3"
+    },
+    {
+        "mob": "zawa:pacificwalrus",
+        "item": [
+            "minecraft:bone"
+        ],
+        "itemcount": "2-3"
+    },
+    {
+        "mob": "zawa:pacificwalrus",
+        "item": [
+            "zawa:blubber"
+        ],
+        "itemcount": "1-3"
+    },
+    {
+        "mob": "zawa:albatross",
+        "removeall": true
+    },
+    {
+        "mob": "zawa:albatross",
+        "item": [
+            "minecraft:chicken"
+        ],
+        "itemcount": "1"
+    },
+    {
+        "mob": "zawa:albatross",
+        "item": [
+            "zawa:bird_meat"
+        ],
+        "itemcount": "0-1"
+    },
+    {
+        "mob": "zawa:albatross",
+        "item": [
+            "minecraft:feather"
+        ],
+        "itemcount": "1-3"
+    },
+    {
+        "mob": "zawa:polarbear",
+        "removeall": true
+    },
+    {
+        "mob": "zawa:polarbear",
+        "item": [
+            "zawa:polar_bear_hide"
+        ],
+        "itemcount": "1-2"
+    },
+    {
+        "mob": "zawa:polarbear",
+        "item": [
+            "zawa:carnivore_meat_raw"
+        ],
+        "itemcount": "3-4"
+    },
+    {
+        "mob": "zawa:frigate",
+        "removeall": true
+    },
+    {
+        "mob": "zawa:frigate",
+        "item": [
+            "zawa:bird_meat"
+        ],
+        "itemcount": "1"
+    },
+    {
+        "mob": "zawa:frigate",
+        "item": [
+            "minecraft:feather"
+        ],
+        "itemcount": "0-2"
+    },
+    {
+        "mob": "zawa:coconutcrab",
+        "removeall": true
+    },
+    {
+        "mob": "zawa:coconutcrab",
+        "item": [
+            "harvestcraft:crabrawitem"
+        ],
+        "itemcount": "0-1"
+    },
+    {
+        "mob": "zawa:coconutcrab",
+        "item": [
+            "zawa:raw_crab_leg"
+        ],
+        "itemcount": "1-2"
+    },
+    {
+        "mob": "zawa:marineiguana",
+        "removeall": true
+    },
+    {
+        "mob": "zawa:marineiguana",
+        "item": [
+            "zawa:reptile_meat_raw"
+        ],
+        "itemcount": "1-2"
+    },
+    {
+        "mob": "zawa:marineiguana",
+        "item": [
+            "zawa:reptile_hide"
+        ],
+        "itemcount": "1"
+    },
+    {
+        "mob": "zawa:marineiguana",
+        "item": [
+            "minecraft:bone"
+        ],
+        "itemcount": "1"
+    },
+    {
+        "mob": "zawa:galapagostortoise",
+        "removeall": true
+    },
+    {
+        "mob": "zawa:galapagostortoise",
+        "item": [
+            "harvestcraft:turtlerawitem"
+        ],
+        "itemcount": "1"
+    },
+    {
+        "mob": "zawa:galapagostortoise",
+        "item": [
+            "minecraft:bone"
+        ],
+        "itemcount": "1"
+    },
+    {
+        "mob": "zawa:galapagostortoise",
+        "item": [
+            "zawa:tortoise_shell"
+        ],
+        "itemcount": "0-1"
+    },
+    {
+        "mob": "zawa:indianpangolin",
+        "removeall": true
+    },
+    {
+        "mob": "zawa:indianpangolin",
+        "item": [
+            "zawa:bush_meat_raw"
+        ],
+        "itemcount": "1"
+    },
+    {
+        "mob": "zawa:indianpangolin",
+        "item": [
+            "minecraft:rabbit_hide"
+        ],
+        "itemcount": "1"
+    },
+    {
+        "mob": "zawa:indianpangolin",
+        "item": [
+            "zawa:pangolin_scale"
+        ],
+        "itemcount": "2-4"
+    },
+    {
+        "mob": "zawa:redkangaroo",
+        "removeall": true
+    },
+    {
+        "mob": "zawa:redkangaroo",
+        "item": [
+            "zawa:bush_meat_raw"
+        ],
+        "itemcount": "1"
+    },
+    {
+        "mob": "zawa:redkangaroo",
+        "item": [
+            "minecraft:rabbit_hide"
+        ],
+        "itemcount": "1"
+    },
+    {
+        "mob": "zawa:rattlesnake",
+        "removeall": true
+    },
+    {
+        "mob": "zawa:rattlesnake",
+        "item": [
+            "zawa:reptile_meat_raw"
+        ],
+        "itemcount": "1-2"
+    },
+    {
+        "mob": "zawa:rattlesnake",
+        "item": [
+            "zawa:reptile_hide"
+        ],
+        "itemcount": "1"
+    },
+    {
+        "mob": "zawa:rattlesnake",
+        "item": [
+            "minecraft:bone"
+        ],
+        "itemcount": "1"
+    },
+    {
+        "mob": "zawa:rattlesnake",
+        "item": [
+            "zawa:toxin_sac"
+        ],
+        "itemcount": "0-1"
+    },
+    {
+        "mob": "minecraft:rabbit",
+        "removeall": true
+    },
+    {
+        "mob": "minecraft:rabbit",
+        "item": [
+            "minecraft:rabbit_foot"
+        ],
+        "itemcount": "0-1"
+    },
+    {
+        "mob": "minecraft:rabbit",
+        "item": [
+            "minecraft:rabbit"
+        ],
+        "itemcount": "1"
+    },
+    {
+        "mob": "minecraft:rabbit",
+        "item": [
+            "minecraft:rabbit_hide"
+        ],
+        "itemcount": "1"
+    },
+    {
+        "mob": "minecraft:blaze",
+        "removeall": true
+    },
+    {
+        "mob": "minecraft:blaze",
+        "item": [
+            "minecraft:blaze_rod"
+        ],
+        "itemcount": "1-3"
+    },
+    {
+        "mob": "minecraft:blaze",
+        "item": [
+            "minecraft:blaze_powder"
+        ],
+        "itemcount": "2-4"
+    },
+    {
+        "mob": "zawa:echidna",
+        "removeall": true
+    },
+    {
+        "mob": "zawa:echidna",
+        "item": [
+            "zawa:bush_meat_raw"
+        ],
+        "itemcount": "1"
+    },
+    {
+        "mob": "zawa:echidna",
+        "item": [
+            "minecraft:rabbit_hide"
+        ],
+        "itemcount": "1"
+    },
+    {
+        "mob": "minecraft:mooshroom",
+        "removeall": true
+    },
+    {
+        "mob": "minecraft:mooshroom",
+        "item": [
+            "minecraft:leather"
+        ],
+        "itemcount": "1"
+    },
+    {
+        "mob": "minecraft:mooshroom",
+        "item": [
+            "minecraft:beef"
+        ],
+        "itemcount": "1-2"
+    },
+    {
+        "mob": "minecraft:mooshroom",
+        "item": [
+            "minecraft:bone"
+        ],
+        "itemcount": "1-2"
+    },
+    {
+        "mob": "minecraft:mooshroom",
+        "item": [
+            "minecraft:red_mushroom"
+        ],
+        "itemcount": "1-3"
+    },
+    {
+        "mob": "zawa:pygmyhippopotamus",
+        "removeall": true
+    },
+    {
+        "mob": "zawa:pygmyhippopotamus",
+        "item": [
+            "minecraft:leather"
+        ],
+        "itemcount": "1-2"
+    },
+    {
+        "mob": "zawa:pygmyhippopotamus",
+        "item": [
+            "zawa:blubber"
+        ],
+        "itemcount": "1-2"
+    },
+    {
+        "mob": "zawa:pygmyhippopotamus",
+        "item": [
+            "zawa:large_meat_raw"
+        ],
+        "itemcount": "3-4"
+    },
+    {
+        "mob": "zawa:pygmyhippopotamus",
+        "item": [
+            "minecraft:bone"
+        ],
+        "itemcount": "3-4"
+    },
+    {
+        "mob": "zawa:westernlowlandgorilla",
+        "removeall": true
+    },
+    {
+        "mob": "zawa:westernlowlandgorilla",
+        "item": [
+            "zawa:bush_meat_raw"
+        ],
+        "itemcount": "1-2"
+    },
+    {
+        "mob": "zawa:westernlowlandgorilla",
+        "item": [
+            "zawa:gorilla_hide"
+        ],
+        "itemcount": "1"
+    },
+    {
+        "mob": "zawa:westernlowlandgorilla",
+        "item": [
+            "minecraft:bone"
+        ],
+        "itemcount": "1"
+    },
+    {
+        "mob": "zawa:treefrog",
+        "removeall": true
+    },
+    {
+        "mob": "zawa:treefrog",
+        "item": [
+            "harvestcraft:frograwitem"
+        ],
+        "itemcount": "0-1"
+    },
+    {
+        "mob": "zawa:treefrog",
+        "item": [
+            "zawa:raw_frog_leg"
+        ],
+        "itemcount": "0-1"
+    },
+    {
+        "mob": "zawa:greathornedowl",
+        "removeall": true
+    },
+    {
+        "mob": "zawa:greathornedowl",
+        "item": [
+            "minecraft:chicken"
+        ],
+        "itemcount": "1"
+    },
+    {
+        "mob": "zawa:greathornedowl",
+        "item": [
+            "zawa:bird_meat"
+        ],
+        "itemcount": "0-1"
+    },
+    {
+        "mob": "zawa:greathornedowl",
+        "item": [
+            "minecraft:feather"
+        ],
+        "itemcount": "1-3"
+    },
+    {
+        "mob": "mowziesmobs:lantern",
+        "removeall": true
+    },
+    {
+        "mob": "mowziesmobs:lantern",
+        "item": [
+            "mowziesmobs:glowing_jelly"
+        ],
+        "itemcount": "2-3"
+    },
+    {
+        "mob": "mowziesmobs:lantern",
+        "item": [
+            "minecraft:slime_ball"
+        ],
+        "itemcount": "0-1"
+    },
+    {
+        "mob": "minecraft:spider",
+        "removeall": true
+    },
+    {
+        "mob": "minecraft:spider",
+        "item": [
+            "minecraft:spider_eye"
+        ],
+        "itemcount": "1-4"
+    },
+    {
+        "mob": "minecraft:spider",
+        "item": [
+            "zawa:raw_crab_leg"
+        ],
+        "itemcount": "2-6"
+    },
+    {
+        "mob": "thermalfoundation:blizz",
+        "removeall": true
+    },
+    {
+        "mob": "thermalfoundation:blizz",
+        "item": [
+            "thermalfoundation:material@2048"
+        ],
+        "itemcount": "1-3"
+    },
+    {
+        "mob": "thermalfoundation:blizz",
+        "item": [
+            "thermalfoundation:material@2049"
+        ],
+        "itemcount": "2-4"
+    },
+    {
+        "mob": "mowziesmobs:frostmaw",
+        "removeall": true
+    },
+    {
+        "mob": "mowziesmobs:frostmaw",
+        "item": [
+            "zawa:polar_bear_hide"
+        ],
+        "itemcount": "3-5"
+    },
+    {
+        "mob": "mowziesmobs:frostmaw",
+        "item": [
+            "zawa:carnivore_meat_raw"
+        ],
+        "itemcount": "5-7"
+    },
+    {
+        "mob": "minecraft:parrot",
+        "removeall": true
+    },
+    {
+        "mob": "minecraft:parrot",
+        "item": [
+            "zawa:bird_meat"
+        ],
+        "itemcount": "1"
+    },
+    {
+        "mob": "minecraft:parrot",
+        "item": [
+            "minecraft:feather"
+        ],
+        "itemcount": "0-2"
+    },
+    {
+        "mob": "zawa:blackspidermonkey",
+        "removeall": true
+    },
+    {
+        "mob": "zawa:blackspidermonkey",
+        "item": [
+            "zawa:bush_meat_raw"
+        ],
+        "itemcount": "1"
+    },
+    {
+        "mob": "zawa:blackspidermonkey",
+        "item": [
+            "minecraft:rabbit_hide"
+        ],
+        "itemcount": "1"
+    },
+    {
+        "mob": "zawa:cockatoo",
+        "removeall": true
+    },
+    {
+        "mob": "zawa:cockatoo",
+        "item": [
+            "zawa:bird_meat"
+        ],
+        "itemcount": "1"
+    },
+    {
+        "mob": "zawa:cockatoo",
+        "item": [
+            "minecraft:feather"
+        ],
+        "itemcount": "0-2"
+    },
+    {
+        "mob": "zawa:macaw",
+        "removeall": true
+    },
+    {
+        "mob": "zawa:macaw",
+        "item": [
+            "zawa:bird_meat"
+        ],
+        "itemcount": "1"
+    },
+    {
+        "mob": "zawa:macaw",
+        "item": [
+            "minecraft:feather"
+        ],
+        "itemcount": "0-2"
+    },
+    {
+        "mob": "zawa:toucan",
+        "removeall": true
+    },
+    {
+        "mob": "zawa:toucan",
+        "item": [
+            "zawa:bird_meat"
+        ],
+        "itemcount": "1"
+    },
+    {
+        "mob": "zawa:toucan",
+        "item": [
+            "minecraft:feather"
+        ],
+        "itemcount": "0-2"
+    },
+    {
+        "mob": "zawa:threetoedsloth",
+        "removeall": true
+    },
+    {
+        "mob": "zawa:threetoedsloth",
+        "item": [
+            "zawa:bush_meat_raw"
+        ],
+        "itemcount": "1"
+    },
+    {
+        "mob": "zawa:threetoedsloth",
+        "item": [
+            "minecraft:rabbit_hide"
+        ],
+        "itemcount": "1"
+    },
+    {
+        "mob": "zawa:goldenliontamarin",
+        "removeall": true
+    },
+    {
+        "mob": "zawa:goldenliontamarin",
+        "item": [
+            "zawa:bush_meat_raw"
+        ],
+        "itemcount": "1"
+    },
+    {
+        "mob": "zawa:goldenliontamarin",
+        "item": [
+            "minecraft:rabbit_hide"
+        ],
+        "itemcount": "1"
+    },
+    {
+        "mob": "zawa:fijibandediguana",
+        "removeall": true
+    },
+    {
+        "mob": "zawa:fijibandediguana",
+        "item": [
+            "zawa:reptile_meat_raw"
+        ],
+        "itemcount": "1"
+    },
+    {
+        "mob": "zawa:fijibandediguana",
+        "item": [
+            "zawa:reptile_hide"
+        ],
+        "itemcount": "1"
+    },
+    {
+        "mob": "zawa:coatimundi",
+        "removeall": true
+    },
+    {
+        "mob": "zawa:coatimundi",
+        "item": [
+            "zawa:bush_meat_raw"
+        ],
+        "itemcount": "1"
+    },
+    {
+        "mob": "zawa:coatimundi",
+        "item": [
+            "minecraft:rabbit_hide"
+        ],
+        "itemcount": "1"
+    },
+    {
+        "mob": "zawa:harpyeagle",
+        "removeall": true
+    },
+    {
+        "mob": "zawa:harpyeagle",
+        "item": [
+            "minecraft:chicken"
+        ],
+        "itemcount": "1"
+    },
+    {
+        "mob": "zawa:harpyeagle",
+        "item": [
+            "zawa:bird_meat"
+        ],
+        "itemcount": "2-4"
+    },
+    {
+        "mob": "zawa:harpyeagle",
+        "item": [
+            "minecraft:feather"
+        ],
+        "itemcount": "2-5"
+    },
+    {
+        "mob": "zawa:sumatranrhinoceros",
+        "removeall": true
+    },
+    {
+        "mob": "zawa:sumatranrhinoceros",
+        "item": [
+            "zawa:rhino_hide"
+        ],
+        "itemcount": "1-2"
+    },
+    {
+        "mob": "zawa:sumatranrhinoceros",
+        "item": [
+            "zawa:large_meat_raw"
+        ],
+        "itemcount": "3-4"
+    },
+    {
+        "mob": "zawa:sumatranrhinoceros",
+        "item": [
+            "minecraft:bone"
+        ],
+        "itemcount": "3-4"
+    },
+    {
+        "mob": "zawa:sumatranrhinoceros",
+        "item": [
+            "zawa:rhino_horn"
+        ],
+        "itemcount": "1"
+    },
+    {
+        "mob": "zawa:okapi",
+        "removeall": true
+    },
+    {
+        "mob": "zawa:okapi",
+        "item": [
+            "minecraft:leather"
+        ],
+        "itemcount": "1"
+    },
+    {
+        "mob": "zawa:okapi",
+        "item": [
+            "harvestcraft:venisonrawitem"
+        ],
+        "itemcount": "2-3"
+    },
+    {
+        "mob": "zawa:okapi",
+        "item": [
+            "minecraft:bone"
+        ],
+        "itemcount": "1-2"
+    },
+    {
+        "mob": "zawa:commonchimpanzee",
+        "removeall": true
+    },
+    {
+        "mob": "zawa:commonchimpanzee",
+        "item": [
+            "zawa:bush_meat_raw"
+        ],
+        "itemcount": "1-2"
+    },
+    {
+        "mob": "zawa:commonchimpanzee",
+        "item": [
+            "zawa:fur"
+        ],
+        "itemcount": "1"
+    },
+    {
+        "mob": "zawa:commonchimpanzee",
+        "item": [
+            "minecraft:bone"
+        ],
+        "itemcount": "1"
+    },
+    {
+        "mob": "zawa:asianelephant",
+        "removeall": true
+    },
+    {
+        "mob": "zawa:asianelephant",
+        "item": [
+            "zawa:elephant_leather"
+        ],
+        "itemcount": "3-4"
+    },
+    {
+        "mob": "zawa:asianelephant",
+        "item": [
+            "zawa:large_meat_raw"
+        ],
+        "itemcount": "4-8"
+    },
+    {
+        "mob": "zawa:asianelephant",
+        "item": [
+            "minecraft:bone"
+        ],
+        "itemcount": "4-8"
+    },
+    {
+        "mob": "zawa:asianelephant",
+        "item": [
+            "zawa:ivory_tusk"
+        ],
+        "itemcount": "1-2"
+    },
+    {
+        "mob": "mowziesmobs:foliaath",
+        "removeall": true
+    },
+    {
+        "mob": "mowziesmobs:foliaath",
+        "item": [
+            "mowziesmobs:foliaath_seed"
+        ],
+        "itemcount": "0-1"
+    },
+    {
+        "mob": "mowziesmobs:foliaath",
+        "item": [
+            "harvestcraft:kaleitem"
+        ],
+        "itemcount": "3-4"
+    },
+    {
+        "mob": "mowziesmobs:baby_foliaath",
+        "removeall": true
+    },
+    {
+        "mob": "zawa:braziliantapir",
+        "removeall": true
+    },
+    {
+        "mob": "zawa:braziliantapir",
+        "item": [
+            "minecraft:leather"
+        ],
+        "itemcount": "1"
+    },
+    {
+        "mob": "zawa:braziliantapir",
+        "item": [
+            "minecraft:beef"
+        ],
+        "itemcount": "1-2"
+    },
+    {
+        "mob": "zawa:braziliantapir",
+        "item": [
+            "minecraft:bone"
+        ],
+        "itemcount": "1-2"
+    },
+    {
+        "mob": "minecraft:ocelot",
+        "removeall": true
+    },
+    {
+        "mob": "minecraft:ocelot",
+        "item": [
+            "zawa:amur_leopard_hide"
+        ],
+        "itemcount": "1"
+    },
+    {
+        "mob": "minecraft:ocelot",
+        "item": [
+            "zawa:carnivore_meat_raw"
+        ],
+        "itemcount": "1-2"
+    },
+    {
+        "mob": "minecraft:ocelot",
+        "item": [
+            "minecraft:bone"
+        ],
+        "itemcount": "1-2"
+    },
+    {
+        "mob": "zawa:jaguar",
+        "removeall": true
+    },
+    {
+        "mob": "zawa:jaguar",
+        "item": [
+            "zawa:amur_leopard_hide"
+        ],
+        "itemcount": "1"
+    },
+    {
+        "mob": "zawa:jaguar",
+        "item": [
+            "zawa:carnivore_meat_raw"
+        ],
+        "itemcount": "1-2"
+    },
+    {
+        "mob": "zawa:jaguar",
+        "item": [
+            "minecraft:bone"
+        ],
+        "itemcount": "1-2"
+    },
+    {
+        "mob": "zawa:bengaltiger",
+        "removeall": true
+    },
+    {
+        "mob": "zawa:bengaltiger",
+        "item": [
+            "zawa:tiger_fur"
+        ],
+        "itemcount": "1"
+    },
+    {
+        "mob": "zawa:bengaltiger",
+        "item": [
+            "zawa:carnivore_meat_raw"
+        ],
+        "itemcount": "2-3"
+    },
+    {
+        "mob": "zawa:bengaltiger",
+        "item": [
+            "minecraft:bone"
+        ],
+        "itemcount": "2-3"
+    },
+    {
+        "mob": "zawa:koala",
+        "removeall": true
+    },
+    {
+        "mob": "zawa:koala",
+        "item": [
+            "zawa:bush_meat_raw"
+        ],
+        "itemcount": "1"
+    },
+    {
+        "mob": "zawa:koala",
+        "item": [
+            "minecraft:rabbit_hide"
+        ],
+        "itemcount": "1"
+    },
+    {
+        "mob": "zawa:beaver",
+        "removeall": true
+    },
+    {
+        "mob": "zawa:beaver",
+        "item": [
+            "zawa:bush_meat_raw"
+        ],
+        "itemcount": "1-2"
+    },
+    {
+        "mob": "zawa:beaver",
+        "item": [
+            "zawa:fur"
+        ],
+        "itemcount": "1"
+    },
+    {
+        "mob": "zawa:beaver",
+        "item": [
+            "minecraft:bone"
+        ],
+        "itemcount": "1"
+    },
+    {
+        "mob": "zawa:cassowary",
+        "removeall": true
+    },
+    {
+        "mob": "zawa:cassowary",
+        "item": [
+            "minecraft:chicken"
+        ],
+        "itemcount": "1"
+    },
+    {
+        "mob": "zawa:cassowary",
+        "item": [
+            "zawa:bird_meat"
+        ],
+        "itemcount": "2-4"
+    },
+    {
+        "mob": "zawa:cassowary",
+        "item": [
+            "minecraft:feather"
+        ],
+        "itemcount": "2-5"
+    },
+    {
+        "mob": "zawa:baldeagle",
+        "removeall": true
+    },
+    {
+        "mob": "zawa:baldeagle",
+        "item": [
+            "minecraft:chicken"
+        ],
+        "itemcount": "1"
+    },
+    {
+        "mob": "zawa:baldeagle",
+        "item": [
+            "zawa:bird_meat"
+        ],
+        "itemcount": "0-1"
+    },
+    {
+        "mob": "zawa:baldeagle",
+        "item": [
+            "minecraft:feather"
+        ],
+        "itemcount": "1-3"
+    },
+    {
+        "mob": "zawa:tasmaniandevil",
+        "removeall": true
+    },
+    {
+        "mob": "zawa:tasmaniandevil",
+        "item": [
+            "zawa:bush_meat_raw"
+        ],
+        "itemcount": "1"
+    },
+    {
+        "mob": "zawa:tasmaniandevil",
+        "item": [
+            "minecraft:rabbit_hide"
+        ],
+        "itemcount": "1"
+    },
+    {
+        "mob": "zawa:amurleopard",
+        "removeall": true
+    },
+    {
+        "mob": "zawa:amurleopard",
+        "item": [
+            "zawa:amur_leopard_hide"
+        ],
+        "itemcount": "1"
+    },
+    {
+        "mob": "zawa:amurleopard",
+        "item": [
+            "zawa:carnivore_meat_raw"
+        ],
+        "itemcount": "1-2"
+    },
+    {
+        "mob": "zawa:amurleopard",
+        "item": [
+            "minecraft:bone"
+        ],
+        "itemcount": "1-2"
+    },
+    {
+        "mob": "mowziesmobs:grottol",
+        "removeall": true
+    },
+    {
+        "mob": "mowziesmobs:grottol",
+        "item": [
+            "minecraft:diamond",
+            "minecraft:diamond",
+            "minecraft:diamond",
+            "minecraft:emerald"
+        ],
+        "itemcount": "1"
+    },
+    {
+        "mob": "minecraft:mule",
+        "removeall": true
+    },
+    {
+        "mob": "minecraft:mule",
+        "item": [
+            "minecraft:leather"
+        ],
+        "itemcount": "1"
+    },
+    {
+        "mob": "minecraft:mule",
+        "item": [
+            "harvestcraft:venisonrawitem"
+        ],
+        "itemcount": "2-3"
+    },
+    {
+        "mob": "minecraft:mule",
+        "item": [
+            "minecraft:bone"
+        ],
+        "itemcount": "1-2"
+    },
+    {
+        "mob": "zawa:komododragon",
+        "removeall": true
+    },
+    {
+        "mob": "zawa:komododragon",
+        "item": [
+            "zawa:reptile_meat_raw"
+        ],
+        "itemcount": "1-2"
+    },
+    {
+        "mob": "zawa:komododragon",
+        "item": [
+            "zawa:reptile_hide"
+        ],
+        "itemcount": "1"
+    },
+    {
+        "mob": "zawa:komododragon",
+        "item": [
+            "minecraft:bone"
+        ],
+        "itemcount": "1"
+    },
+    {
+        "mob": "zawa:komododragon",
+        "item": [
+            "zawa:toxin_sac"
+        ],
+        "itemcount": "0-1"
+    },
+    {
+        "mob": "zawa:gilamonster",
+        "removeall": true
+    },
+    {
+        "mob": "zawa:gilamonster",
+        "item": [
+            "zawa:reptile_meat_raw"
+        ],
+        "itemcount": "1-2"
+    },
+    {
+        "mob": "zawa:gilamonster",
+        "item": [
+            "zawa:reptile_hide"
+        ],
+        "itemcount": "1"
+    },
+    {
+        "mob": "zawa:gilamonster",
+        "item": [
+            "minecraft:bone"
+        ],
+        "itemcount": "1"
+    },
+    {
+        "mob": "zawa:gilamonster",
+        "item": [
+            "zawa:toxin_sac"
+        ],
+        "itemcount": "0-1"
+    },
+    {
+        "mob": "mowziesmobs:naga",
+        "removeall": true
+    },
+    {
+        "mob": "mowziesmobs:naga",
+        "item": [
+            "zawa:reptile_hide"
+        ],
+        "itemcount": "3-4"
+    },
+    {
+        "mob": "mowziesmobs:naga",
+        "item": [
+            "mowziesmobs:naga_fang"
+        ],
+        "itemcount": "2-4"
+    },
+    {
+        "mob": "mowziesmobs:naga",
+        "item": [
+            "zawa:reptile_meat_raw"
+        ],
+        "itemcount": "2-4"
+    },
+    {
+        "mob": "mowziesmobs:naga",
+        "item": [
+            "zawa:toxin_sac"
+        ],
+        "itemcount": "0-1"
+    },
+    {
+        "mob": "minecraft:llama",
+        "removeall": true
+    },
+    {
+        "mob": "minecraft:llama",
+        "item": [
+            "minecraft:wool"
+        ],
+        "itemcount": "1-2"
+    },
+    {
+        "mob": "minecraft:llama",
+        "item": [
+            "minecraft:mutton"
+        ],
+        "itemcount": "1-2"
+    },
+    {
+        "mob": "minecraft:llama",
+        "item": [
+            "minecraft:bone"
+        ],
+        "itemcount": "1-2"
+    },
+    {
+        "mob": "zawa:andeancondor",
+        "removeall": true
+    },
+    {
+        "mob": "zawa:andeancondor",
+        "item": [
+            "minecraft:chicken"
+        ],
+        "itemcount": "1"
+    },
+    {
+        "mob": "zawa:andeancondor",
+        "item": [
+            "zawa:bird_meat"
+        ],
+        "itemcount": "0-1"
+    },
+    {
+        "mob": "zawa:andeancondor",
+        "item": [
+            "minecraft:feather"
+        ],
+        "itemcount": "1-3"
+    },
+    {
+        "mob": "minecraft:wolf",
+        "removeall": true
+    },
+    {
+        "mob": "minecraft:wolf",
+        "item": [
+            "zawa:carnivore_meat_raw"
+        ],
+        "itemcount": "1"
+    },
+    {
+        "mob": "minecraft:wolf",
+        "item": [
+            "minecraft:bone"
+        ],
+        "itemcount": "1"
+    },
+    {
+        "mob": "minecraft:wolf",
+        "item": [
+            "zawa:fur"
+        ],
+        "itemcount": "1"
+    },
+    {
+        "mob": "thermalfoundation:basalz",
+        "removeall": true
+    },
+    {
+        "mob": "thermalfoundation:basalz",
+        "item": [
+            "thermalfoundation:material@2052"
+        ],
+        "itemcount": "1-3"
+    },
+    {
+        "mob": "thermalfoundation:basalz",
+        "item": [
+            "thermalfoundation:material@2053"
+        ],
+        "itemcount": "2-4"
+    },
+    {
+        "mob": "minecraft:villager_golem",
+        "removeall": true
+    },
+    {
+        "mob": "minecraft:villager_golem",
+        "item": [
+            "minecraft:iron_block"
+        ],
+        "itemcount": "1"
+    },
+    {
+        "mob": "minecraft:villager_golem",
+        "item": [
+            "minecraft:iron_ingot"
+        ],
+        "itemcount": "1-4"
+    },
+    {
+        "mob": "minecraft:villager_golem",
+        "item": [
+            "minecraft:experience_bottle"
+        ],
+        "itemcount": "0-1"
+    },
+    {
+        "mob": "zawa:redpanda",
+        "removeall": true
+    },
+    {
+        "mob": "zawa:redpanda",
+        "item": [
+            "zawa:bush_meat_raw"
+        ],
+        "itemcount": "1"
+    },
+    {
+        "mob": "zawa:redpanda",
+        "item": [
+            "minecraft:rabbit_hide"
+        ],
+        "itemcount": "1"
+    },
+    {
+        "mob": "zawa:bluefish",
+        "removeall": true
+    },
+    {
+        "mob": "zawa:bluefish",
+        "item": [
+            "minecraft:fish"
+        ],
+        "itemcount": "1"
+    },
+    {
+        "mob": "zawa:clownfish",
+        "removeall": true
+    },
+    {
+        "mob": "zawa:clownfish",
+        "item": [
+            "minecraft:fish@2"
+        ],
+        "itemcount": "1"
+    },
+    {
+        "mob": "zawa:marinetang",
+        "removeall": true
+    },
+    {
+        "mob": "zawa:marinetang",
+        "item": [
+            "minecraft:fish"
+        ],
+        "itemcount": "1"
+    },
+    {
+        "mob": "zawa:pufferfish",
+        "removeall": true
+    },
+    {
+        "mob": "zawa:pufferfish",
+        "item": [
+            "minecraft:fish@3"
+        ],
+        "itemcount": "1"
+    },
+    {
+        "mob": "zawa:hawksbillseaturtle",
+        "removeall": true
+    },
+    {
+        "mob": "zawa:hawksbillseaturtle",
+        "item": [
+            "harvestcraft:turtlerawitem"
+        ],
+        "itemcount": "1"
+    },
+    {
+        "mob": "zawa:hawksbillseaturtle",
+        "item": [
+            "minecraft:bone"
+        ],
+        "itemcount": "1"
+    },
+    {
+        "mob": "zawa:hawksbillseaturtle",
+        "item": [
+            "zawa:tortoise_shell"
+        ],
+        "itemcount": "0-1"
+    },
+    {
+        "mob": "zawa:octopus",
+        "removeall": true
+    },
+    {
+        "mob": "zawa:octopus",
+        "item": [
+            "harvestcraft:octopusrawitem"
+        ],
+        "itemcount": "1"
+    },
+    {
+        "mob": "zawa:morayeel",
+        "removeall": true
+    },
+    {
+        "mob": "zawa:morayeel",
+        "item": [
+            "harvestcraft:eelrawitem"
+        ],
+        "itemcount": "1"
+    },
+    {
+        "mob": "zawa:bottlenosedolphin",
+        "removeall": true
+    },
+    {
+        "mob": "zawa:bottlenosedolphin",
+        "item": [
+            "zawa:cetacean_meat_raw"
+        ],
+        "itemcount": "2-3"
+    },
+    {
+        "mob": "zawa:bottlenosedolphin",
+        "item": [
+            "minecraft:bone"
+        ],
+        "itemcount": "2-3"
+    },
+    {
+        "mob": "zawa:bottlenosedolphin",
+        "item": [
+            "zawa:blubber"
+        ],
+        "itemcount": "1-3"
+    },
+    {
+        "mob": "zawa:tigershark",
+        "removeall": true
+    },
+    {
+        "mob": "zawa:tigershark",
+        "item": [
+            "minecraft:fish"
+        ],
+        "itemcount": "1"
+    },
+    {
+        "mob": "zawa:tigershark",
+        "item": [
+            "harvestcraft:groundfishitem"
+        ],
+        "itemcount": "2-4"
+    },
+    {
+        "mob": "zawa:orca",
+        "removeall": true
+    },
+    {
+        "mob": "zawa:orca",
+        "item": [
+            "zawa:cetacean_meat_raw"
+        ],
+        "itemcount": "3-4"
+    },
+    {
+        "mob": "zawa:orca",
+        "item": [
+            "minecraft:bone"
+        ],
+        "itemcount": "3-4"
+    },
+    {
+        "mob": "zawa:orca",
+        "item": [
+            "zawa:blubber"
+        ],
+        "itemcount": "2-4"
+    },
+    {
+        "mob": "minecraft:squid",
+        "removeall": true
+    },
+    {
+        "mob": "minecraft:squid",
+        "item": [
+            "harvestcraft:calamarirawitem"
+        ],
+        "itemcount": "1"
+    },
+    {
+        "mob": "minecraft:squid",
+        "item": [
+            "minecraft:dye"
+        ],
+        "itemcount": "1"
+    },
+    {
+        "mob": "zawa:humpbackwhale",
+        "removeall": true
+    },
+    {
+        "mob": "zawa:humpbackwhale",
+        "item": [
+            "zawa:cetacean_meat_raw"
+        ],
+        "itemcount": "4-8"
+    },
+    {
+        "mob": "zawa:humpbackwhale",
+        "item": [
+            "minecraft:bone"
+        ],
+        "itemcount": "4-8"
+    },
+    {
+        "mob": "zawa:humpbackwhale",
+        "item": [
+            "zawa:blubber"
+        ],
+        "itemcount": "3-6"
+    },
+    {
+        "mob": "zawa:greatwhiteshark",
+        "removeall": true
+    },
+    {
+        "mob": "zawa:greatwhiteshark",
+        "item": [
+            "minecraft:fish"
+        ],
+        "itemcount": "1"
+    },
+    {
+        "mob": "zawa:greatwhiteshark",
+        "item": [
+            "harvestcraft:groundfishitem"
+        ],
+        "itemcount": "4-8"
+    },
+    {
+        "mob": "zawa:americanbison",
+        "removeall": true
+    },
+    {
+        "mob": "zawa:americanbison",
+        "item": [
+            "minecraft:leather"
+        ],
+        "itemcount": "1-2"
+    },
+    {
+        "mob": "zawa:americanbison",
+        "item": [
+            "zawa:thick_fur"
+        ],
+        "itemcount": "1-2"
+    },
+    {
+        "mob": "zawa:americanbison",
+        "item": [
+            "zawa:large_meat_raw"
+        ],
+        "itemcount": "3-4"
+    },
+    {
+        "mob": "zawa:americanbison",
+        "item": [
+            "minecraft:bone"
+        ],
+        "itemcount": "3-4"
+    },
+    {
+        "mob": "horse_colors:horse_felinoid",
+        "removeall": true
+    },
+    {
+        "mob": "horse_colors:horse_felinoid",
+        "item": [
+            "minecraft:leather"
+        ],
+        "itemcount": "1"
+    },
+    {
+        "mob": "horse_colors:horse_felinoid",
+        "item": [
+            "harvestcraft:venisonrawitem"
+        ],
+        "itemcount": "2-3"
+    },
+    {
+        "mob": "horse_colors:horse_felinoid",
+        "item": [
+            "minecraft:bone"
+        ],
+        "itemcount": "1-2"
+    },
+    {
+        "mob": "thermalfoundation:blitz",
+        "removeall": true
+    },
+    {
+        "mob": "thermalfoundation:blitz",
+        "item": [
+            "thermalfoundation:material@2050"
+        ],
+        "itemcount": "1-3"
+    },
+    {
+        "mob": "thermalfoundation:blitz",
+        "item": [
+            "thermalfoundation:material@2051"
+        ],
+        "itemcount": "2-4"
+    },
+    {
+        "mob": "zawa:sockeyesalmon",
+        "removeall": true
+    },
+    {
+        "mob": "zawa:sockeyesalmon",
+        "item": [
+            "minecraft:fish@1"
+        ],
+        "itemcount": "1"
+    },
+    {
+        "mob": "zawa:cichlid",
+        "removeall": true
+    },
+    {
+        "mob": "zawa:cichlid",
+        "item": [
+            "zawa:raw_cichlid"
+        ],
+        "itemcount": "1"
+    },
+    {
+        "mob": "zawa:japanesegiantsalamander",
+        "removeall": true
+    },
+    {
+        "mob": "zawa:japanesegiantsalamander",
+        "item": [
+            "zawa:reptile_meat_raw"
+        ],
+        "itemcount": "1-2"
+    },
+    {
+        "mob": "zawa:japanesegiantsalamander",
+        "item": [
+            "zawa:reptile_hide"
+        ],
+        "itemcount": "1"
+    },
+    {
+        "mob": "zawa:japanesegiantsalamander",
+        "item": [
+            "minecraft:bone"
+        ],
+        "itemcount": "1"
+    },
+    {
+        "mob": "zawa:meerkat",
+        "removeall": true
+    },
+    {
+        "mob": "zawa:meerkat",
+        "item": [
+            "zawa:rat_raw"
+        ],
+        "itemcount": "1"
+    },
+    {
+        "mob": "zawa:grevyszebra",
+        "removeall": true
+    },
+    {
+        "mob": "zawa:grevyszebra",
+        "item": [
+            "zawa:zebra_leather"
+        ],
+        "itemcount": "1"
+    },
+    {
+        "mob": "zawa:grevyszebra",
+        "item": [
+            "harvestcraft:venisonrawitem"
+        ],
+        "itemcount": "2-3"
+    },
+    {
+        "mob": "zawa:grevyszebra",
+        "item": [
+            "minecraft:bone"
+        ],
+        "itemcount": "1-2"
+    },
+    {
+        "mob": "zawa:africanelephant",
+        "removeall": true
+    },
+    {
+        "mob": "zawa:africanelephant",
+        "item": [
+            "zawa:elephant_leather"
+        ],
+        "itemcount": "3-4"
+    },
+    {
+        "mob": "zawa:africanelephant",
+        "item": [
+            "zawa:large_meat_raw"
+        ],
+        "itemcount": "4-8"
+    },
+    {
+        "mob": "zawa:africanelephant",
+        "item": [
+            "minecraft:bone"
+        ],
+        "itemcount": "4-8"
+    },
+    {
+        "mob": "zawa:africanelephant",
+        "item": [
+            "zawa:ivory_tusk"
+        ],
+        "itemcount": "1-2"
+    },
+    {
+        "mob": "zawa:gaur",
+        "removeall": true
+    },
+    {
+        "mob": "zawa:gaur",
+        "item": [
+            "minecraft:leather"
+        ],
+        "itemcount": "1-2"
+    },
+    {
+        "mob": "zawa:gaur",
+        "item": [
+            "zawa:thick_fur"
+        ],
+        "itemcount": "1-2"
+    },
+    {
+        "mob": "zawa:gaur",
+        "item": [
+            "zawa:large_meat_raw"
+        ],
+        "itemcount": "3-4"
+    },
+    {
+        "mob": "zawa:gaur",
+        "item": [
+            "minecraft:bone"
+        ],
+        "itemcount": "3-4"
+    },
+    {
+        "mob": "zawa:reticulatedgiraffe",
+        "removeall": true
+    },
+    {
+        "mob": "zawa:reticulatedgiraffe",
+        "item": [
+            "zawa:giraffe_hide"
+        ],
+        "itemcount": "1-2"
+    },
+    {
+        "mob": "zawa:reticulatedgiraffe",
+        "item": [
+            "zawa:large_meat_raw"
+        ],
+        "itemcount": "4-5"
+    },
+    {
+        "mob": "zawa:reticulatedgiraffe",
+        "item": [
+            "minecraft:bone"
+        ],
+        "itemcount": "4-5"
+    },
+    {
+        "mob": "zawa:blackrhinoceros",
+        "removeall": true
+    },
+    {
+        "mob": "zawa:blackrhinoceros",
+        "item": [
+            "zawa:rhino_hide"
+        ],
+        "itemcount": "1-2"
+    },
+    {
+        "mob": "zawa:blackrhinoceros",
+        "item": [
+            "zawa:large_meat_raw"
+        ],
+        "itemcount": "3-4"
+    },
+    {
+        "mob": "zawa:blackrhinoceros",
+        "item": [
+            "minecraft:bone"
+        ],
+        "itemcount": "3-4"
+    },
+    {
+        "mob": "zawa:blackrhinoceros",
+        "item": [
+            "zawa:rhino_horn"
+        ],
+        "itemcount": "1"
+    },
+    {
+        "mob": "zawa:africanlion",
+        "removeall": true
+    },
+    {
+        "mob": "zawa:africanlion",
+        "item": [
+            "zawa:fur"
+        ],
+        "itemcount": "1"
+    },
+    {
+        "mob": "zawa:africanlion",
+        "item": [
+            "zawa:carnivore_meat_raw"
+        ],
+        "itemcount": "1-2"
+    },
+    {
+        "mob": "zawa:africanlion",
+        "item": [
+            "minecraft:bone"
+        ],
+        "itemcount": "1-2"
+    },
+    {
+        "mob": "minecraft:chicken",
+        "removeall": true
+    },
+    {
+        "mob": "minecraft:chicken",
+        "item": [
+            "minecraft:chicken"
+        ],
+        "itemcount": "1"
+    },
+    {
+        "mob": "minecraft:chicken",
+        "item": [
+            "zawa:bird_meat"
+        ],
+        "itemcount": "0-1"
+    },
+    {
+        "mob": "minecraft:chicken",
+        "item": [
+            "minecraft:feather"
+        ],
+        "itemcount": "1-3"
+    },
+    {
+        "mob": "minecraft:pig",
+        "removeall": true
+    },
+    {
+        "mob": "minecraft:pig",
+        "item": [
+            "minecraft:porkchop"
+        ],
+        "itemcount": "2-3"
+    },
+    {
+        "mob": "minecraft:pig",
+        "item": [
+            "minecraft:bone"
+        ],
+        "itemcount": "1-2"
+    },
+    {
+        "mob": "minecraft:cow",
+        "removeall": true
+    },
+    {
+        "mob": "minecraft:cow",
+        "item": [
+            "minecraft:leather"
+        ],
+        "itemcount": "1"
+    },
+    {
+        "mob": "minecraft:cow",
+        "item": [
+            "minecraft:beef"
+        ],
+        "itemcount": "1-2"
+    },
+    {
+        "mob": "minecraft:cow",
+        "item": [
+            "minecraft:bone"
+        ],
+        "itemcount": "1-2"
+    },
+    {
+        "mob": "minecraft:donkey",
+        "removeall": true
+    },
+    {
+        "mob": "minecraft:donkey",
+        "item": [
+            "minecraft:leather"
+        ],
+        "itemcount": "1"
+    },
+    {
+        "mob": "minecraft:donkey",
+        "item": [
+            "harvestcraft:venisonrawitem"
+        ],
+        "itemcount": "2-3"
+    },
+    {
+        "mob": "minecraft:donkey",
+        "item": [
+            "minecraft:bone"
+        ],
+        "itemcount": "1-2"
+    },
+    {
+        "mob": "zawa:brownrat",
+        "removeall": true
+    },
+    {
+        "mob": "zawa:brownrat",
+        "item": [
+            "zawa:rat_raw"
+        ],
+        "itemcount": "1"
+    },
+    {
+        "mob": "zawa:indiangharial",
+        "removeall": true
+    },
+    {
+        "mob": "zawa:indiangharial",
+        "item": [
+            "zawa:reptile_meat_raw"
+        ],
+        "itemcount": "3-4"
+    },
+    {
+        "mob": "zawa:indiangharial",
+        "item": [
+            "zawa:crocodile_leather"
+        ],
+        "itemcount": "2-3"
+    },
+    {
+        "mob": "zawa:indiangharial",
+        "item": [
+            "minecraft:bone"
+        ],
+        "itemcount": "2-3"
+    },
+    {
+        "mob": "zawa:platypus",
+        "removeall": true
+    },
+    {
+        "mob": "zawa:platypus",
+        "item": [
+            "zawa:bush_meat_raw"
+        ],
+        "itemcount": "1"
+    },
+    {
+        "mob": "zawa:platypus",
+        "item": [
+            "minecraft:rabbit_hide"
+        ],
+        "itemcount": "1"
+    },
+    {
+        "mob": "zawa:platypus",
+        "item": [
+            "zawa:toxin_sac"
+        ],
+        "itemcount": "0-1"
+    },
+    {
+        "mob": "zawa:nilehippopotamus",
+        "removeall": true
+    },
+    {
+        "mob": "zawa:nilehippopotamus",
+        "item": [
+            "minecraft:leather"
+        ],
+        "itemcount": "1-2"
+    },
+    {
+        "mob": "zawa:nilehippopotamus",
+        "item": [
+            "zawa:blubber"
+        ],
+        "itemcount": "1-2"
+    },
+    {
+        "mob": "zawa:nilehippopotamus",
+        "item": [
+            "zawa:large_meat_raw"
+        ],
+        "itemcount": "3-4"
+    },
+    {
+        "mob": "zawa:nilehippopotamus",
+        "item": [
+            "minecraft:bone"
+        ],
+        "itemcount": "3-4"
+    },
+    {
+        "mob": "zawa:greenanaconda",
+        "removeall": true
+    },
+    {
+        "mob": "zawa:greenanaconda",
+        "item": [
+            "zawa:reptile_meat_raw"
+        ],
+        "itemcount": "3-4"
+    },
+    {
+        "mob": "zawa:greenanaconda",
+        "item": [
+            "zawa:snakeskin"
+        ],
+        "itemcount": "1-2"
+    },
+    {
+        "mob": "zawa:moose",
+        "removeall": true
+    },
+    {
+        "mob": "zawa:moose",
+        "item": [
+            "minecraft:leather"
+        ],
+        "itemcount": "1-2"
+    },
+    {
+        "mob": "zawa:moose",
+        "item": [
+            "zawa:thick_fur"
+        ],
+        "itemcount": "1-2"
+    },
+    {
+        "mob": "zawa:moose",
+        "item": [
+            "zawa:large_meat_raw"
+        ],
+        "itemcount": "3-4"
+    },
+    {
+        "mob": "zawa:moose",
+        "item": [
+            "minecraft:bone"
+        ],
+        "itemcount": "3-4"
+    },
+    {
+        "mob": "zawa:grizzlybear",
+        "removeall": true
+    },
+    {
+        "mob": "zawa:grizzlybear",
+        "item": [
+            "zawa:thick_fur"
+        ],
+        "itemcount": "1-2"
+    },
+    {
+        "mob": "zawa:grizzlybear",
+        "item": [
+            "zawa:carnivore_meat_raw"
+        ],
+        "itemcount": "3-4"
+    },
+    {
+        "mob": "minecraft:enderman",
+        "removeall": true
+    },
+    {
+        "mob": "minecraft:enderman",
+        "item": [
+            "minecraft:ender_pearl"
+        ],
+        "itemcount": "1"
+    },
+    {
+        "mob": "minecraft:bat",
+        "removeall": true
+    },
+    {
+        "mob": "minecraft:bat",
+        "item": [
+            "zawa:rat_raw"
+        ],
+        "itemcount": "1"
+    },
+    {
+        "mob": "minecraft:cave_spider",
+        "removeall": true
+    },
+    {
+        "mob": "minecraft:cave_spider",
+        "item": [
+            "minecraft:spider_eye"
+        ],
+        "itemcount": "1-4"
+    },
+    {
+        "mob": "minecraft:cave_spider",
+        "item": [
+            "zawa:raw_crab_leg"
+        ],
+        "itemcount": "2-6"
+    },
+    {
+        "mob": "minecraft:cave_spider",
+        "item": [
+            "zawa:toxin_sac"
+        ],
+        "itemcount": "0-1"
+    }
+]

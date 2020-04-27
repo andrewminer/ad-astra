@@ -30,3 +30,6 @@ recipes.addShaped(<minecraft:saddle>, [
 # Seed -- create seed from wheat and rename
 <minecraft:wheat_seeds>.displayName = "Wheat Seeds";
 recipes.addShapeless(<minecraft:wheat_seeds>, [<minecraft:wheat>]);
+
+# Rabbit Skin -- change name to match its use
+<minecraft:rabbit_hide>.displayName = "Small Hide";

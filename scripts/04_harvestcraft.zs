@@ -99,6 +99,13 @@ recipes.addShapeless(<minecraft:sugar> * 2, [
     <ore:toolPot>.reuse(), <ore:cropBeet>, <ore:cropBeet>, <ore:cropBeet>, <ore:cropBeet>, water
 ]);
 
+# Venison -- change name to horse meat
+<harvestcraft:venisonrawitem>.displayName = "Raw Horse Meat";
+<harvestcraft:venisoncookeditem>.displayName = "Cooked Horse Meat";
+<harvestcraft:gourmetvenisonpattyitem>.displayName = "Gourmet Horse Patty";
+<harvestcraft:groundvenisonitem>.displayName = "Ground Horse";
+<harvestcraft:gourmetvenisonburgeritem>.displayName = "Gourmet Horse Burger";
+
 # Water Filter -- replace with early-game-friendly recipe
 recipes.remove(<harvestcraft:waterfilter>);
 recipes.addShaped(<harvestcraft:waterfilter>, [

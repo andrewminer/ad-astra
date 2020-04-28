@@ -54,8 +54,30 @@ JEI.removeAndHide(<harvestcraft:grinder>);
 # Ground Trap -- remove as too OP
 JEI.removeAndHide(<harvestcraft:groundtrap>);
 
+# Hazelnut -- add to ore dictionary
+oreDict.get("listAllnut").add(<harvestcraft:hazelnutitem>);
+oreDict.get("cropHazelnut").add(<harvestcraft:hazelnutitem>);
+
+# Kale Seed -- allow crafting from kale
+recipes.addShapeless(<harvestcraft:kaleseeditem>, [<harvestcraft:kaleitem>]);
+
 # Market -- remove as there's no one out there to trade with
 JEI.removeAndHide(<harvestcraft:market>);
+
+# Maple Syrup -- add to the all sugar list
+oreDict.get("listAllsugar").add(<harvestcraft:maplesyrupitem>);
+
+# Nutella -- should be made with hazelnuts
+recipes.remove(<harvestcraft:nutellaitem>);
+recipes.addShapeless(<harvestcraft:nutellaitem>, [
+    <ore:toolSaucepan>, <ore:foodChocolatebar>, <ore:cropHazelnut>
+]);
+
+# Pemmican -- allow more food items as ingredients
+recipes.remove(<harvestcraft:pemmicanitem>);
+recipes.addShapeless(<harvestcraft:pemmicanitem>, [
+    <ore:toolPot>, <ore:listAllnut>, <ore:listAllfruit>, <ore:listAllmeatcooked>, <ore:listAllsugar>
+]);
 
 # Pizza Slice -- remove strange recipe for pizza slices
 recipes.removeByRecipeName("harvestcraft:berryvinaigrettesaladitem");

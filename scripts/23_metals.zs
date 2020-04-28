@@ -1,7 +1,41 @@
 import crafttweaker.item.IItemStack;
+import crafttweaker.item.IIngredient;
 import crafttweaker.oredict.IOreDictEntry;
 import mods.thermalexpansion.Compactor;
 import mods.thermalexpansion.Pulverizer;
+
+# Metal Lookup Functions ###############################################################################################
+
+function metalBlock(name as string) as IItemStack {
+    var blocks = {
+        "iron": <minecraft:iron_block>,
+        "gold": <minecraft:gold_block>,
+        "copper": <thermalfoundation:storage:0>,
+        "tin": <thermalfoundation:storage:1>,
+        "silver": <thermalfoundation:storage:2>,
+        "lead": <thermalfoundation:storage:3>,
+        "aluminum": <thermalfoundation:storage:4>,
+        "nickel": <thermalfoundation:storage:5>,
+        "platinum": <thermalfoundation:storage:6>,
+        "iridium": <thermalfoundation:storage:7>,
+        "mithril": <thermalfoundation:storage:8>,
+        "steel": <thermalfoundation:storage_alloy:0>,
+        "electrum": <thermalfoundation:storage_alloy:1>,
+        "invar": <thermalfoundation:storage_alloy:2>,
+        "bronze": <thermalfoundation:storage_alloy:3>,
+        "constantan": <thermalfoundation:storage_alloy:4>,
+        "signalum": <thermalfoundation:storage_alloy:5>,
+        "lumium": <thermalfoundation:storage_alloy:6>,
+        "enderium": <thermalfoundation:storage_alloy:7>,
+        "zinc": <railcraft:metal:8>,
+        "titanium": <libvulpes:metal0:7>,
+        "titanium aluminide": <advancedrocketry:metal0:0>,
+        "titanium iridium": <advancedrocketry:metal0:1>,
+        "fluxed electrum": <redstonearsenal:storage:0>,
+    } as IItemStack[string];
+
+    return blocks[name];
+}
 
 function dust(name as string) as IItemStack {
     var dusts = {
@@ -166,6 +200,9 @@ function all_metals() as string[] {
     ];
 }
 
+
+# Gear Recipes #########################################################################################################
+
 var bushing = <railcraft:gear:3>;
 recipes.remove(bushing);
 recipes.addShaped(bushing * 4, [
@@ -193,4 +230,47 @@ for metal in all_metals() {
     if (!isNull(dust) & !isNull(poorOre)) {
         Pulverizer.addRecipe(<minecraft:gravel>, poorOre, 4000, dust, 66);
     }
+}
+
+# Low-Tech Dust Creation ###############################################################################################
+
+var anvil as IIngredient = (
+    <minecraft:anvil:0>.anyDamage() |
+    <minecraft:anvil:1>.anyDamage() |
+    <minecraft:anvil:2>.anyDamage() |
+    <railcraft:anvil:0>.anyDamage() |
+    <railcraft:anvil:1>.anyDamage() |
+    <railcraft:anvil:2>.anyDamage()
+).reuse();
+
+var hammer as IIngredient = (
+    <thermalfoundation:tool.hammer_bronze>.anyDamage() |
+    <thermalfoundation:tool.hammer_iron>.anyDamage() |
+    <thermalfoundation:tool.hammer_nickel>.anyDamage() |
+    <thermalfoundation:tool.hammer_steel>.anyDamage()
+).transformDamage(5).reuse();
+
+
+var dustRecipes = [
+    [<minecraft:coal_block>, <thermalfoundation:material:768>],
+    [<thermalfoundation:storage_resource:0>, <thermalfoundation:material:769>],
+    [<bigreactors:blockgraphite>, <bigreactors:dustgraphite>],
+] as IItemStack[][];
+
+var crushableMetals = ["copper", "gold", "lead", "platinum", "silver", "tin"] as string[];
+
+for metal in crushableMetals {
+    var inputBlock as IItemStack = metalBlock(metal);
+    var outputDust as IItemStack = dust(metal);
+
+    if (!isNull(inputBlock) & !isNull(outputDust)) {
+        var recipe as IItemStack[] = [inputBlock, outputDust];
+        dustRecipes += recipe;
+    }
+}
+
+for dustRecipe in dustRecipes {
+    var inputBlock as IItemStack = dustRecipe[0];
+    var outputDust as IItemStack = dustRecipe[1];
+    recipes.addShaped(outputDust * 8, [[hammer], [inputBlock], [anvil]]);
 }

@@ -8820,10 +8820,10 @@
     {
         "mob": [
             "minecraft:squid",
+            "minecraft:horse",
             "minecraft:chicken",
             "minecraft:cow",
             "minecraft:donkey",
-            "minecraft:horse",
             "horse_colors:horse_felinoid",
             "minecraft:llama",
             "minecraft:pig",
@@ -8832,6 +8832,7 @@
             "minecraft:wolf",
             "minecraft:creeper",
             "minecraft:enderman",
+            "minecraft:husk",
             "minecraft:skeleton",
             "minecraft:spider",
             "minecraft:stray",

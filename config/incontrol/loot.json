@@ -1404,6 +1404,13 @@
         "itemcount": "1"
     },
     {
+        "mob": "zawa:octopus",
+        "item": [
+            "minecraft:dye"
+        ],
+        "itemcount": "1"
+    },
+    {
         "mob": "zawa:morayeel",
         "removeall": true
     },

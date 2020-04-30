@@ -74,7 +74,7 @@ recipes.addShapeless(pigment("pink") * 2, [pigment("white"), pigment("red")]);
 recipes.addShapeless(pigment("purple") * 2, [pigment("blue"), pigment("red")]);
 
 # Add recipes to create pigments from other things
-var pulverizedCharcoal = <thermalfoundation:material:768>;
+var pulverizedCharcoal = <thermalfoundation:material:769>;
 var pulverizedCoal = <thermalfoundation:material:768>;
 
 Pulverizer.addRecipe(pigment("white") * 4, <chisel:marble2:7>, 4000);

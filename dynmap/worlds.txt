@@ -1,0 +1,49 @@
+worlds:
+  - name: DIM1
+    enabled: false
+  - name: DIM2
+    enabled: false
+  - name: DIM-1
+    enabled: false
+  - name: New World
+    enabled: false
+  - name: ad-astra
+    title: "Ad Astra"
+    template: normal
+    enabled: true
+    extrazoomout: 3
+    sendposition: true
+    sendhealth: false
+    hidestyle: ocean
+    bigworld: true
+    maps:
+      - class: org.dynmap.hdmap.HDMap
+        name: surface
+        title: "Aerial View"
+        prefix: aerial
+        perspective: iso_SE_30_hires
+        shader: stdtexture
+        lighting: default
+        mapzoomin: 2
+      - class: org.dynmap.hdmap.HDMap
+        name: flat
+        title: "Satelite View"
+        prefix: satelite
+        perspective: iso_S_90_hires
+        shader: stdtexture
+        lighting: default
+        mapzoomin: 2
+web:
+    defaultworld: ad-astra
+    worlds:
+      - name: ad-astra
+        title: Ad Astra
+        maps:
+          - type: KzedMapType
+            title: "Aerial View"
+            name: surface
+            prefix: aerial
+          - type: KzedMapType
+            title: "Satelite View"
+            name: flat
+            prefix: satelite

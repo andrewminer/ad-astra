@@ -13,6 +13,7 @@ config/oxygen/data/client/worlds/
 crash-reports/
 dynmap/web/tiles/
 fonts/
+ids-by-ip.txt
 installers
 knownkeys.txt
 llibrary/

@@ -1,4 +1,5 @@
 import crafttweaker.oredict.IOreDictEntry;
+import mods.thermalexpansion.Pulverizer;
 
 
 ########################################################################################################################
@@ -18,6 +19,23 @@ recipes.addShaped(<minecraft:compass>, [
     [<ore:itemMetalIngot>, <ore:nuggetIron>, <ore:itemMetalIngot>],
     [null, <ore:itemMetalIngot>, null],
 ]);
+
+# Prismarine Shard -- add Pulverizer recipe to get shards from blocks
+Pulverizer.addRecipe(
+    <minecraft:prismarine_shard> * 3,
+    <minecraft:prismarine:0>,
+    4000,
+    <minecraft:prismarine_shard>,
+    50
+);
+Pulverizer.addRecipe(
+    <minecraft:prismarine_shard> * 8,
+    <minecraft:prismarine:1>,
+    4000,
+    <minecraft:prismarine_shard>,
+    50
+);
+
 
 # Saddle -- add alternate recipes using various metals
 recipes.remove(<minecraft:saddle>);

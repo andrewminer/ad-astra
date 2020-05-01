@@ -50,6 +50,13 @@ for i in ids {
 # Refined Storage -- Silicon -- remove in preference for Advanced Rocketry's Silicon
 JEI.removeAndHide(<refinedstorage:silicon>);
 
+# RFTools -- remove all power cells in preference for Thermal Expansion Energy Cells
+JEI.removeAndHide(<rftools:powercell>);
+JEI.removeAndHide(<rftools:powercell_advanced>);
+JEI.removeAndHide(<rftools:powercell_card>);
+JEI.removeAndHide(<rftools:powercell_creative>);
+JEI.removeAndHide(<rftools:powercell_simple>);
+
 # Thermal Foundation -- Coins -- remove all but the gold coins
 ids = [0, 65, 67, 68, 69, 70, 71, 72, 96, 97, 98, 99, 100, 101, 102, 103] as int[];
 for i in ids {

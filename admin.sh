@@ -134,6 +134,7 @@ function command-create {
         mkdir mods
 
         ln -s ../config .
+        ln -s ../dynmap .
         ln -s ../scripts .
         echo "eula=true" > eula.txt
 
@@ -230,7 +231,7 @@ function command-start {
             zip -r9 "logs/$(date +'%Y-%m-%d-%H-%M')-server.log" server.log
         fi
         cd logs
-        ls -t "*-server.log" | awk 'NR>5' | while read FILE; do rm $FILE; done
+        ls -t "*-server.log" 2>/dev/null | awk 'NR>5' | while read FILE; do rm $FILE; done
         cd ..
 
         tail -n 0 -F stdin \

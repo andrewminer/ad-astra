@@ -134,7 +134,6 @@ function command-create {
         mkdir mods
 
         ln -s ../config .
-        ln -s ../dynmap .
         ln -s ../scripts .
         echo "eula=true" > eula.txt
 

@@ -1,0 +1,5 @@
+// For more info visit https://github.com/FTBTeam/FTB-Ranks/wiki
+
+// TungstonMiner
+[f8884d3074e4404e98b33f780d6f4fa8]
+parent: member, admin

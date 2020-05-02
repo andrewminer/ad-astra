@@ -1,0 +1,46 @@
+// For more info visit https://github.com/FTBTeam/FTB-Ranks/wiki
+
+[guest]
+power: 1
+default_player_rank: true
+ftbutilities.afk.timer: 300s
+ftbutilities.chat.name_format: &eGUEST:&r <{name}>
+ftbutilities.chunkloader.max_chunks: 0
+ftbutilities.claims.max_chunks: 0
+ftbutilities.leaderboard: false
+command: false
+command.ftbutilities.kickme: true
+command.ftblib.reload: true
+comamnd.help: true
+command.me: true
+command.say: true
+command.tell: true
+
+[member]
+power: 100
+ftbutilities.chat.name_format: &2MEMBER:&r <{name}>
+ftbutilities.chat.text.color: white
+ftbutilities.chunkloader.max_chunks: 50
+ftbutilities.claims.max_chunks: 200
+command.corpse.deathhistory: true
+command.ftbutilities.chunks.claim: true
+command.ftbutilities.chunks.claim_as: true
+command.ftbutilities.chunks.help: true
+command.ftbutilities.chunks.info: true
+command.ftbutilities.chunks.load: true
+command.ftbutilities.chunks.unclaim: true
+command.ftbutilities.chunks.unload: true
+command.ftbutilities.home: false
+command.ftbutilities.mute: true
+command.ftbutilities.nick: true
+command.ftbutilities.ranks: true
+command.ftbutilities.reload: true
+command.ftbutilities.team: true
+command.ftbutilities.unmute: true
+
+[admin]
+power: 1000
+command: true
+default_op_rank: true
+ftbutilities.chat.name_format: &2ADMIN:&r <{name}>
+parent: member

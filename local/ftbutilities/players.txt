@@ -1,5 +1,37 @@
-// For more info visit https://github.com/FTBTeam/FTB-Ranks/wiki
+// For more info visit https://github.com/FTBTeam/FTBRanks/wiki
 
 // TungstonMiner
 [f8884d3074e4404e98b33f780d6f4fa8]
-parent: member, admin
+parent: admin
+
+// iSurio
+[ada36cc3c0124d4395e4dc3130e26427]
+parent: member
+
+// Roiston
+[420eff9281194164a74a38b6376641f1]
+parent: member
+
+// Mr_Nandu
+[5ef449aa41e046f3b7f6adace0eb8cbd]
+parent: member
+
+// DiamondMan_2003
+[91a9dc09deb8405da37a0e6295d9acdd]
+parent: member
+
+// Mrs_Darina
+[ee14cae0dbd6433cb3a939acf65ff1e3]
+parent: member
+
+// Teak1
+[b10c37a1664f4c21b30353d46c2ab48d]
+parent: member
+
+// robin1956
+[7b16e7e156474ba8b3533d64dc9f1cc4]
+parent: member
+
+// AndMattBurt
+[50ec4a48983a4c1ba5b0b8637cffaa66]
+parent: member

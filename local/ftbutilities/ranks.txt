@@ -15,6 +15,7 @@ comamnd.help: true
 command.me: true
 command.say: true
 command.tell: true
+command.ftbutilities.ranks: true
 
 [member]
 power: 100
@@ -23,6 +24,22 @@ ftbutilities.chat.text.color: white
 ftbutilities.chunkloader.max_chunks: 50
 ftbutilities.claims.max_chunks: 200
 command.corpse.deathhistory: true
+command.ftblib.client_config: true
+command.ftblib.team.create: true
+command.ftblib.team.create_server_team: true
+command.ftblib.team.delete: true
+command.ftblib.team.get: true
+command.ftblib.team.help: true
+command.ftblib.team.info: true
+command.ftblib.team.join: true
+command.ftblib.team.kick: true
+command.ftblib.team.leave: true
+command.ftblib.team.list: true
+command.ftblib.team.request_invite: true
+command.ftblib.team.settings: true
+command.ftblib.team.settings_for: true
+command.ftblib.team.status: true
+command.ftblib.team.transfer_ownership: true
 command.ftbutilities.chunks.claim: true
 command.ftbutilities.chunks.claim_as: true
 command.ftbutilities.chunks.help: true
@@ -35,12 +52,26 @@ command.ftbutilities.mute: true
 command.ftbutilities.nick: true
 command.ftbutilities.ranks: true
 command.ftbutilities.reload: true
-command.ftbutilities.team: true
 command.ftbutilities.unmute: true
 
 [admin]
 power: 1000
 command: true
 default_op_rank: true
-ftbutilities.chat.name_format: &2ADMIN:&r <{name}>
+ftbutilities.chat.name_format: &5ADMIN:&r <{name}>
+parent: member
+
+// iSurio
+[ada36cc3c0124d4395e4dc3130e26427]
+power: 4
+parent: member
+
+// robin1956
+[7b16e7e156474ba8b3533d64dc9f1cc4]
+power: 6
+parent: member
+
+// AndMattBurt
+[50ec4a48983a4c1ba5b0b8637cffaa66]
+power: 7
 parent: member

@@ -2282,6 +2282,7 @@
         "blocks": [
             "minecraft:stone"
         ],
+        "maxlight": 0,
         "maxcount": {
             "mob": "minecraft:blaze",
             "amount": 30,
@@ -4961,6 +4962,7 @@
         "blocks": [
             "minecraft:stone"
         ],
+        "maxlight": 0,
         "maxcount": {
             "mob": "minecraft:blaze",
             "amount": 60,
@@ -5162,6 +5164,7 @@
         "blocks": [
             "minecraft:stone"
         ],
+        "maxlight": 0,
         "maxcount": {
             "mob": "thermalfoundation:basalz",
             "amount": 48,
@@ -6004,6 +6007,7 @@
         "blocks": [
             "minecraft:stone"
         ],
+        "maxlight": 0,
         "maxcount": {
             "mob": "thermalfoundation:blitz",
             "amount": 30,
@@ -8411,6 +8415,7 @@
         "blocks": [
             "minecraft:stone"
         ],
+        "maxlight": 0,
         "maxcount": {
             "mob": "thermalfoundation:blizz",
             "amount": 30,

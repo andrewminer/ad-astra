@@ -10,8 +10,15 @@ var dilithiumDust as IItemStack = <libvulpes:productdust:0>;
 var dilithiumOre as IItemStack = <libvulpes:ore0:0>;
 
 recipes.remove(dilithiumCrystal);
-Pulverizer.removeRecipe(dilithiumCrystal * 2);
+Pulverizer.removeRecipe(dilithiumCrystal);
 Pulverizer.addRecipe(dilithiumDust * 2, dilithiumOre, 4000);
+
+# Concrete -- change recipe to match proportions from vanilla
+recipes.remove(<advancedrocketry:concrete>);
+recipes.addShaped(<advancedrocketry:concrete> * 4, [
+    [<minecraft:concrete:8>, <minecraft:concrete:8>],
+    [<minecraft:concrete:8>, <minecraft:concrete:8>],
+]);
 
 # Seat -- change recipe to avoid conflict with sleeping bags
 recipes.remove(<advancedrocketry:seat>);

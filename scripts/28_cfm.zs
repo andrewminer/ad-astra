@@ -1,3 +1,8 @@
+import mods.jei.JEI;
+
+
+########################################################################################################################
+
 # Crate -- make crate recipes cheaper
 recipes.remove(<cfm:crate>);
 recipes.addShaped(<cfm:crate>, [
@@ -50,3 +55,6 @@ recipes.addShapeless(<minecraft:leather>, [
 recipes.addShapeless(<minecraft:leather> * 2, [
     <cfm:item_knife>.anyDamage().transformDamage(2), <zawa:thick_fur>
 ]);
+
+# Sausage -- remove sausage recipe in favor of HarvestCraft's
+JEI.removeAndHide(<cfm:item_sausage>);

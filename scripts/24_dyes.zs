@@ -1,9 +1,33 @@
+import crafttweaker.item.IIngredient;
 import crafttweaker.item.IItemStack;
 import crafttweaker.oredict.IOreDictEntry;
 import mods.thermalexpansion.Pulverizer;
 
 
 ########################################################################################################################
+
+function vanillaDye(color as string) as IItemStack {
+    var dyes = {
+        "black": <minecraft:dye:0>,
+        "blue": <minecraft:dye:4>,
+        "brown": <minecraft:dye:3>,
+        "cyan": <minecraft:dye:6>,
+        "gray": <minecraft:dye:8>,
+        "green": <minecraft:dye:2>,
+        "light blue": <minecraft:dye:12>,
+        "light gray": <minecraft:dye:7>,
+        "lime": <minecraft:dye:10>,
+        "magenta": <minecraft:dye:13>,
+        "orange": <minecraft:dye:14>,
+        "pink": <minecraft:dye:9>,
+        "purple": <minecraft:dye:5>,
+        "red": <minecraft:dye:1>,
+        "white": <minecraft:dye:15>,
+        "yellow": <minecraft:dye:11>,
+    } as IItemStack[string];
+
+    return dyes[color];
+}
 
 function dyeDict(color as string) as IOreDictEntry {
     var colors = {
@@ -56,22 +80,62 @@ var allColors = [
     "pink", "purple", "red", "white", "yellow"
 ] as string[];
 
+var mortar = <ore:toolMortarandpestle>.reuse();
 var waterBucket = <minecraft:water_bucket>.giveBack(<minecraft:bucket>);
 
-# Add recipes to mix pigments
-recipes.addShapeless(pigment("cyan") * 2, [pigment("blue"), pigment("green")]);
-recipes.addShapeless(pigment("gray") * 2, [pigment("white"), pigment("black")]);
-recipes.addShapeless(pigment("light blue") * 2, [pigment("white"), pigment("blue")]);
-recipes.addShapeless(pigment("light gray") * 2, [pigment("gray"), pigment("white")]);
-recipes.addShapeless(pigment("light gray") * 3, [pigment("black"), pigment("white"), pigment("white")]);
-recipes.addShapeless(pigment("lime") * 2, [pigment("white"), pigment("green")]);
-recipes.addShapeless(pigment("green") * 2, [pigment("black"), pigment("lime")]);
-recipes.addShapeless(pigment("magenta") * 2, [pigment("pink"), pigment("purple")]);
-recipes.addShapeless(pigment("magenta") * 3, [pigment("red"), pigment("blue"), pigment("pink")]);
-recipes.addShapeless(pigment("magenta") * 4, [pigment("red"), pigment("blue"), pigment("red"), pigment("white")]);
-recipes.addShapeless(pigment("orange") * 2, [pigment("red"), pigment("yellow")]);
-recipes.addShapeless(pigment("pink") * 2, [pigment("white"), pigment("red")]);
-recipes.addShapeless(pigment("purple") * 2, [pigment("blue"), pigment("red")]);
+
+########################################################################################################################
+
+# Remove vanilla dyes from ore dictionaries
+for color in allColors {
+    var dye as IItemStack = vanillaDye(color);
+    dyeDict(color).remove(dye);
+    <ore:dye>.remove(dye);
+}
+
+# Add recipes for turning dyes into pigments
+var waterSoluableDyes = [
+    "cyan", "gray", "light blue", "light gray", "lime", "magenta", "orange", "pink", "purple"
+] as string[];
+for color in waterSoluableDyes {
+    var dye as IItemStack = vanillaDye(color);
+    var pigment as IItemStack = pigment(color);
+    recipes.addShaped(pigment * 7, [
+        [dye, dye, dye],
+        [dye, waterBucket, dye],
+        [dye, null, dye],
+    ]);
+}
+
+var grindableDyes = [
+    "black", "blue", "brown", "green", "red", "white", "yellow"
+] as string[];
+for color in grindableDyes {
+    var dye as IItemStack = vanillaDye(color);
+    var pigment as IItemStack = pigment(color);
+    recipes.addShaped(pigment * 7, [
+        [dye, dye, dye],
+        [dye, waterBucket, dye],
+        [dye, mortar, dye],
+    ]);
+}
+
+# Remove recipes to make vanilla dyes by mixing
+recipes.removeByRecipeName("minecraft:cyan_dye");
+recipes.removeByRecipeName("minecraft:gray_dye");
+recipes.removeByRecipeName("minecraft:light_blue_dye_from_lapis_bonemeal");
+recipes.removeByRecipeName("minecraft:light_gray_dye_from_gray_bonemeal");
+recipes.removeByRecipeName("minecraft:light_gray_dye_from_ink_bonemeal");
+recipes.removeByRecipeName("minecraft:lime_dye");
+recipes.removeByRecipeName("minecraft:magenta_dye_from_lapis_ink_bonemeal");
+recipes.removeByRecipeName("minecraft:magenta_dye_from_lapis_red_pink");
+recipes.removeByRecipeName("minecraft:magenta_dye_from_purple_and_pink");
+recipes.removeByRecipeName("minecraft:orange_dye_from_red_yellow");
+recipes.removeByRecipeName("minecraft:pink_dye_from_red_bonemeal");
+recipes.removeByRecipeName("minecraft:purple_dye");
+
+
+########################################################################################################################
 
 # Add recipes to create pigments from other things
 var pulverizedCharcoal = <thermalfoundation:material:769>;
@@ -82,16 +146,6 @@ Pulverizer.addRecipe(pigment("blue") * 4, <minecraft:dye:4>, 4000);
 Pulverizer.addRecipe(pigment("black"), <minecraft:dye:0>, 500);
 Pulverizer.addRecipe(pigment("green"), <minecraft:cactus>, 500);
 
-recipes.addShaped(pigment("white") * 8, [
-    [<minecraft:dye:15>, <minecraft:dye:15>, <minecraft:dye:15>],
-    [<minecraft:dye:15>, waterBucket, <minecraft:dye:15>],
-    [<minecraft:dye:15>, <minecraft:dye:15>, <minecraft:dye:15>],
-]);
-recipes.addShaped(pigment("green") * 8, [
-    [<minecraft:dye:2>, <minecraft:dye:2>, <minecraft:dye:2>],
-    [<minecraft:dye:2>, waterBucket, <minecraft:dye:2>],
-    [<minecraft:dye:2>, <minecraft:dye:2>, <minecraft:dye:2>],
-]);
 recipes.addShaped(pigment("black") * 8, [
     [pulverizedCharcoal, pulverizedCharcoal, pulverizedCharcoal],
     [pulverizedCharcoal, waterBucket, pulverizedCharcoal],
@@ -102,13 +156,22 @@ recipes.addShaped(pigment("black") * 8, [
     [pulverizedCoal, waterBucket, pulverizedCoal],
     [pulverizedCoal, pulverizedCoal, pulverizedCoal],
 ]);
+recipes.addShaped(pigment("brown") * 7, [
+    [<ore:cropCoffee>, <ore:cropCoffee>, <ore:cropCoffee>],
+    [<ore:cropCoffee>, waterBucket, <ore:cropCoffee>],
+    [<ore:cropCoffee>, mortar, <ore:cropCoffee>],
+]);
+recipes.addShaped(pigment("yellow") * 7, [
+    [<ore:cropMustard>, <ore:cropMustard>, <ore:cropMustard>],
+    [<ore:cropMustard>, waterBucket, <ore:cropMustard>],
+    [<ore:cropMustard>, mortar, <ore:cropMustard>],
+]);
 
 # Add recipes to crush various plants into pigments
-var mortar = <harvestcraft:mortarandpestleitem>.reuse();
-
 recipes.addShapeless(pigment("blue"), [mortar, <harvestcraft:blueberryitem>]);
 recipes.addShapeless(pigment("cyan"), [mortar, <harvestcraft:candleberryitem>]);
 recipes.addShapeless(pigment("light blue"), [mortar, <harvestcraft:juniperberryitem>]);
+recipes.addShapeless(pigment("lime"), [mortar, <harvestcraft:oliveitem>]);
 recipes.addShapeless(pigment("magenta"), [mortar, <harvestcraft:elderberryitem>]);
 recipes.addShapeless(pigment("magenta"), [mortar, <harvestcraft:mulberryitem>]);
 recipes.addShapeless(pigment("pink"), [mortar, <harvestcraft:raspberryitem>]);
@@ -118,6 +181,18 @@ recipes.addShapeless(pigment("red"), [mortar, <harvestcraft:cranberryitem>]);
 recipes.addShapeless(pigment("red"), [mortar, <harvestcraft:strawberryitem>]);
 recipes.addShapeless(pigment("yellow"), [mortar, <harvestcraft:gooseberryitem>]);
 recipes.addShapeless(pigment("yellow"), [mortar, <harvestcraft:mustardseedsitem>]);
-recipes.addShapeless(pigment("brown"), [mortar, <harvestcraft:coffeebeanitem>]);
-recipes.addShapeless(pigment("brown"), [mortar, <minecraft:dye:3>]);
-recipes.addShapeless(pigment("lime"), [mortar, <harvestcraft:oliveitem>]);
+
+# Add recipes to mix pigments
+recipes.addShapeless(pigment("cyan") * 2, [dyeDict("blue"), dyeDict("green")]);
+recipes.addShapeless(pigment("gray") * 2, [dyeDict("white"), dyeDict("black")]);
+recipes.addShapeless(pigment("green") * 2, [dyeDict("black"), dyeDict("lime")]);
+recipes.addShapeless(pigment("light blue") * 2, [dyeDict("white"), dyeDict("blue")]);
+recipes.addShapeless(pigment("light gray") * 2, [dyeDict("gray"), dyeDict("white")]);
+recipes.addShapeless(pigment("light gray") * 3, [dyeDict("black"), dyeDict("white"), dyeDict("white")]);
+recipes.addShapeless(pigment("lime") * 2, [dyeDict("white"), dyeDict("green")]);
+recipes.addShapeless(pigment("magenta") * 2, [dyeDict("pink"), dyeDict("purple")]);
+recipes.addShapeless(pigment("magenta") * 3, [dyeDict("red"), dyeDict("blue"), dyeDict("pink")]);
+recipes.addShapeless(pigment("magenta") * 4, [dyeDict("red"), dyeDict("blue"), dyeDict("red"), dyeDict("white")]);
+recipes.addShapeless(pigment("orange") * 2, [dyeDict("red"), dyeDict("yellow")]);
+recipes.addShapeless(pigment("pink") * 2, [dyeDict("white"), dyeDict("red")]);
+recipes.addShapeless(pigment("purple") * 2, [dyeDict("blue"), dyeDict("red")]);

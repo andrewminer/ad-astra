@@ -70,8 +70,3 @@ parent: member
 [7b16e7e156474ba8b3533d64dc9f1cc4]
 power: 6
 parent: member
-
-// AndMattBurt
-[50ec4a48983a4c1ba5b0b8637cffaa66]
-power: 7
-parent: member

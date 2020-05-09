@@ -1,5 +1,9 @@
 // For more info visit https://github.com/FTBTeam/FTB-Ranks/wiki
 
+// AndMattBurt
+[50ec4a48983a4c1ba5b0b8637cffaa66]
+parent: member
+
 // Roiston
 [420eff9281194164a74a38b6376641f1]
 parent: member

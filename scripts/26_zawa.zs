@@ -1,5 +1,9 @@
 import crafttweaker.item.IItemStack;
 
+# Blubber -- allow to be used for fuel & rendered into cooking oil
+furnace.setFuel(<zawa:blubber>, 800);
+recipes.addShapeless(<harvestcraft:oliveoilitem> * 4, [<ore:toolPot>.reuse(), <zawa:blubber>]);
+
 # Cooked Beef -- add ZAWA cooked beef to the list
 var zawaCookedBeef = [<zawa:cetacean_meat_cooked>, <zawa:large_meat_cooked>] as IItemStack[];
 for item in zawaCookedBeef {

@@ -80,7 +80,7 @@ var allColors = [
     "pink", "purple", "red", "white", "yellow"
 ] as string[];
 
-var mortar = <ore:toolMortarandpestle>.reuse();
+var mortar = <harvestcraft:mortarandpestleitem>.giveBack();
 var waterBucket = <minecraft:water_bucket>.giveBack(<minecraft:bucket>);
 
 

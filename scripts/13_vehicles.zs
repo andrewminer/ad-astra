@@ -7,8 +7,8 @@ recipes.addShaped(<vehicle:fuel_drum>, [
 ]);
 
 # Industrial Fuel Drum — replace with more compatible recipe
-recipes.remove(<vehicle:fuel_drum>);
-recipes.addShaped(<vehicle:fuel_drum>, [
+recipes.remove(<vehicle:industrial_fuel_drum>);
+recipes.addShaped(<vehicle:industrial_fuel_drum>, [
     [<railcraft:tank_steel_wall>],
     [<railcraft:tank_steel_wall>],
     [<railcraft:tank_steel_wall>],

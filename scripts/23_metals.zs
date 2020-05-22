@@ -253,6 +253,7 @@ var hammer as IIngredient = (
 
 var dustRecipes = [
     [<minecraft:coal_block>, <thermalfoundation:material:768>],
+    [<chisel:block_charcoal>, <thermalfoundation:material:768>],
     [<thermalfoundation:storage_resource:0>, <thermalfoundation:material:769>],
     [<bigreactors:blockgraphite>, <bigreactors:dustgraphite>],
 ] as IItemStack[][];

@@ -7,6 +7,9 @@ import mods.jei.JEI;
 JEI.removeAndHide(<advancedrocketry:productgear:1>);
 JEI.removeAndHide(<advancedrocketry:jetpack>);
 
+# Chisel -- Block of Charcoal -- remove recipe which conflicts with TE
+recipes.remove(<chisel:block_charcoal>);
+
 # DaVinci's Vessels -- Balloon -- remove as airships are disabled
 var ids = [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16] as int[];
 for i in ids {

@@ -1,11 +1,263 @@
+<?xml version="1.0" encoding="utf8"?>
 <Asteroids>
-	<asteroid name="Small Asteroid" distance="10" mass="100" massVariability="0.5" minLevel="0" probability="10" richness="0.2" richnessVariability="0.5">
-		<ore itemStack="minecraft:iron_ore" chance="15" />
-		<ore itemStack="minecraft:gold_ore" chance="10" />
-		<ore itemStack="minecraft:redstone_ore" chance="10" />
-	</asteroid>
-	<asteroid name="Iridium Enriched asteroid" distance="100" mass="25" massVariability="0.5" minLevel="0" probability="0.75" richness="0.2" richnessVariability="0.3">
-		<ore itemStack="minecraft:iron_ore" chance="25" />
-		<ore itemStack="libvulpes:ore0 10" chance="5" />
-	</asteroid>
+    <asteroid distance="35" mass="64" massVariability="0" minLevel="0" name="Tiny Aluminum" probability="1.0" richness="0.1" richnessVariability="0.25">
+        <ore chance="60" itemStack="libvulpes:ore0 9"/>
+        <ore chance="20" itemStack="railcraft:ore_metal 5"/>
+        <ore chance="10" itemStack="minecraft:stone"/>
+        <ore chance="5" itemStack="railcraft:ore_metal_poor 7"/>
+    </asteroid>
+    <asteroid distance="75" mass="128" massVariability="0" minLevel="0" name="Small Aluminum" probability="0.8" richness="0.15" richnessVariability="0.25">
+        <ore chance="60" itemStack="libvulpes:ore0 9"/>
+        <ore chance="20" itemStack="railcraft:ore_metal 5"/>
+        <ore chance="10" itemStack="minecraft:stone"/>
+        <ore chance="5" itemStack="railcraft:ore_metal_poor 7"/>
+    </asteroid>
+    <asteroid distance="115" mass="256" massVariability="0" minLevel="0" name="Medium Aluminum" probability="0.6" richness="0.2" richnessVariability="0.25">
+        <ore chance="60" itemStack="libvulpes:ore0 9"/>
+        <ore chance="20" itemStack="railcraft:ore_metal 5"/>
+        <ore chance="10" itemStack="minecraft:stone"/>
+        <ore chance="5" itemStack="railcraft:ore_metal_poor 7"/>
+    </asteroid>
+    <asteroid distance="155" mass="512" massVariability="0" minLevel="0" name="Large Aluminum" probability="0.4" richness="0.25" richnessVariability="0.25">
+        <ore chance="60" itemStack="libvulpes:ore0 9"/>
+        <ore chance="20" itemStack="railcraft:ore_metal 5"/>
+        <ore chance="10" itemStack="minecraft:stone"/>
+        <ore chance="5" itemStack="railcraft:ore_metal_poor 7"/>
+    </asteroid>
+    <asteroid distance="195" mass="1024" massVariability="0" minLevel="0" name="Huge Aluminum" probability="0.2" richness="0.3" richnessVariability="0.25">
+        <ore chance="60" itemStack="libvulpes:ore0 9"/>
+        <ore chance="20" itemStack="railcraft:ore_metal 5"/>
+        <ore chance="10" itemStack="minecraft:stone"/>
+        <ore chance="5" itemStack="railcraft:ore_metal_poor 7"/>
+    </asteroid>
+    <asteroid distance="35" mass="64" massVariability="0" minLevel="0" name="Tiny Bronze" probability="1.0" richness="0.1" richnessVariability="0.25">
+        <ore chance="30" itemStack="railcraft:ore_metal_poor 2"/>
+        <ore chance="30" itemStack="railcraft:ore_metal_poor 3"/>
+        <ore chance="20" itemStack="railcraft:ore_metal"/>
+        <ore chance="20" itemStack="railcraft:ore_metal 1"/>
+    </asteroid>
+    <asteroid distance="75" mass="128" massVariability="0" minLevel="0" name="Small Bronze" probability="0.8" richness="0.15" richnessVariability="0.25">
+        <ore chance="30" itemStack="railcraft:ore_metal_poor 2"/>
+        <ore chance="30" itemStack="railcraft:ore_metal_poor 3"/>
+        <ore chance="20" itemStack="railcraft:ore_metal"/>
+        <ore chance="20" itemStack="railcraft:ore_metal 1"/>
+    </asteroid>
+    <asteroid distance="115" mass="256" massVariability="0" minLevel="0" name="Medium Bronze" probability="0.6" richness="0.2" richnessVariability="0.25">
+        <ore chance="30" itemStack="railcraft:ore_metal_poor 2"/>
+        <ore chance="30" itemStack="railcraft:ore_metal_poor 3"/>
+        <ore chance="20" itemStack="railcraft:ore_metal"/>
+        <ore chance="20" itemStack="railcraft:ore_metal 1"/>
+    </asteroid>
+    <asteroid distance="155" mass="512" massVariability="0" minLevel="0" name="Large Bronze" probability="0.4" richness="0.25" richnessVariability="0.25">
+        <ore chance="30" itemStack="railcraft:ore_metal_poor 2"/>
+        <ore chance="30" itemStack="railcraft:ore_metal_poor 3"/>
+        <ore chance="20" itemStack="railcraft:ore_metal"/>
+        <ore chance="20" itemStack="railcraft:ore_metal 1"/>
+    </asteroid>
+    <asteroid distance="195" mass="1024" massVariability="0" minLevel="0" name="Huge Bronze" probability="0.2" richness="0.3" richnessVariability="0.25">
+        <ore chance="30" itemStack="railcraft:ore_metal_poor 2"/>
+        <ore chance="30" itemStack="railcraft:ore_metal_poor 3"/>
+        <ore chance="20" itemStack="railcraft:ore_metal"/>
+        <ore chance="20" itemStack="railcraft:ore_metal 1"/>
+    </asteroid>
+    <asteroid distance="35" mass="64" massVariability="0" minLevel="0" name="Tiny Copper" probability="1.0" richness="0.1" richnessVariability="0.25">
+        <ore chance="75" itemStack="railcraft:ore_metal"/>
+        <ore chance="15" itemStack="railcraft:ore_metal_poor 2"/>
+        <ore chance="9" itemStack="railcraft:ore_metal_poor 1"/>
+        <ore chance="1" itemStack="minecraft:gold_ore"/>
+    </asteroid>
+    <asteroid distance="75" mass="128" massVariability="0" minLevel="0" name="Small Copper" probability="0.8" richness="0.15" richnessVariability="0.25">
+        <ore chance="75" itemStack="railcraft:ore_metal"/>
+        <ore chance="15" itemStack="railcraft:ore_metal_poor 2"/>
+        <ore chance="9" itemStack="railcraft:ore_metal_poor 1"/>
+        <ore chance="1" itemStack="minecraft:gold_ore"/>
+    </asteroid>
+    <asteroid distance="115" mass="256" massVariability="0" minLevel="0" name="Medium Copper" probability="0.6" richness="0.2" richnessVariability="0.25">
+        <ore chance="75" itemStack="railcraft:ore_metal"/>
+        <ore chance="15" itemStack="railcraft:ore_metal_poor 2"/>
+        <ore chance="9" itemStack="railcraft:ore_metal_poor 1"/>
+        <ore chance="1" itemStack="minecraft:gold_ore"/>
+    </asteroid>
+    <asteroid distance="155" mass="512" massVariability="0" minLevel="0" name="Large Copper" probability="0.4" richness="0.25" richnessVariability="0.25">
+        <ore chance="75" itemStack="railcraft:ore_metal"/>
+        <ore chance="15" itemStack="railcraft:ore_metal_poor 2"/>
+        <ore chance="9" itemStack="railcraft:ore_metal_poor 1"/>
+        <ore chance="1" itemStack="minecraft:gold_ore"/>
+    </asteroid>
+    <asteroid distance="195" mass="1024" massVariability="0" minLevel="0" name="Huge Copper" probability="0.2" richness="0.3" richnessVariability="0.25">
+        <ore chance="75" itemStack="railcraft:ore_metal"/>
+        <ore chance="15" itemStack="railcraft:ore_metal_poor 2"/>
+        <ore chance="9" itemStack="railcraft:ore_metal_poor 1"/>
+        <ore chance="1" itemStack="minecraft:gold_ore"/>
+    </asteroid>
+    <asteroid distance="35" mass="64" massVariability="0" minLevel="0" name="Tiny Iron" probability="1.0" richness="0.1" richnessVariability="0.25">
+        <ore chance="65" itemStack="minecraft:iron_ore"/>
+        <ore chance="10" itemStack="railcraft:ore_metal_poor"/>
+        <ore chance="15" itemStack="railcraft:ore_metal 4"/>
+        <ore chance="10" itemStack="railcraft:ore_metal_poor 6"/>
+    </asteroid>
+    <asteroid distance="75" mass="128" massVariability="0" minLevel="0" name="Small Iron" probability="0.8" richness="0.15" richnessVariability="0.25">
+        <ore chance="65" itemStack="minecraft:iron_ore"/>
+        <ore chance="10" itemStack="railcraft:ore_metal_poor"/>
+        <ore chance="15" itemStack="railcraft:ore_metal 4"/>
+        <ore chance="10" itemStack="railcraft:ore_metal_poor 6"/>
+    </asteroid>
+    <asteroid distance="115" mass="256" massVariability="0" minLevel="0" name="Medium Iron" probability="0.6" richness="0.2" richnessVariability="0.25">
+        <ore chance="65" itemStack="minecraft:iron_ore"/>
+        <ore chance="10" itemStack="railcraft:ore_metal_poor"/>
+        <ore chance="15" itemStack="railcraft:ore_metal 4"/>
+        <ore chance="10" itemStack="railcraft:ore_metal_poor 6"/>
+    </asteroid>
+    <asteroid distance="155" mass="512" massVariability="0" minLevel="0" name="Large Iron" probability="0.4" richness="0.25" richnessVariability="0.25">
+        <ore chance="65" itemStack="minecraft:iron_ore"/>
+        <ore chance="10" itemStack="railcraft:ore_metal_poor"/>
+        <ore chance="15" itemStack="railcraft:ore_metal 4"/>
+        <ore chance="10" itemStack="railcraft:ore_metal_poor 6"/>
+    </asteroid>
+    <asteroid distance="195" mass="1024" massVariability="0" minLevel="0" name="Huge Iron" probability="0.2" richness="0.3" richnessVariability="0.25">
+        <ore chance="65" itemStack="minecraft:iron_ore"/>
+        <ore chance="10" itemStack="railcraft:ore_metal_poor"/>
+        <ore chance="15" itemStack="railcraft:ore_metal 4"/>
+        <ore chance="10" itemStack="railcraft:ore_metal_poor 6"/>
+    </asteroid>
+    <asteroid distance="35" mass="64" massVariability="0" minLevel="0" name="Tiny Lead" probability="1.0" richness="0.1" richnessVariability="0.25">
+        <ore chance="50" itemStack="railcraft:ore_metal 2"/>
+        <ore chance="25" itemStack="bigreactors:oreyellorite"/>
+        <ore chance="15" itemStack="railcraft:ore_metal_poor 5"/>
+        <ore chance="10" itemStack="railcraft:ore_metal 3"/>
+    </asteroid>
+    <asteroid distance="75" mass="128" massVariability="0" minLevel="0" name="Small Lead" probability="0.8" richness="0.15" richnessVariability="0.25">
+        <ore chance="50" itemStack="railcraft:ore_metal 2"/>
+        <ore chance="25" itemStack="bigreactors:oreyellorite"/>
+        <ore chance="15" itemStack="railcraft:ore_metal_poor 5"/>
+        <ore chance="10" itemStack="railcraft:ore_metal 3"/>
+    </asteroid>
+    <asteroid distance="115" mass="256" massVariability="0" minLevel="0" name="Medium Lead" probability="0.6" richness="0.2" richnessVariability="0.25">
+        <ore chance="50" itemStack="railcraft:ore_metal 2"/>
+        <ore chance="25" itemStack="bigreactors:oreyellorite"/>
+        <ore chance="15" itemStack="railcraft:ore_metal_poor 5"/>
+        <ore chance="10" itemStack="railcraft:ore_metal 3"/>
+    </asteroid>
+    <asteroid distance="155" mass="512" massVariability="0" minLevel="0" name="Large Lead" probability="0.4" richness="0.25" richnessVariability="0.25">
+        <ore chance="50" itemStack="railcraft:ore_metal 2"/>
+        <ore chance="25" itemStack="bigreactors:oreyellorite"/>
+        <ore chance="15" itemStack="railcraft:ore_metal_poor 5"/>
+        <ore chance="10" itemStack="railcraft:ore_metal 3"/>
+    </asteroid>
+    <asteroid distance="195" mass="1024" massVariability="0" minLevel="0" name="Huge Lead" probability="0.2" richness="0.3" richnessVariability="0.25">
+        <ore chance="50" itemStack="railcraft:ore_metal 2"/>
+        <ore chance="25" itemStack="bigreactors:oreyellorite"/>
+        <ore chance="15" itemStack="railcraft:ore_metal_poor 5"/>
+        <ore chance="10" itemStack="railcraft:ore_metal 3"/>
+    </asteroid>
+    <asteroid distance="35" mass="64" massVariability="0" minLevel="0" name="Tiny Nickel" probability="1.0" richness="0.1" richnessVariability="0.25">
+        <ore chance="75" itemStack="railcraft:ore_metal 4"/>
+        <ore chance="20" itemStack="minecraft:iron_ore"/>
+        <ore chance="4" itemStack="thermalfoundation:ore 6"/>
+        <ore chance="1" itemStack="libvulpes:ore0 10"/>
+    </asteroid>
+    <asteroid distance="75" mass="128" massVariability="0" minLevel="0" name="Small Nickel" probability="0.8" richness="0.15" richnessVariability="0.25">
+        <ore chance="75" itemStack="railcraft:ore_metal 4"/>
+        <ore chance="20" itemStack="minecraft:iron_ore"/>
+        <ore chance="4" itemStack="thermalfoundation:ore 6"/>
+        <ore chance="1" itemStack="libvulpes:ore0 10"/>
+    </asteroid>
+    <asteroid distance="115" mass="256" massVariability="0" minLevel="0" name="Medium Nickel" probability="0.6" richness="0.2" richnessVariability="0.25">
+        <ore chance="75" itemStack="railcraft:ore_metal 4"/>
+        <ore chance="20" itemStack="minecraft:iron_ore"/>
+        <ore chance="4" itemStack="thermalfoundation:ore 6"/>
+        <ore chance="1" itemStack="libvulpes:ore0 10"/>
+    </asteroid>
+    <asteroid distance="155" mass="512" massVariability="0" minLevel="0" name="Large Nickel" probability="0.4" richness="0.25" richnessVariability="0.25">
+        <ore chance="75" itemStack="railcraft:ore_metal 4"/>
+        <ore chance="20" itemStack="minecraft:iron_ore"/>
+        <ore chance="4" itemStack="thermalfoundation:ore 6"/>
+        <ore chance="1" itemStack="libvulpes:ore0 10"/>
+    </asteroid>
+    <asteroid distance="195" mass="1024" massVariability="0" minLevel="0" name="Huge Nickel" probability="0.2" richness="0.3" richnessVariability="0.25">
+        <ore chance="75" itemStack="railcraft:ore_metal 4"/>
+        <ore chance="20" itemStack="minecraft:iron_ore"/>
+        <ore chance="4" itemStack="thermalfoundation:ore 6"/>
+        <ore chance="1" itemStack="libvulpes:ore0 10"/>
+    </asteroid>
+    <asteroid distance="35" mass="64" massVariability="0" minLevel="0" name="Tiny Silver" probability="1.0" richness="0.1" richnessVariability="0.25">
+        <ore chance="34" itemStack="minecraft:stone"/>
+        <ore chance="23" itemStack="railcraft:ore_metal_poor 5"/>
+        <ore chance="10" itemStack="railcraft:ore_metal 3"/>
+        <ore chance="23" itemStack="railcraft:ore_metal_poor 1"/>
+        <ore chance="10" itemStack="minecraft:gold_ore"/>
+    </asteroid>
+    <asteroid distance="75" mass="128" massVariability="0" minLevel="0" name="Small Silver" probability="0.8" richness="0.15" richnessVariability="0.25">
+        <ore chance="34" itemStack="minecraft:stone"/>
+        <ore chance="23" itemStack="railcraft:ore_metal_poor 5"/>
+        <ore chance="10" itemStack="railcraft:ore_metal 3"/>
+        <ore chance="23" itemStack="railcraft:ore_metal_poor 1"/>
+        <ore chance="10" itemStack="minecraft:gold_ore"/>
+    </asteroid>
+    <asteroid distance="115" mass="256" massVariability="0" minLevel="0" name="Medium Silver" probability="0.6" richness="0.2" richnessVariability="0.25">
+        <ore chance="34" itemStack="minecraft:stone"/>
+        <ore chance="23" itemStack="railcraft:ore_metal_poor 5"/>
+        <ore chance="10" itemStack="railcraft:ore_metal 3"/>
+        <ore chance="23" itemStack="railcraft:ore_metal_poor 1"/>
+        <ore chance="10" itemStack="minecraft:gold_ore"/>
+    </asteroid>
+    <asteroid distance="155" mass="512" massVariability="0" minLevel="0" name="Large Silver" probability="0.4" richness="0.25" richnessVariability="0.25">
+        <ore chance="34" itemStack="minecraft:stone"/>
+        <ore chance="23" itemStack="railcraft:ore_metal_poor 5"/>
+        <ore chance="10" itemStack="railcraft:ore_metal 3"/>
+        <ore chance="23" itemStack="railcraft:ore_metal_poor 1"/>
+        <ore chance="10" itemStack="minecraft:gold_ore"/>
+    </asteroid>
+    <asteroid distance="195" mass="1024" massVariability="0" minLevel="0" name="Huge Silver" probability="0.2" richness="0.3" richnessVariability="0.25">
+        <ore chance="34" itemStack="minecraft:stone"/>
+        <ore chance="23" itemStack="railcraft:ore_metal_poor 5"/>
+        <ore chance="10" itemStack="railcraft:ore_metal 3"/>
+        <ore chance="23" itemStack="railcraft:ore_metal_poor 1"/>
+        <ore chance="10" itemStack="minecraft:gold_ore"/>
+    </asteroid>
+    <asteroid distance="35" mass="64" massVariability="0" minLevel="0" name="Tiny Tin" probability="1.0" richness="0.1" richnessVariability="0.25">
+        <ore chance="55" itemStack="railcraft:ore_metal 1"/>
+        <ore chance="20" itemStack="railcraft:ore_metal 5"/>
+        <ore chance="15" itemStack="railcraft:ore_metal_poor 3"/>
+        <ore chance="5" itemStack="railcraft:ore_metal_poor 7"/>
+    </asteroid>
+    <asteroid distance="75" mass="128" massVariability="0" minLevel="0" name="Small Tin" probability="0.8" richness="0.15" richnessVariability="0.25">
+        <ore chance="55" itemStack="railcraft:ore_metal 1"/>
+        <ore chance="20" itemStack="railcraft:ore_metal 5"/>
+        <ore chance="15" itemStack="railcraft:ore_metal_poor 3"/>
+        <ore chance="5" itemStack="railcraft:ore_metal_poor 7"/>
+    </asteroid>
+    <asteroid distance="115" mass="256" massVariability="0" minLevel="0" name="Medium Tin" probability="0.6" richness="0.2" richnessVariability="0.25">
+        <ore chance="55" itemStack="railcraft:ore_metal 1"/>
+        <ore chance="20" itemStack="railcraft:ore_metal 5"/>
+        <ore chance="15" itemStack="railcraft:ore_metal_poor 3"/>
+        <ore chance="5" itemStack="railcraft:ore_metal_poor 7"/>
+    </asteroid>
+    <asteroid distance="155" mass="512" massVariability="0" minLevel="0" name="Large Tin" probability="0.4" richness="0.25" richnessVariability="0.25">
+        <ore chance="55" itemStack="railcraft:ore_metal 1"/>
+        <ore chance="20" itemStack="railcraft:ore_metal 5"/>
+        <ore chance="15" itemStack="railcraft:ore_metal_poor 3"/>
+        <ore chance="5" itemStack="railcraft:ore_metal_poor 7"/>
+    </asteroid>
+    <asteroid distance="195" mass="1024" massVariability="0" minLevel="0" name="Huge Tin" probability="0.2" richness="0.3" richnessVariability="0.25">
+        <ore chance="55" itemStack="railcraft:ore_metal 1"/>
+        <ore chance="20" itemStack="railcraft:ore_metal 5"/>
+        <ore chance="15" itemStack="railcraft:ore_metal_poor 3"/>
+        <ore chance="5" itemStack="railcraft:ore_metal_poor 7"/>
+    </asteroid>
+    <asteroid distance="35" mass="64" massVariability="0" minLevel="0" name="Tiny Titanium" probability="1.0" richness="0.1" richnessVariability="0.25">
+        <ore chance="100" itemStack="libvulpes:ore0 8"/>
+    </asteroid>
+    <asteroid distance="75" mass="128" massVariability="0" minLevel="0" name="Small Titanium" probability="0.8" richness="0.15" richnessVariability="0.25">
+        <ore chance="100" itemStack="libvulpes:ore0 8"/>
+    </asteroid>
+    <asteroid distance="115" mass="256" massVariability="0" minLevel="0" name="Medium Titanium" probability="0.6" richness="0.2" richnessVariability="0.25">
+        <ore chance="100" itemStack="libvulpes:ore0 8"/>
+    </asteroid>
+    <asteroid distance="155" mass="512" massVariability="0" minLevel="0" name="Large Titanium" probability="0.4" richness="0.25" richnessVariability="0.25">
+        <ore chance="100" itemStack="libvulpes:ore0 8"/>
+    </asteroid>
+    <asteroid distance="195" mass="1024" massVariability="0" minLevel="0" name="Huge Titanium" probability="0.2" richness="0.3" richnessVariability="0.25">
+        <ore chance="100" itemStack="libvulpes:ore0 8"/>
+    </asteroid>
 </Asteroids>

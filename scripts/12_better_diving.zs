@@ -128,14 +128,12 @@ recipes.addShaped(<better_diving:seabase_ladder> * 3, [
 JEI.removeAndHide(<better_diving:seaglide>);
 
 # SeaMoth — replace with more difficult recipe
-# recipes.remove(<better_diving:seamoth>);
-# recipes.addShaped(<better_diving:seamoth>, [
-#     [<ore:blockGlassHardened>, <better_diving:silicone_rubber>, <ore:plateTitaniumAluminide>],
-#     [<better_diving:silicone_rubber>, <advancedrocketry:structuretower>, <better_diving:power_cell>],
-#     [<ore:plateTitaniumAluminide>, <better_diving:high_capacity_o2_tank>, <vehicle:electric_engine:4>],
-# ]);
-# Disabled because there's no way to charge these things right now.
-JEI.removeAndHide(<better_diving:seamoth>);
+recipes.remove(<better_diving:seamoth>);
+recipes.addShaped(<better_diving:seamoth>, [
+    [<ore:blockGlassHardened>, <better_diving:silicone_rubber>, <ore:plateTitaniumAluminide>],
+    [<better_diving:silicone_rubber>, <advancedrocketry:structuretower>, <better_diving:power_cell>],
+    [<ore:plateTitaniumAluminide>, <better_diving:high_capacity_o2_tank>, <vehicle:electric_engine:4>],
+]);
 
 # Silicone Rubber -- add recipe for using just the leaves
 recipes.addShapeless(<better_diving:silicone_rubber>, [<better_diving:creepvine>, <better_diving:creepvine>]);

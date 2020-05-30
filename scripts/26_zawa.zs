@@ -123,6 +123,14 @@ for item in zawaRawVenison {
     <ore:listAllvenisonraw>.add(item);
 }
 
+# Salt Lick -- use salt instead of sugar
+recipes.remove(<zawa:salt_lick>);
+recipes.addShaped(<zawa:salt_lick>, [
+    [null, <ore:stickWood>, null],
+    [<ore:foodSalt>, <ore:stickWood>, <ore:foodSalt>],
+    [<ore:foodSalt>, <ore:foodSalt>, <ore:foodSalt>],
+]);
+
 # Steel Bars -- actually require steel
 recipes.remove(<zawa:steel_bars>);
 recipes.addShaped(<zawa:steel_bars>, [

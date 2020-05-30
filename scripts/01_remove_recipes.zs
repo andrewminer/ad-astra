@@ -5,7 +5,6 @@ import mods.jei.JEI;
 
 # Advanced Rocketry -- Titanium Iridium Alloy Gear -- remove unused gear
 JEI.removeAndHide(<advancedrocketry:productgear:1>);
-JEI.removeAndHide(<advancedrocketry:jetpack>);
 
 # Chisel -- Block of Charcoal -- remove recipe which conflicts with TE
 recipes.remove(<chisel:block_charcoal>);

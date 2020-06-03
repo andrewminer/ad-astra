@@ -10,8 +10,11 @@ var dilithiumDust as IItemStack = <libvulpes:productdust:0>;
 var dilithiumOre as IItemStack = <libvulpes:ore0:0>;
 
 recipes.remove(dilithiumCrystal);
-Pulverizer.removeRecipe(dilithiumCrystal);
+Pulverizer.removeRecipe(dilithiumOre);
 Pulverizer.addRecipe(dilithiumDust * 2, dilithiumOre, 4000);
+
+# Carbon Brick -- allow pulverizing back to charcoal
+Pulverizer.addRecipe(<minecraft:coal:1> * 6, <advancedrocketry:misc:1>, 2000);
 
 # Concrete -- change recipe to match proportions from vanilla
 recipes.remove(<advancedrocketry:concrete>);

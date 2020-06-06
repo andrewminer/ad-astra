@@ -2299,13 +2299,13 @@
         "mobs": [
             {
                 "mob": "minecraft:giant",
-                "weight": 580
+                "weight": 500
             },
             {
                 "mob": "minecraft:enderman",
-                "groupcountmin": 2,
-                "groupcountmax": 3,
-                "weight": 20
+                "groupcountmin": 1,
+                "groupcountmax": 4,
+                "weight": 100
             }
         ]
     },
@@ -2409,6 +2409,65 @@
         ]
     },
     {
+        "biome": [
+            "Beach",
+            "Birch Forest",
+            "Birch Forest Hills",
+            "Birch Forest Hills M",
+            "Birch Forest M",
+            "Cold Beach",
+            "Cold Taiga",
+            "Cold Taiga Hills",
+            "Cold Taiga M",
+            "CrystalChasms",
+            "Deep Ocean",
+            "DeepSwamp",
+            "Desert",
+            "Desert M",
+            "DesertHills",
+            "Extreme Hills",
+            "Extreme Hills Edge",
+            "Extreme Hills M",
+            "Extreme Hills+",
+            "Extreme Hills+ M",
+            "Flower Forest",
+            "Forest",
+            "ForestHills",
+            "FrozenOcean",
+            "FrozenRiver",
+            "Ice Mountains",
+            "Ice Plains",
+            "Ice Plains Spikes",
+            "Jungle",
+            "Jungle M",
+            "JungleEdge",
+            "JungleEdge M",
+            "JungleHills",
+            "Marsh",
+            "Mega Spruce Taiga",
+            "Mega Taiga",
+            "Mega Taiga Hills",
+            "MushroomIsland",
+            "MushroomIslandShore",
+            "Ocean",
+            "OceanSpires",
+            "Plains",
+            "Redwood Taiga Hills M",
+            "River",
+            "Roofed Forest",
+            "Roofed Forest M",
+            "Savanna",
+            "Savanna M",
+            "Savanna Plateau",
+            "Savanna Plateau M",
+            "Stone Beach",
+            "Sunflower Plains",
+            "Swampland",
+            "Swampland M",
+            "Taiga",
+            "Taiga M",
+            "TaigaHills"
+        ],
         "block": [
             "minecraft:grass",
             "minecraft:dirt",

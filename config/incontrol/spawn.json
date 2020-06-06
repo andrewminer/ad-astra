@@ -21,7 +21,7 @@
             "zawa:tigershark",
             "zawa:orca"
         ],
-        "biomes": [
+        "biome": [
             "Ocean"
         ],
         "mincount": {
@@ -49,7 +49,7 @@
             "zawa:octopus",
             "zawa:orca"
         ],
-        "biomes": [
+        "biome": [
             "FrozenOcean"
         ],
         "mincount": {
@@ -69,7 +69,7 @@
             "zawa:cichlid",
             "zawa:japanesegiantsalamander"
         ],
-        "biomes": [
+        "biome": [
             "DeepSwamp",
             "Marsh",
             "Swampland",
@@ -94,7 +94,7 @@
             "zawa:greenanaconda",
             "zawa:jaguar"
         ],
-        "biomes": [
+        "biome": [
             "DeepSwamp",
             "Marsh",
             "Swampland",
@@ -120,7 +120,7 @@
             "zawa:pygmyhippopotamus",
             "zawa:westernlowlandgorilla"
         ],
-        "biomes": [
+        "biome": [
             "Roofed Forest",
             "Roofed Forest M"
         ],
@@ -144,7 +144,7 @@
             "mowziesmobs:lantern",
             "minecraft:spider"
         ],
-        "biomes": [
+        "biome": [
             "Roofed Forest",
             "Roofed Forest M"
         ],
@@ -181,7 +181,7 @@
             "mowziesmobs:foliaath",
             "mowziesmobs:baby_foliaath"
         ],
-        "biomes": [
+        "biome": [
             "Jungle",
             "Jungle M",
             "JungleEdge",
@@ -226,7 +226,7 @@
             "mowziesmobs:foliaath",
             "mowziesmobs:baby_foliaath"
         ],
-        "biomes": [
+        "biome": [
             "Jungle",
             "Jungle M",
             "JungleEdge",
@@ -261,7 +261,7 @@
             "zawa:humpbackwhale",
             "zawa:greatwhiteshark"
         ],
-        "biomes": [
+        "biome": [
             "Deep Ocean"
         ],
         "mincount": {
@@ -287,7 +287,7 @@
             "zawa:pufferfish",
             "zawa:japanesegiantsalamander"
         ],
-        "biomes": [
+        "biome": [
             "River"
         ],
         "mincount": {
@@ -309,7 +309,7 @@
             "zawa:platypus",
             "minecraft:slime"
         ],
-        "biomes": [
+        "biome": [
             "DeepSwamp",
             "Marsh",
             "Swampland",
@@ -330,7 +330,7 @@
         "mob": [
             "minecraft:slime"
         ],
-        "biomes": [
+        "biome": [
             "DeepSwamp",
             "Marsh",
             "Swampland",
@@ -351,7 +351,7 @@
             "zawa:greathornedowl",
             "minecraft:wolf"
         ],
-        "biomes": [
+        "biome": [
             "Cold Taiga",
             "Cold Taiga Hills",
             "Cold Taiga M",
@@ -378,7 +378,7 @@
         "mob": [
             "minecraft:enderman"
         ],
-        "biomes": [
+        "biome": [
             "The End"
         ],
         "mincount": {
@@ -398,7 +398,7 @@
             "zawa:cassowary",
             "zawa:baldeagle"
         ],
-        "biomes": [
+        "biome": [
             "Birch Forest",
             "Birch Forest Hills",
             "Birch Forest Hills M",
@@ -426,7 +426,7 @@
             "zawa:greathornedowl",
             "zawa:tasmaniandevil"
         ],
-        "biomes": [
+        "biome": [
             "Birch Forest",
             "Birch Forest Hills",
             "Birch Forest Hills M",
@@ -451,7 +451,7 @@
             "minecraft:llama",
             "zawa:andeancondor"
         ],
-        "biomes": [
+        "biome": [
             "Extreme Hills",
             "Extreme Hills Edge",
             "Extreme Hills M"
@@ -470,7 +470,7 @@
         "mob": [
             "thermalfoundation:basalz"
         ],
-        "biomes": [
+        "biome": [
             "Extreme Hills",
             "Extreme Hills Edge",
             "Extreme Hills M"
@@ -491,7 +491,7 @@
             "zawa:moose",
             "zawa:grizzlybear"
         ],
-        "biomes": [
+        "biome": [
             "Cold Taiga",
             "Cold Taiga Hills",
             "Cold Taiga M",
@@ -520,7 +520,7 @@
             "zawa:americanbison",
             "horse_colors:horse_felinoid"
         ],
-        "biomes": [
+        "biome": [
             "Plains",
             "Sunflower Plains"
         ],
@@ -538,7 +538,7 @@
         "mob": [
             "minecraft:rabbit"
         ],
-        "biomes": [
+        "biome": [
             "Plains",
             "Sunflower Plains"
         ],
@@ -555,7 +555,7 @@
         "mob": [
             "minecraft:blaze"
         ],
-        "biomes": [
+        "biome": [
             "Mesa",
             "Mesa (Bryce)",
             "Mesa Plateau",
@@ -577,7 +577,7 @@
             "minecraft:sheep",
             "minecraft:mule"
         ],
-        "biomes": [
+        "biome": [
             "Extreme Hills+",
             "Extreme Hills+ M"
         ],
@@ -597,7 +597,7 @@
             "zawa:redpanda",
             "minecraft:wolf"
         ],
-        "biomes": [
+        "biome": [
             "Extreme Hills+",
             "Extreme Hills+ M"
         ],
@@ -616,7 +616,7 @@
         "mob": [
             "minecraft:rabbit"
         ],
-        "biomes": [
+        "biome": [
             "Extreme Hills+",
             "Extreme Hills+ M"
         ],
@@ -633,7 +633,7 @@
         "mob": [
             "minecraft:mooshroom"
         ],
-        "biomes": [
+        "biome": [
             "MushroomIsland",
             "MushroomIslandShore"
         ],
@@ -652,7 +652,7 @@
             "minecraft:zombie",
             "minecraft:zombie_villager"
         ],
-        "biomes": [
+        "biome": [
             "Hell"
         ],
         "mincount": {
@@ -671,7 +671,7 @@
             "zawa:sockeyesalmon",
             "zawa:bluefish"
         ],
-        "biomes": [
+        "biome": [
             "FrozenRiver"
         ],
         "mincount": {
@@ -693,7 +693,7 @@
             "zawa:reticulatedgiraffe",
             "zawa:commonchimpanzee"
         ],
-        "biomes": [
+        "biome": [
             "Savanna",
             "Savanna M",
             "Savanna Plateau",
@@ -720,7 +720,7 @@
             "zawa:reticulatedgiraffe",
             "zawa:blackrhinoceros"
         ],
-        "biomes": [
+        "biome": [
             "Savanna",
             "Savanna M",
             "Savanna Plateau",
@@ -744,7 +744,7 @@
             "minecraft:bat",
             "minecraft:cave_spider"
         ],
-        "biomes": [
+        "biome": [
             "Beach",
             "Birch Forest",
             "Birch Forest Hills",
@@ -822,7 +822,7 @@
             "zawa:galapagostortoise",
             "zawa:albatross"
         ],
-        "biomes": [
+        "biome": [
             "Beach"
         ],
         "mincount": {
@@ -844,7 +844,7 @@
             "zawa:redkangaroo",
             "zawa:rattlesnake"
         ],
-        "biomes": [
+        "biome": [
             "Desert",
             "Desert M",
             "DesertHills"
@@ -864,7 +864,7 @@
         "mob": [
             "minecraft:rabbit"
         ],
-        "biomes": [
+        "biome": [
             "Roofed Forest",
             "Roofed Forest M"
         ],
@@ -881,7 +881,7 @@
         "mob": [
             "thermalfoundation:blizz"
         ],
-        "biomes": [
+        "biome": [
             "Ice Plains Spikes"
         ],
         "mincount": {
@@ -898,7 +898,7 @@
             "thermalfoundation:blizz",
             "mowziesmobs:frostmaw"
         ],
-        "biomes": [
+        "biome": [
             "Ice Plains Spikes"
         ],
         "mincount": {
@@ -916,7 +916,7 @@
             "minecraft:rabbit",
             "zawa:amurleopard"
         ],
-        "biomes": [
+        "biome": [
             "Birch Forest",
             "Birch Forest Hills",
             "Birch Forest Hills M",
@@ -941,7 +941,7 @@
             "zawa:rattlesnake",
             "zawa:komododragon"
         ],
-        "biomes": [
+        "biome": [
             "Mesa",
             "Mesa (Bryce)",
             "Mesa Plateau",
@@ -965,7 +965,7 @@
             "zawa:redkangaroo",
             "zawa:rattlesnake"
         ],
-        "biomes": [
+        "biome": [
             "Mesa",
             "Mesa (Bryce)",
             "Mesa Plateau",
@@ -991,7 +991,7 @@
             "minecraft:donkey",
             "minecraft:villager_golem"
         ],
-        "biomes": [
+        "biome": [
             "Beach",
             "Birch Forest",
             "Birch Forest Hills",
@@ -1045,7 +1045,7 @@
         "mob": [
             "minecraft:rabbit"
         ],
-        "biomes": [
+        "biome": [
             "Cold Taiga",
             "Cold Taiga Hills",
             "Cold Taiga M",
@@ -1070,7 +1070,7 @@
         "mob": [
             "minecraft:blaze"
         ],
-        "biomes": [
+        "biome": [
             "Desert",
             "Desert M",
             "DesertHills"
@@ -1088,7 +1088,7 @@
         "mob": [
             "minecraft:blaze"
         ],
-        "biomes": [
+        "biome": [
             "Desert",
             "Desert M",
             "DesertHills"
@@ -1106,7 +1106,7 @@
         "mob": [
             "mowziesmobs:grottol"
         ],
-        "biomes": [
+        "biome": [
             "NotDryRock"
         ],
         "mincount": {
@@ -1122,7 +1122,7 @@
         "mob": [
             "minecraft:blaze"
         ],
-        "biomes": [
+        "biome": [
             "Mesa",
             "Mesa (Bryce)",
             "Mesa Plateau",
@@ -1143,7 +1143,7 @@
         "mob": [
             "minecraft:villager_golem"
         ],
-        "biomes": [
+        "biome": [
             "Extreme Hills",
             "Extreme Hills Edge",
             "Extreme Hills M"
@@ -1161,7 +1161,7 @@
         "mob": [
             "thermalfoundation:basalz"
         ],
-        "biomes": [
+        "biome": [
             "Extreme Hills",
             "Extreme Hills Edge",
             "Extreme Hills M"
@@ -1179,7 +1179,7 @@
         "mob": [
             "thermalfoundation:blitz"
         ],
-        "biomes": [
+        "biome": [
             "Plains",
             "Savanna",
             "Savanna M",
@@ -1200,7 +1200,7 @@
         "mob": [
             "thermalfoundation:blitz"
         ],
-        "biomes": [
+        "biome": [
             "Plains",
             "Savanna",
             "Savanna M",
@@ -1221,7 +1221,7 @@
         "mob": [
             "mowziesmobs:grottol"
         ],
-        "biomes": [
+        "biome": [
             "DeepSwamp",
             "Marsh",
             "Swampland",
@@ -1240,7 +1240,7 @@
         "mob": [
             "thermalfoundation:blizz"
         ],
-        "biomes": [
+        "biome": [
             "CrystalChasms",
             "Ice Mountains",
             "Ice Plains"
@@ -1258,7 +1258,7 @@
         "mob": [
             "thermalfoundation:blizz"
         ],
-        "biomes": [
+        "biome": [
             "CrystalChasms",
             "Ice Mountains",
             "Ice Plains"
@@ -1276,7 +1276,7 @@
         "mob": [
             "minecraft:bat"
         ],
-        "biomes": [
+        "biome": [
             "Beach",
             "Birch Forest",
             "Birch Forest Hills",
@@ -1350,7 +1350,7 @@
             "zawa:albatross",
             "zawa:polarbear"
         ],
-        "biomes": [
+        "biome": [
             "Cold Beach"
         ],
         "mincount": {
@@ -1369,7 +1369,7 @@
             "zawa:frigate",
             "zawa:albatross"
         ],
-        "biomes": [
+        "biome": [
             "OceanSpires",
             "Stone Beach"
         ],
@@ -1387,7 +1387,7 @@
         "mob": [
             "zawa:brownrat"
         ],
-        "biomes": [
+        "biome": [
             "Beach",
             "Birch Forest",
             "Birch Forest Hills",
@@ -1437,7 +1437,7 @@
         "mob": [
             "zawa:sumatranrhinoceros"
         ],
-        "biomes": [
+        "biome": [
             "DeepSwamp",
             "Marsh",
             "Swampland",
@@ -1456,7 +1456,7 @@
         "mob": [
             "minecraft:wolf"
         ],
-        "biomes": [
+        "biome": [
             "Extreme Hills",
             "Extreme Hills Edge",
             "Extreme Hills M"
@@ -1474,7 +1474,7 @@
         "mob": [
             "zawa:africanlion"
         ],
-        "biomes": [
+        "biome": [
             "Savanna",
             "Savanna M",
             "Savanna Plateau",
@@ -1493,7 +1493,7 @@
         "mob": [
             "zawa:rattlesnake"
         ],
-        "biomes": [
+        "biome": [
             "Desert",
             "Desert M",
             "DesertHills"
@@ -1511,7 +1511,7 @@
         "mob": [
             "mowziesmobs:naga"
         ],
-        "biomes": [
+        "biome": [
             "Extreme Hills",
             "Extreme Hills Edge",
             "Extreme Hills M"
@@ -1529,7 +1529,7 @@
         "mob": [
             "minecraft:villager"
         ],
-        "biomes": [
+        "biome": [
             "Beach",
             "Birch Forest",
             "Birch Forest Hills",
@@ -1579,7 +1579,7 @@
         "mob": [
             "zawa:polarbear"
         ],
-        "biomes": [
+        "biome": [
             "CrystalChasms",
             "Ice Mountains",
             "Ice Plains"
@@ -1597,7 +1597,7 @@
         "mob": [
             "minecraft:rabbit"
         ],
-        "biomes": [
+        "biome": [
             "Desert",
             "Desert M",
             "DesertHills"
@@ -1616,7 +1616,7 @@
             "minecraft:rabbit",
             "zawa:gilamonster"
         ],
-        "biomes": [
+        "biome": [
             "Mesa",
             "Mesa (Bryce)",
             "Mesa Plateau",
@@ -1638,7 +1638,7 @@
         "mob": [
             "mowziesmobs:frostmaw"
         ],
-        "biomes": [
+        "biome": [
             "CrystalChasms",
             "Ice Mountains",
             "Ice Plains"
@@ -1656,6 +1656,65 @@
         "mob": [
             "minecraft:enderman"
         ],
+        "biome": [
+            "Beach",
+            "Birch Forest",
+            "Birch Forest Hills",
+            "Birch Forest Hills M",
+            "Birch Forest M",
+            "Cold Beach",
+            "Cold Taiga",
+            "Cold Taiga Hills",
+            "Cold Taiga M",
+            "CrystalChasms",
+            "Deep Ocean",
+            "DeepSwamp",
+            "Desert",
+            "Desert M",
+            "DesertHills",
+            "Extreme Hills",
+            "Extreme Hills Edge",
+            "Extreme Hills M",
+            "Extreme Hills+",
+            "Extreme Hills+ M",
+            "Flower Forest",
+            "Forest",
+            "ForestHills",
+            "FrozenOcean",
+            "FrozenRiver",
+            "Ice Mountains",
+            "Ice Plains",
+            "Ice Plains Spikes",
+            "Jungle",
+            "Jungle M",
+            "JungleEdge",
+            "JungleEdge M",
+            "JungleHills",
+            "Marsh",
+            "Mega Spruce Taiga",
+            "Mega Taiga",
+            "Mega Taiga Hills",
+            "MushroomIsland",
+            "MushroomIslandShore",
+            "Ocean",
+            "OceanSpires",
+            "Plains",
+            "Redwood Taiga Hills M",
+            "River",
+            "Roofed Forest",
+            "Roofed Forest M",
+            "Savanna",
+            "Savanna M",
+            "Savanna Plateau",
+            "Savanna Plateau M",
+            "Stone Beach",
+            "Sunflower Plains",
+            "Swampland",
+            "Swampland M",
+            "Taiga",
+            "Taiga M",
+            "TaigaHills"
+        ],
         "mincount": {
             "amount": 2,
             "perperson": true,
@@ -1669,7 +1728,7 @@
         "mob": [
             "minecraft:witch"
         ],
-        "biomes": [
+        "biome": [
             "DeepSwamp",
             "Marsh",
             "Swampland",
@@ -8312,7 +8371,7 @@
         ],
         "maxcount": {
             "mob": "minecraft:enderman",
-            "amount": 30,
+            "amount": 80,
             "perplayer": true
         },
         "result": "allow"
@@ -8447,6 +8506,65 @@
     },
     {
         "mob": "minecraft:enderman",
+        "biome": [
+            "Beach",
+            "Birch Forest",
+            "Birch Forest Hills",
+            "Birch Forest Hills M",
+            "Birch Forest M",
+            "Cold Beach",
+            "Cold Taiga",
+            "Cold Taiga Hills",
+            "Cold Taiga M",
+            "CrystalChasms",
+            "Deep Ocean",
+            "DeepSwamp",
+            "Desert",
+            "Desert M",
+            "DesertHills",
+            "Extreme Hills",
+            "Extreme Hills Edge",
+            "Extreme Hills M",
+            "Extreme Hills+",
+            "Extreme Hills+ M",
+            "Flower Forest",
+            "Forest",
+            "ForestHills",
+            "FrozenOcean",
+            "FrozenRiver",
+            "Ice Mountains",
+            "Ice Plains",
+            "Ice Plains Spikes",
+            "Jungle",
+            "Jungle M",
+            "JungleEdge",
+            "JungleEdge M",
+            "JungleHills",
+            "Marsh",
+            "Mega Spruce Taiga",
+            "Mega Taiga",
+            "Mega Taiga Hills",
+            "MushroomIsland",
+            "MushroomIslandShore",
+            "Ocean",
+            "OceanSpires",
+            "Plains",
+            "Redwood Taiga Hills M",
+            "River",
+            "Roofed Forest",
+            "Roofed Forest M",
+            "Savanna",
+            "Savanna M",
+            "Savanna Plateau",
+            "Savanna Plateau M",
+            "Stone Beach",
+            "Sunflower Plains",
+            "Swampland",
+            "Swampland M",
+            "Taiga",
+            "Taiga M",
+            "TaigaHills"
+        ],
         "blocks": [
             "minecraft:grass",
             "minecraft:dirt",

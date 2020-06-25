@@ -47,7 +47,7 @@
   "menu_add_mail_menu": true,
   "menu_add_market_menu": true,
   "menu_add_notifications": false,
-  "menu_add_players_list": false,
+  "menu_add_players_list": true,
   "menu_add_privileges": false,
   "menu_add_settings": true,
   "menu_add_shop_menu": false,

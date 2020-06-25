@@ -167,6 +167,9 @@ recipes.addShaped(pigment("yellow") * 7, [
     [<ore:cropMustard>, mortar, <ore:cropMustard>],
 ]);
 
+# switch to a re-usable mortar for the follow recipes
+mortar = <harvestcraft:mortarandpestleitem>.reuse();
+
 # Add recipes to crush various plants into pigments
 recipes.addShapeless(pigment("blue"), [mortar, <harvestcraft:blueberryitem>]);
 recipes.addShapeless(pigment("cyan"), [mortar, <harvestcraft:candleberryitem>]);

@@ -41,7 +41,7 @@ USAGE: $(basename $0)
 END
 
 BASE_DIR="$(cd "$(dirname "$0")"; pwd)"
-JAVA="/Library/Internet Plug-Ins/JavaAppletPlugin.plugin/Contents/Home/bin/java"
+JAVA=$(which java)
 
 # Helper Functions ####################################################################################################
 
@@ -227,15 +227,15 @@ function command-start {
         ls ../../mods/ | grep -v "client.jar$" | while read FILE; do cp -r ../../mods/$FILE $FILE; done
         cd ..
 
-        if [[ -e "server.log" ]]; then
-            zip -r9 "logs/$(date +'%Y-%m-%d-%H-%M')-server.log" server.log
-        fi
         cd logs
+        if [[ -e "server.log" ]]; then
+            zip -r9 "$(date +'%Y-%m-%d-%H-%M')-server.log" server.log
+        fi
         ls -t "*-server.log" 2>/dev/null | awk 'NR>5' | while read FILE; do rm $FILE; done
         cd ..
 
         tail -n 0 -F stdin \
-            | "$JAVA" -XX:+UseG1GC -Xmx6G -Xms6G \
+            | "$JAVA" -XX:+UseG1GC -Xmx3G -Xms3G \
                 -Dsun.rmi.dgc.server.gcInterval=2147483646 \
                 -Dfml.queryResult=confirm \
                 -XX:+UnlockExperimentalVMOptions \

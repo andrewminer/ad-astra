@@ -88,33 +88,6 @@
     },
     {
         "mob": [
-            "zawa:indiangharial",
-            "minecraft:slime",
-            "zawa:nilehippopotamus",
-            "zawa:greenanaconda",
-            "zawa:jaguar"
-        ],
-        "biome": [
-            "DeepSwamp",
-            "Marsh",
-            "Swampland",
-            "Swampland M"
-        ],
-        "mincount": {
-            "amount": 96,
-            "perperson": true,
-            "mob": [
-                "zawa:indiangharial",
-                "minecraft:slime",
-                "zawa:nilehippopotamus",
-                "zawa:greenanaconda",
-                "zawa:jaguar"
-            ]
-        },
-        "result": "deny"
-    },
-    {
-        "mob": [
             "zawa:echidna",
             "minecraft:mooshroom",
             "zawa:pygmyhippopotamus",
@@ -306,8 +279,7 @@
     {
         "mob": [
             "zawa:indiangharial",
-            "zawa:platypus",
-            "minecraft:slime"
+            "zawa:platypus"
         ],
         "biome": [
             "DeepSwamp",
@@ -320,8 +292,36 @@
             "perperson": true,
             "mob": [
                 "zawa:indiangharial",
-                "zawa:platypus",
-                "minecraft:slime"
+                "zawa:platypus"
+            ]
+        },
+        "result": "deny"
+    },
+    {
+        "mob": [
+            "zawa:indiangharial",
+            "minecraft:slime",
+            "zawa:nilehippopotamus",
+            "zawa:greenanaconda",
+            "minecraft:slime",
+            "zawa:jaguar"
+        ],
+        "biome": [
+            "DeepSwamp",
+            "Marsh",
+            "Swampland",
+            "Swampland M"
+        ],
+        "mincount": {
+            "amount": 64,
+            "perperson": true,
+            "mob": [
+                "zawa:indiangharial",
+                "minecraft:slime",
+                "zawa:nilehippopotamus",
+                "zawa:greenanaconda",
+                "minecraft:slime",
+                "zawa:jaguar"
             ]
         },
         "result": "deny"
@@ -7455,50 +7455,6 @@
         "result": "allow"
     },
     {
-        "mob": "minecraft:slime",
-        "biome": [
-            "DeepSwamp",
-            "Marsh",
-            "Swampland",
-            "Swampland M"
-        ],
-        "blocks": [
-            "minecraft:dirt",
-            "minecraft:grass",
-            "minecraft:sand",
-            "minecraft:water"
-        ],
-        "mintime": 23500,
-        "maxcount": {
-            "mob": "minecraft:slime",
-            "amount": 9,
-            "perplayer": true
-        },
-        "result": "allow"
-    },
-    {
-        "mob": "minecraft:slime",
-        "biome": [
-            "DeepSwamp",
-            "Marsh",
-            "Swampland",
-            "Swampland M"
-        ],
-        "blocks": [
-            "minecraft:dirt",
-            "minecraft:grass",
-            "minecraft:sand",
-            "minecraft:water"
-        ],
-        "maxtime": 12500,
-        "maxcount": {
-            "mob": "minecraft:slime",
-            "amount": 9,
-            "perplayer": true
-        },
-        "result": "allow"
-    },
-    {
         "mob": "zawa:indiangharial",
         "biome": [
             "DeepSwamp",
@@ -7670,6 +7626,50 @@
         "maxcount": {
             "mob": "zawa:greenanaconda",
             "amount": 2,
+            "perplayer": true
+        },
+        "result": "allow"
+    },
+    {
+        "mob": "minecraft:slime",
+        "biome": [
+            "DeepSwamp",
+            "Marsh",
+            "Swampland",
+            "Swampland M"
+        ],
+        "blocks": [
+            "minecraft:dirt",
+            "minecraft:grass",
+            "minecraft:sand",
+            "minecraft:water"
+        ],
+        "mintime": 11500,
+        "maxcount": {
+            "mob": "minecraft:slime",
+            "amount": 9,
+            "perplayer": true
+        },
+        "result": "allow"
+    },
+    {
+        "mob": "minecraft:slime",
+        "biome": [
+            "DeepSwamp",
+            "Marsh",
+            "Swampland",
+            "Swampland M"
+        ],
+        "blocks": [
+            "minecraft:dirt",
+            "minecraft:grass",
+            "minecraft:sand",
+            "minecraft:water"
+        ],
+        "maxtime": 500,
+        "maxcount": {
+            "mob": "minecraft:slime",
+            "amount": 9,
             "perplayer": true
         },
         "result": "allow"

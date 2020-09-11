@@ -1962,7 +1962,7 @@
         "mobs": [
             {
                 "mob": "minecraft:giant",
-                "weight": 279
+                "weight": 280
             },
             {
                 "mob": "zawa:indiangharial",
@@ -1975,12 +1975,6 @@
                 "groupcountmin": 1,
                 "groupcountmax": 2,
                 "weight": 10
-            },
-            {
-                "mob": "minecraft:slime",
-                "groupcountmin": 2,
-                "groupcountmax": 3,
-                "weight": 1
             }
         ]
     },
@@ -2000,7 +1994,7 @@
         "mobs": [
             {
                 "mob": "minecraft:giant",
-                "weight": 232
+                "weight": 231
             },
             {
                 "mob": "zawa:indiangharial",
@@ -2025,6 +2019,12 @@
                 "groupcountmin": 1,
                 "groupcountmax": 1,
                 "weight": 2
+            },
+            {
+                "mob": "minecraft:slime",
+                "groupcountmin": 2,
+                "groupcountmax": 3,
+                "weight": 1
             },
             {
                 "mob": "zawa:jaguar",

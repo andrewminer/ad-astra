@@ -8,15 +8,15 @@
     "market_menu_operations_timeout_millis": 240000,
     "enable_market_menu_access_clientside": true,
     "enable_self_purchase": true,
-    "max_offers_per_player": 100,
+    "max_offers_per_player": 1000,
     "items_per_offer_max_amount": -1,
     "price_max_value": 100000,
-    "offer_expire_time_hours": 240,
+    "offer_expire_time_hours": -1,
     "enable_sales_history": true,
     "enable_sales_history_sync": true,
     "sales_history_expire_time_hours": 240,
     "offer_creation_fee_percent": 0,
-    "offer_sale_fee_percent": 1,
+    "offer_sale_fee_percent": 0,
     "advanced_logging": false
   }
 }

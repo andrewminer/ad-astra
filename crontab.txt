@@ -1,0 +1,6 @@
+PATH=/bin:/usr/bin:/sbin:/usr/sbin:/usr/local/bin                                                                                                            
+
+* * * * * cd /minecraft/ad-astra; ./admin.sh start &>/dev/null                                                        
+30 7 * * * cd /minecraft/ad-astra; ./admin.sh backup &>/dev/null                                                      
+40 7 * * * cd /minecraft/ad-astra; ./admin.sh restart &>/dev/null                                                     
+50 7 * * * cd /minecraft/ad-astra/server/logs; rm -f *.gz &>/dev/null

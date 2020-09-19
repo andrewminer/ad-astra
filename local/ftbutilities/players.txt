@@ -12,22 +12,10 @@ parent: member
 [f8884d3074e4404e98b33f780d6f4fa8]
 parent: admin
 
-// Mr_Nandu
-[5ef449aa41e046f3b7f6adace0eb8cbd]
-parent: member
-
-// DiamondMan_2003
-[91a9dc09deb8405da37a0e6295d9acdd]
-parent: member
-
-// Mrs_Darina
-[ee14cae0dbd6433cb3a939acf65ff1e3]
-parent: member
-
-// Teak1
-[b10c37a1664f4c21b30353d46c2ab48d]
-parent: guest
-
 // Nodnam
 [2792a5ac0fd84d0c9213a3a32548957e]
+parent: member, guest
+
+// GnarlyOldGuy
+[d9dafe1ad5f74609a96f91ad5dfbd816]
 parent: member

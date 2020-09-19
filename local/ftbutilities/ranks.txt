@@ -70,3 +70,23 @@ parent: member
 [7b16e7e156474ba8b3533d64dc9f1cc4]
 power: 6
 parent: member
+
+// Mr_Nandu
+[5ef449aa41e046f3b7f6adace0eb8cbd]
+power: 6
+parent: member
+
+// DiamondMan_2003
+[91a9dc09deb8405da37a0e6295d9acdd]
+power: 7
+parent: member
+
+// Mrs_Darina
+[ee14cae0dbd6433cb3a939acf65ff1e3]
+power: 8
+parent: member
+
+// Teak1
+[b10c37a1664f4c21b30353d46c2ab48d]
+power: 9
+parent: guest

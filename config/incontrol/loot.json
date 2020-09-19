@@ -1053,20 +1053,6 @@
         "itemcount": "1-2"
     },
     {
-        "mob": "mowziesmobs:grottol",
-        "removeall": true
-    },
-    {
-        "mob": "mowziesmobs:grottol",
-        "item": [
-            "minecraft:diamond",
-            "minecraft:diamond",
-            "minecraft:diamond",
-            "minecraft:emerald"
-        ],
-        "itemcount": "1"
-    },
-    {
         "mob": "minecraft:mule",
         "removeall": true
     },

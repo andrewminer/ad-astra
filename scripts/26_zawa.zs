@@ -48,6 +48,10 @@ for item in zawaCookedVenison {
     <ore:listAllvenisoncooked>.add(item);
 }
 
+# Fur -- Fix conversion of fur to thick fur
+recipes.remove(<zawa:thick_fur>);
+recipes.addShapeless(<zawa:thick_fur>, [<ore:zawaFur> * 2]);
+
 # Fur Chestplate -- require thick fur
 recipes.remove(<zawa:fur_chest>);
 recipes.addShaped(<zawa:fur_chest>, [

@@ -18,6 +18,7 @@
 <Mod name="bigreactors">bigreactors</Mod>
 <Mod name="bookshelf">bookshelf</Mod>
 <Mod name="bookworm">bookworm</Mod>
+<Mod name="bonsaitrees">bonsaitrees</Mod>
 <Mod name="brewcraft">brewcraft</Mod>
 <Mod name="cathedral">cathedral</Mod>
 <Mod name="cfm">cfm</Mod>
@@ -72,6 +73,7 @@
 <Mod name="ftbutilities">ftbutilities</Mod>
 <Mod name="geographicraft">geographicraft</Mod>
 <Mod name="gravelores">gravelores</Mod>
+<Mod name="gravestone">gravestone</Mod>
 <Mod name="harvestcraft">harvestcraft</Mod>
 <Mod name="horse_colors">horse_colors</Mod>
 <Mod name="horsestandstill">horsestandstill</Mod>
@@ -119,15 +121,6 @@
 <Mod name="opencomputers">opencomputers</Mod>
 <Mod name="opencomputers|core">opencomputers|core</Mod>
 <Mod name="openscreens">openscreens</Mod>
-<Mod name="oxygen_core">oxygen_core</Mod>
-<Mod name="oxygen_cp_fsmm">oxygen_cp_fsmm</Mod>
-<Mod name="oxygen_exchange">oxygen_exchange</Mod>
-<Mod name="oxygen_mail">oxygen_mail</Mod>
-<Mod name="oxygen_market">oxygen_market</Mod>
-<Mod name="oxygen_menu">oxygen_menu</Mod>
-<Mod name="oxygen_merchants">oxygen_merchants</Mod>
-<Mod name="oxygen_playerslist">oxygen_playerslist</Mod>
-<Mod name="oxygen_shop">oxygen_shop</Mod>
 <Mod name="placebo">placebo</Mod>
 <Mod name="portalgun">portalgun</Mod>
 <Mod name="projectred-core">projectred-core</Mod>
@@ -165,6 +158,7 @@
 <Mod name="unidict">unidict</Mod>
 <Mod name="uteamcore">uteamcore</Mod>
 <Mod name="vehicle">vehicle</Mod>
+<Mod name="vending">vending</Mod>
 <Mod name="wanionlib">wanionlib</Mod>
 <Mod name="wearablebackpacks">wearablebackpacks</Mod>
 <Mod name="wrcbe">wrcbe</Mod>

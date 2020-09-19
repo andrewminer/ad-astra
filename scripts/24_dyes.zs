@@ -120,6 +120,20 @@ for color in grindableDyes {
     ]);
 }
 
+# Add recipes for turning pigments into dyes
+var vanillaDyeColors = [
+    "cyan", "gray", "light blue", "light gray", "lime", "magenta", "orange", "pink", "purple",
+] as string[];
+for color in vanillaDyeColors {
+    var dye as IItemStack = vanillaDye(color);
+    var pigment as IItemStack = pigment(color);
+    recipes.addShaped(dye * 8, [
+        [pigment, pigment, pigment],
+        [pigment, <minecraft:sand>, pigment],
+        [pigment, pigment, pigment],
+    ]);
+}
+
 # Remove recipes to make vanilla dyes by mixing
 recipes.removeByRecipeName("minecraft:cyan_dye");
 recipes.removeByRecipeName("minecraft:gray_dye");

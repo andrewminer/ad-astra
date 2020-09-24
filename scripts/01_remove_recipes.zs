@@ -1,5 +1,9 @@
 import mods.jei.JEI;
 
+########################################################################################################################
+
+var ids = [] as int[];
+
 
 ########################################################################################################################
 
@@ -8,16 +12,6 @@ JEI.removeAndHide(<advancedrocketry:productgear:1>);
 
 # Chisel -- Block of Charcoal -- remove recipe which conflicts with TE
 recipes.remove(<chisel:block_charcoal>);
-
-# DaVinci's Vessels -- Balloon -- remove as airships are disabled
-var ids = [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16] as int[];
-for i in ids {
-    JEI.removeAndHide(<davincisvessels:balloon>.definition.makeStack(i));
-}
-
-# Fex's Small Money Mod (FSMM)
-JEI.removeAndHide(<fcl:blueprinttable>);
-JEI.removeAndHide(<fcl:workbench>);
 
 # Fist Full of Hay
 JEI.removeAndHide(<fistful_of_hay:logo>);
@@ -59,8 +53,8 @@ JEI.removeAndHide(<rftools:powercell_card>);
 JEI.removeAndHide(<rftools:powercell_creative>);
 JEI.removeAndHide(<rftools:powercell_simple>);
 
-# Thermal Foundation -- Coins -- remove all but the gold coins
-ids = [0, 65, 67, 68, 69, 70, 71, 72, 96, 97, 98, 99, 100, 101, 102, 103] as int[];
+# Thermal Foundation -- Coins -- remove all but the silver coins
+ids = [0, 1, 64, 65, 67, 68, 69, 70, 71, 72, 96, 97, 98, 99, 100, 101, 102, 103] as int[];
 for i in ids {
     JEI.removeAndHide(<thermalfoundation:coin>.definition.makeStack(i));
 }

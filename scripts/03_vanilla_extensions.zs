@@ -1,3 +1,4 @@
+import crafttweaker.item.IIngredient;
 import crafttweaker.oredict.IOreDictEntry;
 import mods.thermalexpansion.Pulverizer;
 
@@ -18,6 +19,13 @@ recipes.addShaped(<minecraft:compass>, [
     [null, <ore:itemMetalIngot>, null],
     [<ore:itemMetalIngot>, <ore:nuggetIron>, <ore:itemMetalIngot>],
     [null, <ore:itemMetalIngot>, null],
+]);
+
+# Gunpowder -- simplify recipes down to a single ore-dicted option
+var carbon = <ore:dustCharcoal> | <ore:dustCoal>;
+recipes.remove(<minecraft:gunpowder>);
+recipes.addShapeless(<minecraft:gunpowder>, [
+    carbon, <ore:dustSulfur>, <ore:dustSaltpeter>, <ore:dustSaltpeter>
 ]);
 
 # Prismarine Shard -- add Pulverizer recipe to get shards from blocks
@@ -42,7 +50,7 @@ recipes.remove(<minecraft:saddle>);
 recipes.addShaped(<minecraft:saddle>, [
     [<ore:leather>, <ore:leather>, <ore:leather>],
     [<ore:leather>, <ore:decorativeMetalIngot>, <ore:leather>],
-    [<ore:decorativeMetalIngot>, null, <ore:decorativeMetalIngot>],
+    [<ore:itemMetalIngot>, null, <ore:itemMetalIngot>],
 ]);
 
 # Seed -- create seed from wheat and rename

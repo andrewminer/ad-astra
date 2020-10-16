@@ -231,9 +231,10 @@ function command-start {
 
         cd logs
         if [[ -e "server.log" ]]; then
-            zip -r9 "$(date +'%Y-%m-%d-%H-%M')-server.log" server.log
+            zip -r9 "$(date +'%Y-%m-%d-%H-%M')-server.log.zip" server.log
+	    rm server.log
         fi
-        ls -t "*-server.log" 2>/dev/null | awk 'NR>5' | while read FILE; do rm $FILE; done
+        ls -t "*-server.log.zip" 2>/dev/null | awk 'NR>5' | while read FILE; do rm $FILE; done
         cd ..
 
         tail -n 0 -F stdin \

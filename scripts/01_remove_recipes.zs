@@ -54,7 +54,7 @@ JEI.removeAndHide(<rftools:powercell_creative>);
 JEI.removeAndHide(<rftools:powercell_simple>);
 
 # Thermal Foundation -- Coins -- remove all but the silver coins
-ids = [0, 1, 64, 65, 67, 68, 69, 70, 71, 72, 96, 97, 98, 99, 100, 101, 102, 103] as int[];
+ids = [0, 64, 65, 67, 68, 69, 71, 72, 96, 97, 98, 99, 100, 101, 102, 103] as int[];
 for i in ids {
     JEI.removeAndHide(<thermalfoundation:coin>.definition.makeStack(i));
 }

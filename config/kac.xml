@@ -48,16 +48,6 @@
 <Mod name="defaultoptions">defaultoptions</Mod>
 <Mod name="dirt2path">dirt2path</Mod>
 <Mod name="drawbridge">drawbridge</Mod>
-<Mod name="dynamiclights">dynamiclights</Mod>
-<Mod name="dynamiclights_creepers">dynamiclights_creepers</Mod>
-<Mod name="dynamiclights_dropitems">dynamiclights_dropitems</Mod>
-<Mod name="dynamiclights_entityclasses">dynamiclights_entityclasses</Mod>
-<Mod name="dynamiclights_flamearrows">dynamiclights_flamearrows</Mod>
-<Mod name="dynamiclights_floodlights">dynamiclights_floodlights</Mod>
-<Mod name="dynamiclights_mobequipment">dynamiclights_mobequipment</Mod>
-<Mod name="dynamiclights_onfire">dynamiclights_onfire</Mod>
-<Mod name="dynamiclights_otherplayers">dynamiclights_otherplayers</Mod>
-<Mod name="dynamiclights_theplayer">dynamiclights_theplayer</Mod>
 <Mod name="dynamictrees">dynamictrees</Mod>
 <Mod name="dynamictreesphc">dynamictreesphc</Mod>
 <Mod name="fencejumper">fencejumper</Mod>
@@ -120,6 +110,7 @@
 <Mod name="opencomputers|core">opencomputers|core</Mod>
 <Mod name="openscreens">openscreens</Mod>
 <Mod name="placebo">placebo</Mod>
+<Mod name="parachutemod">parachutemod</Mod>
 <Mod name="portalgun">portalgun</Mod>
 <Mod name="projectred-core">projectred-core</Mod>
 <Mod name="projectred-illumination">projectred-illumination</Mod>

@@ -39,3 +39,12 @@ The wiki will describe what you need to know to navigate the new terrain.
 Here's where to start:
 
 ### [Ad Astra Wiki](https://github.com/andrewminer/ad-astra/wiki)
+
+
+### Joining the Server
+
+The modpack is free to use either single player, or on your own server.  However,
+there is an official server already up and running with a fun community of players.
+If you would like to join, just check the instructions here:
+
+### [Ad Astra Official Server](https://github.com/tungstonminer/ad-astra/wiki/Server)
